@@ -62,6 +62,8 @@ Vuelve a escribir ">>" y el nombre únicamente cuando cambie quien habla:
 
 Mantén el formato original del timestamp. Si el archivo utiliza [h:mm:ss], conserva [h:mm:ss]. No conviertas los timestamps a otro formato.
 
+Deja UNA LÍNEA EN BLANCO entre cada párrafo.
+
 Entrega todo el resultado dentro de un único bloque de código para que pueda copiarse completo.
 
 EJEMPLO DEL FORMATO
