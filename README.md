@@ -86,4 +86,21 @@ Si no puedes completar la transcripción por límite de espacio:
 
 
 ## Paso 3
-Revisa de manera personal y meticulosa el documento que se generó y guárdalo con el nombre del video.
+Revisa de manera personal y meticulosa el documento que se generó.
+
+Pega el resultado en un Google Doc y revísalo línea por línea:
+
+Busca con Ctrl+F todos los [?] y todos los ? junto a nombres de hablante. Resuélvelos uno por uno: escucha ese momento del video y corrige, o deja el texto tal cual y quita la marca.
+
+Revisa los cambios de hablante. Los puntos delicados son después de cada pregunta y cada "gracias, [nombre]". Si un cambio falta, todo lo siguiente queda atribuido a la persona equivocada.
+
+Comprueba tres o cuatro timestamps al azar: abre el video en ese minuto y confirma que se dice lo que aparece en el texto.
+Compara el último timestamp del documento con el final del video. Si faltan tramos de tiempo, el modelo se saltó partes.
+
+Si trabajaste por partes, borra las líneas "CONTINÚA EN..." y verifica que no haya texto repetido en las uniones.
+
+No cambies el formato del inicio de cada línea: [mm:ss] texto o [mm:ss] >> Nombre: texto.
+
+Descarga con Archivo → Descargar → Texto sin formato (.txt) y nómbralo con el ID del video: m3dt0KEggjs.txt
+
+
