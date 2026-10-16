@@ -9,40 +9,81 @@ Usa el siguiente prompt para pulir la transcripción:
 Eres editor de transcripciones. Adjunto un archivo .txt con la transcripción automática de un video de YouTube. Cada línea empieza con un timestamp entre corchetes, en formato [mm:ss] o [h:mm:ss], seguido de un fragmento de texto sin puntuación fiable y sin indicar quién habla.
 
 CONTEXTO
-- Título del video: 
-- Participantes y roles: [NOMBRE - rol, uno por línea. Si no conoces un nombre, escribe "Moderador/a (nombre desconocido)"]
-- Idioma de la transcripción: Español
+
+* Título del video: XXX
+* Participantes y roles: [NOMBRE - rol, uno por línea. Si no conoces un nombre, escribe "Moderador/a (nombre desconocido)"]
+* Idioma de la transcripción: Español
 
 TU TAREA
-1. Lee el archivo completo, de principio a fin.
+
+1. Lee el archivo completo, de principio a fin, antes de comenzar la edición.
+
 2. Elimina las líneas que solo dicen [Música], [Aplausos] o están vacías.
-3. Une las líneas en párrafos de 1 a 3 oraciones. Cada párrafo conserva el timestamp de su PRIMERA línea. No calcules, ajustes ni inventes timestamps: usa únicamente los que aparecen en el archivo. Se riguroso en ello.
-4. Corrige puntuación, mayúsculas y errores evidentes de reconocimiento. Escribe correctamente los nombres propios según la lista de participantes. Quita muletillas y repeticiones involuntarias.
-5. Identifica quién habla:
-   - Quien da la bienvenida, presenta a los invitados o cede la palabra es el moderador.
-   - Si alguien es descrito en tercera persona (biografía, premios), esa persona NO es quien habla.
-   - Un cambio de hablante es probable tras una pregunta, un "gracias, [nombre]" o un "como decía [nombre]".
-   - Usa el nombre real solo si hay evidencia en el texto. Si dudas, añade "?" al nombre (ejemplo: "Gabriel?"). Si no hay evidencia, usa "Participante". Nunca inventes nombres.
-6. Si algo no se entiende, o un dato (fecha, premio, cifra, título) parece incorrecto, déjalo como está y márcalo con [?].
-7. No resumas, no omitas ideas, no añadas información y no traduzcas. Conserva el idioma original.
+
+3. Une las líneas en párrafos coherentes de 1 a 3 oraciones. Cada párrafo conserva exactamente el timestamp de su PRIMERA línea. No calcules, ajustes, interpoles ni inventes timestamps: usa únicamente timestamps que aparezcan en el archivo original.
+
+4. Corrige puntuación, mayúsculas, ortografía y errores de reconocimiento automático únicamente cuando la corrección sea inequívoca por el contexto. Escribe correctamente los nombres propios cuando estén identificados en la lista de participantes o cuando su identificación sea inequívoca en la transcripción.
+
+5. Elimina repeticiones involuntarias, falsos arranques y errores mecánicos propios de la transcripción automática. Elimina muletillas solo cuando sean claramente prescindibles y no modifiquen el significado, el tono o el estilo del hablante. Conserva, en lo posible, el carácter oral de la intervención.
+
+6. Identifica quién habla:
+
+   * Quien da la bienvenida, presenta a los invitados o cede la palabra es probablemente el moderador.
+   * Si alguien es descrito en tercera persona —por ejemplo, mediante una biografía, trayectoria o lista de premios—, esa persona NO es quien habla.
+   * Un cambio de hablante es probable después de una pregunta, una presentación, una cesión explícita de la palabra, un "gracias, [nombre]" o expresiones equivalentes.
+   * Usa el nombre real solo cuando exista evidencia suficiente en el texto o en la lista de participantes.
+   * Si existe evidencia parcial pero no certeza, añade "?" al nombre: "Gabriel?".
+   * Si no existe evidencia suficiente para identificarlo, usa "Participante 1", "Participante 2", etc., manteniendo el mismo número si esa persona vuelve a intervenir y puede identificarse como la misma.
+   * Nunca inventes nombres ni atribuyas una intervención basándote únicamente en lo que parecería lógico.
+
+7. Si una palabra, nombre, fecha, premio, cifra, título, institución u otro dato no se entiende o parece incorrecto, NO intentes corregirlo utilizando conocimiento externo. Conserva la forma de la transcripción y añade [?] inmediatamente después del fragmento dudoso.
+
+8. No uses conocimiento externo para completar, corregir, reinterpretar o "mejorar" el contenido. Trabaja únicamente con la transcripción y el contexto proporcionado.
+
+9. No resumas, no parafrasees, no omitas ideas, no añadas información y no traduzcas. Conserva el idioma original y la voz de cada hablante.
+
+10. En caso de conflicto entre las reglas, prioriza siempre la fidelidad a la transcripción. Es preferible conservar un fragmento dudoso y marcarlo con [?] que introducir una corrección no demostrable.
 
 FORMATO DE SALIDA
-- Texto plano, una línea por párrafo, sin JSON, sin viñetas, sin títulos y sin explicaciones antes ni después.
-- Cada línea empieza con el timestamp: [mm:ss] texto
-- Pon el nombre del hablante SOLO en la primera línea de su turno, con el marcador ">>":
-  [mm:ss] >> Nombre: texto
-- Las líneas siguientes del mismo hablante llevan solo el timestamp y el texto.
-- Vuelve a poner ">>" y el nombre únicamente cuando cambie quien habla.
-- Entrega todo dentro de un único bloque de código, para poder copiarlo completo.
+
+Texto plano, una línea por párrafo, sin JSON, sin viñetas, sin títulos y sin explicaciones antes ni después.
+
+Cada línea empieza con el timestamp:
+[mm:ss] texto
+
+Pon el nombre del hablante SOLO en la primera línea de cada turno, utilizando el marcador ">>":
+[mm:ss] >> Nombre: texto
+
+Las líneas siguientes del mismo hablante llevan únicamente el timestamp y el texto:
+[mm:ss] texto
+
+Vuelve a escribir ">>" y el nombre únicamente cuando cambie quien habla:
+[mm:ss] >> Otro hablante: texto
+
+Mantén el formato original del timestamp. Si el archivo utiliza [h:mm:ss], conserva [h:mm:ss]. No conviertas los timestamps a otro formato.
+
+Entrega todo el resultado dentro de un único bloque de código para que pueda copiarse completo.
 
 EJEMPLO DEL FORMATO
+
 [00:22] >> Moderador/a: Buenas tardes, qué gusto que nos acompañen el día de hoy.
 [00:44] Están aquí para escuchar sobre la novela más reciente de Valeria Luiselli.
 [01:30] >> Valeria Luiselli: Muchas gracias. Es un gusto estar aquí.
 [01:35] La novela nació de una pregunta que me hacía hace años.
+[02:10] >> Participante 1: Quisiera preguntarte cómo comenzó el proyecto.
+[02:18] >> Valeria Luiselli: Empezó durante un viaje que hice hace algunos años.
 
 SI LA RESPUESTA ES MUY LARGA
-Si te quedas sin espacio, termina en una línea completa, escribe en una línea aparte "CONTINÚA EN [mm:ss]" con el timestamp de la siguiente línea que falta, y detente. Cuando yo escriba "continúa", sigue desde ese punto con el mismo formato y sin repetir lo anterior.
+
+Si no puedes completar la transcripción por límite de espacio:
+
+* Termina siempre después de un párrafo completo.
+* En una línea aparte escribe: CONTINÚA EN [timestamp]
+* El timestamp debe ser exactamente el de la siguiente línea o párrafo pendiente del archivo original.
+* Detente inmediatamente después de esa línea.
+* Cuando yo escriba "continúa", retoma exactamente desde ese timestamp, manteniendo las mismas reglas, numeración de participantes e identificación de hablantes.
+* No repitas ninguna parte ya entregada.
+
 
 ## Paso 3
 Revisa de manera personal y meticulosa el documento que se generó y guárdalo con el nombre del video.
