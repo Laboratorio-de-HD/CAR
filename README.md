@@ -1,7 +1,8 @@
 # CAR
 
 ## Paso 1
-Extra las transcipciones con su timestap y obtén un archivo .txt
+Revisa las asignaciones en la [base de datos] (https://docs.google.com/spreadsheets/d/1e0b7f0_LtSSDmdcdIjJPZApOSb8Y_ZTNUvvfDR2x9Nc/edit?gid=0#gid=0) 
+Usa el siguiente [script] (https://colab.research.google.com/drive/1R4xyRg5X-IR7lrCpb0Oes4W521fN74h5?usp=sharing) y extrae las transcipciones con su timestap. Obtendrás un archivo de texto .txt que usarás en el siguiente paso.
 
 ## Paso 2
 Usa el siguiente prompt para pulir la transcripción:
