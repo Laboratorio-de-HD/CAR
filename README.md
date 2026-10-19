@@ -5,7 +5,7 @@ Revisa las asignaciones en la [[base de datos]](https://docs.google.com/spreadsh
 Usa el siguiente [[script](https://colab.research.google.com/drive/1R4xyRg5X-IR7lrCpb0Oes4W521fN74h5?usp=sharing)] y extrae las transcipciones con su timestap. Obtendrás un archivo de texto .txt que usarás en el siguiente paso.
 
 ## Paso 2
-Usa el siguiente prompt para pulir la transcripción:
+Usa tu IA de confianza pero dale el siguiente PROMPT para pulir la transcripción:
 
 Eres editor de transcripciones. Adjunto un archivo .txt con la transcripción automática de un video de YouTube. Cada línea empieza con un timestamp entre corchetes, en formato [mm:ss] o [h:mm:ss], seguido de un fragmento de texto sin puntuación fiable y sin indicar quién habla.
 
@@ -103,6 +103,8 @@ Compara el último timestamp del documento con el final del video. Si faltan tra
 Si trabajaste por partes, borra las líneas "CONTINÚA EN..." y verifica que no haya texto repetido en las uniones.
 
 No cambies el formato del inicio de cada línea: [mm:ss] texto o [mm:ss] >> Nombre: texto.
+
+## Paso 4
 
 Descarga con Archivo → Descargar → Texto sin formato (.txt) y nómbralo con el ID del video: m3dt0KEggjs.txt
 
