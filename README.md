@@ -105,7 +105,8 @@ Si trabajaste por partes, borra las líneas "CONTINÚA EN..." y verifica que no 
 No cambies el formato del inicio de cada línea: [mm:ss] texto o [mm:ss] >> Nombre: texto.
 
 ## Paso 4
-
 Descarga con Archivo → Descargar → Texto sin formato (.txt) y nómbralo con el ID del video: m3dt0KEggjs.txt
 
+## Paso 5
+Sube tu archivo final a tu repositorio de Github
 
