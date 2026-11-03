@@ -1,0 +1,102 @@
+name: Validar transcripciones
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Validar archivos del PR
+        env:
+          BASE_REF: ${{ github.base_ref }}
+          AUTOR: ${{ github.event.pull_request.user.login }}
+          ADMINS: "mmdelc,Laboratorio-de-HD"
+        run: |
+          python3 - <<'PYEOF'
+          import os, re, subprocess, sys
+
+          autor = os.environ["AUTOR"]
+          if autor in os.environ["ADMINS"].split(","):
+              print(f"PR de {autor} (administración): no se valida el formato.")
+              sys.exit(0)
+
+          base = os.environ["BASE_REF"]
+          diff = subprocess.run(
+              ["git", "diff", "--name-status", f"origin/{base}...HEAD"],
+              capture_output=True, text=True, check=True).stdout.strip().splitlines()
+
+          ts = re.compile(r"\[(\d+):(\d{2})(?::(\d{2}))?\]")
+          linea_ok = re.compile(r"^\[(\d+):(\d{2})(?::(\d{2}))?\]\s*(?:>>\s*[^:]{1,40}:\s*)?\S")
+          nombre_ok = re.compile(r"^data/transcripciones/[A-Za-z0-9_-]{11}\.txt$")
+          errores = []
+
+          def error(ruta, linea, msg):
+              errores.append(msg)
+              partes = []
+              if ruta:
+                  partes.append(f"file={ruta}")
+              if linea:
+                  partes.append(f"line={linea}")
+              print(f"::error {','.join(partes)}::{msg}")
+
+          def seg(m):
+              a, b, c = m.groups()
+              return int(a)*3600 + int(b)*60 + int(c) if c else int(a)*60 + int(b)
+
+          if not diff:
+              error("", 0, "El PR no contiene cambios.")
+
+          for fila in diff:
+              cols = fila.split("\t")
+              estado, ruta = cols[0], cols[-1]
+
+              if estado.startswith("D"):
+                  error(ruta, 0, "No se permite borrar archivos. Si hay un error, corrígelo en lugar de borrarlo.")
+                  continue
+              if estado.startswith("R") or estado.startswith("C"):
+                  error(ruta, 0, "No se permite renombrar ni copiar. Sube el archivo con el nombre correcto.")
+                  continue
+              if not nombre_ok.match(ruta):
+                  error(ruta, 0, "Solo se permiten archivos en data/transcripciones/ con el nombre IDDELVIDEO.txt (11 caracteres, sin el título).")
+                  continue
+
+              texto = open(ruta, encoding="utf-8-sig").read()
+              no_vacias = [(n, l.strip()) for n, l in enumerate(texto.splitlines(), 1) if l.strip()]
+              if not no_vacias:
+                  error(ruta, 0, "El archivo está vacío.")
+                  continue
+              if ">>" not in no_vacias[0][1]:
+                  error(ruta, no_vacias[0][0], "La primera línea debe indicar quién habla: [mm:ss] >> Nombre: texto")
+
+              anterior = -1
+              for n, l in no_vacias:
+                  if not linea_ok.match(l):
+                      error(ruta, n, "La línea no tiene el formato [mm:ss] texto (o [mm:ss] >> Nombre: texto).")
+                      continue
+                  if len(ts.findall(l)) > 1:
+                      error(ruta, n, "Hay varios timestamps en una misma línea. Cada párrafo va en su propia línea.")
+                  s = seg(ts.match(l))
+                  if s < anterior:
+                      error(ruta, n, "El timestamp retrocede respecto de la línea anterior.")
+                  anterior = s
+                  if "[?]" in l:
+                      error(ruta, n, "Quedó una marca [?] sin resolver.")
+                  if re.search(r">>\s*[^:\n]{1,40}\?\s*:", l):
+                      error(ruta, n, "Hay un nombre de hablante con '?' sin confirmar.")
+                  if re.search(r"contin[úu]a en", l, re.I):
+                      error(ruta, n, "Quedó una línea 'CONTINÚA EN'. Bórrala.")
+
+          if errores:
+              print(f"\n{len(errores)} problema(s) encontrados. Corrige el archivo en la misma rama.")
+              sys.exit(1)
+          print("Formato correcto.")
+          PYEOF
