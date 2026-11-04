@@ -19,7 +19,7 @@ jobs:
         env:
           BASE_REF: ${{ github.base_ref }}
           AUTOR: ${{ github.event.pull_request.user.login }}
-          ADMINS: "mmdelc,Laboratorio-de-HD"
+          ADMINS: "Laboratorio-de-HD"
         run: |
           python3 - <<'PYEOF'
           import os, re, subprocess, sys
