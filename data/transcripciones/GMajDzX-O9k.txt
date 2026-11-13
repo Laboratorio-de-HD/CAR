@@ -1,0 +1,922 @@
+﻿[00:24] >> Valcárcel: Muy buenos días.
+
+
+[00:28] Bueno, es un placer estar aquí, con un poco de frío, porque he ido viendo yo que en este estado adoran ustedes pasar frío. Podrían irse todos a vivir a mi tierra y cumplirían sus más profundos deseos, porque allí pasamos frío casi todo el rato y lo que adoramos, por el contrario, es pasar calor. Siempre nos parece que hace poco calor, ¿no?
+
+
+[00:51] A pesar del frío, yo ya he consultado con Ana Laura, que realmente está en todo, de una eficacia asombrosa, si podríamos descender un poco el nivel de frío, y me han dicho que podemos hacer sin duda alguna la petición, pero que no recibirá ninguna respuesta.
+
+
+[01:09] O sea, que ya saben, una cosa es poder, esa doble acepción: que algo se puede hacer, tú lo puedes hacer, pero que de ello se siga algo, eso no se asegura. O sea, puedes, pero puede que no puedas.
+
+
+[01:24] Y todas estas especie de entrada en confianza para lo siguiente. Miren, he de ser sincera, el tema que voy a desarrollar para ustedes durante tres sesiones, tres días, de fácil no tiene absolutamente nada.
+
+
+[01:40] Entonces, como les voy a exigir mucho, tengo que intentar... o esto no contaba yo con ello. Qué bien. Como les voy a exigir mucho, de alguna manera tengo que pedirles primero
+
+
+[01:58] que lo sepan. O sea, no puedo decirles aquello de "esto va a ser facilísimo, camino de rosas, y nos vamos a ir todos y vamos a entrar en la filosofía del siglo XIX y del XX como por nuestra casa y no nos va a exigir particular esfuerzo". Nada de ello, porque si nos queremos confrontar con lo que pensaron varias de las mejores cabezas de dos siglos, no van a tener en su programa hacernos la cosa fácil.
+
+
+[02:25] No vamos a tener que tratar con ideas y autores y autoras que son complicados, y con ideas que son complicadas, que tienen una larga trayectoria, además, que vienen de antes en muchos casos, que han tenido modulaciones peculiares en el siglo XIX y el siglo XX.
+
+
+[02:41] Y yo voy a tomar un punto de arranque que es el mismo que tomo en este libro, que paso a mostrarles. Este libro lo titulé "Ética contra estética".
+
+
+[02:52] Este libro tiene 15 años, yo creo; salió de prensas hace tiempo.
+
+
+[03:02] Es un libro que no encontrarán ustedes con facilidad. Yo creo que se agotó. Además, se encuentra más fácilmente su traducción en Brasil que el original español.
+
+
+[03:15] Entonces he dejado uno para que, con aquella cordura, se hagan fotocopias, y ustedes, lo que no hayan visto, claro, lo que más, pues lo puedan consultar en unas fotocopias que se les han distribuido, ¿no?, del libro. Pues fantástico.
+
+
+[03:33] En este libro yo me proponía ver una cuestión exclusivamente, que es por qué tan a menudo, cuando hacemos un juicio que creemos que es un juicio ético, en realidad estamos haciendo un juicio estético, y por qué también muy a menudo, cuando creemos estar haciendo un juicio estético, estamos haciendo un juicio ético.
+
+
+[04:02] ¿Por qué resulta tan difícil separar un tipo de juicio del otro?
+
+
+[04:09] ¿Y hasta qué punto esto es así? Porque en realidad se parece muchísimo una cosa y la otra.
+
+
+[04:15] Y cuáles son los caminos y avatares por los que la unión y separación de la ética y la estética han transcurrido en un lapso de tiempo bastante largo, puesto que a lo largo de tres días, y si podemos, haremos un recorrido completo por la tradición occidental de pensamiento, y si no completo, lo recorreremos en el tipo de caminos que resulten más pertinentes, o intentaremos que así sea.
+
+
+[04:43] Vamos a tomar un billete de salida y voy a elegir el mismo billete de salida que tomé al querer publicar esta investigación, y es una sentencia de un libro que fue extraordinariamente atendido en el siglo XX, el Tractatus de Luddit  Wittgenstein.
+
+
+[05:06] Vamos a empezar ahí.
+
+
+[05:09] El Tractatus de Wittgenstein es un libro raro que alcanza una inusitada fama y crédito dentro del mundo académico y filosófico, que tiene siempre tales dificultades que de él se ha pensado siempre que parte de sus dificultades son lingüísticas, de tal manera que casi nunca el Tractatus se publica solo en un idioma.
+
+
+[05:35] Casi todas las buenas versiones son bilingües. Te aparece el original alemán que escribió Wittgenstein y la traducción de la que se trate.
+
+
+[05:45] La primera vez que esto ocurrió fue ya en la primera edición del Tractatus. Russell, Bertran Russell, se ocupó de valorar, prologar y demás el Tractatus. Y en ese Tractatus ya aparecía la versión alemana y la versión inglesa que había sido punteada, digamos, y afinada por el propio Russell.
+
+
+[06:07] Es un libro extraño, es un libro difícil de leer. Quiero decir, algunas y algunos de ustedes serán profesores, imagino, y sabrán la teoría de los tres Sanchos aplicada al profesorado.
+
+
+[06:30] No es popular en este lado del Atlántico la teoría de los tres Sanchos. La teoría de los tres Sanchos se expresa muy rápidamente de la siguiente manera. Todo docente, cuando empieza su carrera como docente, comienza con el nombre de un rey de Navarra llamado Sancho el Fuerte.
+
+
+[06:47] Después ya va evolucionando a Sancho el dócil y ya por último acaba en Sancho Panza; o sea, el nivel en que está dispuesto a exigir a los demás va bajando para ponerse más de acuerdo con lo que en efecto es capaz de ir transmitiendo, ¿no?
+
+
+[07:05] Pues de mi nivel de Sancho el primero da cuenta que yo recuerdo que mi primer destino docente pedía a aquellas jóvenes personas de 15 años que una de sus lecturas obligatorias fuera el Tractatus.
+
+
+[07:21] Yo ignoro por qué no se fueron todos del colegio. Debían haberlo hecho. Ahora lo veo claramente, ¿no? Que me debían de haber abandonado allí mismo diciendo: "Pero bueno, por favor, o sea, tenga usted un poco de sentido común."
+
+
+[07:31] El Tractatus es un libro sumamente complicado. Tiene una estructura aparentemente lógica y fácil de seguir. ¿Alguno de ustedes ha traído ordenador o tablet o algo de lo que escribir a mano
+
+
+[07:50] Busquen una versión del Tractatus en español, que nos vendrá muy bien. Les aparecerán varias, pero hay una que es muy buena y que se despliega; o sea, el Tractatus aparece compendiado, el tipo de sentencias y proposiciones que tienen, y luego al tocarlas se despliegan todas las sentencias que dependen de cada una.
+
+
+[08:15] Y en ese sentido, aunque solo sea estéticamente, gráficamente nos puede ayudar. Si la van encontrando, me avisan, la traemos aquí a la mesa de operaciones y la desmembramos.
+
+
+[08:27] El Tractatus es un libro muy peculiar. Empieza hablando de qué es el mundo, y en ese sentido declara desde su inicio que es un libro de ontología, lo que en filosofía llamamos ontología, es decir, ¿qué es lo que hay? Ontología.
+
+
+[08:53] Y la primera novedad que Wittgenstein propone en este libro es que el mundo no es la colección de las cosas.
+
+
+[09:01] Siempre podríamos decir que el mundo es la suma completa de cuantas cosas existen en él. Por ejemplo, es una definición de mundo, no nos compromete mucho y podría ser relativamente exacta, ¿no? El mundo es la colección fenomenal.
+
+
+[09:18] Qué bien, muchísimas gracias. Si yo esto lo pongo aquí, se podrá ver para todo el mundo ya.
+
+
+[09:30] A ver, yo creo que... primer y segundo Wittgenstein. A ver si esta nos vale.
+
+
+[09:43] No, esta nos vale, pero es en inglés. Preferiría una en español.
+
+
+[09:52] Este PDF, a ver, bueno, si lo logramos bien, y si no, no nos preocupa, porque lo único que me gustaba era que ustedes pudieran ver esto. Se hace así, o yo estoy intentando hacer táctil una pantalla que no es táctil.
+
+
+[10:09] Pero si es que no lo estoy haciendo nada bien. Está claro. A ver.
+
+
+[10:17] Sí, me va a venir muy bien. O sea, localizamos el bien.
+
+
+[10:22] Hablamos de ontología. Ontología es una palabra filosófica típica que quiere decir algo bastante fácil de enunciar y difícil de entender de qué se trata. Es qué cosas existen.
+
+
+[10:37] ¿Qué es lo que existe realmente y qué tipos tiene?
+
+
+[10:43] Asunto Wittgenstein, novedad: el mundo no es una colección de las cosas, porque podríamos salir fácilmente del tema diciendo "la colección de todas las cosas que existen es el mundo".
+
+
+[10:57] Wittgenstein hace una primera marca, ¿no? Dice: el mundo es la colección de los hechos, no de las cosas.
+
+
+[11:07] Y los hechos, dirá, son cosas colocadas en una determinada relación. Esto es, las cosas no existen. Existen los hechos y los hechos son cosas que están dispuestas en una particular relación.
+
+
+[11:26] De modo tal que si el mundo es la colección de los hechos, no de las cosas, primero, ¿qué es un hecho?
+
+
+[11:38] Un hecho es lo que puede expresarse en una sentencia simple. Por ejemplo, yo estoy sentada en mi silla, esto es un hecho.
+
+
+[11:49] Aquí entran varios elementos, pero si uno dice "yo, silla", no está el hecho presente. Hay dos cosas, pero no está el hecho. Entonces, lo que tengo que tener como mundo es la colección completa de los hechos, no de las cosas.
+
+
+[12:06] Y esos hechos son lo que cabe expresar en sentencias. Empieza a hacer Wittgenstein una isomorfia entre las sentencias y los hechos.
+
+
+[12:20] Es isomorfia aquella relación en la cual decimos que determinados asuntos están colocados en la misma relación aquí y aquí. Si decimos que el lenguaje es isomórfico con el mundo, queremos decir que el lenguaje es capaz de proporcionarnos idea de los hechos porque los dispone, es decir, los refleja en el modo en que estos ocurren.
+
+
+[12:46] Hay, por lo tanto, una primera adhesión de Wittgenstein no solo a que el lenguaje y hecho son isomórficos, sino a que el lenguaje no engaña.
+
+
+[13:02] El lenguaje está coordinado, las sentencias están coordinadas con los hechos. Por lo tanto, Wittgenstein está actuando como ontólogo, pero también está actuando como alguien que va a hacer teoría del conocimiento de la siguiente manera.
+
+
+[13:19] ¿Por qué es tan difícil para nosotras, para nosotros, calcular qué sea el mundo? En serio, si queremos decir qué es el mundo, no es nada fácil decirlo, ¿eh?
+
+
+[13:31] El mundo, dice, pues eso que está cuando me despierto por las mañanas, suele estar allí, casi nunca se va y el día que se vaya, a menudo disgusto, ¿no?
+
+
+[13:40] Eso es el mundo. Dicen: "Bueno, sí, pero podría ser más preciso. Por ejemplo, eso suyo tiene que ver con el mundo de cualquier otra persona. ¿Tienen ustedes el mismo mundo?"
+
+
+[13:50] Si el mundo es aquello que vemos cuando nos despertamos, ¿cómo sabemos que es el mismo mundo que ve otro cualquiera cuando se despierta? No hay manera de saberlo.
+
+
+[14:03] Entonces, cada uno tiene su mundo. Es decir, el solipsismo es posible.
+
+
+[14:05] En verdad, cuando yo digo "esto es amarillo", ustedes están viendo el verde, pero nunca podremos saberlo, porque el color que ustedes están viendo y el que yo veo, lo que lo va a unificar es la palabra que le damos, no lo que cada uno ve.
+
+
+[14:20] Yo puedo] ver con el cerebro de otro, puedo ver con los ojos de otro, ¿no?
+
+
+[14:25] Entonces, si el mundo es lo que vemos al despertarnos, el mundo es de cada uno. ¿Cuántos mundos hay? Tantos como seres humanos, como poco, porque como los demás individuos que hay por ahí también perciben, muchos más todavía.
+
+
+[14:39] Y de entre estos mundos que todos existen, y serían miríadas de ellos, ¿cuál es el verdadero? No habría ninguno que lo fuera. O sea, cada quien que es capaz de percibir tiene un mundo.
+
+
+[14:55] ¿Y por qué no creemos eso? Es una posibilidad. ¿Por qué no la creemos?
+
+
+[15:02] ¿Por qué interactuamos en el mundo con otros? Obviamente, pero ¿cómo interactuamos lingüísticamente?
+
+
+[15:09] La percepción de Wittgenstein es que la prueba de la existencia del mundo, por extraño que nos parezca, es el lenguaje.
+
+
+[15:20] O sea, la prueba de una existencia realista del mundo es que somos capaces de comunicar sobre él en sentencias que describen hechos.
+
+
+[15:31] Ahora bien, aquí entra, este es el Wittgenstein que es ontólogo, ¿dónde entra el epistemólogo?
+
+
+[15:38] En la siguiente dice: "Pero de todas las sentencias que decimos, son muchas y son muy variadas. Si yo digo el reloj está sentado encima del perchero, o bien digo la sábana está jugando con el gancho."
+
+
+[15:59] ¿Qué estoy diciendo? ¿Qué hecho es ese? ¿Dónde se produce ese hecho? Se produce solo en el lenguaje.
+
+
+[16:09] Entonces, ¿qué hay que hacer? La idea del primer Wittgenstein es la siguiente. Escribe, dice, el Tractatus para poder dar un instrumento que depure el lenguaje de tal manera que el lenguaje no nos lleve a confusiones respecto de los hechos.
+
+
+[16:25] En ese sentido es una especie de punto de vista o manera de arranque muy parecida a la de Descartes, cuando Descartes dice: "Bueno, es que yo solo voy a admitir ideas claras y distintas."
+
+
+[16:45] Para Descartes, que las ideas o no se expresaran en el lenguaje era lo de menos. El lenguaje adviene a volverse un motivo filosófico crucial, precisamente por obra de Wittgenstein, del Círculo de Viena y de las preocupaciones por la teoría del significado y del signo previos.
+
+
+[17:03] Es decir, el lenguaje llega a ser un motivo filosófico de encuesta  a principios del siglo XX y a finales del XIX. Antes, digamos, los filósofos no han calculado, no han querido ver y no estaban en tiempo de ver que entre nosotros y el mundo está el lenguaje
+
+
+[17:23] y que muchas cosas que creemos saber del mundo solo son lenguaje, que el mundo y el lenguaje son dos cosas, pero que están de tal manera relacionadas y coordinadas que hemos tendido a creer que aquello que podemos expresar tiene correlato real. Uno, dos, que el lenguaje en realidad es un instrumento de la mente o del pensamiento y que no engaña.
+
+
+[17:56] Es un instrumento fácil, fácil de domar.
+
+
+[18:03] Es Wittgenstein el primero que intenta hacer un lenguaje tan absolutamente depurado que no produjera error alguno y que permitiera conocimientos absolutamente seguros.
+
+
+[18:17] Y esto lo hace en la obra de la que estamos partiendo, el Tractatus lógicus filosóficus.
+
+
+[18:24] Y luego es el mismo Wittgenstein el que dice que esto no es posible, que sencillamente el lenguaje es suficientemente autónomo como para que pretender que exista un lenguaje exacto que nos saque de todas nuestras aporías es un vano empeño.
+
+
+[18:39] Y digo yo, ¿qué hacemos siguiendo a un pensador que se pasó siendo muy influyente con su primer libro y que dedicó su segunda gran investigación a destrozar todo lo que había dicho en la primera? Parece una persona, digamos, bueno, pero es así.
+
+
+[18:58] El asombro que Wittgenstein producía en sus contemporáneos por su tipo de talento realmente debía de ser tan grande como para permitirle semejante cosa: seguirle hasta el extremo cuando su teoría era medio positivista y seguirle también cuando cambió totalmente su consideración sobre lo que era el lenguaje.
+
+
+[19:19] Y si uno lee a Wittgenstein, si lee por ejemplo sus aforismos, los que él tiene, los llamados cuadernos, ¿no?, a veces iba anotando en diversos años en sus cuadernos cosas sueltas.
+
+
+[19:32] Uno ve ciertamente el tipo de profundidad que tenía su pensamiento.
+
+
+[19:37] Qué bien lo tenemos. Excelente. Pues a esto pasaremos.
+
+
+[19:45] Ahora nosotros vamos a partir del Tractatus.
+
+
+[19:48] El Tractatus es fenomenal, pero vamos a ir a una sentencia en particular, a las 6 421, que si la tengo aquí se la enseño porque es...
+
+
+[20:04] Me encantan las pantallas táctiles. En realidad subvienen a esta necesidad nuestra casi infantil de jugar a las canicas. No sé si se dan cuenta: haces así, tras, y ya van, vienen.
+
+
+[20:14] Es algo claro: a veces, como las canicas, le has dado demasiado y se te va a no sé dónde, que esto  tiene que tener con todo una mejor…
+
+
+[20:29] A ver, a ver, a ver. Es que todavía voy por las 4 y tengo que llegar a las 6. Y no vean ustedes que esto tiene su aquel al venir el texto en seguido, no en plegado.
+
+
+[20:46] Vamos, vamos a llegar. Y si no llegamos, voy a tener que hacer que me crean bajo palabra y decirles que esta sentencia viene aquí y se dejará encontrar cuando ella quiera.
+
+
+[21:03] A partir de la sentencia 64, Wittgenstein deja de hablarnos de ontología, deja de hablar de lógica, deja de hablar de teoría del conocimiento y se pone a hablar de una cosa que nos suena, que es de ética. Y lo hace de una forma tan peculiar que yo creo que merece la pena seguirle para ver exactamente a dónde nos quiere llevar.
+
+
+[21:39] Me voy acercando, porque voy por la... Uy, no, que va. Mire, esto se me está revelando totalmente. Esta máquina ha comprobado que yo no soy su legítima propietaria y me ha sacado el teclado, y ya de ahí yo ya no sé hacer nada.
+
+
+[21:57] Puedo intentar domarla, pero es inútil.
+
+
+[22:04] Pero no sé si con esto la podríamos poner aquí. No, nada. Vamos a abandonarla bajo palabra. ¿Ustedes me creen?
+
+
+[22:15] >> Participante 1: Sí, la tengo. Le vas diciendo qué número quieres.
+
+
+[22:20] >> Valcárcel?: Ah, qué maravilla. Esa es ideal. La seis.
+
+
+[22:25] >> Participante 1: La forma general de una función de verdad es pi si N menos si. En esa abrimos en la seis.
+
+
+[22:37] >> Valcárcel?: Perfecto. Y bajamos a la 64. Todas las proposiciones tienen igual valor.
+
+
+[22:49] Esa es la sentencia 64: todas las proposiciones tienen igual valor. ¿Qué quiere decir? Quiere decir que no existen proposiciones de valor.
+
+
+[23:05] Wittgenstein hereda una distinción, la toma y claramente no la quiere, que es la distinción entre juicios de hecho y juicios de valor. Las proposiciones, según esto, se dividirían entre aquellas que cuentan lo que pasa, "estoy sentada en esta mesa", o cuentan valores. Por ejemplo, "la felicidad es la teleología de la vida humana".
+
+
+[23:34] Una sería una sentencia de hecho, "yo estoy sentada en esta mesa", y otra sería un juicio de valor, "la felicidad es la teleología de la vida humana". Idea de Wittgenstein, lo tenemos ahí: todas las proposiciones tienen igual valor.
+
+
+[23:52] Y seguidamente, vean: "El sentido del mundo debe quedar fuera del mundo. En el mundo todo es como es y sucede como sucede. En él no hay ningún valor y, aunque lo hubiese, no tendría ningún valor."
+
+
+[24:06] Esto sigue porque mejora. Si hay un valor que tenga valor, debería quedar fuera de todo lo que ocurre y es del caso en realidad. Todo lo que ocurre, lo que el no hace no casual, no puede quedar en el mundo, debe quedar fuera del mundo. Por lo tanto, no puede haber proposiciones de ética.
+
+
+[24:29] Ahí le falta el no a la traducción, porque las proposiciones no pueden expresar nada más alto. No puede haber proposiciones de ética.
+
+
+[24:44] Recuerden meterle el no y avisar a quien ha colgado este Tractatus que menudo fallo tiene, porque es fundamental la afirmación de viceses . No puede haber proposiciones de ética. Y ahora pasamos a lo místico. Pasamos, pasamos y nos vamos a la... No, un poco antes.
+
+
+[25:10] Tenemos que abrir otra. Claro, la 642. Abrámosla.
+
+
+[25:20] Esa 6 421. Ahí lo tomamos: "Es claro que la ética no se puede expresar. La ética es trascendental. Ética y estética son lo mismo."
+
+
+[25:35] Esa es nuestra salida: ética y estética son lo mismo.
+
+
+[25:41] Y ahora, tomando el boleto, ética y estética son lo mismo, y habiéndonos hecho cargo más o menos de dónde queda el sitio donde lo hemos comprado, o sea, quién es Wittgenstein, qué pretendía y por qué estas sentencias sobre ética son todas tan sorprendentes, ¿no? La ética es trascendental, ética y estética son lo mismo, no puede haber sentencias de ética. La ética, las sentencias hablan sentido del mundo.
+
+
+[26:04] El sentido del mundo tiene que permanecer fuera del mundo. Si hubiera un valor que tuviera valor, no podría pertenecer a la concreta esfera de lo que sucede y es del caso, porque en el mundo no hay ningún valor y, si hubiera tal, tendría que permanecer fuera del mundo.
+
+
+[26:21] ¿De qué está hablando Wittgenstein todo el rato? O sea, esto qué es. Está hablando de ética.
+
+
+[26:25] Pero vamos a aterrizar esto un poco más, que nada para llevar las cosas ahí donde a veces las cosas han de ser llevadas, que es a la tranquilidad de espíritu.
+
+
+[26:36] O sea, si nos dejamos acelerar, muchos filósofos son tales que, cuando realmente empezamos a entender qué quieren contar, podemos tener la tentación de ir tan aceleradamente como ellos mismos van a sus conclusiones.
+
+
+[26:52] Y, por el contrario, lo que nosotros tenemos que hacer es frenar e ir parando, cómo se va haciendo esto y qué es. Y ahora les pido que vean esto, cómo que ética y estética son lo mismo.
+
+
+[27:07] A ver, cuando uno se dedica a la ética y a la filosofía moral, hay ciertos asuntos que le resultan relevantes. Por ejemplo, por poco que me guste, yo tengo que mirarme la página de sucesos del periódico, porque tengo que ver cómo va la salud moral de la gente y qué es lo que la gente hace realmente, un poco.
+
+
+[27:38] Si yo hago estética, lo que me tengo que mirar es la página de las grandes exposiciones y los grandes conciertos, ¿no? Y va a ser lo mismo, digo yo, tener en cuenta cómo van las grandes exposiciones y conciertos o tener en cuenta cómo va la criminalidad. ¿Van a ser realmente ética y estética lo mismo?
+
+
+[28:01] ¿Qué quiere decir Wittgenstein cuando dice que ética y estética es lo mismo? Sabemos que son dos cosas. La ética se ocupa del bien, la estética se ocupa de la belleza, y el bien y la belleza no son lo mismo.
+
+
+[28:15] No solo la ética se ocupa del bien, la estética de la belleza, sino que la gente que se dedica a moralizarnos es una gente diferente de aquella que se dedica a instruirnos y divertirnos con el arte, ¿o no?
+
+
+[28:32] ¿Por dónde nos llega normalmente el mensaje ético? Nos lo dan a lo largo de nuestra educación, desde que podemos empezar a entenderlo. Nos lo dan mediante órdenes más o menos cariñosas, pero órdenes al fin y al cabo, que nos dicen lo que está bien y lo que está mal, lo que debemos hacer y lo que debemos evitar.
+
+
+[28:53] Y eso lo vamos aprendiendo cuando ya no lo sabemos; llegamos a lo que se llamaba, pues, una edad razonable, siete, nueve años, ya sabemos construir una argumentación moral, es decir, ya le podremos decir a otro por qué algo está bien o está mal, si debe hacerlo o debe evitarlo.
+
+
+[29:09] Y cuando ya somos adultos, tenemos un lenguaje moral perfectamente establecido, que además lo encontramos no solo en nosotros, sino que hay gente que nos lo recuerda cada poco. O sea, hay moralistas profesionales en las filas del clero, hay moralistas profesionales que nos dicen lo que está bien y lo que está mal, pero en las otras filas también los hay.
+
+
+[29:35] Entonces, esto es la estética. Esto es lo mismo que cuando nos han educado el gusto para decir: "Esto es bonito y esto es feo. Ese color es un color agradable. Ese no, ese es un poco espantoso y no debe ponerse a no ser en pequeñas dosis."
+
+
+[29:53] "Este pintor es mucho mejor que este. Esta imagen es mucho más elegante que esta. Esta música es mucho más culta que esta."
+
+
+[30:05] No nos han enseñado lo mismo. Vamos a decir que ética y estética son lo mismo si está claro que son dos aprendizajes distintos, que vienen por canales distintos; nos están viniendo por canales distintos que podemos perfectamente separar.
+
+
+[30:27] Si nos paramos a ello, decimos: vamos a separar una cosa y la otra. En nuestra propia experiencia podemos intentar ir separando y no nos equivocaremos casi nunca en qué es ético y qué es estético.
+
+
+[30:40] Porque uno de los grandes filósofos del siglo XX se permite primero decir que no hay sentencias de ética y después que ética y estética son la misma cosa.
+
+
+[30:52] Ese es el punto de partida. Ahora ha quedado suficientemente claro, ¿a que sí? Hasta ahora tiene cierta dificultad, pero lo han seguido ustedes; lo noto porque les voy viendo y noto que ustedes más o menos siguen, ¿no?
+
+
+[31:08] Bueno, ¿y por qué nos preocuparía realmente si ética y estética son la misma cosa o no? Porque verán, el asunto tiene un interés extraordinario, pero no lo vamos a poder descubrir hasta el final. Es así: tenemos que ir poniendo cosas encima de la mesa y ver qué van.
+
+
+[31:27] Recuerden de todas maneras: la filosofía, por maravillosa, por extraordinaria, por profunda que sea, está toda en el planeta Tierra.
+
+
+[31:38] ¿Han visto ustedes alguna vez esos maravillosos programas de cosmología que hacía Carl Sagan?
+
+
+[31:45] Entonces, hay uno en que finge cómo la sonda esta que abandonó el sistema solar hace nada llegó a las últimas estribaciones, va abandonando la Tierra, ¿no? Y pasa al lado de los planetas, pasa al lado de Júpiter y al final, cada vez, la Tierra es menos percibible. Al final es una mota que no se ve.
+
+
+[32:07] Dice: "En esa mota de polvo está todo lo que somos capaces de pensar, todo lo que somos capaces de saber, todo lo que amamos, todo lo que odiamos, todo lo que recordamos, todo lo que deseamos; todo, en fin, aquello de que somos capaces se desarrolla en esa mota de polvo."
+
+
+[32:30] Y esta es la gran verdad. Es una enorme verdad, la mota de polvo.
+
+
+[32:36] Pero ahí está también esto. Dice: "¿Y por qué entonces esto?" Dice: "Porque es pertinente." Ya verán cómo es de pertinente.
+
+
+[32:48] Bien, ¿qué somos? Pues, hombre, dentro de la mota de polvo, así tirando por, podemos vernos con muy buenos ojos o podemos vernos con cierta humildad. La humanidad durante largo tiempo se vio con muy buenos ojos.
+
+
+[33:04] Durante larguísimo tiempo no lo sabemos, porque no nos quedan registros, pero durante un largo tiempo la humanidad se vio con muy buenos ojos.
+
+
+[33:12] ¿Qué somos? Dice: pues somos los reyes de la creación, como es evidente.
+
+
+[33:17] Pues sí, aquí estamos puestos, como queda muy claro, somos superiores a cualquier otra cosa que se mueva sobre la mota de polvo, que además no es una mota, es un sitio enorme y bueno, no estamos aquí para gobernar esto. Para eso hemos nacido y hemos sido destinados.
+
+
+[33:41] Somos lo más importante que hay, hasta que la cosa empieza a reducirse. Lo más importante que hay aquí. Y cuando aquí empieza a ser, y ya lo es en la filosofía barroca, comparado con las inmensidades terribles que nos rodean, entonces empezamos a tener una cierta humildad.
+
+
+[34:02] Pero lo que ya nos baja definitivamente del caballo, como a San Pablo, es cuando Charles Darwin dice: "Bueno, vamos a ver, aparte de todo, me parece que somos unos primates."
+
+
+[34:15] Recuerden que esto le sentó muy mal a la gente. ¿Cómo? ¿Cómo que somos primates?
+
+
+[34:21] Pues sí, más o menos como los otros, hombre, un poco más espabiladillos, ¿no? Pero somos primates. Esto es una cosa innegable.
+
+
+[34:30] Recuerden que a Darwin esto le costaba decirlo, porque era, al fin y al cabo, un individuo tímido, pero a la gente que lo oía le costaba aguantarlo también, ¿no? ¿Cómo que somos primates?
+
+
+[34:43] Vamos a ver. Recuerden a un obispo especialmente ingenioso, británico, que dijo: "Yo quisiera saber de qué mono desciende el señor Darwin y si lo hace por parte de madre o por parte de padre."
+
+
+[35:01] Y el señor Hasley, que estaba en el auditorio, se levantó y dijo: "Mil veces hubiera querido creer mucho más, realmente, cualquier cosa que una persona muy importante para la Iglesia de Inglaterra sea capaz de, con un argumento tan estúpido, querer ir contra una gran teoría, el sentido del humor para otras cosas".
+
+
+[35:29] Ciertamente nos han descabalgado de la importancia hace mucho. Estamos descabalgados de la importancia.
+
+
+[35:40] En la conferencia que tuve, y reconozco sus caras y por lo tanto sé que algunos de ustedes estuvieron el día anterior, estos días anteriores, teníamos un asunto. Decíamos: "Vivimos en un mundo que acepta versiones diferentes no compitientes de las mismas cosas." ¿Vale?
+
+
+[36:02] La versión darwinista no puede ser seriamente puesta en duda. Si puede haber algún fundamentalista más o menos así que diga: "No, señor, Dios nos puso sobre la tierra y todo esto de la teoría de la evolución es una falsedad." Sí, pero eso es una tontería completa que no merece ningún análisis. Decir: allá ellos, no.
+
+
+[36:26] Esto te descabalga ciertamente de una posición de privilegio, pero nos hace tener que ser mucho más serios con todo lo que pensamos, porque entonces el pensamiento no es algo que nos haya sido dado y para un registro corto de cosas.
+
+
+[36:40] Tenemos que empezar a entender que es algo que la humanidad entera ha ido fabricando y que, a la vez que lo fabricaba, se ha fabricado a ella misma como lo que es, algo realmente tan distinto del resto.
+
+
+[36:54] Tenemos que poder entonces asistir con el pensamiento al propio proceso de dominización  y ver cómo y qué cosas tan grandes ha producido.
+
+
+[37:07] Mientras  las cosas grandes que ha producido están la ética y está la estética, que nos comprometen nada menos que con la idea de bien o con la idea de belleza.
+
+
+[37:17] La humanidad, si se ha hecho a sí misma, se ha hecho utilizando el lenguaje, sin duda alguna. ¿Cómo seríamos humanos si no tuviéramos el registro lingüístico? Hemos de admitir que el lenguaje en gran parte es nuestro creador como humanos.
+
+
+[37:34] No es eso que otros seres no puedan comunicarse. Nos consta que sí. Muchos animales pueden comunicarse. ¿Qué tiene de particular el lenguaje humano?
+
+
+[37:48] Que no es solo que nos comuniquemos. Si nos comunicáramos, tendríamos, como otros animales, la capacidad, por ejemplo, de influir en los sentimientos de otro.
+
+
+[38:01] Por ejemplo, cuando un animal está airado, un animal de su propia especie lo entiende perfectamente, que está lleno de cólera, y una de dos: o se lo enfrenta o se pone a cubierto.
+
+
+[38:14] Nosotros utilizamos el lenguaje para muchas más cosas. Podemos decir cosas como "el gancho estaba jugando con la sábana".
+
+
+[38:22] ¿Y eso qué es? Dice el primer Wittgenstein: diría un sinsentido. Hagan el favor de hacerme un lenguaje que no tenga ningún sinsentido.
+
+
+[38:32] El segundo diría: un juego lingüístico. Un juego lingüístico. Interesantísimo. Todo nuestro lenguaje son juegos.
+
+
+[38:40] Incluso lo que parece que es un lenguaje referencial para hablar de las cosas es solo un juego posible de lenguaje. ¿Por qué? Nuestro lenguaje es enorme, plástico, capaz de muchas cosas.
+
+
+[38:53] Nuestro lenguaje nos ha dicho: "Sois lo más importante que hay sobre el mundo." Porque no se lo preguntamos a los elefantes. ¿Me explico?
+
+
+[39:02] Si lo llegamos a preguntar, quizás los elefantes opinaran que ellos eran lo más importante que había en el mundo. Simplemente lo dimos por hecho porque nos lo preguntamos entre nosotros.
+
+
+[39:12] Hemos ido lingüísticamente construyéndonos como humanidad que sabe de sí y es capaz de pensarse. Ya ha llegado una etapa en la cual es capaz de saber lo que ha ido haciendo.
+
+
+[39:24] Ahora ha de entrar en otra que nos diga: "Abre cada caramelo, quítale el papel y dime a qué sabe y cómo crees que se hizo. ¿A qué sabe la ética y cómo crees que apareció?
+
+
+[39:42] ¿A qué sabe la estética y cómo crees que apareció? ¿Qué era todo esto antes? ¿Qué hemos hecho con ello después? ¿Hasta qué punto forma parte de nuestra alma?"
+
+
+[39:55] Entendiendo por alma no una especie de nosotros mismos, pero más transparente, que viva dentro de nosotros, sino el conjunto completo de significados con el cual nos dirigimos al mundo e interactuamos con él.
+
+
+[40:09] Todo eso está ahí comprometido. ¿Qué es lo que nos permite hacer esto? La más ágil, antigua y jovencita de todos los discursos de saber, la filosofía.
+
+
+[40:20] Esto solo se puede hacer desde la filosofía, porque cualquier ciencia se negaría a seguirnos en semejante indagación.
+
+
+[40:28] Las ciencias son una cosa reciente y además seria. Reciente, porque la nueva ciencia, tal y como la conocemos, es una cosa que empieza a nacer en el siglo XV, después de la reforma protestante.
+
+
+[40:42] Es que antes la gente no sabía cosas y las sabía perfectamente, pero lo que entendemos por nueva ciencia, ese enorme desarrollo que luego se ha traducido en técnicas y que nos hacen vivir de una manera tal que las humanidades anteriores no nos entenderían. Sencillamente nos hemos vuelto demasiado diversos.
+
+
+[41:02] Eso tiene cuatro siglos de existencia, nos acompaña desde hace más o menos cuatro siglos, y las ciencias buscaron su objeto y escaparon de cualquier cosa a la que llamaron especulaciones.
+
+
+[41:18] Y buscar su objeto es, si yo me voy a dedicar a cómo se mueven los objetos en el espacio, solo me dedicaré a eso y no meteré nada más. Si me voy a dedicar a saber cómo están compuestos los cuerpos, o me dedicaré a la química y a nada más, tendré una buena metodología, iré estableciendo verdades y cada sentencia que yo haga tendrá correlato en un estado de hechos.
+
+
+[41:41] Es decir, haré lo que Wittgenstein decía en el Tractatus, lo mejor que pueda y continuadamente, para llegar a conocimientos ciertos. Luego tendré una ciencia hipotético-deductiva, etcétera, pero podré siempre probar lo que digo.
+
+
+[42:01] Es decir, utilizaré sentencias que o bien sean fácticas o bien se puedan probar.
+
+
+[42:09] Pero en la ética, si yo digo: "Es mucho mejor que no te encolerices con tu hermana mañana."
+
+
+[42:18] Y no te lo digo por una razón psicológica, no te lo digo porque tu hermana tiene tan malas pulgas que, si te encolerizas con ella, va a ser mucho peor. O sea, que evítalo. Esto es un juicio empírico, es hipotético, deductivo.
+
+
+[42:30] Dice: "Mira, no hagas esto porque es que te va a venir fatal. Entonces, mejor no lo hagas."
+
+
+[42:36] Y yo digo: "No, no lo hagas porque, mira, es que está mal hacerlo."
+
+
+[42:41] ¿Cómo que está mal? Si mi hermana es una desapacible que me hace la vida imposible. Es igual.
+
+
+[42:47] Aunque te haga la vida imposible, está mal, eso no se hace. Por el contrario, debes amarla.
+
+
+[42:53] Estoy diciendo, digamos, que debo amar a mi hermana, esa desapacible que me hace la vida imposible, que no debo encolerizarme con ella, pero si además da igual, me encolerizo igual, aunque piense que no debo. Yo pienso, pero lo hago. Entonces, ¿a qué viene decir cosas que ni siquiera se pueden hacer la mayor parte de las veces?
+
+
+[43:17] Se dan cuenta de que yo perversamente les estoy llevando a por qué Wittgenstein dice "no hay sentencias de ética". Les estoy llevando perversamente. Admito el truco.
+
+
+[43:31] Yo hago como que la hermana y tal, pero es mentira, estoy pensando en lo otro.
+
+
+[43:35] La cosa es esta. Lo que Wittgenstein dice es: si solo existen sentencias de hecho, hay ciertas sentencias que creemos que son de ética que son sentencias de hecho.
+
+
+[43:44] "No te encolerices con tu hermana." ¿Por qué? Porque se va a ser por peor todavía para ti. Esto es una sentencia de hecho que es o verdad o mentira.
+
+
+[43:53] Si es verdad, tú no te encolerizas porque no quieres que aquello sea peor. Y si es mentira, dices: "¿Cómo que va? No veas qué poco carácter tiene. La voy a hundir."
+
+
+[44:03] Y esa es una sentencia de hecho, no es una sentencia de ética.
+
+
+[44:07] Cada vez que decimos "no hagas esto por algo, por otra cosa", la persona que tenía las sentencias de las 64 las puede volver a desplegar. Y ahora entenderemos perfectamente lo que quería decir Wittgenstein.
+
+
+[44:18] El primer pensamiento que surge cuando se pone una ley ética es: "¿Y qué pasa si no lo hago?" Pero la ética no se refiere al premio o al castigo o a que sea verdad o mentira. Por lo tanto, no hay sentencias de ética.
+
+
+[44:36] Casi siempre nos apañamos con sentencias que son fácticas. Por ejemplo: "Debes ayudar a tu anciano padre." ¿Por qué? Porque si no, ¿qué pensarán los vecinos?
+
+
+[44:52] Es decir, ¿qué van a pensar los vecinos de ti si ven que tu anciano padre está desatendido de cualquier manera? Tú querrás tener buen crédito. Entonces, si quieres tener buen crédito, tú tienes que obrar de determinada manera, de aquella que la sociedad aprueba.
+
+
+[45:08] ¿Qué es la ética? La ética son una serie de convenciones sociales correctas que la gente ponemos en ejercicio porque dependemos unos de otros y, por lo tanto, dependemos también de la opinión que los otros tienen de nosotros.
+
+
+[45:24] Y como esto es así, esto es la ética y no es más que esto. Son, por lo tanto, sentencias fácticas. No hay juicios de valor.
+
+
+[45:31] Si decimos "Tienes que cuidar a tu padre", esto no es un juicio de valor, es un juicio de hecho. ¿Por qué? Dice: "Porque no querrás tener problemas con el resto de la gente, con lo que sea."
+
+
+[45:45] Pero entonces, ¿cuáles son las sentencias de ética? Y volvemos al Tractatus que amablemente tenemos aquí y encontraremos una que dice: "No las hay, porque el sentido del mundo tiene que permanecer fuera del mundo."
+
+
+[45:58] La ética, es lo que está diciendo Wittgenstein, es una cosa que está fuera del mundo.
+
+
+[46:10] Más dirá: "En el mundo todo sucede como sucede" y es del caso. En el mundo no hay ningún valor, y si hubiera algún valor que tuviera valor, entonces no estaría en el mundo, estaría fuera, porque el sentido del mundo está fuera del mundo.
+
+
+[46:27] A ver, el sentido del mundo está fuera del mundo, y la ética resulta que habla del sentido del mundo, y la ética y la estética son lo mismo. Ya tenemos tres.
+
+
+[46:40] Vamos a empezar a tejerlas.
+
+
+[46:43] La ética y la estética son lo mismo. La ética habla del sentido del mundo. La ética se parece a la estética, o peor aún, son lo mismo porque están fuera del mundo.
+
+
+[46:54] La ética y la estética, ambas permanecen fuera del mundo. Si yo digo, por ejemplo, estéticamente: "El color amarillo dorado es más hermoso que el color amarillo rabioso. Así que es muy preferible entonces vestirse estos bonitos tonos amarillorados que unos amarillos rabiosos."
+
+
+[47:16] Esto es un juicio de gusto. ¿Qué valor de verdad tiene? Pues en mi grupo social lo tendrá. Si en mi grupo social resulta que, si voy de amarillo rabioso, dicen: "Uy, qué pésimo gusto tiene fulanita, mira lo que trae puesto", pues yo evitaré lo más que pueda, digamos, provocar juicios de esa naturaleza.
+
+
+[47:39] No me estaré separando, por lo tanto, de un juicio empírico, pero si hago un juicio estético, digo que algo es bello sin restricción alguna. O sea, aunque nadie más lo pensara.
+
+
+[47:53] Y si digo que algo es bueno, digo que lo es sin restricción alguna, aunque nadie más estuviera de acuerdo. En esos casos estoy haciendo ética o estética. Y lo que dice Wittgenstein es que es lo mismo, porque las dos cosas están fuera de lo que es empírico, están fuera de lo que pasa y es el caso, están fuera del mundo; no fuera del mundo del pequeño planeta, no. Están todas aquí, pero no en el mundo que es del caso, no en el mundo del que se puede hablar. Es más, todavía son inefables.
+
+
+[48:27] En realidad, la ética y la estética no se pueden expresar. Esto ya es para nota, pero si vamos al texto lo veremos.
+
+
+[48:39] Si bajamos y bajamos y bajamos, la buena voluntad mala la pasamos y pasamos más y más y más y más y más y más y más y más y más, y a las siete: "De lo que no se puede hablar, mejor es callarse."
+
+
+[48:59] "Si se puede plantear una cuestión, también se puede responder." En realidad está traducido rápidamente: para cualquier cuestión que pudiera ponerse en palabras, entonces su respuesta también debería poder ponerse en palabras.
+
+
+[49:17] Si decimos que algo es inefable, es decir, que no puede ponerse en palabras. Cuando yo les he dicho "si nadie más pensara que algo es bello, esto seguiría siendo hermoso", ustedes me han entendido perfectamente lo que he dicho. E incluso han sentido lo que eso quiere decir.
+
+
+[49:36] Sí, han sentido la voluntad ahí diciendo: "Sí, es esto, es esto." Bien, pero ¿han visto lo que es? O es como si yo hubiera señalado y hubiera dicho "por ahí".
+
+
+[49:51] No han visto lo que es. Es solo una sentencia vacía, con una capacidad, sin embargo, de señalar tan fuerte que nos parece remitir algo que está más allá del mundo, sobre lo cual no tenemos más que una seguridad extraña, esa que sentimos al decirlo.
+
+
+[50:09] Entonces, estamos diciendo, es como una pregunta que no tiene respuesta. Pero una pregunta verdadera es una cosa que tiene respuesta. ¿Me explico?
+
+
+[50:16] Si yo pregunto, más o menos a las dos de la tarde: ¿creen ustedes que esta sala seguirá existiendo? Como muchos pueden decir, a no ser que haya un terrible cataclismo imprevisible, a las dos de la tarde esta sala va a seguir existiendo.
+
+
+[50:39] Es previsible que eso ocurra. No lo afirmarán al 100%, porque ya decía Leibniz que no es una verdad de razón, es una verdad de hecho. Luego no se puede afirmar al 100%. Me parece que, con enormes probabilidades, esta sala va a seguir existiendo.
+
+
+[50:53] Vale, pero y si yo digo cosas como "Dios existe y te está mirando", ¿dónde está la referencia del término Dios? Señálemelo. Dígame de qué color es.
+
+
+[51:13] Dígame exactamente desde dónde me está mirando, porque un hecho tiene una relación espacial, ¿no? Que me esté mirando, en general, no tendrá que ser desde ahí o desde ahí, o dice: "No, es que él es de tal estilo que mira de todas partes." Empieza a ser un poco complicado todo, ¿no?
+
+
+[51:32] Se nos puede empezar a poner la cara que le pusieron los griegos a San Pablo. Recuerden cuando San Pablo se va a predicar a los atenienses y, como era un hombre de fluido verbo y de buena presencia, no lo sé, pero de fluido verbo sí, lo cuenta maravillosamente.
+
+
+[51:46] Realmente, cuando les empieza a hablar de un profeta que no conocen, que ha nacido en Judea, que ha hecho muchos milagros, cuya enseñanza es magnífica, que, bueno, desgraciadamente fue apresado por los suyos, llevado ante el procurador romano, condenado a muerte, y que luego resucitó, en ese momento dijeron: "Oye, nos ha parecido todo interesantísimo. Y de esto de la resurrección ya nos lo contarás otro día." Y se marcharon todos.
+
+
+[52:17] Claro, les parecía todo muy bien hasta que llegas al "no, esto ya nos vas a permitir que esto ya nos lo cuentas otro día", ¿no? Claro, se nos pone esa cara de "eso ya nos lo cuentas otro día" ante determinado tipo de sentencias. Por ejemplo, "Dios te está viendo".
+
+
+[52:36] Bueno, como los griegos: esto ya casi me lo cuentas, me interesa. Es una cosa interesantísima, pero casi me lo cuentas otro día.
+
+
+[52:41] En el fondo, ¿qué pasa? Wittgenstein está convencido de que hay cosas que se parecen a sentencias que no lo son, pero que son como dibujos que hacemos en el aire que remiten a realidades no fácticas, que no son estados del mundo, que son otra cosa, y que nos referimos a ellas de un modo como tentativo, como si hiciéramos gestos.
+
+
+[53:09] No son verdaderas sentencias, no pueden ser probadas, no puede haber una prueba empírica de ninguna de estas cosas, pero remiten el sentido del mundo. ¿Y qué es el sentido del mundo? Lo que queda más allá del mundo.
+
+
+[53:24] Hay una expresión tremenda en castellano que no sé si decírsela, porque si no la tienen aquí no sé qué ganan con que se la diga, pero ya que lo han anunciado tanto: cuando alguien dice algo muy difícil, yo no sé si aquí también hay una respuesta terrible, que es: "Agárreme usted esa mosca por el rabo."
+
+
+[53:47] Hala, mire a ver, si puede. ¿Cómo lo haría? Si tú dices: "No, es que el sentido del mundo está fuera del mundo." Dice: "Vale, ¿y cómo sabes que lo hay, si fuera del mundo no se puede estar?" Es inefable.
+
+
+[54:08] Pero si es inefable, dice: "De lo que no se puede hablar, vale más callarse."
+
+
+[54:17] Cuando Wittgenstein, ya años después, trata de explicar qué es lo que ha escrito en el Tractatus y por qué es como es lo que ha escrito en el Tractatus, dice que la parte más importante del Tractatus es la parte que no está escrita.
+
+
+[54:33] Pero esto también está bien, porque en general la vía negativa es siempre la más llena de cosas. Imagínense, ¿no? Dice: "Esto es lo que digo, pero lo que no digo siempre es mucho más." No puede ser menos nunca. ¿Por qué?
+
+
+[54:51] Le pasaba lo mismo a Maimónides cuando trataba de entender la esencia de Dios. Y ustedes dirán: "Está saliendo mucho Dios por aquí." Dice: "¿Y lo que saldrá todavía?" Y lo que piensa salir todavía, porque es una de nuestras más asombrosas ideas.
+
+
+[55:07] Ah, bien. Entonces era Dios, cómo es, pues es bueno, es santo, es puro, es tal, es sabio; es decir, todo eso no es nada, porque en realidad es una esencia tan separada de la nuestra que no entendemos en absoluto lo que es, y estamos diciendo lo que en nosotros nos parece que está bien en grado máximo, pero lo que es no tenemos ni idea ni podemos.
+
+
+[55:34] ¿Por qué? Dice: porque no lo conocemos, pura y simplemente. No tiene nada que ver con el mundo, es otra cosa, totalmente otra cosa. Y dice: "¿Y cómo hace usted para tenerlo?" No lo entiendo. Simplemente no hay nada que entender.
+
+
+[55:52] Es estas cosas, ¿no? En el fondo, Wittgenstein te está diciendo lo mismo. Dice: "Mira, la pregunta ¿existe Dios? tiene respuesta." No, entonces no tiene sentido la pregunta.
+
+
+[56:06] Las preguntas que no tienen respuesta no son preguntas, parecen preguntas. Las preguntas significativas es: ¿existirá esta sala? Muy probablemente. ¿Existe Dios? ¿Usted de qué me está hablando?
+
+
+[56:22] El sentido del mundo. ¿Tiene sentido el mundo? No sé, ¿ha estado usted fuera del mundo? Porque, claro, el sentido del mundo es una cosa que tiene el mundo visto como un todo.
+
+
+[56:34] Pero ¿quién puede ver el mundo como un todo si para eso necesitas salir del mundo? Pero no entiendan salir de la pequeña mota de, no, no, de todo donde estamos.
+
+
+[56:47] Deberíamos de repente ver el conjunto completo de nuestras representaciones como un todo y, poniéndonos fuera, decir: "He ahí que esto es por esto."
+
+
+[56:59] Eso no es posible. Siempre que existamos estaremos en el mundo. No nos podemos poner fuera del mundo. Y si no te puedes poner fuera del mundo, no puedes ver el sentido del mundo. Sentido del mundo es una cualidad que tiene el mundo como un todo.
+
+
+[57:17] Vamos a lo de antes. "He escrito un libro en que lo más importante es lo que no está en el libro porque no lo escribí", que dice Wittgenstein, ¿no? Dice: "Vale, estupendo. Esto era lo que nos faltaba."
+
+
+[57:31] Hay que entender, ese libro dice como si fuera... se dan cuenta, cuando tomamos un objeto, que, por ejemplo, una cosa es un molde y otra es la figura. Entonces, si tú pones la figura, te queda una cosa invertida en el molde, que, pues, lo que está dicho tiene que ver con lo que está sin decir.
+
+
+[57:52] Pero lo que está sin decir no se puede decir porque no puede decirse. Esto empieza a parecer una broma del Elitier , unos músicos con los que les confieso que yo me lo paso fenomenal, ¿no? Sobre todo, dice: "Como no se puede decir... pero si no se puede decir, ¿usted por qué lo dice?" Dice que no se puede decir eso, ya es decir algo, ¿no?
+
+
+[58:13] Dice: "Ah, la mejor", dice: "Este libro es una escalera. Se usa para subir a un sitio y, cuando has logrado llegar a él, tienes que tirar la escalera. La escalera ha servido para subir, pero ya no sirve para nada más."
+
+
+[58:29] Este libro nos ha permitido saber qué es el mundo, qué es lo que hay en el mundo, y nos ha llevado hasta un límite. Dice: "En realidad es este", dice, "es libro de ética", de ética, pero no ha dicho que no hay sentencias de ética.
+
+
+[58:44] Sí, por eso es un libro de cómo realmente podemos señalar cosas que realmente no podemos conocer, y que ni se nos ocurra decir que sí las podemos conocer, porque eso es falso.
+
+
+[58:59] Si decimos, por ejemplo: "Conozco perfectamente la ética y sé cuáles son mis deberes." Ah, muy bien. Y esto además es trascendental. ¿Cómo va a ser trascendental? No, a lo que estás llamando ética es a los deberes que te han sido enseñados para portarte bien en tu comunidad.
+
+
+[59:20] Y eso no tiene nada de trascendental. Es tan empírico como cuando te han enseñado a vestirte con los trajes más adecuados.
+
+
+[59:31] Pero si tú dices que hay algo incondicionado, algo que realmente es un valor y que está más allá de todas las cosas que hacemos, entonces estás saliendo del mundo, estás viendo el mundo como un todo y estás hablando del sentido del mundo.
+
+
+[59:49] Y eso sí es la ética, pero solo se la puede señalar. Quedará por allí más o menos, pero no es lo que haces todos los días.
+
+
+[1:00:01] Hasta aquí. La verdad es que me va alegrando mucho que veo que hasta aquí me siguen, porque yo tenía mis dudas. Pero vamos a ver.
+
+
+[1:00:12] Para entender por qué Wittgenstein dice estas cosas, lo mejor es darse un repaso, no de Wittgenstein, sino del mundo de ideas en que él vivía y que le acompañaban.
+
+
+[1:00:29] Vamos a intentar esto, que ya vemos más o menos cómo se va haciendo el dibujo de lo que es. Vamos a intentar ponerlo en su casa, ¿no? ¿Quién era psicológicamente Wittgenstein? Que también podemos, pero nos ayudará poco, creo yo; a saber, a lo mejor sí.
+
+
+[1:00:45] Sino cuál es el mundo de ideas en que Wittgenstein vive. ¿Qué quiere decir "la ética y la estética son lo mismo"? O sea, vamos de nuevo al boleto, decir: la ética y la estética son lo mismo. Hemos partido de ahí, hemos ido abriendo a ver qué quería decir hasta que más o menos lo vemos.
+
+
+[1:01:05] Bueno, pues entonces ahora esto, ¿de dónde viene? O sea, ¿de dónde ha salido esto? Es decir, todo esto viene de alguna parte. Es decir, la gente, incluso cuando la gente tiene un gran talento y tiene una imaginación filosófica muy fuerte, vive en un mundo donde las ideas son como el aire que respiramos.
+
+
+[1:01:26] En realidad vivimos entre ideas. Nos parece que vivimos entre cuerpos y objetos, pero vivimos entre ideas. Siquiera sea porque hablamos. Y eso son todos simplemente sonidos que refieren a cosas que unas veces están y otras no están. Tenemos esa segunda naturaleza, ¿vale?
+
+
+[1:01:48] Entonces, si tenemos esto, ¿de dónde viene esto? ¿De dónde ha venido la ética y la estética? ¿Qué es la ética? ¿Qué es la filosofía?
+
+
+[1:02:05] Tomen el texto que tenemos y vean de seguirme desde la página 5.
+
+
+[1:02:25] Nos vamos a pasar, porque ya lo hemos visto: "Todas las proposiciones tienen igual valor", y nos vamos a ir mejor a las siete, donde aparece un resumen de lo que acabo de expresarles.
+
+
+[1:02:45] "Una sentencia de ética, en tanto que debe ser irrestricta y universalmente válida en cualquier mundo posible, está fuera del mundo. Es una sentencia necesaria. Una sentencia ética remite al sentido del mundo."
+
+
+[1:03:02] "La ética y la estética son una y la misma cosa", página nueve, porque ambas comparten ser inefables, no pueden ser puestas en palabras. En las palabras del lenguaje significativo expresan algo más alto que justamente el lenguaje, que es significativo, no puede expresar.
+
+
+[1:03:25] Se dice, esto es a lo que Wittgenstein llamaba lo místico. Pero ¿de dónde salía? Página 12.
+
+
+[1:03:40] La ética arriba dice algo sobre el sentido último de la vida. La ética no añade conocimiento, porque el sentido último no es un conocimiento.
+
+
+[1:03:53] La ética, dirá también Wittgenstein, es una tendencia humana de la cual no cabe burlarse.
+
+
+[1:04:01] Cuando Wittgenstein, en alguna de sus conversaciones que la gente que conversaba con él recogía porque le importaba mucho, dice: "De algo estoy seguro." Y dice una de esas cosas que no se pueden expresar. Dice: "No estamos aquí para divertirnos."
+
+
+[1:04:18] Ves, de nuevo: "No estamos aquí para divertirnos." Es una sentencia ética y remite al sentido del mundo.
+
+
+[1:04:30] Es decir, estamos ante un autor notable. Y esto, que "la ética y la estética son lo mismo", es un aforismo.
+
+
+[1:04:38] Y vamos a tratar un poco... Oh, Dios mío, si vamos a acabar a la 1:30, no vamos a tratar hoy más que lo que hemos tratado y vamos a dejar al menos diez minutos, un cuarto de hora para sus cuestiones, porque, si empezamos a tratar lo que sea un aforismo, yo no les dejo decir ni palabra y eso no estaría bien.
+
+
+[1:04:57] Si les parece, entonces yo paro en este preciso momento y dejamos preparada para comenzar mañana qué era la literatura aforística y cómo entró la literatura aforística en la filosofía y por qué realmente el Tractatus tiene que ser entendido como un libro de aforismos, y en particular los más importantes son los que empiezan a partir de la 64, es decir, todos aquellos que hablan de ética y del sentido del mundo.
+
+
+[1:05:24] Entonces, con todo eso más o menos representado, mañana vemos lo que es la literatura aforística y cómo esta se había ido desarrollando durante el siglo XIX en la filosofía alemana. Y luego intentamos ver otra cosa, que es la calosca y aggacía .
+
+
+[1:05:41] La primera vez que se expresa que ética y estética son lo mismo se hace en el contexto griego y se hace diciendo: lo bueno y lo bello son la misma cosa.
+
+
+[1:05:51] Entonces, mañana nos damos un paseo con los griegos de la mano de Wittgenstein, pero hoy prefiero que guardemos unos minutos para que ustedes puedan presentar preguntas o cuestiones y demás, porque, si queda algo que quepa abrir más hoy y tal, mejor que si avanzamos, ¿les parece? Pues vamos a hacerlo así.
+
+
+[1:06:13] Lamento muchísimo, pero empezamos prácticamente a tiempo, pero es que exponer a Wittgenstein siempre lleva más tiempo del que uno cree que le va a llevar.
+
+
+[1:06:27] Pues espero sus...
+
+
+[1:06:32] >> Participante 2: Ya esto, maestra Valcárcel, me ha provocado muchas más dudas. Sí, gracias, maestra Valcárcel, con respecto a todos estos conceptos que nos está compartiendo de Wittgenstein, a propósito del lenguaje y de la construcción de las realidades a partir del lenguaje, hay una de las frases favoritas dentro del feminismo que es: "lo que no se nombra no existe". ¿Cómo interpretar precisamente esta premisa o esta frase tan favorita del feminismo a la luz de lo propuesto por Wittgenstein?
+
+
+[1:07:12] >> Valcárcel?: No podemos. Wittgenstein está hablando del sentido del mundo. El feminismo está hablando de la libertad de las mujeres. No es lo mismo.
+
+
+[1:07:23] ¿Cómo podemos hacer que la libertad de las mujeres forme parte del sentido del mundo mediante una sentencia ética? "La libertad es lo más bello y alto que existe y todo ser humano tiene derecho a ella." Esto es la formulación de una sentencia ética.
+
+
+[1:07:40] Entonces sí que lo has hecho aparecer. El nexo lo tienes que hacer cuando conviertes una sentencia en una sentencia ética, teniendo en cuenta lo siguiente, que puedes decir: "Ya, pero es que las sentencias de ética realmente no son consistentes. ¿Cómo se puede probar esta sentencia?" No se prueba.
+
+
+[1:07:59] De la misma manera que nos fuimos haciendo humanidad y nadie sabía cuál era el paso siguiente, o sea, el primer cromañón que cogió y dibujó una cosa que se parecía ligeramente a un animal estaba previendo la televisión. Pues no, francamente no, pero hizo algo que probablemente consideraba mágico.
+
+
+[1:08:23] "Mira qué he sido capaz de hacer. Con un movimiento y un poco de grasa animal he representado un ser vivo."
+
+
+[1:08:32] ¿Qué hizo ese o esa que hizo eso? Subió un escalón enorme. ¿Lo hacía sabiendo que lo hacía? No, lo hizo, meramente lo hizo. ¿Cuántas de las cosas que nos han hominizado pertenecen al género de cosas que simplemente se hacen? ¿Cuántas de las cosas que nos deshumanizan pertenecen al género de cosas que simplemente se hacen?
+
+
+[1:08:59] No somos tan conscientes de todo lo que hacemos. Entonces, respecto del feminismo, "lo que no se nombra no existe" es un enunciado general empírico. Si tú no dices "tal cosa debería de existir, tal cosa es mejor que esta otra", ¿quién va a saber que eso es así? No hay que poder nombrar las cosas.
+
+
+[1:09:16] Y vemos, además, cuando algo ha llegado a su sazón, cuando algo para lo que no teníamos buenas palabras, de pronto empezamos a poder hablar de ello bien y se entiende. Algo está llegando a su sazón porque nos aparecen las palabras que permiten expresarlo.
+
+
+[1:09:35] Es como... ya esto lo que voy a hacer es una fulerería  completa, pero total. Pero en honor de Wittgenstein: Wittgenstein admiraba mucho a un poeta, Rilke, ¿vale? Rilke tiene un verso que a mí siempre me asombra, que dice: "Somos gente que arranca constantemente de una oscuridad que no sabemos lo que es trozos del ser y los trae hacia dentro."
+
+
+[1:10:02] Cuando Wittgenstein nos dice que estamos invirtiendo el mundo y que el otro, en realidad, el que no se puede contar, es el que está, es donde está el sentido, de una manera casi soñadora, porque esto no es lenguaje significativo, pero nos pretende, creo yo, contar algo que se parece a lo de Rilke: arranca de lo que todavía no sabes qué es y trae al mundo algo que es nuevo.
+
+
+[1:10:30] La libertad de las mujeres es un novum de tal categoría que es una sentencia ética, sí, pero en la que yo creo firmemente. Que es muy grande haber traído esto al mundo. Es así, porque es una sentencia ética tal cual: el mundo en que esa libertad no está prevista es mucho peor.
+
+
+[1:10:53] Y esto no es una sentencia simplemente utilitaria. Es más que eso, cuando la pronunciamos de esta manera, no queremos decir simplemente "no nos gustaría vivir en él", que tampoco; estamos queriendo decir otra cosa.
+
+
+[1:11:09] Pero cualquier movimiento, cuando tiene, digamos, una cercanía a una de las ideas más fuertes y que más mueven, que es la de libertad, tiene esa cercanía con lo que roza con el sentido del mundo. Claro, es así. Yo no sé si esto le ha servido como respuesta, quizá porque es demasiado apresurada, ¿no? Pero es un poco así.
+
+
+[1:11:30] Sí.
+
+
+[1:11:31] >> Participante 3: Yo con... Bueno, yo le quiero preguntar, en relación con esta exposición que nos ha vertido aquí, cuando usted habla de tirar la escalera, o sea, cuando dice: "Bueno, estas ideas aquí están, pero cuando habla de tirar la escalera, es decir, este... que vienen otras, por eso esa escalera se tira."
+
+
+[1:12:04] >> Valcárcel?: Sí, no, que estamos en otra parte ya. Eso es lo que dice Wittgenstein. Wittgenstein dice: "Este libro es una escalera." Es Wittgenstein que lo dice. Este libro, una vez que se ha entendido bien, nos ha hecho subir un escalón. Pero no tenemos que seguir amarrados a este libro, porque este libro ha sido solo la escalera. Ya hemos llegado al siguiente lugar.
+
+
+[1:12:28] Ya no necesitamos la escalera. Le podemos hacer más o menos caso en esto. El Tractatus ha sido un libro estudiadísimo, o sea, que la gente no parecía querer tirar la escalera con tal facilidad.
+
+
+[1:12:41] Pero lo que nos importa es esto: la idea de que, cuando hemos llegado a otro tipo de realidad, aquello que nos ha ayudado para subir, para llegar a ella, es prescindible. ¿Es esto quizá lo que usted no acaba, o sí, de ver?
+
+
+[1:13:00] >> Participante 3: Bueno, lo que yo... bueno, es que uno echa a volar la imaginación luego, luego cuando escucha estas grandes ideas. Yo decía: "Bueno, me imaginaba yo que aquí están estas ideas, ahora hay que tirar la escalera y hay que proyectar otras o imaginar otras, ¿no?" Eso, no sé si me explico, ¿no?
+
+
+[1:13:26] >> Valcárcel?: Perfectamente, y además comparto lo que dice. Es decir, cuando estamos ya en otro plano de la realidad, las ideas que necesitaremos serán las que encontremos allí, las que vayamos arrancando allí a lo que existe. Es decir, es así. ¿Alguna intervención había visto yo por aquí?
+
+
+[1:13:45] >> Participante 4: Yo, sí, un recuerdo que está en el... también comenta de que alguien para entender o medio entender ese libro es porque ya se lo ha pensado antes. Y lo dice muy claro. Dice: "Quien logre entender o dar cuenta de lo que aquí pongo es porque ya se lo ha pensado antes." Entonces, yo creo que está hablando de lo simbólico, de lo humano.
+
+
+[1:14:10] >> Valcárcel?: No sé qué entienda usted por ello. Wittgenstein es un pensador muy lleno de registros. Por una parte es muy simple; es decir, lo asombroso de Wittgenstein era la incultura filosófica que arrastraba, que era muy grande. Wittgenstein había leído muy poco y además, dentro de lo muy poco, solo las cosas que a él le gustaban, pero cuando una cosa no le gustaba pues tenía un arte para quitarla.
+
+
+[1:14:41] Pero, digamos, que se pone a pensar con tal radicalidad algunas cosas que en él es como un instrumento que, cuando está muy bien afinado, mucho vibra cuando otro suena.
+
+
+[1:14:54] Entonces, en eso que usted dice presenta la idea, en efecto, ¿por qué lo hace? La idea de anagnórisis , que todo conocimiento es posible porque ya lo hemos tenido antes.
+
+
+[1:15:05] La presenta cambiándola. Es decir, la idea de anagnórisis, tal y como la podía contar un griego a la platónica, era otra cosa. La idea es no es que tú has vivido en el mundo de las ideas. Todos hemos vivido allí y, por lo tanto, por eso podemos entenderlas, porque en realidad no son familiares, hemos vivido en ellas.
+
+
+[1:15:22] La idea es la anagnórisis expresada, como Wittgenstein la expresa y como usted acaba de recordar, es otra cosa. Es para llegar a comprender algo verdaderamente de lo que dice otro, es que uno lo tiene que haber estado tentando de ver.
+
+
+[1:15:41] O sea, si traslado la cuestión lateralmente, se verá más lo que usted dice y a dónde apunto yo también, que es: cuando no hay una cierta posición compartida, no se puede entender a otro.
+
+
+[1:16:01] Tiene que haber una serie de registros intermedios muy fuertes. Todo lo que llamaríamos, por utilizar en este caso el vocabulario del idealismo alemán, pero que luego pasó a ser muy importante en la filosofía europea continental en el siglo XX, todo el sistema de las mediaciones.
+
+
+[1:16:26] Hay muchas más mediaciones en todo de las que podamos estar siempre imaginando y, sencillamente, determinado tipo de conocimientos de este estilo, que no son exactamente conocimientos, requieren esas mediaciones.
+
+
+[1:16:39] Si yo quiero explicar un asunto científico cualesquiera, por ejemplo, en qué secuencia está colocado un determinado grupo de genes, no me hace falta que el otro, quien me escucha, lo haya pensado antes. Me basta con que sepa un poco de genética, que sepa lo que es un gen y que sepa, pues, que los aminoácidos tienen el gusto de ir más o menos en determinadas progresiones, órdenes. Me va a entender.
+
+
+[1:17:14] Tendremos un registro en común muy fuerte de conocimientos que haga que me entienda. Dice: "Ah, pero eso no era lo que se decía antes. Yo pensaba que está..." Pero cuando estamos ante una idea filosófica, es lo que Wittgenstein está diciendo, es que quien primero no ha tenido la intuición de pensárselo, aunque sea vagamente, es muy difícil que lo pueda entender, porque se trata de entender una cosa diferente.
+
+
+[1:17:40] En un caso estamos ante un lenguaje fáctico y una cosa es así y tienes un modo de saber si lo es, que es el experimento. Pero ¿qué prueba las sentencias de ética o las de estética? No hay ningún experimento para esto, ¿no? ¿Cómo se prueban?
+
+
+[1:18:01] No son ni siquiera verdaderas o falsas, son otra cosa. No son ni siquiera sentencias de Wittgenstein. Están más allá de lo que se puede decir y, sin embargo, las decimos.
+
+
+[1:18:15] ¿Qué prueban? Y dice: prueban que existe una tendencia humana irreprimible. Esto es lo que dice en su conferencia de ética. Prueban que existe una tendencia humana irreprimible, y no llega más allá.
+
+
+[1:18:30] Pero es bastante y se parece, en efecto, a lo que usted nos recuerda, ¿no? Diciendo: "Y si no las hubiéramos de alguna manera oscura pensado antes, ni siquiera entenderíamos a qué nos referimos cuando hablamos de ellas." ¿Por qué? Porque sabemos en qué momento se separa el camino de la sentencia moral corriente de la sentencia ética.
+
+
+[1:19:00] Sabemos, la vemos separarse. Podemos decir: "Mira, haz el favor de devolver el dinero que te prestan." ¿Por qué? Porque si no, no te prestarán más dinero nunca, por ejemplo. Decir, estamos ante una sentencia probable. Dice: "No, mire, yo conozco a una serie de gente que es muy tonta, me va a prestar dinero igual."
+
+
+[1:19:22] Dice: "Ah, entonces ponte un banco, que lo tuyo está clarísimo. Estás predestinado a ser banquero. La pirámide es lo tuyo", dice. Ya. Entonces, estas son sentencias fácticas y probables.
+
+
+[1:19:35] Dice: "Es probable que te presten más dinero si nunca lo devuelves", dice. Si eres banquero, sí. Dice: "Si no, está francamente difícil. Deberás por lo menos devolver una parte y poner cara de que quieres devolver el resto antes de pedir más."
+
+
+[1:19:49] No, pero si decimos: "Oye, debes devolver lo que te prestan." ¿Por qué, si solo conozco a tontos que me van a seguir prestando? Dice: "Porque es indigno que no lo hagas. Debes hacerlo. Alguien depositó en ti su confianza. Puedes hacerlo, luego debes hacerlo."
+
+
+[1:20:11] No estamos diciendo que irrestrictamente tú debes hacer una cosa siempre que puedas. Entonces vemos perfectamente cuándo se separa la sentencia útil y vemos amanecer a la sentencia ética, que es irrestricta.
+
+
+[1:20:28] Pero ¿quién dijo que las sentencias éticas eran irrestrictas? No Wittgenstein, lo dijo Kant. ¿Qué es una sentencia ética? Dice: una que no tenga restricciones. Si tiene restricciones, no es ética.
+
+
+[1:20:41] Por lo tanto, ¿qué sabemos de Wittgenstein después de su pregunta? Que era kantiano. Es decir, lo que tiene que tener una sentencia es la característica que le dio Kant. Y si no, no es una sentencia ética.
