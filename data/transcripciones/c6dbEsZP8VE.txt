@@ -1,0 +1,631 @@
+﻿[00:36] >> Conferencista (nombre desconocido): Bueno, buenas tardes a todos. En primer lugar, bueno, me voy a dirigir brevemente a... Creo que ahora estoy mirando a la cámara, porque voy a pedir perdón a todos los que me están viendo, digamos, a través de la Universidad Virtual, o por internet, o como sea, porque en general yo me voy a sentir más cómodo mirando a los que están aquí presencialmente.
+
+
+[01:00] Entonces, bueno, esto va a ser prácticamente como una clase, como una conferencia, y pues simplemente no voy a estar mirando todo el rato a la cámara.
+
+
+[01:10] Bueno, este es un curso introductorio a una conferencia que dará dentro de una semana Javier Echeverría, que es uno de los filósofos de la ciencia más reputados. Él es español, y él dará una conferencia que se titula La revolución tecnocientífica. Este es un curso introductorio a esa conferencia.
+
+
+[01:37] Entonces, a mí me gustaría, en estas 4 horas que tenemos, dos hoy y dos mañana, dar una visión de conjunto de lo que ha sido básicamente el desarrollo de la filosofía de la ciencia, relacionándolo también con la sociología de la ciencia, la historia de la ciencia. Veremos a ver cómo se puede hacer esto, sobre todo durante los últimos 40 años.
+
+
+[02:07] Ya sé que es una tarea un poco difícil tratar de dar toda esta información, pero a mí me gustaría, sobre todo, que tuvieran, ya digo, una visión de conjunto para poder llegar a la conferencia de la semana que viene ya con unas ciertas ideas.
+
+
+[02:24] Antes de nada, voy a decirles... Bueno, a lo largo de este tiempo voy a ir mostrándoles algunos de los libros que considero que pueden ser interesantes para ustedes. El libro del que más información he sacado, que a mí me parece excelente, es precisamente un libro de Javier Echeverría, que es este de aquí.
+
+
+[02:51] No sé muy bien si la... Creo que hay una cámara aquí. No sé si dejo esto, si pueden enfocar eso. Así. Bueno, se titula Introducción a la metodología de la ciencia: la filosofía de la ciencia en el siglo XX, de Javier Echeverría.
+
+
+[03:06] Es pura casualidad que sea justo él el conferenciante principal de este tema, ¿no?, en la Cátedra Alfonso Reyes. Ya digo que es uno de los libros, para mí, más completos, que va a tratar prácticamente todas las cuestiones que voy a tratar aquí, ¿no?
+
+
+[03:22] Otro libro que es muy famoso a nivel internacional es este: es el libro de Chalmers, que es ¿Qué es esa cosa llamada ciencia?, Siglo XXI, una valoración de la naturaleza y el estatuto de la ciencia y sus métodos.
+
+
+[03:39] A mí particularmente me gusta más el libro de Javier Echeverría. Este libro es un libro que yo lo aconsejo mucho para empezar, para alguien que nunca ha oído hablar de todas estas cuestiones, porque es, de los libros que conozco, el más sencillo; o sea, aborda todos los temas con una gran simplicidad.
+
+
+[03:59] El libro de Echeverría es ya más profundo, pero claro, ya cuando llega a un cierto nivel, creo que el libro de Echeverría va mucho más a todas las cuestiones, y sobre todo a todo lo que son los estudios sociales de la ciencia, que es a lo que me voy a referir sobre todo en la segunda, vamos, espero, en la segunda hora de hoy y todo el día de mañana.
+
+
+[04:22] Bueno, me gustaría empezar en un hito que ocurrió en 1962, que es la publicación de un libro de Thomas Kuhn titulado La estructura de las revoluciones científicas. Es un hito en la filosofía de la ciencia porque dio un enfoque social a la filosofía de la ciencia, que hasta entonces prácticamente se había dedicado sobre todo a la epistemología; un enfoque historicista, y rompe con la diferencia entre el contexto de descubrimiento y el contexto de justificación.
+
+
+[05:00] Ahora explicaré qué es esto del contexto de justificación y el contexto de descubrimiento, que para mí es muy importante que se entienda bien. Básicamente, Kuhn fue como el pistoletazo de salida de todo lo que vendría después, ¿no?, de todo el, bueno, ya yo casi diría, lío de todas las últimas décadas.
+
+
+[05:18] Todos los estudios sociales de la ciencia, los estudios de ciencia, tecnología y sociedad, la filosofía de la experimentación, en fin, muchas disciplinas relacionadas. O sea, no podemos decir "esto es filosofía de la ciencia, esto es sociología de la ciencia"; se relaciona con la antropología, con la lingüística. Bueno, en fin, ya saben, la posmodernidad, de la cual podremos hablar un poquito mañana, espero.
+
+
+[05:49] Sin embargo, para poder ver todo el cambio que hubo en 1962, y todo lo que vendría después con la publicación de este libro de Kuhn, hay que retrotraerse un poco a lo anterior.
+
+
+[06:05] Primero voy a hablar un poco del positivismo lógico. Bueno, ¿qué es el positivismo lógico? El positivismo lógico, básicamente, es la primera escuela de filosofía de la ciencia como tal, que nació a principios del siglo XX con una clara razón de ser, y es explicar qué es lo propiamente de la ciencia.
+
+
+[06:31] Fíjense, se tienen que colocar siempre en el contexto histórico y social de la época. O sea, después del siglo XVIII [?] y del siglo XIX, la ciencia había conseguido ya un prestigio sin precedentes, la ciencia y la tecnología. Es la época en la que, bueno, hay una gran revolución en la física: la relatividad de Einstein, la mecánica cuántica. Entonces, algunos científicos y filósofos empezaron a preguntarse qué es lo específico de la ciencia.
+
+
+[07:04] Esta, digamos, escuela filosófica se concretó en lo que se conoce como el Círculo de Viena, que duró prácticamente hasta la Segunda Guerra Mundial. Posteriormente sus trabajos fueron continuados por lo que se ha dado en llamar la concepción heredada.
+
+
+[07:23] Algunos de los nombres más importantes son Carnap, Neurath, Hempel, Nagel. En fin, ellos estuvieron muy influidos por figuras como Bertrand Russell, Albert Einstein y, sobre todo, Ludwig Wittgenstein.
+
+
+[07:38] Bueno, saben quizá, espero, habrán oído hablar de este filósofo, que es muy importante. Normalmente se considera que hay dos etapas muy claramente diferenciadas: se suele hablar del primer Wittgenstein y el segundo Wittgenstein. El que influyó en el positivismo lógico fue el primero, el que escribió una obra muy importante, que es el Tractatus, el Tractatus logico-philosophicus.
+
+
+[08:04] Bien, ellos beben de, o sea, adquieren ideas de los positivistas como tal, como Comte o Mach. Ya saben que el positivismo es una escuela filosófica del siglo XIX que considera, entre otras muchas cosas, que la ciencia es lo principal; o sea, la ciencia tiene que ser la base prácticamente de cualquier conocimiento, de tipo ético, estético, en fin, de todo.
+
+
+[08:37] Ellos toman esas ideas del positivismo, pero le añaden los últimos avances en lógica que había habido a finales del XIX y principios del XX, con figuras tales como Frege, el propio Bertrand Russell. El resultado fue que ellos demarcaron muy fuertemente, es decir, separaron entre lo que es la ciencia y lo que no es la ciencia, lo que llaman la pseudociencia o la metafísica.
+
+
+[09:06] Para ellos, las teorías, las leyes científicas, parten de enunciados estrictamente observacionales. Eso, claro, está totalmente dentro de lo que es el positivismo, que a su vez es una consecuencia del empirismo. Es decir, todo venía de la pura observación.
+
+
+[09:26] Entonces, esos enunciados... O sea, para ellos era muy, muy importante el lenguaje de la ciencia. Esto lo tienen que relacionar con lo que les he dicho de Wittgenstein; ya saben que Wittgenstein dio muchísimo énfasis al lenguaje. ¿Cuál es el lenguaje de la ciencia?, ¿qué debe tener la ciencia? Pues es lo que se conoce como el lenguaje fisicalista.
+
+
+[09:54] Tienen que tener en cuenta lo que les he dicho ahora, ¿no?, que la física tuvo una enorme, enorme influencia en esa época, y sobre todo era vista como la ciencia empírica más importante, a la cual se tendría que amoldar cualquier otra ciencia que quisiera tener el título de ciencia.
+
+
+[10:17] Ellos ponen mucho énfasis en la verificación, en la verificación de las teorías por medio de la empiria, es decir, por medio de la observación de los sentidos. Dan mucha importancia a la inducción y también a la reducción. Es decir, todas las ciencias tienen que reducirse: por ejemplo, la sociología a la psicología, la psicología a la biología, la biología a la química, la química a la física.
+
+
+[10:47] Es decir, que la química se pueda explicar en términos físicos, la biología en términos químicos, porque para ellos había solo un método científico: el método científico.
+
+
+[10:59] Uno de los filósofos del positivismo lógico, llamado Reichenbach, distinguió entre el contexto de descubrimiento y el contexto de justificación. Esto es muy importante; me gustaría que lo entendieran bien, porque vamos a hablar de ello varias veces, para que vean cómo esto influyó en la filosofía de la ciencia durante la primera mitad del siglo XX, y luego ya a partir de los años 60.
+
+
+[11:26] Bueno, básicamente, el contexto de descubrimiento de la ciencia, si quieren, de una teoría científica, se refiere a cuál ha sido la forma en la que esa teoría se ha elaborado históricamente, cuál ha sido la relación de la sociedad, la relación de la economía, de la política; es decir, todo el contexto social. Y para ellos eso lo tenía que estudiar la historia de la ciencia.
+
+
+[12:00] Y está el contexto de justificación. El contexto de justificación es una reconstrucción lógica de los procesos científicos, básicamente viendo solo los procesos internos, es decir, sin tener para nada en cuenta las circunstancias históricas y sociales en las que eso se vino a dar.
+
+
+[12:20] Es decir, sería, para que me entiendan bien, por ejemplo: si nos estamos refiriendo a los avances en la mecánica de Galileo, pues la filosofía de la ciencia solo se tendría que dedicar a esto, al contexto de justificación. Es decir, para nada tendría que considerar la labor de Galileo para dar a conocer el copernicanismo, todos los problemas que tuvo con la Iglesia, su proceso; nada. Simplemente sería ver la mecánica de Galileo desde un punto de vista puramente interno, lógico.
+
+
+[13:04] Entonces, claro, ahí ya separaban lo que es la filosofía de la ciencia, que se dedicaba a esto, al contexto de justificación, y la historia de la ciencia, que se dedicaba enteramente al contexto de descubrimiento.
+
+
+[13:21] ¿Cuál es la consecuencia de todo esto? Bueno, pues que la filosofía de la ciencia, prácticamente hasta los años 60, fue epistemología; es decir, se dedicó al conocimiento científico, puramente al conocimiento, nada relacionado con cuestiones sociales. Luego veremos cuál fue el gran cambio que ocurrió en los años 60.
+
+
+[13:46] Todo esto dura hasta los años 60. Durante todo el tiempo que duró el positivismo lógico, ya digo, desde los años 20, recibió muchas críticas: críticas relacionadas con el problema de la inducción, que ya había mostrado David Hume dos siglos antes; otras críticas de filósofos de la ciencia como Quine, como Putnam o, por ejemplo, como Hanson.
+
+
+[14:17] Hanson decía que dentro de la observación hay teoría. Porque, claro, uno de los postulados, prácticamente podemos decir, del positivismo lógico es que el proceso científico empieza estrictamente con la observación. Pero, claro, para poder observar, sobre todo en el mundo de hoy, necesitamos instrumentos tecnológicos, y los instrumentos tecnológicos están basados en teorías científicas. Entonces, no podemos separar la observación de la teoría, ¿no?
+
+
+[14:53] Bueno, básicamente recibieron muchas críticas; ellos fueron arreglando como pudieron su sistema. Y vamos ya a los que serían algunos de los críticos más importantes. Hay que nombrar, sobre todo, a Karl Popper.
+
+
+[15:11] Popper es considerado, sin duda, como uno de los filósofos de la ciencia más importantes del siglo XX. Él es el creador, o el iniciador, de lo que se conoce como el falsacionismo. ¿Qué significa esto de falsacionismo? Bueno, el falsacionismo es que él rompe con la idea de que a las teorías científicas lo que hay que hacer es verificarlas. Él dice que una ciencia, para que sea ciencia, tiene que estar sujeta a ser falsada.
+
+
+[15:42] Él inicia todo su estudio comparando varias teorías que estaban muy en boga en su tiempo, estamos hablando de los años 20, años 30, como son la teoría de la relatividad de Einstein y la teoría de la historia de Marx, la teoría del psicoanálisis de Freud, la teoría del individuo de Adler.
+
+
+[16:08] Él compara estas teorías y ve que la teoría de Einstein es refutable; es decir, que predice que pueden ocurrir unas cosas. En este caso, Einstein lo que predijo es que la luz de las estrellas muy cerca del sol se curvaría por la curvatura del espacio, que es algo que a nadie se le había ocurrido.
+
+
+[16:28] Entonces, bueno, durante un eclipse de sol se fueron ahí a los mares del sur a observar unos astrónomos y descubrieron que, efectivamente, la luz de las estrellas, al pasar muy cerca del sol, se curva, con lo cual el espacio se curva. Eso era una posible falsación.
+
+
+[16:46] Ahora bien, el problema que tiene, por ejemplo, la teoría de Marx o la de Freud es que son imposibles de falsar. Cualquier cosa que uno haga, por ejemplo, en la psicología de Freud, puede ser explicada. Es como la astrología.
+
+
+[17:03] O sea, si en astrología decimos: "Usted, ¿qué es? Aries. Ah, pues hoy podría tener suerte en los asuntos sentimentales". Díganme: ¿cómo se puede falsar eso? Si uno tiene suerte, dice: "Ah, pues qué bueno". Pero si uno no tiene suerte, pues eso no falsa, porque dice: "Podría tener suerte, pero también podría no tenerla".
+
+
+[17:25] Entonces, él dice: "Bueno, una ciencia es ciencia siempre que se pueda falsar". Y claro, el chiste está en que no se false; el chiste está en que resista las pruebas, los posibles falsadores.
+
+
+[17:43] Bueno, esto es lo más fundamental de Popper, pero tiene otras cosas muy importantes que voy a nombrar brevemente. Por ejemplo, el énfasis que da a las teorías. Esto será muy, muy importante para más adelante, cuando lleguemos a lo que se ha considerado en los últimos años, ¿no?, el nuevo rumbo de la filosofía de la ciencia, relacionándolo con la experimentación. Él ponía mucho énfasis en las teorías.
+
+
+[18:07] Él hizo como una metáfora que se convirtió, bueno, en algo muy famoso, que dice que la ciencia lanza redes al mundo para pescar [?]. O sea, las teorías son como las imágenes de la realidad. Entonces, las teorías nosotros las lanzamos al mundo para pescar hechos científicos. Entonces, claro, cuanto más fina sea la red, la malla, mejor podemos explicarlo.
+
+
+[18:39] Claro, él habla de realidad y habla de verdad. O sea, la ciencia nos acerca a la verdad. Y habla de realidad: él es realista, o sea, él sí cree que hay una realidad, y las teorías científicas nos van acercando cada vez más a esa realidad. Esto, claro, es una de las cosas que luego criticarían algunos filósofos de la ciencia posteriores.
+
+
+[19:10] Bien, es muy importante que nos demos cuenta de que Popper no es una brecha con respecto al positivismo lógico. O sea, simplemente lo que hizo fue cambiar el verificacionismo, el hecho de verificar las teorías, por el hecho de falsar las teorías. Pero, digamos, los fundamentos eran los mismos.
+
+
+[19:32] O sea, la ciencia es la idea que nosotros tenemos de ciencia, que nos han enseñado de pequeñitos: la ciencia es objetiva, es neutral, o sea, está carente de valores, nos acerca cada vez más a la realidad, a la verdad. Y, sobre todo, eso: el poner un gran énfasis en las teorías.
+
+
+[19:57] Bueno, no sé si se va entendiendo todo. Yo espero... No sé si ustedes creen que voy muy deprisa; pues me lo dicen, ¿no? Porque lo que pasa es que son muchos los temas que hay que tratar. Entonces, yo parto de la base de que muchos de ustedes ya han oído hablar de estas cuestiones. Si hay alguien que se pierde, si quiere hacer alguien del público alguna pregunta puntual, me la puede hacer. Si no, recuerden que al final de la segunda hora de hoy va a haber turno de preguntas.
+
+
+[20:29] Llegamos ya a Kuhn, Thomas Kuhn, que es como el que cambia el rumbo de la filosofía de la ciencia. Él hizo un libro que se titula La estructura de las revoluciones científicas. Por cierto, antes se me ha olvidado mostrarles este libro de Popper, que es uno de los más famosos: Conjeturas y refutaciones. Lo tienen en Paidós [?].
+
+
+[20:56] Porque para él, para Popper, la ciencia es así: hace conjeturas que trata de refutar. Es lo que decimos, ¿no?, el falsacionismo. Es uno de sus libros más famosos. Y sin duda, sin duda, el libro más famoso de Thomas Kuhn es este: La estructura de las revoluciones científicas. Lo tienen en el Fondo de Cultura Económica, o sea, es baratísimo y lo pueden encontrar en cualquier sitio. Es un libro muy chiquito. Bueno, aquí no sé, quizás no se hacen ni idea; bueno, ya ven mi mano, ¿no?
+
+
+[21:29] Es un libro chiquito, pero tuvo una enorme, enorme influencia. Básicamente, ¿qué es lo que dice Kuhn? Él dice que la ciencia no avanza de forma continua, como decían todos los anteriores, sino que hay saltos, que son las revoluciones científicas.
+
+
+[21:45] Para él es muy importante el concepto de paradigma. Bueno, seguramente ustedes han oído hablar mucho de la palabra paradigma, que está muy de moda, ¿no?, en nuestra sociedad. Básicamente fue Kuhn el que puso de moda esta palabra, el paradigma.
+
+
+[22:03] ¿Qué es un paradigma? Pues un paradigma es prácticamente una forma de ver la vida; en este caso, bueno, refiriéndonos a la ciencia. O sea, el cambio que hubo, por ejemplo, de lo que él llama el paradigma geocéntrico al paradigma heliocéntrico, el cambio de la física de Aristóteles a la física de Galileo y de Newton, son cambios de paradigma.
+
+
+[22:29] Eso significa que son dos formas de ver el mundo tan distintas que no las podemos comparar: son inconmensurables, como decía Kuhn. Es decir, nosotros no podemos decir que la física de Newton es mejor que la física de Aristóteles, sino que simplemente están en otro orden de visión de las cosas.
+
+
+[22:57] Entonces, ¿cuál es el proceso de la ciencia? Bueno, primero hay una época de preciencia: no hay unos principios básicos en los que todos los científicos estén de acuerdo. Sería, por ejemplo, en Grecia, antes de surgir el paradigma geocéntrico, que había varias ideas: que si todo venía del agua, como decía Tales, o que si venía del aire, o que si venía de un principio distinto, o que si era así o que si era de otra forma, o si eran esferas, o si era plano, o qué sé yo. Eso es una etapa de preciencia.
+
+
+[23:39] Luego ya esa disciplina empieza a ser puramente científica cuando triunfa un paradigma. Entonces se inicia una época de ciencia normal, lo que se conoce como ciencia normal, en la que lo que ocurre es que básicamente todos los científicos están de acuerdo en el paradigma y entonces están trabajando en problemas dentro de ese paradigma.
+
+
+[24:07] O sea, eso sería lo que nosotros consideramos normalmente la idea del avance continuado de la ciencia. Lo que pasa es que muchas veces hay anomalías; o sea, hay experimentos y hay observaciones que van en contra de lo que es el paradigma. ¿Eso significa que tenemos que echar abajo la teoría, el paradigma?
+
+
+[24:29] Eso es muy importante que lo vean. Ahí se opone a Popper, porque Popper decía: "Bueno, si yo hago una observación y eso echa abajo la teoría, la teoría se falsa y, por tanto, hay que descartarla". Kuhn dice: "No, por favor. Eso no sucede así".
+
+
+[24:45] O sea, si nosotros hacemos un experimento de mecánica, por ejemplo, situándonos en el paradigma newtoniano, con bolitas que caen por un plano inclinado, si resulta que hacemos el experimento y nos sale que eso va en contra de las leyes de Newton, ¿de qué vamos a dudar? ¿Del experimento o de las leyes de Newton? Pues del experimento. Diremos: "Hemos hecho mal el experimento".
+
+
+[25:12] O, si hemos hecho bien la observación, decimos: "No, es que hay algo por ahí que perturba". Si vemos un planeta y no sigue exactamente la trayectoria que tiene que seguir, pues a lo mejor es que hay otro planeta por ahí que lo está perturbando, o una nube de gas, o hay un campo electromagnético, o qué sé yo; pero no vamos a dudar de las leyes de Newton.
+
+
+[25:35] Eso es muy importante que lo tengan en cuenta. Entonces, bueno, finalmente lo que ocurre es que llega una época de crisis, en la que las anomalías son tantas y tan diversas que el paradigma ya se tambalea. Entonces hay una época en que hay varias ideas, y finalmente hay lo que se llama una revolución científica, y un nuevo paradigma surge y triunfa, que crea una nueva etapa de ciencia normal, a la que al final vendrá otra crisis, un nuevo paradigma, etcétera, etcétera. Ese es el camino de la ciencia.
+
+
+[26:09] Fíjense que él, aunque no habla de criterio de demarcación así, puro y duro, básicamente sí establece una diferencia entre lo que es la ciencia y lo que no son las ciencias. Según esto, las ciencias sociales no son ciencias.
+
+
+[26:27] Porque, díganme, en psicología, por ejemplo, ¿qué paradigma ha triunfado? Pues no, hay varios paradigmas, hay varias ideas: está el psicoanálisis, está el conductismo, está la Gestalt. Díganme, en economía, ¿cuál es, digamos, el paradigma que ha triunfado?
+
+
+[26:46] Bueno, ahora en gran parte casi todos están dentro del paradigma neoliberal, pero es por otras cuestiones, ¿no?, por cuestiones puramente ideológicas: sucedió [?] una Guerra Fría, y ganó uno y perdió el otro. O sea, no es por más. Pero es importante que consideren que hay varias opciones: está el marxismo, están las ideas de Keynes; no hay una en la que estén todos de acuerdo en que es la buena. Bueno, pues, según eso, la economía no es una ciencia.
+
+
+[27:15] Es muy importante también que él es considerado el padre del historicismo. ¿Qué significa esto? Bueno, para saber qué es la ciencia hay que ir a lo que es la historia de la ciencia. Él, en su libro, en el libro que les he mostrado, La estructura de las revoluciones científicas, todo el tiempo está dando ejemplos históricos.
+
+
+[27:38] Porque él dice: "Bueno, no tiene sentido preguntarnos qué es la ciencia sin ir a los ejemplos concretos, a cómo ha sido la ciencia durante la historia". A partir de él, todos los demás ya echarían mano de la historia. De hecho, se puede decir que a partir de Kuhn la historia de la ciencia cobró muchísimo énfasis, todos los estudios de historia de la ciencia.
+
+
+[28:01] Otra cosa muy importante: con él se abren los estudios sociales de la ciencia. Él rompe la distinción entre el contexto de descubrimiento y el contexto de justificación. O sea, para él no tiene sentido eso. Entonces, claro, la filosofía de la ciencia no solo se tiene que preocupar de validar la teoría científica, sino que tiene que ir al descubrimiento, por lo que les acabo de decir.
+
+
+[28:29] Hay que considerar los aspectos sociológicos, los aspectos históricos, los aspectos económicos, los aspectos políticos, los aspectos psicológicos, ¿no?, de los que han elaborado las teorías científicas. Eso rompe la distinción entre el contexto de descubrimiento y el contexto de justificación.
+
+
+[28:52] Y lo que también es muy importante es que le critican por su relativismo y su irracionalidad. ¿Por qué? Bueno, pues fíjense: al fin y al cabo, si los distintos paradigmas son inconmensurables y no los podemos comparar, si no podemos decir... ¿Por qué triunfó la mecánica de Galileo, por ejemplo, en su tiempo, oponiéndose a la que estaba en boga durante cientos de años, que era la de Aristóteles? Bueno, pues por las cuestiones sociales, históricas, todo eso.
+
+
+[29:28] Pero finalmente es otra forma de ver la vida, otra forma de considerar, en este caso, la disciplina de la mecánica. Bueno, entonces, si son inconmensurables, si son incomparables, pues básicamente no podemos decir que uno sea mejor que otro. Entonces, eso es llevar al relativismo, y no solo eso, sino a la irracionalidad.
+
+
+[29:49] ¿Dónde queda la idea de la ciencia que avanza hacia unas formas más altas, más racionales, ¿no?, más cercanas a la realidad? ¿Dónde queda eso? Esas fueron las críticas que recibió Thomas Kuhn.
+
+
+[30:11] Y otro de los grandes filósofos que intentó unir a Popper y a Kuhn fue Imre Lakatos. Lakatos intentó volver al racionalismo, intentó poner un poco de orden. Él se opuso a Kuhn, pero lo bueno es que tomó muchas ideas de Kuhn para mejorar el sistema del falsacionismo, el sistema de Popper.
+
+
+[30:40] Claro, él se oponía a Popper en el sentido de que lo consideraba demasiado ingenuo; lo que les he dicho, ¿no? O sea, cuando uno hace un experimento y resulta que eso contradice la teoría en boga, pues eso no invalida para nada la teoría, sino que simplemente hay que buscar hipótesis ad hoc, lo que llaman las hipótesis ad hoc.
+
+
+[31:10] Entonces, él habla de lo que son los programas de investigación, que sería algo similar a los paradigmas. Es decir, en un programa de investigación hay un núcleo duro, lo que llama el núcleo duro, núcleo firme, que sería, por ejemplo, en el programa de investigación newtoniano, las leyes de Newton.
+
+
+[31:30] O sea, uno que esté dentro de ese programa de investigación, o dentro del paradigma, dicho en términos kuhnianos, ya digo que se relaciona mucho, no puede dudar de las leyes de Newton. Entonces, ese núcleo duro se rodea de hipótesis, ¿no? Entonces, nos da idea de qué es lo que el científico, dentro de ese programa de investigación, puede investigar y qué no puede investigar.
+
+
+[32:01] Entonces, ya digo que él prácticamente tomó ideas de Kuhn. Bueno, él por supuesto siempre puso [?], o sea, estaba ya dentro del historicismo, le dio énfasis a la historia de la ciencia. Él distinguió entre la historia de la ciencia interna y externa, o internalista y externalista, que son categorías que se usan hoy en día.
+
+
+[32:24] Y, por otra parte, pues eso, polemizó con Kuhn y con otros posteriores que vamos a ver ahora, como Feyerabend, en el sentido de decir: "Bueno, es que realmente hay una realidad, hay una verdad". O sea, no podemos decir que son equivalentes la física de Aristóteles y la de Newton; pues la de Newton explica mejor la realidad, y ya está, ¿no?, simplemente. Entonces, ya digo que él logró unir las dos cosas.
+
+
+[32:58] Voy a hablar ahora de Paul Feyerabend, que fue un gran amigo de Imre Lakatos, y que se opuso también totalmente a él. Lo que pasa es que Lakatos murió relativamente joven, en 1974. Entonces, Feyerabend escribió un libro muy famoso, que es Tratado contra el método, que lo dedicó a Lakatos.
+
+
+[33:25] Bueno, voy a mostrarles otra vez libros. Este es uno de los libros más famosos de Lakatos: Escritos filosóficos: la metodología de los programas de investigación científica. Aquí tienen una fotografía de Lakatos. Tratado contra el método, de Feyerabend.
+
+
+[33:48] Este libro es bueno; si no lo conocen, si no lo han leído, se los aconsejo, aunque solo sea para pasar un rato divertido, porque es tan polémico que dice cosas muy, muy extrañas, ¿no? Él se opone totalmente a la existencia de un método científico. Él escribe este libro dedicado a Lakatos, pero sobre todo con la idea de polemizar contra Lakatos.
+
+
+[34:13] Dice: no, no hay un método científico, sino que hay muchas, digamos, muchas posibilidades, muchas posibles teorías, y la ciencia no avanza por un solo camino. De hecho, él dice precisamente que la ciencia es igual de válida que el arte, o la magia, o la astrología. Él se opone a todo, o sea, casi casi por principio. No hay demarcación entre ciencia y no ciencia y pseudociencia.
+
+
+[34:48] En fin, él dice cosas bastante fuertes. Por ejemplo, dice que la ciencia está unida al Estado debido a la ideología, y él dice que debería haber una separación entre ciencia y Estado, igual que en tiempos hubo una separación entre religión y Estado.
+
+
+[35:04] De hecho, él habla mucho también de la educación. Dice que, bueno, a los niños, cuando empiezan a estudiar, tendrían que darles la opción de elegir entre estudiar ciencia, física, por ejemplo, o estudiar mitos, o estudiar religión, o estudiar vudú. O sea, ¿por qué no?
+
+
+[35:24] Sobre todo, lo que él quiere es la libertad. Estuvo muy influido por un libro de Mill [?] llamado On Liberty, Sobre la libertad. Él quiere libertad, la multiplicidad de teorías. Para él, el que haya muchas teorías es muy positivo.
+
+
+[35:41] Con esto ya prácticamente entramos en lo que es todos los estudios sociales de la ciencia. Ahora me gustaría que se hicieran idea de en qué época estamos. Estamos hablando de los años 60 y 70. Me gustaría que se hicieran idea de... bueno, los que vivieron esa época, y los que no, pues han oído hablar de mayo del 68, los hippies, la búsqueda de la libertad en muchos sentidos, ¿no?
+
+
+[36:15] La época de la New Age, la búsqueda de cosas esotéricas; yo qué sé, mucha gente se iba, los hippies se iban ahí a las comunas y practicaban el amor libre, las drogas... O sea, que se coloquen dentro de esa idea, ¿no? Toda la crítica que hubo a la guerra de Vietnam.
+
+
+[36:37] Entonces, tanto Feyerabend como todos los que vendrían después hay que situarlos totalmente dentro de esa idea. Y, claro, estuvieron muy influidos por Marx, por el marxismo, el maoísmo. Fíjense, les voy a leer una cita de Feyerabend, dos pequeños fragmentos del libro este, del Tratado contra el método:
+
+
+[37:07] "En consecuencia, la invención de alternativas al punto de vista que ocupe el centro de la discusión constituye una parte esencial del método empírico". Y más adelante también dice: "En resumen, la unanimidad de opinión tal vez sea adecuada para una iglesia, para las asustadas y ansiosas víctimas de algún mito, antiguo o moderno, o para los débiles y fanáticos seguidores de algún tirano. La pluralidad de opinión es necesaria para el conocimiento objetivo, y un método que fomente la pluralidad es además el único método compatible con una perspectiva humana".
+
+
+[37:41] Ahora comparen esto que les acabo de leer, o sea, la idea de que es importante para el avance de la ciencia la pluralidad de opinión, con un pequeño fragmento que dice así: "Que se abran cien flores y compitan cien escuelas de pensamiento es la orientación para promover el desarrollo del arte y el progreso de la ciencia, para hacer florecer la cultura socialista de nuestro país.
+
+
+[38:06] Pueden desarrollarse libremente distintas formas y estilos en el arte, y competir libremente diferentes escuelas en la ciencia. Consideramos que es perjudicial al desarrollo del arte y de la ciencia recurrir a medidas administrativas para imponer un particular estilo de arte o escuela de pensamiento y prohibir otro.
+
+
+[38:24] El problema de lo correcto y lo erróneo en el arte y en la ciencia debe resolverse mediante discusiones libres en los círculos artísticos y científicos, a través de la práctica del arte y de la ciencia, y no de manera simplista".
+
+
+[38:34] Bueno, como veis, se parece mucho. Esta cita, que no les he dicho de quién es conscientemente, ahora se los digo: es del Libro rojo de Mao, nada menos. Para que vean que en esa época los intelectuales estuvieron muy influidos por las ideas, ya digo, marxistas, e incluso maoístas.
+
+
+[38:58] Claro, otra cosa es... Esta cita es muy bonita; Mao no la aplicó para nada. O sea, a todos los críticos de su régimen los mandó al campo, ¿no?, durante la Revolución Cultural. Pero la idea es que se den cuenta de que una parte de los intelectuales de izquierdas de esa época, como Feyerabend y como todos los que voy a nombrar ahora, estaban dentro de ese ambiente. Y dentro de ese ambiente es donde hay que situar todo lo que son los estudios críticos de la ciencia y los estudios sociales de la ciencia.
+
+
+[39:38] Bien. ¿Cuáles serían las críticas a la ciencia que se hicieron en esa época y hasta la actualidad? Podemos decir, bueno, que hubo críticas de tipo económico, por ejemplo, o sea, relacionadas con que para unas investigaciones se da dinero y para otras no.
+
+
+[40:01] Por ejemplo, críticas ecológicas. O sea, ahora podemos imaginarnos, ¿no?, todas las críticas que hay a cuestiones científicas y técnicas relacionadas con el agujero en la capa de ozono, todo el desgaste de la Amazonia, todas estas cosas. Críticas de tipo moral: ahí entraría, por ejemplo, la biotecnología, cuestiones como la clonación.
+
+
+[40:27] La brecha Norte-Sur, que son también críticas de tipo económico: o sea, los países ricos cada vez más ricos y los pobres cada vez más pobres. Críticas de tipo político, relacionadas con la ideología, con el control social.
+
+
+[40:41] Todo esto se relaciona con la axiología. Ya saben que la axiología es el estudio de los valores, que es algo que mañana trataremos, y en lo cual se ha metido mucho Javier Echeverría.
+
+
+[40:54] Entonces, bueno, pues sobre todo en los años 60 y 70 hubo críticas brutales, a veces irracionales y tendenciosas. O sea, fue llevar totalmente todo a lo contrario. Y, ya digo, tienen que considerar eso: los intelectuales de izquierdas que se oponían a la ciencia y la tecnología, y a la guerra de Vietnam, y al poder. Y entonces se iban, yo qué sé, a una playa perdida de Baja California a poner ahí su comuna, a plantar sus tomates y sus papas, y a vivir de la forma más natural posible, ¿no?
+
+
+[41:32] En fin, hubo críticas muy duras, que fueron básicamente como una reacción a décadas de epistemología y de ver a la ciencia como algo puro, algo fuera de todo el contexto social y de toda culpa, entre comillas. O sea, veían la ciencia como algo totalmente neutral, neutral desde el punto de vista moral, ¿no?, o ético, más bien.
+
+
+[42:10] El punto de partida, ya digo, fue Kuhn; uno de los primeros y más radicales fue Feyerabend, y estas críticas en gran parte se dieron con influencia marxista. Hubo en esa época, en la época de mayo del 68 y todos esos años, mucho debate en todos los círculos intelectuales y en las universidades. Hubo muchos debates y muchos manifiestos, que se han perdido, pero otros quedan.
+
+
+[42:36] Les voy a leer ahora un fragmento de... esto sí que no, bueno, no es un libro, esto es un manifiesto que encontré hace unos años, hace 10 años, en el 93, cuando yo estaba estudiando la carrera de Física. Me interesé mucho por todas estas cuestiones, y entonces encontré algo que habían escrito los físicos 20 años antes, en el año 1973.
+
+
+[43:04] Que fue, bueno, es algo increíble lo que escribían, sobre toda la crítica que hubo, ¿no?, en su época; casi casi una revolución hicieron ahí dentro, en la Universidad de Zaragoza, que es de la que yo procedo. Entonces, les voy a leer un fragmento de ese manifiesto, que para mí es muy, muy claro con respecto a lo que les estoy comentando.
+
+
+[43:31] O sea, fíjense, esto es algo que escribieron los estudiantes de quinto de Física de la Universidad de Zaragoza, en España, en 1973:
+
+
+[43:42] "Habría que tener en cuenta la idea que tienen de ciencia los profesores. En las conversaciones con ellos siempre han manifestado su desacuerdo y sorpresa a que no diéramos culto, dedicación total, con ausencia de cualquier otro planteamiento social, cultural o de cualquier otro tipo, a su dios ciencia.
+
+
+[44:07] El descubrimiento por nuestra parte de la no neutralidad de la ciencia, la necesidad de hacer algo útil a la sociedad, la necesidad de alcanzar una capacitación objetiva para poder ser profesionales, etcétera, nos han llevado a invalidar el estudiar por estudiar, estudiar por placer, para uno mismo, porque le gusta la física.
+
+
+[44:29] Para ellos, el interés por cursar la carrera no depende de la conexión de ella con el mundo en que se viva, con la posible profesionalidad, ni de la utilidad de la investigación realizada, entendida como una utilidad que sobrepase los intereses de una firma comercial o el confort de unos privilegiados. El interés nace de la misión sagrada de la ciencia, de la posibilidad que ofrece de descubrir cosas, independientemente de que sirvan para algo, de cómo se vayan a utilizar y a quién vayan a beneficiar".
+
+
+[45:01] En este fragmento podemos ver muy bien todas estas críticas de estos grupos izquierdistas. Ellos hablan del "dios ciencia"; o sea, ellos ven la ciencia como una religión. Esto, de hecho, es una comparación que se llevó a cabo sobre todo en esos años, y que todavía a veces se dice, ¿no?: el considerar a los científicos como los nuevos sacerdotes de la nueva religión, que es la ciencia.
+
+
+[45:26] Y ellos también buscan la utilidad de la ciencia; claro, la utilidad para el pueblo, no la utilidad para una clase de privilegiados, sino la utilidad para todo el mundo.
+
+
+[45:39] Ellos hablan de la ciencia, pues eso, como una religión, y también dicen que los científicos venden su trabajo al capital. Ellos están dentro de, digamos, ese lenguaje marxista: dicen que los científicos no son independientes, que venden su trabajo a la gran industria o al Estado, que los científicos viven alienados, bueno, bla, bla, bla; o sea, todas las cosas que podemos considerar, ¿no?, del lenguaje marxista.
+
+
+[46:08] Hubo algunos grupos, como el grupo Survivre, que significa "sobrevivir", y el grupo Science for the People, Ciencia para el Pueblo, que desarrollaron muchos estudios de este tipo.
+
+
+[46:22] El grupo este, Survivre, [hablaba de mitos] en la ciencia. O sea, para ellos había varios mitos: por ejemplo, que solo el conocimiento científico es un conocimiento verdadero y real; que la verdad es idéntica al conocimiento científico; que hay que dividir el conocimiento cada vez más, hacer especialistas, expertos; que solo la ciencia y la tecnología pueden resolver los problemas del ser humano; que solo los expertos saben; y, por supuesto, el mito del progreso.
+
+
+[46:57] O, por ejemplo, el grupo este de Science for the People. Yo leí un libro que escribieron ellos; bueno, no hay un autor, hay varios autores, que firman como grupo. O sea, es que es tan, tan marxista, ¿no?, tan idealista en este sentido: "No, pues, las comunas, todo en común".
+
+
+[47:19] Ellos escribieron un libro que se llama Ciencia y pueblo en China. Está traducido al español. Yo me lo compré hace unos años, porque hice una investigación sobre la ciencia y la educación durante la Revolución Cultural china. Entonces, bueno, lo que dice este libro es impresionante.
+
+
+[47:38] O sea, yo decía: "Madre mía, madre mía, cómo no viví en esa época, en la Revolución Cultural en China, si era el paraíso terrenal". O sea, el paraíso en la tierra. Claro, luego yo iba a China y hablaba con la gente, y me decían que era todo un horror. Digo: "Bueno, pero entonces, ¿de qué va esto? ¿A quién hay que creer?". Bueno, pues hay que creer a los que lo vivieron, ¿no?
+
+
+[47:59] Pero finalmente los intelectuales de izquierdas, los intelectuales occidentales que no vivieron aquello, idealizaban la Revolución Cultural china. Entonces, simplemente para que vean, ¿no?, dónde se sitúa todo esto.
+
+
+[48:18] Bueno, creo que es la hora de hacer un pequeño descanso. Son las 3:55. Entonces, vamos a hacer 10 o 15 minutos de descanso y luego seguimos con esto. Hasta luego.
+
+
+[48:37] Buenas tardes otra vez. Aquí continuamos con lo que hemos dejado antes. Antes de nada, quiero responder a una pregunta que me han hecho, Gonzalo la Puente, desde el campus Ciudad de México, que me dice: "¿Cómo distinguir en los paradigmas de Kuhn lo que serían los elementos culturales e históricos de los propiamente científicos? ¿Cabe hablar de paradigmas propiamente científicos si la ciencia se entiende como un quehacer histórico y social?".
+
+
+[49:09] Bueno, nosotros estamos aplicando todo esto precisamente a la ciencia, a las teorías científicas. Es decir, podríamos decir que la cuestión histórica y social está por debajo, pero nosotros estamos estudiando precisamente las distintas teorías desde el punto de vista de que son teorías científicas.
+
+
+[49:35] Es decir, si nosotros estamos estudiando, por ejemplo, el paradigma heliocéntrico, cómo se pasó de las ideas geocéntricas a las ideas de Copérnico, y Kepler, y Newton, bueno, eso es ciencia. Digamos que la novedad, la gran novedad de Kuhn, está en decir: "Bueno, nos tenemos que preocupar también de cuestiones históricas y cuestiones sociales, no solo considerar como tal la cuestión puramente científica".
+
+
+[50:06] Pero, claro, lo estamos aplicando a la ciencia, igual que se podría aplicar a otros estudios, ¿no?, a ciencias sociales, o igual que se podría aplicar, me imagino, a política o a economía, no sé. Entonces, lo estamos aplicando a algo que es puramente una ciencia, en este caso ciencias naturales. O sea, que por eso no hay que confundir, ¿no?: la ciencia está ahí, es lo que estamos estudiando. Otra cosa es que, por primera vez, se empiece a considerar elementos históricos, culturales y sociales.
+
+
+[50:48] Bueno, voy a seguir. Estaba hablándoles de las críticas que hubo a la ciencia en los años 60 y 70. Uno de los críticos más importantes de esa época es Lévy-Leblond. Él publicó varios libros con críticas hacia la ciencia desde una perspectiva totalmente marxista.
+
+
+[51:12] Él habla de proletarización de la ciencia, de proletarios, que son los científicos, y patronos, que serían las empresas transnacionales o el Estado. Habla mucho de la educación, y critica la presentación de la ciencia como un saber seguro y estable. Según él, el científico se ve alienado de los resultados de su trabajo; o sea, no llega a alcanzar el significado.
+
+
+[51:46] Respecto a esto, yo me acuerdo de una anécdota de cuando yo estudiaba física en la Universidad de Zaragoza; eran finales de los 80, principios de los 90. Me acuerdo de cuando fue la guerra del Golfo, bueno, desgraciadamente la primera guerra del Golfo, porque ya hubo otra.
+
+
+[52:09] Tenía un profesor mío de electricidad y magnetismo que el día que empezó la guerra se puso muy triste. Y luego resultó que él había estado en Washington, investigando en no sé qué centro de investigación, pero, digamos, había estado en proyectos clasificados, proyectos relacionados con el ejército.
+
+
+[52:39] Y claro, seguramente él era un físico a nivel básico, ¿no?; se dedicaba al magnetismo, a propiedades magnéticas de algunos materiales. Pero claro, los científicos muchas veces hacen estas cosas, pero luego no se dan cuenta de cuál puede ser el uso. Pero finalmente, si están ahí, en un instituto de investigación militar, pues saben que antes o después a lo mejor se va a usar, ¿no?, para matar a gente.
+
+
+[53:14] Entonces, lo que pasa es que, claro, cuando uno está ahí no piensa que va a matar a gente, sino que simplemente está investigando algo que le gusta, y le pagan por ello, ¿no?
+
+
+[53:23] Entonces, Lévy-Leblond, como otros, estuvo, ya digo, estudiando todas estas cuestiones, ¿no?, de cómo el científico se ve separado, alienado, en terminología marxista, de su propio trabajo. En fin, todo esto se relaciona bastante con la cuestión de ciencia e ideología, de la que hablaremos mañana, y tiene mucho que ver con la big science y la tecnociencia, de las que hablaremos más adelante, dentro de un rato o, si no, mañana.
+
+
+[54:01] Antes de pasar a lo que es la sociología de la ciencia, me gustaría platicarles algo de los estudios CTS, lo que se conoce como los estudios de ciencia, técnica y sociedad, o ciencia, tecnología y sociedad. Estos estudios se han desarrollado en los últimos años de forma diferente en Europa y en Estados Unidos: en Europa se preocuparon más por cuestiones puramente científicas, y en Estados Unidos más por la tecnología.
+
+
+[54:30] A mí me da la impresión de que esto de los estudios ciencia, tecnología y sociedad es casi un saco roto, donde cabe de todo. Y aquí, básicamente, bueno, mismamente lo que estamos haciendo ahora, este curso, podemos decir que está dentro de los estudios de ciencia, tecnología y sociedad.
+
+
+[54:52] Lo interesante es que muchos de los que hacen estudios CTS son activistas que intervienen en decisiones de política científica; eso más en Estados Unidos que en Europa. Echeverría, por ejemplo, distingue: dice que los que hacen sociología de la ciencia, sociología del conocimiento científico, son más académicos, mientras que los especialistas que hacen estudios CTS, estudios de ciencia, tecnología y sociedad, son más pragmáticos, pero a la vez son críticos y comprometidos en debates de importancia económica y social.
+
+
+[55:36] Entonces, eso es lo primero, ¿no? Pero lo segundo, quizá lo más interesante de estos estudios CTS, es su papel en la educación. ¿Por qué es muy importante todo esto en la educación? Bueno, al fin y al cabo, la ciencia da valores a la sociedad, que es algo que nombraremos seguramente ya mañana, y que es algo que nombrará, me imagino, Javier Echeverría en su conferencia: la axiología de la ciencia, los valores que da a la propia sociedad una cierta idea de ciencia.
+
+
+[56:20] Entonces, claro, eso hace que esos valores ideológicos se transmitan a los estudiantes. Los estudios CTS lo que hacen es intentar dar herramientas críticas a los estudiantes para poder analizar las relaciones entre ciencia, tecnología y sociedad. No se trata ni de criticar ni de ensalzar a la ciencia y la tecnología, sino simplemente de ser capaces de hacer un buen análisis.
+
+
+[56:46] Eso, por ejemplo, para nosotros, los que estamos en países de habla española, es todavía más interesante, porque, por estas cuestiones ideológicas, muchas veces da la impresión de que nuestros países, como México, o como España, o cualquier otro país de Latinoamérica, como que hay una cierta carencia, y que realmente a nosotros no se nos da la ciencia y la tecnología. Eso en gran parte está ideologizado.
+
+
+[57:20] Entonces, se trata de que los estudiantes se den cuenta de que, bueno, si la mayoría de los premios Nobel aparecen en Estados Unidos y no en México, no es porque los mexicanos sean más tontos. Es simplemente porque en Estados Unidos hay una cierta infraestructura que permite unos avances en la ciencia que no se permiten aquí; es decir, todo lo que vamos a ver más adelante de la big science, ¿no?, la tecnociencia. Entonces, por eso es muy importante para los estudiantes que hagan estudios de este tipo.
+
+
+[57:53] Javier Ordóñez, por ejemplo, que es, bueno, un historiador y filósofo de la ciencia muy importante, no sé si lo he nombrado ya o no, se ha dedicado mucho a esto, y él cree que estos estudios se tendrían que poner más o menos en el nivel de prepa. Esto es sobre todo para que los estudiantes se den cuenta de que la ciencia no es algo acabado y perfecto; o sea, que no se queden con la idea de la ciencia como algo perfecto, como algo acabado, como algo libre de toda influencia social.
+
+
+[58:37] Además, Ordóñez también siempre insiste en que hay que mostrar a los estudiantes que la ciencia y la tecnología son saberes humanos, ¿no?, no saberes sobrehumanos. O sea, eso de dividir los conocimientos humanos en ciencias y humanidades es como decir: "Bueno, es que las ciencias no son humanas", ¿no? Pues son tan humanas como pueden ser la historia, o el arte, o la literatura.
+
+
+[59:03] Esos estudios CTS tienen que hacerse desde tres puntos de vista: por una parte, la historia; por otra, la filosofía; y por otra, la sociología. Hay que ver la relación entre ciencia y tecnología; ver el paso, en la filosofía de la ciencia, del enfoque epistemológico al enfoque social, que es todo lo que estamos tratando hoy; la distinción entre lo natural y lo fabricado; la responsabilidad de la ciencia; los valores; las comunidades científicas; el estudio de los laboratorios, el trabajo en los laboratorios; en fin, muchas más cosas.
+
+
+[59:43] Sería básicamente lo que vemos prácticamente en este curso, ¿no?, en este curso concentrado que estoy tratando de darles, para que los alumnos aprendieran a ser críticos.
+
+
+[59:59] Vamos ahora a propiamente lo que se conoce como los estudios sociales sobre la ciencia, la sociología de la ciencia, o por lo menos la parte donde la sociología de la ciencia y la filosofía de la ciencia se unen. Para poder entenderlo bien, hay que ir al origen, a algo previo a todo esto.
+
+
+[1:00:25] Miren, básicamente nosotros nos podemos acercar al fenómeno científico desde dos puntos de vista, desde dos marcos: uno es el realista, y otro es el idealista, o constructivista. El realismo dice que el conocimiento es posible sin necesidad de suponer que la conciencia impone a la realidad algunos conceptos o categorías a priori. Y el idealismo, o el constructivismo, dice que la realidad está configurada por la mente del sujeto.
+
+
+[1:01:00] De esas dos concepciones se deducen imágenes de la ciencia totalmente diferentes. Por ejemplo, la ciencia como una revelación de la realidad sería el enfoque realista, frente a la ciencia como una construcción intersubjetiva, una construcción del propio sujeto, que sería el enfoque constructivista. O la independencia del contenido del conocimiento científico de la situación sociocultural sería el enfoque realista, frente a la dependencia del conocimiento científico de la situación sociocultural, que sería más bien un enfoque constructivista.
+
+
+[1:01:44] El constructivismo considera que el conocimiento es una construcción del sujeto. Ya lo he dicho: el sujeto no tiene ideas innatas, que sería la tesis racionalista, pero tampoco es un mero receptor de datos, que sería la tesis empirista. O sea, el sujeto construye sus conceptos.
+
+
+[1:02:04] Todo esto, bueno, sería entrar en filosofía de forma muy profunda; simplemente les digo esto para que lo tengan claro, ¿verdad? Y se podría decir que el positivismo lógico y Popper estarían dentro de ese marco realista, y eso está conforme, ¿no?, con la separación entre contexto de descubrimiento y contexto de justificación; mientras que con Kuhn, en el vuelco que hubo en la filosofía de la ciencia, se pasó de tesis realistas a tesis constructivistas.
+
+
+[1:02:43] En este nuevo marco se cuestionan todas las dicotomías: el contexto de descubrimiento contra el contexto de justificación, como he nombrado, o teoría contra experimento. O sea, ya no hay que decir: "No, la teoría es una cosa, el experimento es otra".
+
+
+[1:03:01] Todo esto llevó a dos cosas. Por una parte, la filosofía de la ciencia pasó de la concepción de la ciencia como conocimiento a la ciencia como práctica, que es lo que estamos viendo, y lo que vamos a ver después con un autor muy importante que se llama Hacking, en gran parte por influencia de los estudios sociales de la ciencia.
+
+
+[1:03:24] Pero también hubo la contraparte, y es que la sociología de la ciencia, que hasta entonces se había confinado al estudio del contexto de descubrimiento, se enriqueció, y entonces empezó a dedicarse también al contexto de justificación. Es decir, hasta entonces la sociología de la ciencia solo se dedicaba a estudios de las instituciones, por ejemplo, o cuestiones así.
+
+
+[1:03:53] Entonces, la sociología de la ciencia dijo: "Bueno, si la filosofía de la ciencia se puede dedicar a estudiar cosas sociales, nosotros nos podemos dedicar también a estudiar el conocimiento científico". Entonces, a partir de ahí surge lo que se conoce como la sociología del conocimiento científico.
+
+
+[1:04:16] Algunas características generales de la sociología del conocimiento: para empezar, rechazan la distinción entre el contexto de descubrimiento y el contexto de justificación; precisamente eso les permite irse a estudiar cosas relacionadas con el contexto de justificación, o sea, con el propio conocimiento científico.
+
+
+[1:04:33] ¿Qué más? Todos los procesos de producción, validación y cambio del conocimiento son resultado de procesos de interacción social entre científicos, o entre científicos y el medio social. ¿Qué más? Pues ellos dicen que el conocimiento, y prácticamente la realidad, se consideran construidos socialmente; es decir, ellos son totalmente constructivistas.
+
+
+[1:05:03] Otra cosa: las comunidades científicas se rigen por los mismos tipos de explicación que cualquier otra organización social. Claro, la sociología, ¿qué es? El estudio de las sociedades. La sociología la podemos aplicar a cualquier tipo de institución, ¿no?, sean [?] instituciones políticas, instituciones de tipo económico. Bueno, pues eso mismo lo podemos aplicar también a las instituciones científicas, a las comunidades científicas.
+
+
+[1:05:35] Y otra cosa: el conocimiento científico no difiere mucho de otros tipos de conocimiento, excepto quizá por su mayor eficacia al resolver problemas. Digamos que ellos hacen algo parecido a lo que les he nombrado antes que hacía Feyerabend, ¿no? Es decir: bueno, el conocimiento científico es un tipo de conocimiento, pero también el conocimiento religioso, el arte, la literatura, en fin, otros tipos de conocimiento.
+
+
+[1:06:07] Es decir, básicamente la sociología del conocimiento científico puso énfasis en que la ciencia es principalmente algo social. Incluso el conocimiento científico es un producto social; o sea, hasta el conocimiento científico, ya no solo la práctica.
+
+
+[1:06:22] O sea, tienen que ver la importancia de esto. Nosotros después vamos a hablar de la práctica científica, de la experimentación, pero ellos dicen que incluso el propio conocimiento científico, la propia epistemología, se puede ver desde un punto de vista social. O sea, es algo muy fuerte.
+
+
+[1:06:41] Entonces, dentro de los estudios sociales de la ciencia, de la sociología del conocimiento científico, hay varios programas. Uno de los importantes, uno de los primeros que surgió, es lo que se conoce como el programa fuerte en sociología del conocimiento científico, que fue desarrollado en los años 70 por David Bloor, que es el primero que desarrolló este nombre.
+
+
+[1:07:10] Él, bueno, postuló cuatro principios básicos para este programa. Dijo, primero, que debe ser causal; es decir, cualquier estudio de sociología del conocimiento científico debe ser causal. Eso quiere decir que debe preocuparse de las causas, de las condiciones que llevan a creencias o estados de conocimiento, en este caso científico; que habrá causas sociales, pero también otras causas.
+
+
+[1:07:38] Segundo, debe ser imparcial; es decir, frente a la verdad y la falsedad, la racionalidad o la irracionalidad, el éxito o el fracaso, uno tiene que ser imparcial. O sea, no preocuparse de por qué unas teorías fueron exitosas y otras no; o, mejor dicho, si hubo unas teorías exitosas y otras no, estudiar los dos tipos, ¿no?
+
+
+[1:08:00] Y luego, todavía más fuertes, son los otros dos, casi casi postulados, podríamos decir. Tercero, cualquier sociología del conocimiento científico debe ser simétrica en sus estilos de explicación. ¿Qué quiere decir eso? Que los mismos tipos de causa deben explicar las creencias verdaderas y las falsas.
+
+
+[1:08:25] Y cuarto, debe ser reflexiva; es decir, estos patrones de explicación se deben poder aplicar a la propia sociología. O sea, si la sociología es especial y no podemos aplicarle todos estos patrones, entonces la sociología refutaría sus propias teorías. Entonces, estos son como los cuatro principios en los cuales se debe basar la sociología del conocimiento científico.
+
+
+[1:08:50] Otro autor importante es Barnes. Él habla de factores como la confianza, la autoridad, para estudiar la organización de las instituciones científicas, y sobre todo el reconocimiento. Él dice que es muy importante para los científicos el reconocimiento. De hecho, el interés principal de los científicos, más que, por ejemplo, las cuestiones económicas, más que ganar mucho dinero, si quieren, es el reconocimiento por parte de la comunidad científica y, en último término, por parte de la sociedad.
+
+
+[1:09:28] Bueno, estas son algunas de las cuestiones, ¿no?, de los resultados de esto de la sociología del conocimiento científico, del programa fuerte. Otro programa es lo que se llama el programa empírico del relativismo, que se conoce como EPOR, Empirical Programme of Relativism, que surgió en la Universidad de Bath por medio de algunos sociólogos como Collins, Pinch y otros.
+
+
+[1:09:57] Entonces, ellos se orientan más a investigar ejemplos y casos de la práctica científica. Más que teorías y grandes hipótesis, estudian cosas concretas; por ejemplo, el caso de, yo qué sé, la física de altas energías y los sincrotrones, y cosas así. Uno de sus temas favoritos es el estudio de las controversias científicas. Ellos dicen que lo que cuenta como verdadero puede variar de un lugar a otro y de una época a otra.
+
+
+[1:10:27] Lo que pasa es que, bueno, Echeverría, en su libro, hace alguna crítica al EPOR, al programa empírico del relativismo, diciendo que no cumplen el postulado de reflexividad; o sea, no son reflexivos. Ellos relativizan casi todo, pero no sus conceptos mayores.
+
+
+[1:10:48] O sea, ellos llegan a hablar de una incertidumbre total sobre cómo se conocen las cosas de la naturaleza; sin embargo, dan por hecho que existen sociedades y existen culturas. Y eso no es muy lícito, porque, bueno, ellos no relativizan los propios conceptos sociales, pero relativizan lo natural, ¿no? Entonces, eso como que no se vale. Es la crítica que hace Echeverría.
+
+
+[1:11:17] Y otro programa es la etnometodología y el programa constructivista. De hecho, la etnometodología es anterior a la sociología del conocimiento científico; surgió en los años 40, pero es en los años 80 cuando hubo una convergencia entre la sociología del conocimiento científico y la etnometodología.
+
+
+[1:11:36] Para los etnometodólogos, los hechos sociales son las realizaciones de sus miembros; por eso ellos hicieron trabajo de campo. Autores como Bruno Latour, como Woolgar, como Knorr-Cetina, se definen constructivistas. Su gran aporte son precisamente los estudios de campo en los laboratorios científicos. Esto es muy importante.
+
+
+[1:12:03] Es decir, en lugar de hacer estudios generales, como habían hecho, por ejemplo, los sociólogos del programa fuerte, o en lugar de estudiar las controversias científicas, como los del programa empírico del relativismo, ellos van al lugar científico [?]: el laboratorio.
+
+
+[1:12:24] Algo muy importante que indican, bueno, voy a ir nombrando algunas de sus conclusiones, ¿no?, es el carácter artificial del ámbito del trabajo de los científicos. Esto es muy, muy interesante, porque fíjense que, al fin y al cabo, se supone que las ciencias, sobre todo las ciencias naturales, estudian la naturaleza. Sin embargo, uno entra en un laboratorio y todo es artificial; o sea, ahí la naturaleza prácticamente está ausente.
+
+
+[1:12:52] Entonces, ellos oponen, ¿no?, el medio natural versus el medio artificial. Entonces, en un laboratorio prácticamente intentan arrinconar lo más que pueden la propia naturaleza.
+
+
+[1:13:10] En cierto modo, a mí me parece que en gran parte eso es la ciencia, ¿no? O sea, bueno, yo, que estudié física: la ciencia trata siempre de simplificar al máximo los sistemas. Entonces, imagínense, incluso dentro del paradigma newtoniano, normalmente se habla de los dos cuerpos. Si hay tres cuerpos, el estudio de los tres cuerpos ya es muy difícil; ahí ya aparecen perturbaciones, una cosa muy complicada.
+
+
+[1:13:38] Bueno, ahora imagínense una cosa como es el sistema solar, que está el sol, más nueve planetas mayores, más por ahí cosas más pequeñas; o sea, hay montones de cuerpos. Pero claro, nosotros, para estudiarlos, siempre suponemos una simplicidad de dos cuerpos, por ejemplo, y luego el otro son perturbaciones. Si eso se hace en la física, imagínense en el resto de las ciencias, que lidian con cuestiones más complicadas.
+
+
+[1:14:10] Entonces, en un laboratorio es eso lo que se intenta, ¿no?: hacerlo todo de la forma más artificial posible. Bueno, esto se relaciona mucho con la tecnociencia y con lo que veremos de Hacking mañana; creo que hoy ya no va a dar tiempo.
+
+
+[1:14:32] Bueno, la etnometodología, de hecho, es parecida a la antropología. Para ellos ha de ser meramente descriptiva; no se pretende llegar a explicaciones causales de los hechos sociocientíficos. O sea, casi casi la etnografía, que, de hecho, es una descripción desde el punto de vista de los nativos. O sea, es un observador que se encuentra por primera vez con unos hechos, y prácticamente casi es un trabajo de antropología.
+
+
+[1:15:01] El libro más famoso de Bruno Latour y Woolgar es La vida en el laboratorio: la construcción de los hechos científicos, que fue publicado en 1979. Latour hizo una estancia de 2 años. Imagínense: Latour era francés, y él se fue a Estados Unidos, a un instituto de biotecnología. Prácticamente Latour no sabía inglés y no tenía ni idea de biotecnología.
+
+
+[1:15:33] Y fue dos años allí a estudiar a los científicos casi casi como una tribu, o sea, como se va un antropólogo a estudiar una tribu a la selva. Y entonces sacó algunas conclusiones muy interesantes.
+
+
+[1:15:46] De pronto, vio que uno entra en un laboratorio y lo primero es que está lleno de caos; hay un caos ahí, y luego poco a poco va apareciendo orden. ¿Cómo puede ser? ¿Cómo aparece ese orden? Bueno, por medio de las inscripciones.
+
+
+[1:16:04] Es decir, se dio cuenta de que un laboratorio prácticamente es un lugar donde hay distintos tipos de signos escritos que usan los científicos y que son fundamentales para construir los hechos. En este caso sería, por ejemplo, la pantalla de la computadora, con las gráficas de lo que nos ha salido de tal experimento.
+
+
+[1:16:28] Si nosotros, yo qué sé, hacemos un experimento a bajas temperaturas, pues tenemos un material magnético y vemos qué pasa a 0.5 grados Kelvin, o así, ¿no? Entonces hacemos gráficas, y básicamente es un sistema de escritura.
+
+
+[1:16:49] Entonces, básicamente él llega a la conclusión, basado en algunos estudios de semiótica, de semiología, de que la escritura no es tanto un método de transferir información como una forma material de crear orden, de crear orden en el caos. Es decir, para ellos un laboratorio es un sistema de inscripción gráfica. Cuando se tiene el producto final, la inscripción, se olvidan los pasos intermedios.
+
+
+[1:17:21] Esto es muy interesante, porque fíjense que la discusión en el laboratorio no es normalmente ni sobre un objeto natural ni sobre una observación de los sentidos, que es lo que decían todos los epistemólogos de la ciencia hasta los años 60. Porque en el laboratorio no hay naturaleza, ni tampoco los científicos se ponen ahí a observar con sus sentidos, sino que básicamente un laboratorio es un conjunto de expresiones, de signos, o sea, de escrituras, diagramas en la computadora, lo que sea. Y eso tiene grandes consecuencias filosóficas.
+
+
+[1:18:03] Bueno, en 2 minutos voy a hablar de otro de los tipos de estudios muy importantes dentro de la sociología del conocimiento científico, que se puede agrupar dentro de esto, o también se puede agrupar dentro de la crítica a la ciencia: son los estudios de género, estudios de ciencia y género.
+
+
+[1:18:26] Bueno, lo que se conoce como los women's studies, los estudios de las mujeres, que es el original en inglés. No sé por qué, al traducirlo al español, surgió "estudios de género", porque en el género hay género masculino y género femenino, ¿no? En fin, surgen en los años 60 en Estados Unidos y en Europa, y empiezan a tomar mucho auge ya en los años 80.
+
+
+[1:18:52] Según ellas, bueno, digo ellas porque casualmente casi todas las que hacen estudios de género son mujeres, por qué será, la discriminación a la que se ha sometido a la mujer ha influido mucho en el conocimiento científico mismo: por los conceptos, los valores, las metáforas.
+
+
+[1:19:15] Entonces, lo que es muy interesante es que los propios estudios de ciencia y género han llevado a conclusiones propias de la filosofía de la ciencia. Por ejemplo, las feministas reconocen que los agentes de la epistemología son las comunidades epistemológicas, y entonces empiezan a hacer toda una discusión sobre lo que son esto, ¿no?, las comunidades epistemológicas.
+
+
+[1:19:38] También han estudiado la distinción entre sujeto y objeto, la distinción entre el contexto de descubrimiento y justificación, la carga sexista de algunos conceptos, de algunas metáforas y de algunas teorías en la ciencia.
+
+
+[1:19:55] Normalmente, claro, lo masculino se relaciona con lo universal, la objetividad, la racionalidad, lo público, mientras que lo femenino se relaciona con lo particular, la subjetividad, lo irracional, lo privado. En fin, también las feministas han criticado mucho la neutralidad de la ciencia, y todo esto se relaciona mucho con las críticas que se hacen a la ciencia.
+
+
+[1:20:26] Bueno, aquí lo voy a dejar por hoy, porque me gustaría dejar estos 15 minutos que quedan para preguntas del público, o de alguien de los que nos están viendo. A ver, ahora sí quiero mirar a la cámara. No sé si estoy mirando ahora la cámara correcta.
+
+
+[1:20:42] Bueno, quiero... también los que nos están viendo desde otros campus pueden enviar sus preguntas aquí; aquí las recibo. Y sobre todo la gente del público. Lo que les quiero decir también, antes de nada, es que el día de hoy, yo comprendo, ha sido bastante agobiante. Sobre todo si alguien nunca ha oído hablar de estas cuestiones, me imagino que habrá sido un poco fuerte para ellos, porque he intentado comprimir muchas cosas.
+
+
+[1:21:12] Mañana continuaremos con algunas otras cuestiones, sobre todo, bueno, de lo que es la filosofía de la experimentación y lo que es la práctica científica, pero también me gustaría empezar a hablar de cosas más debatibles. Lo que he dicho hoy básicamente lo encuentran en el libro este que les he mostrado, el libro de Javier Echeverría, Introducción a la metodología de la ciencia. Mañana intentaré irme un poco más a cuestiones más debatibles.
+
+
+[1:21:44] Claro, como yo he vivido en China, y por otra parte soy europeo y vivo en México, pues he tenido la fortuna de poder comparar algunas cuestiones, de poder ver todo lo que hay de occidental en algunas de estas ideas. Me gustaría hablar algo de eso, de lo que ha dicho Needham, que es uno de los grandes historiadores de la ciencia china, el más famoso, y también algo relacionado con ciencia e ideología.
+
+
+[1:22:15] Y les contaré también, bueno, la, digamos, discusión estrella que ha ocurrido durante los últimos años en todas estas cuestiones, que es el asunto Sokal. Sokal es un científico que escribió un artículo en 1996 que ha levantado mucha polvareda, y todo esto también lo podremos relacionar con lo que es la posmodernidad.
+
+
+[1:22:44] Entonces, bueno, pues mañana será un día un poco más relajado. También se lo digo porque, bueno, los que han venido hoy pues ya han venido hoy, pero quiero hacer publicidad: si hoy se han sentido un poco agobiados, pues mañana puede ser un poquito más relajante, espero. Entonces, ahora pues ya espero sus preguntas, si tienen alguna. Sí.
+
+
+[1:23:02] >> Participante 1: Hemos manejado muchos términos. Vengo por primera vez aquí.
+
+
+[1:23:06] >> Conferencista (nombre desconocido): Yo no sé si... Un momento, es que si no, no te oyen. Aquí está el micrófono.
+
+
+[1:23:12] >> Participante 1: Ah, bueno. Intentando, ya para hacer la introducción, me gustaría un poco, más o menos, abreviar, puesto que esa es la función de la ciencia, abreviar algunas cosas. ¿Qué estamos manejando por filosofía? ¿Qué estamos manejando por ciencia? ¿O manejamos varios términos de filosofía, a veces por filósofos, o manejamos por ciencias, o manejamos por teorías? De manera que vayamos un poco tratando de abreviar y hacer algo más concreto y manejable, ¿no?
+
+
+[1:23:44] >> Conferencista (nombre desconocido): ¡Uf! Bueno, si nos ponemos a hablar de qué es filosofía, y qué es ciencia, y qué son teorías, más que abreviar vamos a hablar mucho más, ¿no? Pero sí estoy de acuerdo en que hay que concretar. Lo que pasa es que este no es el espacio.
+
+
+[1:23:59] Por ejemplo, Javier Ordóñez se ha dedicado mucho a eso. El año pasado, prácticamente por estas fechas, un poco antes, en febrero, dio un curso muy interesante sobre la relación entre la ciencia y la filosofía. Entonces, bueno, los que estén aquí en el Tec... Estos cursos creo que los graban, y luego están a disposición de cualquiera en la biblioteca; o sea, que los pueden checar. Y bueno, él estuvo hablando, fueron tres sesiones, 6 horas, sobre filosofía y ciencia; imagínate.
+
+
+[1:24:36] Pero, ya sabemos, así, por decir algo en un minuto: la filosofía es lo que englobaba antes a todo, a la ciencia entre ello. Y la ciencia, sobre todo las ciencias naturales, se desglosaron de la filosofía. La filosofía, ya saben, es el amor a la sabiduría, digamos, etimológicamente hablando. Lo que pasa es que, debido al gran desarrollo científico y técnico a partir de la Revolución Científica, a partir del XVI y el XVII, se consideró como algo distinto la ciencia.
+
+
+[1:25:13] Entonces, la filosofía ha sido considerada a veces por algunos filósofos... Me acuerdo mucho, ¿no?, de un filósofo, creo que era Isaiah Berlin, espero no equivocarme, creo que era él, en este curso que dio Javier Ordóñez hace un año. Decía que este Isaiah Berlin en un momento dado dejó la filosofía para dedicarse a otras cosas, porque decía que quería dedicarse a algo en lo que al final uno llegara a saber más de lo que sabía al principio.
+
+
+[1:25:52] Porque la filosofía da la sensación de que uno no avanza nunca. En la filosofía uno puede hacer todo lo que quiera y está al final igual que al principio, mientras que la ciencia da la impresión de que uno avanza, de que uno sabe más al final que al principio.
+
+
+[1:26:08] Claro. Entonces, ¿cuál es la función de la filosofía? Bueno, pues en gran parte preguntarnos, para no seguir el tren este de la ciencia y que vayamos a descarrilar. Entonces, la filosofía de la ciencia sería eso, ¿no?: preguntarnos cuestiones más internas de la ciencia.
+
+
+[1:26:28] Y bueno, ¿qué es la ciencia? Bueno, pues ya hemos visto lo que opina de la ciencia el positivismo lógico, Popper, Kuhn, todos los últimos. O sea, que básicamente sería eso, ¿no? Y lo que preguntas de las teorías: pues precisamente Popper decía que las teorías es eso, ¿no?, es lo principal, es el cuerpo del conocimiento científico. El conocimiento científico está hecho a base de teorías, y las teorías son redes que lanzamos al mundo para explicarlo.
+
+
+[1:26:59] Pero ya veremos mañana que en los últimos años ha habido una crítica bastante fuerte que dice: "Oigan, señores, lo principal de la ciencia no son las teorías; es también la práctica". O sea, nos olvidamos de la práctica, nos olvidamos del quehacer científico del día a día, y eso es previo, y es muy importante, y es tan importante como la teoría.
+
+
+[1:27:19] Y eso se relaciona mucho con considerar que no podemos hablar de la ciencia por un lado y la tecnología por otro. Entonces, tenemos que hablar de tecnociencia, que es de lo que hablaremos ya mañana. ¿Alguna otra pregunta?
+
+
+[1:27:44] >> Participante 2: Yo solamente quiero saber si escribí bien algunos nombres, para después profundizar un poquito más. David es David Bloom [?]...
+
+
+[1:27:54] >> Conferencista (nombre desconocido): Bloor. B, L, O, O, R. Bloor.
+
+
+[1:27:59] O, O, R.
+
+
+[1:28:00] >> Participante 2: Mm. ¿Y si hay algunas autoras de los women's studies recomendables?
+
+
+[1:28:08] >> Conferencista (nombre desconocido): Que ahora no me acuerdo del todo. Hay una Mary Hesse, creo. Espera, te voy a decir. Mm. Vamos a ver... Nelson, pero no... L. H. Nelson, que escribió algo sobre las comunidades epistemológicas.
+
+
+[1:28:43] Ah, Helen Longino, sí, esa es una de las más famosas, de las primeras. Helen Longino: Longino, L, O, N, G, I, N, O. Es una de las primeras. Keller también, K, E, L, L, E, R. En fin, son algunas de las principales. Yo, la verdad, no me he metido mucho en los women's studies, en los estudios de ciencia y género.
+
+
+[1:29:21] Bueno, entonces, si quieres, pues ya lo miraré para mañana, o así. En fin, me estaban indicando allí que tenemos que cortar. Así que, bueno, si hay alguien que tenga alguna pregunta, pues imagino que podremos continuar mañana con ello. Bueno, muchas gracias, y mañana, segunda parte.

@@ -1,0 +1,844 @@
+﻿[00:23] >> Pedro Ángel Palou: Muy buenas tardes. Seguimos en nuestro seminario de novela histórica, en el tercer y último día. Ahora vamos a entrar, como platicábamos, igual con la misma estructura aforística, pero a dos novelas.
+
+
+[00:33] Una, las Memorias de Adriano, de Marguerite Yourcenar, porque me parece otra manera totalmente distinta: ya no la época, como Guerra y paz, sino un solo personaje histórico, en este caso Adriano, un poco más en la tradición de la novela histórica anglosajona, a la Robert Graves, y luego, en su momento, Gore Vidal, etcétera.
+
+
+[00:57] Y vamos a aterrizar en una lectura de Noticias del Imperio, probablemente la novela histórica más importante que se ha escrito en México, pero a la luz de la novela mexicana en general, para que podamos entender de dónde parte Del Paso y qué efectos de lectura ha producido, incluso en la propia tradición literaria, esta especie de lo que yo llamaba reclasificación de la biblioteca, una novela tan excepcional y en un momento particular como fue Noticias del Imperio.
+
+
+[01:26] Vamos antes, sin embargo, a ver un fragmento de una película muy larga en DVD; son cuatro discos, son más de 9 horas. Es un documental de un cineasta francés, Claude Lanzmann, sobre el tema que nos ha ocupado mucho estos días, que es el tema del Holocausto, la Shoá, dicho en hebreo.
+
+
+[01:50] Y es una película absolutamente documental, hecha exclusivamente con sobrevivientes del Holocausto. Uno de los personajes en el tercer disco, por si tienen oportunidad, de hecho está aquí en el Tec, esta es una película de la propia biblioteca del Tec, es este testigo del juicio Eichmann que enmudeció y que tuvo el stroke, digamos, el ataque, en pleno testimonio en el juicio.
+
+
+[02:21] Obviamente, muchos años después, en el 85, es filmado por Lanzmann y explica su mudez, o intenta explicar su mudez. Vamos a ver ahora una de las escenas, la primera de las más conmovedoras, de las más fuertes; por algo la escoge Lanzmann como una de las primeras.
+
+
+[02:37] Él se pasó 6 años haciendo esta película. Son 6 años de filmación estrictamente documental con sobrevivientes, que es un poco el tema del testigo como sobreviviente. Entonces, nos sirve mucho este inicio que vamos a ver de la película, y espero que también les deje las ganas de, no se puede decir rentarla, porque nadie se las rentaría, pero de pedirla prestada en la biblioteca del Tec.
+
+
+[03:19] [Fragmento de la película]
+
+
+[03:21] Se dan cuenta mucho de lo que hemos intentado teorizar aquí, ¿no? El papel del testigo, la no exageración del evento. Es decir, revivir el evento no significa exagerarlo, como decíamos ayer con Tolstoy, sino simplemente presentarlo. El hecho mismo de presentarlo es tan traumático.
+
+
+[03:38] Vean incluso, a nivel gestual, la cara de él: "Sí, aquí fue. Aquí mataron mucha gente, aquí la quemaron". Es decir, no hay necesariamente una reactuación, no hay una dramatización, sino una presentación.
+
+
+[03:58] Y otra de las cosas que me gusta mucho de este fragmento es el hecho de la mujer, como dice: "Primero lo oíamos, él tenía 13 años y medio, nos gustaba mucho oírlo", estaba refiriéndose, obviamente, al niño en los campos de concentración, a este hombre cuando era niño, "pero volverlo a oír hizo que se acelerara mi corazón, porque lo que ocurrió allí fue un asesinato". Es decir, lo he revivido.
+
+
+[04:26] Ya no necesito más que la canción, o la voz incluso, de este hombre ya grande para revivir el trauma. Y aquí me quiero detener un momentito antes de entrar a Marguerite Yourcenar, porque hay una muy buena explicación, también lacaniana, del tema del antisemitismo y del racismo en general, que podemos ejemplificar con lo que está ocurriendo ahora en Arizona. No necesitamos irnos más allá.
+
+
+[04:54] Y siempre que se trabaja, por parte del poder, un discurso racista, se tiene que presentar al otro de dos formas aparentemente antitéticas. Hay dos discursos frente al otro aparentemente antitéticos.
+
+
+[05:09] Uno es, vamos a poner ahorita el caso Arizona, ¿no?: "Esta gente viene a quitarnos nuestros trabajos", en este momento en particular de la economía norteamericana. Esto se repite no solo en Arizona, sino en todo Estados Unidos. Es decir, son los migrantes quienes nos quitan empleo.
+
+
+[05:29] Y junto a un discurso de que vienen a aprovecharse de nuestro sistema de salud, de nuestro sistema de educación, no pagan impuestos. Es decir, lo mismo que el discurso antisemita: son insignificantes, no son humanos, no se merecen estar en este espacio vital, ¿no?, que era lo que buscaba Hitler, digamos, la ampliación del espacio vital de la raza aria.
+
+
+[05:59] Y, sin embargo, qué curioso que, en el mismo discurso, son poderosos, son los ricos, se quedan con nuestros puestos. El judío era visto como quien se quedaba con los puestos importantes en las empresas, quien manejaba las fábricas. Es decir, por un lado es no humano, es prácticamente una rata a la que hay que exterminar, pero por el otro es un discurso absolutamente antitético, porque, si es esto, ¿para qué lo quiero exterminar? Si es tan insignificante, no necesito separarme de él.
+
+
+[06:29] Entonces resulta que, en una lectura lacaniana del tema, el otro, que ya sabemos que no existe, pero que es ejemplificado en el orden de lo simbólico, está allí donde está uno de los nombres del padre, que es la ley. Él puede transgredir la ley y yo no.
+
+
+[06:52] Y en la teoría lacaniana, aquel que transgrede la ley es aquel que puede vivir en el otro lado del deseo, en la jouissance, que no se puede traducir solo como enjoyment o como placer, porque en francés tiene este doble sentido de sentir placer mediante el dolor, pero que podemos traducir, en el caso específico del tema de los nombres del padre, como el transgresor de la ley.
+
+
+[07:18] Entonces, no es gratuito que sea en Arizona, donde primero se les exterminaba como animales, había hasta permiso de cacería, y luego sea el miedo a que me quiten mis puestos de trabajo. Pero se necesitan esos dobles discursos, porque aquello que está más allá de lo simbólico, según Lacan [?], aquello que excede lo simbólico, aquello que es la excepción de lo simbólico, es lo que tengo que excluir de mi propio sistema simbólico para poderlo hacer coherente.
+
+
+[07:47] Es decir, no hubiera podido haber... violencia, más bien, ¿no? La violencia contra el judío es la condición misma de la creación del Estado nazi. Lo que le da coherencia al discurso de lo ario es la exclusión del judío, la exclusión del otro, que curiosamente es el que puede transgredir la ley, el que puede tener el placer que yo no tengo, porque yo sí estoy del lado de lo simbólico, yo pertenezco a este lenguaje que yo mismo construyo.
+
+
+[08:15] Lo mismo el granjero de Arizona, que primero podía matar y ahora mejor ya tiene una ley en la cual es considerado prácticamente no persona el inmigrante, porque no tiene papeles, y puede ser tratado como tal. Pero en todo acto de racismo ahí está el doble discurso.
+
+
+[08:33] Un ejemplo menos sintomático, pero igualmente curioso, ¿no? Siempre se habla, por ejemplo, y pienso en el caso de la negritud y de lo negro, porque tiene su énfasis, del poder sexual de lo negro, ¿no? Y hay una especie de mitificación, ¿no?, de que los negros son pues mucho más jacarandosos, digámoslo en correcto mexicano. Estos cuates sí pueden tener gozo; justamente son quienes pueden transgredir la ley.
+
+
+[09:05] Son estos que sí, un poco también como a los latinoamericanos nos han visto muchas veces, ¿no?: estos que podemos tener placer, que vivimos del placer, que hacemos del placer nuestra vida; pues mejor quítalos. Pero siempre en un doble discurso: curiosamente, son también quienes nos quitan los trabajos, es decir, quienes están dispuestos a hacer el trabajo que nosotros no hacemos.
+
+
+[09:23] Un poco lo que pasa, por ejemplo, también en la banlieue parisina, ¿no?, en los cinturones de miseria de París, donde ahí hay un tema que es más fuerte todavía, porque entra lo que el francés actual no tiene cómo responder a nivel de discurso, que es el tema del migrante con la característica religiosa islámica en particular, ¿no?
+
+
+[09:48] Entonces: "No le puedo poner burka", y digo: "La escuela es el espacio de lo público y de la elección". Entonces, el pretexto del Estado francés para la prohibición de la burka, con la que yo no estoy de acuerdo, es que a la niña que se pone una burka el padre la obliga; es una cuestión de masculinidad, y entonces de su cultura islámica. Y el territorio de la escuela pública es el territorio de la libertad.
+
+
+[10:16] "Entonces, aquí puede no venir con burka, porque es el territorio de la laicidad, del Estado francés laico". Lo curioso es que el Estado francés laico es en sí mismo una elección. Es decir, hay una mitologización de la libertad frente a la no libertad familiar, la libertad del Estado frente a la no libertad, cuando en realidad se le está imponiendo a la misma niña, por parte de la masculinidad del poder civil, otro sistema, como el mismo de la burka.
+
+
+[10:48] En Suiza se acaba de aprobar, seguimos en el mismo ejemplo, sí la mezquita, no el minarete. Es decir, puedes ir a la mezquita, pero no puede haber alguien que hable y que llame. Quitemos, en ese mismo contexto, que se quiten todas las campanas, porque las campanas son un modo de llamado a la iglesia.
+
+
+[11:07] ¿Por qué? Porque ya está más metido en la sociedad, y porque ya no es el otro, sino la mayoría; es permitido. Y el otro, que habla como árabe y que grita y que llama a la oración de una u otra manera, ese sí es visto como excluido. Y aquí estamos hablando justamente del tema de la exclusión como parte central, como la misma violencia; de la exclusión como parte central de lo que hace coherente el sistema.
+
+
+[11:37] Cuando no hay una guerra posible que librar, hay que inventar incluso un enemigo, o construir a ese enemigo en función de mínimas fuentes. El caso de la guerra de Bush contra el terrorismo, ¿no?: "Vamos a ir a encontrar armas de destrucción masiva". Cuando no encuentro armas de destrucción masiva, pues mi discurso se cae por completo, porque la justificación de la guerra está basada en una exageración.
+
+
+[12:09] Qué curioso que, por ejemplo, donde más hubo antisemitismo en Alemania fue en las comunidades con menos judíos. Eran vistos mucho más como amenazas allí donde eran minoría que allí donde sí ya estaban, como en las grandes ciudades alemanas, incorporados en la vida cotidiana. Mientras más minoría, más fácil ser excluido.
+
+
+[12:33] Vamos entonces ahora sí ya a Marguerite Yourcenar, pero quería terminar con esta parte, que más bien era de ayer. No hay otra forma de encontrarse, entonces, con la historia en la novela. No se trata del panorama, de la época, del recuento pormenorizado de batallas.
+
+
+[12:49] Lo supo bien Marguerite Yourcenar, quien pasó, ahí le falta un acento, literalmente toda la vida intentando escribir una novela en particular, sus Memorias de Adriano. Las esbozó y escribió entre los 20 y los 25 años, casi, incluso yo diría, como un texto en sí mismo traumático, y las destruyó.
+
+
+[13:10] Las intentó una y otra vez desde entonces. Las pensó, por ejemplo, en algún momento, como diálogos filosóficos, como diálogos platónicos, y así las escribió, en parte en tercera persona. Un día, sin embargo, Marguerite Yourcenar descubrió lo inevitable: Adriano hablaría, ya viejo, en ellas. Su voz, su cuerpo parlante, el escándalo del cuerpo parlante, aunque sea con varios siglos de diferencia, o, como quería Yourcenar, las manos de dos docenas de ancianos entre ella y el emperador. Así lo dice en sus notas.
+
+
+[13:47] "Mínima alma mía, tierna y flotante, huésped y compañera de mi cuerpo, descenderás a esos parajes pálidos, rígidos y desnudos, donde habrás de renunciar a los juegos de antaño. Todavía un instante miremos juntos las riberas familiares, los objetos que sin duda no volveremos a ver. Tratemos de entrar en la muerte con los ojos abiertos".
+
+
+[14:09] Ese es un epígrafe que ella divide en dos, lo pone como parte de los títulos y lo usa al final de la novela, tomado, obviamente, del emperador. Y de eso se trata justamente el acto mismo de novelar: entrar en la muerte con los ojos abiertos.
+
+
+[14:31] En sus Cuadernos de notas a las Memorias de Adriano, Marguerite Yourcenar traza un mapa con los trazos de sus trazas, sus equivocaciones, sus idas y venidas por la materia de la novela. Todo el empeño radica en narrar el primer momento secular de Occidente.
+
+
+[14:49] ¿Por qué le interesa tanto Adriano a Marguerite Yourcenar? No como personaje, ni siquiera para rastrear cómo se vivía en la época de Adriano, sino porque ella se da cuenta, al leer la correspondencia de Flaubert con Louise Colet, de que ese es el primer momento en Occidente en que el hombre está solo con el hombre, sin Dios, vinculado panteísticamente con el todo.
+
+
+[15:16] Y lo que dice Flaubert, o lo que Flaubert le dice a su amante, es: "Cuando los dioses ya no existían y Cristo no había aparecido aún, hubo un momento único, desde Cicerón hasta Marco Aurelio, en que solo estuvo el hombre".
+
+
+[15:32] ¿Cómo narrar ese momento único de la historia en el que solo estuvo el hombre? Ese es el empeño de la Yourcenar. Dice Yourcenar ahora, de su método: "Tomar una vida conocida, concluida, fijada por la historia, en la medida en que puede serlo una vida, de modo tal que sea posible abarcar su curva por completo. Más aún, elegir el momento en que el hombre que vivió esa existencia la evalúa, la examina y por un instante es capaz de juzgarla. Hacerlo de manera que ese hombre se encuentre ante su propia vida en la misma posición que nosotros".
+
+
+[16:19] Es decir, Yourcenar cumple con algo que yo he estado diciendo: la novela como juicio, la novela como acto jurídico, y aquí incluso como autoexplicación. Es decir, el juez del tribunal es el propio Adriano viejo, que tiene por vez primera, como no tenemos nadie en la vida más que a la hora de entregar nuestra alma a quien nos la dio, como diría Enrique [?], la posibilidad de evaluarla, de juzgarla.
+
+
+[16:53] Es decir, la posición del yo que narra es la misma posición del lector que ve lo narrado. Y esto se presta mucho a lo que nosotros estábamos diciendo. Como el yo no existe, este yo que narra, narra desde el presente de la muerte, desde la antesala de la muerte, el pasado.
+
+
+[17:15] Porque la única persona que lo ha contado ya desde la muerte, obviamente de manera inventada, es Chateaubriand en sus Memorias de ultratumba, ¿no?, que es una maravilla de descubrimiento: "Puedo escribir un libro donde me enjuicio incluso ya desde la muerte". Obviamente es un tema ficticio.
+
+
+[17:34] Pero el narrador de una novela histórico-biográfica, como es esta... Esa es la diferencia entre lo que habíamos visto con esta novela que deshace incluso la historia, que no le importa la historia en mayúsculas, sino la historia individual de los personajes en medio del gran acontecimiento histórico, Guerra y paz, y la novela histórico-biográfica.
+
+
+[17:56] En una novela histórico-biográfica, el narrador es ya un testigo de sí mismo, que saquea los papeles viejos, los textos, los trazos de esa vida que, Yourcenar lo intuye, está siendo sujeta a juicio por el mismo sujeto. Una vida de la que es testigo, sobreviviente y juez implacable.
+
+
+[18:20] Otra vez la suprema intuición de la novelista. En sus diarios escribe Marguerite Yourcenar: "Decirse constantemente que todo lo que yo aquí cuento está desmentido por lo que no cuento. Reconstruir desde adentro lo que los arqueólogos del siglo XIX han hecho desde afuera".
+
+
+[18:43] El adentro al que se refiere es el trauma mismo, el evento excesivo. No se nos olvide la guerra; estamos hablando de la vida de Yourcenar: el destierro, la búsqueda del amor lésbico, en este caso de la autora, en medio de la escritura, su aceptación de su amante. Ese es el adentro del desastre, de la catástrofe, el choque de trenes al que se refiere Freud en su Moisés y el monoteísmo.
+
+
+[19:09] De hecho, pasa una cosa curiosa que ella cuenta en sus diarios. Se le pierden todos estos primeros borradores. Y muchos años después, en su casa en Maine, le llega a Marguerite Yourcenar un baúl con cartas, con su correspondencia, muerto el padre. Y empieza a leer las cartas con el objeto de irlas tirando a la chimenea y de deshacerse de esta correspondencia personal.
+
+
+[19:37] Y de pronto abre una que dice: "Querido Marco". Y le cuesta muchísimo trabajo saber quién es, por qué se traspapeló esa carta allí, quién es Marco. Y obviamente se da cuenta más noche de que Marco es el corresponsal del emperador Adriano, y que era una carta que ella escribió como un pedazo de la novela.
+
+
+[20:00] Es decir, la propia novela se puso frente a la guerra en estado latente y emergió de nuevo en el momento en que ya tuvo en sus manos esta carta.
+
+
+[20:14] Yourcenar cree, como hará en otra de sus grandes obras, Opus nigrum, con su alquimista filósofo, que el mecanismo de narración de un narrador que se enfrenta a la vida de otro es de transportación. Dice: "Con un pie en la erudición, otro en la magia, o más exactamente, y sin metáfora, en esa magia simpática que consiste en transportarse mentalmente al interior del otro". Y por eso lo que hace es el retrato de una voz.
+
+
+[20:43] Dice Yourcenar: "Evitar en lo posible cualquier intermediario, inclusive yo misma". Por eso la primera persona, por eso la voz autoral queda desaparecida, y es la voz del emperador Adriano la que asume el control de su juicio.
+
+
+[21:06] Proust y Tolstoy son para Marguerite Yourcenar lo mismo: "Ambos interpretan, mediante los procedimientos de su época", obviamente en el siglo XIX y a principios del XX, "cierto número de hechos pasados, recuerdos conscientes o no, personales o no, tramados de la misma manera que la historia con mayúscula", dice Marguerite Yourcenar comparando ambas obras.
+
+
+[21:30] "Como Guerra y paz, la obra de Proust es la reconstrucción de un pasado perdido. En nuestra época, la novela histórica, o la que puede denominarse así por comodidad, ha de desarrollarse en un tiempo recobrado, toma de posesión de un mundo interior".
+
+
+[21:50] Aquí nos está diciendo exactamente lo mismo que nosotros proponíamos en nuestro marco teórico la primera ocasión: no hay novela histórica. La novela siempre está en presente. Por lo tanto, es traer el pasado al presente. Y ella aquí dice el modo: penetrando en el mundo interior. Yo diría, lacanianamente, penetrando en el inconsciente.
+
+
+[22:20] Y el inconsciente, sabemos, siempre es discurso; no existe tampoco para Lacan predado. No tenemos un inconsciente, no hay que buscarlo en ningún lado, no es una cosa. Así como no es una cosa la realidad, que es un constructo, el inconsciente, que es la búsqueda misma del psicoanálisis, tampoco existe, ni está predado, ni es el mismo siempre.
+
+
+[22:49] El inconsciente es algo que se construye como discurso, que es ese mundo interior al que se refiere, obviamente, Marguerite Yourcenar. Aquí las dos claves esenciales: un tiempo recobrado, pero interno, íntimo. No es la historia, otra vez, en mayúscula, sino cómo este individuo concreto, Adriano, aunque sea el emperador, haya vivido la historia. Nosotros diríamos: un tiempo testimonial, un tiempo del testigo.
+
+
+[23:18] Porque otra vez la intuición sabia de Marguerite Yourcenar está diciendo exactamente lo mismo que Lacan: "Todo se nos escapa, todos, y hasta nosotros mismos. La vida de mi padre me es tan desconocida como la de Adriano". Y aquí viene lo más importante: "Mi propia existencia, si tuviera que escribirla, tendría que ser reconstruida desde fuera, penosamente, como la de otra persona". Por supuesto, porque no existe el yo, porque no hay un mí.
+
+
+[23:55] "Debería remitirme a ciertas cartas, a los recuerdos de otro, para fijar esas imágenes flotantes. No son más que muros en ruinas, paredes de sombras. Ingeniármelas para que las lagunas de nuestros textos, en lo que concierne a la vida de Adriano, coincidan con lo que hubieran podido ser sus propios olvidos".
+
+
+[24:19] No solo está dando una gran lección de teoría literaria y de creación literaria. Es decir, yo he oído mucho al novelista histórico que dice: "El novelista histórico llena los huecos que la historia no puede llenar". No es tan sencillo. Lo que está diciendo Marguerite Yourcenar es mucho más radical: el narrador verdadero encuentra los huecos que de por sí están en el inconsciente del personaje que es transmitido.
+
+
+[24:52] Y los huecos se definen exactamente, en Lacan también se definen exactamente, por el vacío; el hueco se define exactamente porque no está. Se define solo en contraste y en contacto con los discursos. No existe entonces la laguna mental, porque el hecho mismo de vivir es una laguna mental.
+
+
+[25:15] Como no sabemos quiénes somos, no sabemos nada de nosotros mismos, nuestro consciente es precisamente el lugar en el que no estamos, y nuestro inconsciente es cruce de discursos. La tarea de la literatura es pervertir esos discursos, como veíamos ayer con Tolstoy, subvertir esos discursos en el acto supremo literario, que es justamente el de convertir esos discursos predados y hacerlos otra vez discursos eventuales, discursos del acontecimiento, discursos del trauma, discursos incognoscibles, o sea, llenos de huecos, no llenados de huecos.
+
+
+[25:56] Todo llenado de hueco es en sí mismo falso, y pretendería que hay un sentido que el hueco llena. Si hay un hueco que llenar, piénsenlo incluso físicamente, como cuerpo: si hay un hueco que llenar, es porque el cuerpo ya está preconstituido. Yo lleno el hueco, pues ya desaparece el vacío. Si el cuerpo no está constituido, el hueco tampoco está constituido.
+
+
+[26:19] El hoyo de sentido es la misma precondición de construcción de la cadena de sentido, o de significantes, acá. Pero ella se da perfectamente cuenta, ¿no?: ojalá, en la reconstrucción de lo poco que yo tengo de información sobre Adriano, mis lagunas coincidan con sus olvidos.
+
+
+[26:43] No llenar. ¿Qué significa? Y esta es la pregunta central, quizá, de toda Yourcenar y de toda la literatura: ¿qué significa narrar los olvidos de otro, sino penetrar en su trauma, ser testigos de sus testimonios?
+
+
+[27:02] Y como la mujer es verdaderamente inteligente, supremamente inteligente, nos da hasta el método para lograrlo, ¿no? El método de indagación es claro en Yourcenar: "Tratar de leer un texto del siglo II con los ojos, el alma y los sentimientos del siglo II; bañarlo en el agua madre, que son los hechos contemporáneos". Ver estrato tras estrato de lo que se ha acumulado, repetido, en la reconstrucción del recuerdo, quitando lo superficial, lo no esencial, lo no duradero.
+
+
+[27:33] Hay un momento en el Seminario 9 en que Lacan dice: "¿Qué es el inconsciente?". Como no puede definirlo como una cosa, dice: "Es una cebolla". Así como de pronto dice que lo real es, como Lacan es divertidísimo, ¿no?, dice que lo real es el chicle que se te pega en el talón, ¿no? Como no lo puede definir, porque no existe, pues eso es, ¿no?
+
+
+[27:54] Entonces, cuando tiene que definir el inconsciente, dice: "Es como una cebolla, llena de capas superpuestas unas tras de otras, incluso la última capa". Marguerite lo está diciendo muy bien.
+
+
+[28:06] No se trata del famoso círculo hermenéutico de mis viejos maestros de hermenéutica, que venían de haber estudiado con Mario Valdés en Toronto y se creían todavía el rollo este de Ricoeur, y estaban convencidos de que el círculo hermenéutico es llenable, es decir, de que hay comprensión. Ahora le llamaban apropiación, ¿no?, o aplicación, dependiendo de la teoría.
+
+
+[28:34] La verdad es que no hay círculo hermenéutico. La pretensión del círculo hermenéutico es una pretensión en sí misma cartesiana: voy a conocer algo que ya es previo a mi conocimiento. Y por eso el otro día, cuando alguien dijo "platónico", yo dije: "Sí, pero no es platónico". Precisamente no es platónico porque no hay nada predado, ni caverna ni exterior a la caverna. No vivimos en el mundo no ideal de las ideas que están afuera.
+
+
+[29:02] La deconstrucción tiene que ser una deconstrucción mucho más radical; tiene que ser verdaderamente una deconstrucción. Entonces, por eso sí se puede ir al otro, por eso sí se puede ir al siglo II, pero hay que bañar ese siglo en el agua madre, que son, fíjense, ¿no?, dice, los sentimientos contemporáneos.
+
+
+[29:26] Aquí la diferencia es, como diría para otro tema el genial Truman Capote, sutil, brutal, ¿no? Sutil, brutal: "Tratar de leer un texto con los ojos, el alma y los sentimientos del siglo...". O sea, está basándose en puros elementos que no tienen que ver con la razón, ¿no? "Bañarlo en el agua madre, que son los hechos".
+
+
+[29:53] Casi casi está respondiendo de manera directa a la famosa intuición de Adorno, que decía: ¿cómo escribir literatura después de Auschwitz? ¿Cómo escribir sobre Adriano sin el Holocausto? No se puede. Cómo escribir: hay que bañarla con los hechos contemporáneos, no con los sentimientos, no con los ojos contemporáneos.
+
+
+[30:16] Es el horizonte, para decirlo otra vez como decían los maestros estos de Jauss; es el horizonte de expectativas, ¿no? Era una metáfora bien bonita, ¿no?, porque finalmente el horizonte se mueve con uno, y parecía muy cierta, ¿no?: yo me muevo y el horizonte se ensancha.
+
+
+[30:33] Pero como no hay esta cosa cronológica, no hay esta cosa lineal, no hay la posibilidad de que, mientras yo más me alejo, más se ensanche el horizonte, ni tampoco de que, mientras más me acerque, más se achique el horizonte, porque, o sea, se trata más bien de capas superpuestas, no lineales.
+
+
+[30:51] ¿Cómo se dan los procesos de comprensión, si es que hay por lo menos la pretensión de comprensión? No lo sabemos, pero no se dan en perspectiva, si vamos a seguir usando el término de distancia y de horizonte. Se dan en amalgama, y se dan de pronto de la manera más rara.
+
+
+[31:10] Siguiendo la intuición de Freud, Lacan decía: probablemente aquello que realmente tenemos reprimido nunca lo vamos a saber. Lo que nos viene a la mente, que sale del estado de latencia, no es necesariamente lo reprimido. Lo reprimido es mucho más profundo, y es tan incognoscible que hay lo que Lacan llama el objet petit a, el objeto pequeño a, para que no sea el objeto.
+
+
+[31:38] Porque el objeto mismo, la escena primaria que diría Freud, el incesto primario simbólico, no regresa nunca como tal. Lo que yo quería decir ayer, que no me salió mucho en la manera en que lo dije: el tema de la angustia no es eso último que recordamos, porque lo que nos causa verdaderamente la angustia no es eso que hoy decimos que sabemos: "Ah, mira, es por esto, y porque me acordé de esto".
+
+
+[32:11] Eso que supuestamente causa mi angustia, que es este recuerdo, está en lugar de; es el objet petit a del verdadero otro, del verdadero objeto que es la verdadera causa de mi angustia, y que está tan reprimido que nunca lo voy a ver. Ni siquiera voy a llegar allí. Es muy probable que ni siquiera en psicoanálisis llegue ahí.
+
+
+[32:31] El psicoanálisis no tiene herramientas, ni siquiera la herramienta misma del lenguaje que busca Lacan, para penetrar en lo verdaderamente reprimido. Porque volvemos a lo mismo, veámoslo ahora neurológicamente, para que ningún no freudiano nos critique: como no recordamos nunca el recuerdo, sino el último cuento que nos hicimos del recuerdo, es imposible que nos acordemos de esa represión inicial, de esa escena primaria que dice Freud. No se puede.
+
+
+[33:06] Ah, perdón, todavía estoy en el 10. "Porque esos hombres que narramos históricamente, como nosotros, comieron aceitunas", dice Yourcenar, "bebieron vino, se embadurnaron los dedos con miel, lucharon contra el viento despiadado y la lluvia enceguecedora, y buscaron en verano la sombra de un plátano, y gozaron, pensaron, envejecieron y murieron".
+
+
+[33:36] Es otra de las grandes intuiciones de Yourcenar: Adriano es igual que nosotros. No voy a rescatar, a comprender, porque estos hombres, igual que nosotros, hicieron exactamente lo mismo. Pero sí son los hechos contemporáneos con los que voy a bañar la sensibilidad, si queremos resumir esos tres, ojos, alma y sentimientos, del pasado.
+
+
+[34:05] No se puede comprender si no se conoce la herida, si no se participa en ella. Ayer, con una pregunta, hablábamos justo del tema de la participación, si no se es textigo [?]. Lo decimos de nuevo: "Para comprender mejor", dice Yourcenar, "utilizar un comienzo de enfermedad del corazón".
+
+
+[34:23] Se llama trauma, llámenle como quieran, pero ella lo dijo exactamente con estas palabras: "Para comprender mejor, utilizar un comienzo de enfermedad del corazón". Esa es la magia simpática a la que ella alude cuando dice que hay que transportarse al otro. Por supuesto, el novelista histórico no como lector, sino como relector, o mejor, como reenactor. Tiene que reenactuar.
+
+
+[34:50] Carl Schmitt, este gran pensador de la política, formado en la teología, en la teología alemana, que no es cualquier teología, tiene este libro excepcional sobre Hamlet y Hécuba. Y entonces yo digo: justo, hay que leer a Carl Schmitt sobre Hamlet y Hécuba para reconocer la entrada del tiempo en el drama. Es decir, el tema de la temporalidad aquí sí es también central.
+
+
+[35:21] O a Yourcenar, que se pregunta qué es Hécuba para él. Como Hamlet al ver al actor ambulante que llora por Hécuba, una Hécuba que desconoce, porque el actor derrama lágrimas auténticas y ha logrado, dice Carl Schmitt, establecer con esa muerte tres veces milenaria una comunicación más profunda que la del mismo Hamlet con su padre, enterrado la víspera, pero cuya desdicha no siente del todo por estar dispuesto a vengarlo sin demora. Es decir, se superpone la venganza al duelo.
+
+
+[36:03] Lacan tiene una lectura de Hamlet mucho más radical. Dice: "No, lo que pasa es que el tío ya es Hamlet; ya logró el incesto primario que él no puede lograr con la madre. Mató al padre y se acostó con la propia madre de Hamlet. Entonces, matar al tío es matarse a sí mismo", al otro simbólico, obviamente, que es él. Una lectura mucho más radical.
+
+
+[36:31] Vengar, sin embargo, para seguir esta línea, vengar no es participar del dolor del otro; es asumir nuestro dolor, el de la pérdida, como el único. Hamlet llora por sí mismo. En cambio, el actor que llora a Hécuba sufre de verdad por ella.
+
+
+[36:49] Esa empatía esencial, esencial a nosotros como humanos, de la que ha hablado también [?], es lo que busca el verdadero novelista. El novelista busca que seamos como el actor que llora por Hécuba, cuyas lágrimas pueden ser mucho más auténticas porque llora por otro. A diferencia de Hamlet, que llora, no por otro, eso sería el duelo total, sino por sí mismo, vía la venganza.
+
+
+[37:15] Que a cualquiera a quien le haya pasado una muerte importante en su vida sabe que esto es un juego, un juego del que obviamente Freud también habló muchísimo en este ensayo, que es uno de los ensayos señeros de Freud, insuperable, que se llama Duelo y melancolía.
+
+
+[37:32] La diferencia del duelo y la melancolía para Freud es que la melancolía termina siendo un grado de psicosis. Es decir, en el duelo hay lo que el propio Freud, siguiendo algo que ya había intuido para el sueño, llama el trabajo del duelo, como el trabajo del sueño. Y es en el propio trabajo del duelo que se supera la pérdida.
+
+
+[37:54] En cambio, en la melancolía hay un narcisismo primario, como el de Hamlet, y en realidad lloramos por nosotros mismos, como puede ocurrir en cualquier proceso de la muerte de un ser querido. Hay un momento en que primero lloramos por lo que el otro deja en nosotros como hueco, no por el otro. Y hay mucha gente que seguirá siempre llorando el hueco en mí, y no al otro. Eso sería el melancólico.
+
+
+[38:24] El que logra hacer su trabajo de duelo logra aceptar, en lo que significa eso, la pérdida. ¿Por qué logra aceptar la pérdida? Porque llora por fin al otro; es el otro, el muerto. Entonces, en el momento en que yo logro, mediante el trabajo de duelo, por decirlo así, separar mi sufrimiento de mí mismo y sufrir por el otro, se logra un proceso mucho menos, diría Freud, psicótico que el del melancólico.
+
+
+[38:50] Pasa lo mismo exactamente en el amor para Lacan, que hemos citado tanto aquí. Si el que ama, vamos a pensarlo como Carson McCullers, esta maravillosa escritora, en La balada del café triste, que hace mucho la distinción entre el amado y el amante, si el amado ama al otro porque se ve reflejado a sí mismo en el otro, o quiere ser lo que el otro anhela tener, es decir, exactamente lo mismo, especular, no hay verdadero acto amoroso. Sería una especie como de melancolía amorosa.
+
+
+[39:28] Es decir, o yo quiero cubrir el hueco del otro, que incluso es tan absurdo porque nunca sé cuál es ese hueco, o quiero que el otro cubra mi hueco. Es una proyección falsa; ambas son proyecciones falsas, son proyecciones especulares. Y acuérdense de la imagen del espejo, por eso, en Lacan.
+
+
+[39:48] Pasa exactamente lo mismo que con el trabajo de duelo. Si yo solo proyecto, incluso en el otro que ya no está, en la ausencia, siempre, incluso en el deseo, muerta o no la persona, hay una ausencia. Si yo proyecto esa ausencia y solo lloro por la ausencia, estoy llorando por mí, no por el otro.
+
+
+[40:10] Porque el que siente la ausencia es el que está, dice Rosario Castellanos en un bellísimo poema, que lo dice mejor que todo Lacan: "El que se va se lleva su memoria, su modo de ser río y de ser aire, de ser adiós y nunca".
+
+
+[40:26] Muy bien. Estábamos ya en el 13. ¿Y no será que el llanto y el grito son las dos únicas maneras de leer? El cuerpo que da cuerpo al dolor es el mismo; apenas cambia. Dice Yourcenar: "Nada más estable que la curva de una clavícula, el lugar de un tendón o la forma de un dedo del pie".
+
+
+[40:54] O sea, todos siempre hemos tenido el mismo cuerpo. Pero ahora viene esta maravilla de Marguerite: "Pero hay épocas en las que el calzado deforma menos". El empeño, entonces, consiste en novelar ese siglo muy de cerca, el siglo de la libre verdad del pie descalzo.
+
+
+[41:14] "No hay tarea tan apasionante como la de confrontar los textos", escribe en sus notas Yourcenar. Oír a los abogados del juicio, sus peroratas y posturas: Pausanias, lo mismo que el Plutarco de las Moralia, quienes culpan y quienes exculpan en el caso, que es la vida de Adriano. Ah, y escuchar a los testigos llamados a escena.
+
+
+[41:38] En el caso de Adriano no puede faltar Antínoo, "el tierno enardecido", que decía Percy Bysshe Shelley. Hay que escrutar su rostro, tantas y tantas veces esculpido. Tenemos pocas imágenes de Adriano, pero todo el mundo se ha imaginado al bello Antínoo.
+
+
+[41:56] El rostro de un hombre cuya importancia no radica en haber sido político o filósofo, porque no fue nada de eso. Su única importancia, por lo menos en la historia, fue ser amado. En la historia de Roma es el hombre más amado. Incluso no estuvo metido en ninguna intriga; no sabemos nada político de él.
+
+
+[42:20] "En ocasiones, aunque no a menudo", dice Marguerite Yourcenar, "me asaltaba la impresión de que el emperador mentía, y entonces tenía que dejarle mentir, como todos hacemos". Nuevamente, chapeau [?]. Quien así escribe lo hace sobre un personaje literario, su testigo.
+
+
+[42:38] El narrador acepta entonces que la verdad no es pura, que nadie puede jurar nunca que va a decir toda la verdad y nada más que la verdad, para seguir con mi tema del juicio. Por eso el textigo reconoce que las voces que le hablan, y a las que da voz, son más dignas de atención que sus propios gritos, los gritos del lector de los que yo ya he hablado.
+
+
+[43:00] Otra perla de las notas de Marguerite Yourcenar: "De alguna manera, toda vida narrada es ejemplar". Lo que decíamos ayer, incluso del testimonio de cualquiera que testimonie, ustedes, yo, cualquiera: "Se escribe para atacar o para defender un sistema del mundo".
+
+
+[43:18] "Hay tres líneas", dice Yourcenar, "en la biografía de todo ser humano, y nunca son una horizontal y dos perpendiculares. Son tres líneas sinuosas, perdidas al infinito, constantemente próximas y divergentes".
+
+
+[43:35] Por cierto, si Lacan hubiera leído esto, le hubiera dado de besos, ¿verdad?, porque es lo imaginario, lo simbólico y lo real: "Lo que un hombre ha creído ser, lo que ha querido ser y lo que fue". Esas tres líneas sinuosas nunca se entrelazan, siempre se intentan tocar la una a la otra. Es una suprema intuición de biógrafa y de psicóloga.
+
+
+[44:03] Lo que un hombre ha creído ser, lo que ha querido ser y lo que fue. El imaginario, lo que ha querido ser, el ego; lo que ha creído ser, lo simbólico; y lo que fue, siempre incognoscible, lo real.
+
+
+[44:19] No otra cosa hace Jung en su curioso y sabio libro anciano [?]. Es el mejor libro de Jung; se acaba de imprimir la versión, digamos, que podemos tener todos, porque era un álbum. En inglés, todavía no está en español, porque son todos sus dibujos; entonces es una edición facsímil a colores. En su Libro rojo: enjuiciar esos sueños, lo que ha querido ser; esas imágenes, lo que ha creído ser; y esa historia mal contada, narrada por un loco y vacía de sentido, que dice Shakespeare, obviamente la vida vivida, lo que fue.
+
+
+[44:59] El libro rojo es la versión completa de un libro que sí conocemos en español, que se llama Recuerdos, sueños, pensamientos [?], pero no tiene dibujos, sino que está expurgado, y es una versión de Marie-Louise von Franz, una de sus discípulas de la escuela de Eranos.
+
+
+[45:14] 19: "Toda aventura humana vive en mí". Esta es Yourcenar. Todo aquel que haya sufrido un trauma y sobrevivió para contarlo vive en mí, digo yo. Después de Shakespeare, dice Borges, todos somos Shakespeare.
+
+
+[45:34] "Nuestras fantasías de interpretación dejan intactos los textos mismos, que sobreviven a nuestros comentarios". Este soy yo. Pero es muy importante, porque de alguna manera hay que vencer esta tentación de la interpretación.
+
+
+[45:50] No se trata de intentar comprender, acto obsceno por naturaleza, sino de actuar participativamente en el drama, como el actor que llora a Hécuba en la obra que monta Hamlet para el rey, para su tío. Sumergirse en la escritura del desastre, en la incompletitud del mundo y el vacío del ser, en el devenir del significante, hacedor verdadero de las historias, por cierto, siempre parciales y siempre incompletas.
+
+
+[46:22] El valor humano de una novela biográfica o histórica, sería mi conclusión de Yourcenar, aumenta con la fidelidad a los hechos. Y eso también lo piensa, obviamente, Marguerite Yourcenar. Estamos de acuerdo, aun sabiendo que no hay hechos, sino reenactuaciones del trauma inicial, de la primera pérdida. Pero es cierto: es más humano, no necesariamente más auténtico. No hay nada auténtico.
+
+
+[46:48] Aquel juicio que cita a más testigos, aquel que contrasta más versiones, incluidas las del propio lector, testigo último de lo vital que busca tanto en medio del documento... Y yo diría ahí: no del facsímil, sino, usando el término francés, del falso símil, del faux-similé [?], solicitado al documento histórico, copia de una copia falsa, puesto que requiere de la experiencia, y toda experiencia sobrepasa al conocimiento y es en sí misma un exceso y un trauma.
+
+
+[47:26] Para mí es importantísima esta diferencia. El facsímil sería la copia. Tenemos que definir desde el principio que no existe facsímil, porque no existe copia fidedigna. Por cierto, si alguien es notario aquí, o esposo o esposa de notario, pues no sé qué va a hacer hoy en la noche, después de que ha firmado tantas veces "doy fe".
+
+
+[47:51] Doy fe del falso símil, de la falsa copia, que es toda testificación. Nadie puede decir "juro decir toda la verdad, nada más que la verdad", porque no existe la verdad. No existe más que la reenactuación del hecho, contado muy posteriormente a haber ocurrido, por el trauma.
+
+
+[48:15] Muy bien. Vamos ahora, para que podamos tener mucho más tiempo, espero, para discutir, porque ya se nos está acabando todo el tiempo del seminario, a Noticias del Imperio, casi sin pausa.
+
+
+[48:28] Noticias del Imperio: tres novelas que no siempre hacen una. Y aquí, no es que me vaya a salir un poco del tono este del testigo, pero sí necesito un poquito de explicación sobre desde dónde escribe Del Paso, y algunas de estas son también, obviamente, provocaciones sobre la literatura mexicana nacidas de mi propia lectura.
+
+
+[48:52] La tradición central de la novela en nuestro país es histórica. La gran novela mexicana, nuestro equivalente a la utopía narrativa norteamericana, la que los norteamericanos llaman la gran novela americana, tiene que ver con la historia. Así nace, con El Periquillo Sarniento, un pícaro trasplantado a nuestras tierras en la tradición del Guzmán de Alfarache, del Buscón y de Tom Jones.
+
+
+[49:11] El género tiene en México siempre, curiosamente, elementos de periodismo y de costumbrismo. La novela histórica en México, desde su nacimiento, es una novela de cruce de discursos. La novela mexicana, además, siempre ha tenido el elemento de juicio y confesión que encontramos como característica central de la novela desde sus orígenes.
+
+
+[49:34] Las mejores novelas mexicanas del siglo XIX son históricas: Riva Palacio, Martín Garatuza, Monja y casada, virgen y mártir; Manuel Payno, El fistol del diablo, pero sobre todo Los bandidos de Río Frío. No es gratuito que a ellos también se deba El libro rojo, basado en casos de juicios de la Inquisición.
+
+
+[49:53] La novela mexicana del siglo XX arranca siendo crónica histórica de las revoluciones, de nuestra Revolución; pensemos simplemente en Los de abajo, rescatada por Contemporáneos hasta 1927. No se la leía.
+
+
+[50:06] Tal camino se instaura como un subgénero, de tal forma que nuestras vanguardias novelísticas todas son un ajuste de cuentas con esa tradición incipiente, pero decisiva: Pedro Páramo de Juan Rulfo, Al filo del agua de Agustín Yáñez, José Revueltas en El luto humano.
+
+
+[50:22] No es gratuito tampoco que las dos grandes novelas que cierran el ciclo sean parodias: del lenguaje y de la identidad, en La muerte de Artemio Cruz, de Carlos Fuentes, y del cliché del personaje y la estructura, las memorias, en Los relámpagos de agosto, de Jorge Ibargüengoitia. Todo esto es lo previo que necesitaba.
+
+
+[50:46] Cuando en 1987 Fernando del Paso publica Noticias del Imperio, no empezó, como se ha dicho muchas veces, la nueva novela histórica mexicana. Del Paso reencauzó el árbol literario, su fuerte tronco. En lugar de usar la Revolución, ya moribunda incluso como discurso político, volvió al siglo XIX, que el propio Ibargüengoitia había usado para su última novela publicada, Los pasos de López, sobre Santa Anna [?].
+
+
+[51:15] El camino literario de Fernando del Paso había iniciado con un ajuste de cuentas con Rulfo en su José Trigo, nuestra única auténtica novela joyceana. Está dedicada a Rulfo, de hecho. Había ido después al canon de la novela paródica por excelencia, Rabelais, en su Palinuro de México, a mi juicio la mejor novela de Del Paso, una novela inagotable que acaso sea su verdadero legado literario.
+
+
+[51:39] Allí el porfirismo, a diferencia de como ve la historia en Noticias del Imperio, es retratado con ironía, con dolor y melancolía. Del Paso hace referencia al suceso que rompió con la ilusión ideológica de la Revolución institucionalizada, la masacre del 2 de octubre de 1968, en un fragmento de Palinuro que es a su vez puesta en escena, actuación, obra de teatro: "Palinuro en la escalera" está incluso escrita como obra de teatro.
+
+
+[52:07] Sin embargo, lo que un escritor genial realiza no es solo un reacomodo de la biblioteca, una reclasificación de su tradición, sino un reacomodo del canon entero. En literatura, no debemos olvidarlo, no hay la diferencia, útil para la música, entre canon y repertorio, porque el ejecutante es el lector.
+
+
+[52:28] Es el supralector escritor quien logra, con una nueva obra, que se lea de forma totalmente distinta toda la literatura pasada, como sabía muy bien T. S. Eliot en su Criticar al crítico. De manera que Noticias del Imperio instaura una revisión de la literatura novelística mexicana que no es sino una vuelta a su tronco más frondoso.
+
+
+[52:49] Ilusión óptica, porque el momento anterior, que Margo Glantz llamó Onda y escritura, había logrado que olvidáramos la novela de la Revolución y sus parodias, haciéndonos pensar que el juvenilismo y su evangelio, o nuestra particular y muchas veces fallida reescritura del nouveau roman, eran la novela mexicana.
+
+
+[53:10] Ignacio Solares y Eugenio Aguirre, o Enrique Serna y Rosa Beltrán en distintos momentos, y Eduardo Antonio Parra u otros, abrevamos en una larga tradición que curiosamente requirió la lectura excepcional de Del Paso para ampliar el canon. Ahora sí, ya sobre Noticias del Imperio.
+
+
+[53:29] Lectura del pasado desde el presente. Noticias del Imperio es en realidad tres novelas, y esa es su tragedia. Una de ellas, la más imaginativa, está compuesta por los monólogos de la anciana emperatriz Carlota, un recurso que tiene mucho del fantasma Orsini de la excepcional Bomarzo de Manuel Mujica Lainez.
+
+
+[53:51] La otra está compuesta por fragmentos tolstoianos en tercera persona, con un narrador enjuiciador lejano; la más datada, de hecho, de estos fragmentos, la que menos funciona en las relecturas actuales del libro. Y otra, muy incisiva, escrita de cerca de los personajes que narra, en un lado y otro del Atlántico. Allí, en esa tercera novela, están los mejores momentos históricos del libro: la batalla de Camarón, por ejemplo, o el fusilamiento de Maximiliano.
+
+
+[54:20] En algunas ocasiones, la autoconciencia del narrador que se erige en juez lo hace en detrimento de la ilusión novelesca. En, por ejemplo, "El último de los mexicanos", el parágrafo casi final del libro, Del Paso establece su credo histórico.
+
+
+[54:37] Como en ciertas películas, el narrador nos cuenta el final de cada uno de los personajes: quién murió, dónde ocurrió y el hecho. Hasta que un día muere Carlota Amelia de Bélgica, la emperatriz que tan pasionalmente nos habló, a nosotros y a Maximiliano, desde la locura, en la novela de Del Paso.
+
+
+[54:58] "Muerto el perro, se acaba la rabia", cita Del Paso el refrán, pero agrega, y ahora cito a Del Paso: "La última página jamás sería escrita. Y no solo porque la locura de la historia no acabó con Carlota, también porque, a falta de una verdadera, imposible y en última instancia indeseable historia universal, existen muchas historias, no solo particulares, sino cambiantes, según las perspectivas de tiempo y espacio desde las que son escritas".
+
+
+[55:28] No siempre, sin embargo, funciona este narrador ensayista que nos dice desde dónde habla, cuál es su divisadero, como decía del punto de vista histórico don Luis González y González.
+
+
+[55:40] Cuando menos lo hace es en las siguientes páginas, en las que, a la luz del imperio fracasado, Del Paso analiza la historia contemporánea de México como profesor de secundaria. Como si esto fuese posible, porque necesita él mismo decir, y lo cito: "Uno podrá siempre, talento mediante, hacer a un lado la historia y, a partir de un hecho, de uno de los personajes históricos, construir un mundo novelístico y dramático autosuficiente".
+
+
+[56:03] Y es que la misma Noticias del Imperio es una prueba de que no se puede escapar de la historia. El novelista histórico, por otro lado, no es crítico literario. Las páginas de Noticias del Imperio, que bien podrían ir en un apéndice, en las que su autor hace recuento de los libros leídos y sus aportes al propio libro, son un tumor extirpable.
+
+
+[56:26] Se necesita un acto límite, cuando se escribe novela histórica, de construir la experiencia y el discurso de los límites. Esa es la verdadera participación política de la actual novela histórica. Escribir novela histórica es un acto de resistencia frente al olvido y frente al poder. Solo así tiene sentido.
+
+
+[56:50] Todo Adorno, que en el aforismo final de Minima moralia escribía: "La única filosofía que puede ser practicada responsablemente de cara a la desesperación es el intento de contemplar todas las cosas tal y como se presentarían a sí mismas desde el punto de vista de la redención".
+
+
+[57:12] No hay redención, término mesiánico, sino en todo caso reconciliación, término humano. Reconciliación no en el sentido judeocristiano de perdón; muchas veces, tristemente, en la historia humana, el que perdona se considera superior al perdonado. Sino en el casi gráfico [?]: el que ve al otro y lo acepta, y entonces también se acepta a sí mismo, se reconcilia.
+
+
+[57:39] El personaje de Coetzee al que ya hacíamos referencia, la hija en Desgracia, esta novela verdaderamente terrible, traumática, se reconcilia con el que la viola en el momento en que acepta no solo tener al hijo, sino casarse con él, vivir con él la aventura de esta, yo no digo que simbólica, porque es tan fuerte la novela que no es simbólica, de esta Sudáfrica post-apartheid.
+
+
+[58:11] Ve al otro y lo acepta como una única forma de aceptarse a uno mismo. El hombre así visto no es un ser hecho, o, diría yo, prehecho, sino un conjunto de débiles intensidades, si se me permite el término beckettiano, que puede entrar en resonancia con otras, no en perpetua competencia. "No puedo seguir, seguiré", dice uno de los personajes de Beckett.
+
+
+[58:36] Reconciliación que niegue todo romanticismo, que produzca una crisis en el sentido etimológico: algo que se rompe, se para, y así permite que se lo vea. Reconciliarse con el otro precisamente porque es otro, no porque deseo románticamente que se parezca a mí. En este tiempo de incertidumbre, reconciliarse seriamente solo puede provenir de la diferencia, no de la semejanza.
+
+
+[59:06] Ese es el acto político más radical en un mundo que requiere el pensamiento radical como única forma de pensar. Pienso otra vez en Carl Schmitt y su crítica feroz del romanticismo, al que él veía, y lo cito, como "ocasionalismo subjetivado".
+
+
+[59:21] En un mundo secularizado, donde el ser humano, como decía Yourcenar para Adriano, ocupa el centro del escenario, todo lo que aparece es relevante y aparece en una ocasión. El narcisismo metafísico, cuyo último brote fue el movimiento beat, no es sino una forma de egoísmo que rehúsa toda reconciliación verdadera. El romanticismo es un ensimismamiento, para decirlo de golpe, caro a la adolescencia.
+
+
+[59:50] Necesitamos una reconciliación madura, de otro orden, más duradera por más compleja, que nace de la decepción, como ya dijimos, pero la supera. En esta sociedad individualista y desintegrada, solo una revaloración de lo político puede ser el preámbulo de esa reconciliación que propongo desde la literatura; no aquella que nace de la idea de que solo el individuo emancipado del orden social burgués es la única autoridad metafísica, el ciudadano este al que ya se hizo referencia en la primera sesión.
+
+
+[1:00:24] No, la vida termina y no hay nada más allá, dice Beckett, y yo lo cito de nuevo. No pensemos entonces en un futuro de absolutos. El capitalismo tardío, que parece ya haber llegado a su fin, y de cuyos estertores somos hijos, nos ha dejado un futuro construido solamente con fragmentos. Nuestras identidades también son fragmentos, y esa es su mejor herencia.
+
+
+[1:00:46] Ahora que agoniza, un canto fúnebre al mercado: emergerá un nuevo Estado y volverá necesaria la política. "De la hoguera de nuestras vanidades intelectuales", afirma Simon Critchley, "emergerán las cenizas de la compasión, la ternura y la generosidad". Esa es una esperanza, al menos: que del desmantelamiento inminente de la arrogancia humana emerja un futuro de reconciliación verdadera.
+
+
+[1:01:14] Ya casi termino. El diagnóstico de la modernidad tardía, el colapso reciente del capitalismo [?] y sus nuevos ídolos, no podría en ese sentido ser más sombrío.
+
+
+[1:01:24] Al viejo nihilismo le ha sobrevenido un pensamiento que no rehusó la metafísica, y que, o bien buscó supervivencia en el fundamentalismo religioso, islamismo, ultraconservadurismo [?] seguidor de la idea de que el diseño inteligente es una versión más certera que la evolución de la teoría darwiniana, o en el fundamentalismo político, con el populismo perpetuo de Chávez a la cabeza, pero también con la antidemocracia de Putin no muy a la zaga.
+
+
+[1:01:50] Nietzsche ya lo sabía, y en su Voluntad de poder ironizaba sobre los nuevos ídolos con grandes mayúsculas. En un mundo secularizado vendrían los republicanismos, los nacionalismos, los fundamentalismos. Si el ateísmo produce conformismo, no necesita el pensamiento para existir. La duda entonces perece. Este mundo sin metafísica nos debe producir angustia, no consuelo.
+
+
+[1:02:21] Desde la decepción, esa categoría del pensamiento que Jorge Cuesta, el extraordinario ensayista mexicano, inventó para referirse a la cultura mexicana. Decía, por ejemplo, que López Velarde era buen poeta porque decepcionaba al paisaje. Decepción quiere decir alejamiento, perspectiva.
+
+
+[1:02:37] Slavoj Žižek, el paralaje [?]. De la decepción religiosa, el famoso "Dios ha muerto" nietzscheano, a la decepción política de este tiempo atrozmente violento, en el que la sangre brota en las calles con la alegría y el desparpajo de las burbujas de champán.
+
+
+[1:02:55] Decepción, entonces, y es lo que propongo como categoría analítica: alejamiento, o, como decía Bertolt Brecht, distanciamiento. No tengo empacho en afirmar que se trata de una salida más plausible que volver a caer en la metafísica religiosa o política y en la vana idea de trascendencia.
+
+
+[1:03:17] La pregunta central sobre el significado de lo humano en un mundo en donde la respuesta no puede estar más allá de lo humano, no fuera de nosotros, sino dentro de nosotros, es la pregunta y la respuesta más centrales. Y con esto termino yo y les doy la palabra a ustedes.
+
+
+[1:03:48] Por allí hay un micrófono. Ya no tuvimos preguntas ayer; fuimos tan contundentes. Nadie mandó preguntas por correo. Preguntar, ¿no? No, nadie.
+
+
+[1:04:13] >> Participante 1: Yo quería preguntar si la literatura... Le entendí un poco a todo el seminario como esta narración artística de lo que pretendemos ser y no somos, en un yo que queremos inventar. ¿Se puede también, a partir de eso, decir historia, o hacer historia, o narrar la historia?
+
+
+[1:04:42] Yo quería preguntar: ¿cómo vemos, o cómo podemos disfrutar, a partir de eso, la narración, la novela, que es como decir la historia novelada, ¿no?, no literatura artística? Porque eso es lo que me pareció a mí que estuvimos tratando todo el seminario.
+
+
+[1:05:03] Como la novela no existe, yo entendí que la literatura, tal cual como la plantea usted, se trata más bien de una reconstrucción, a partir del arte, de buscar lo que nunca vamos a comprender, ¿verdad? Entonces, yo quisiera más bien trasladarlo un poquito, o que me explique un poquito cómo podemos trasladar la historia novelada que leemos día a día, que es lo que más comúnmente tenemos al alcance.
+
+
+[1:05:33] Son datos que nos presenta un narrador que no se aleja tanto de ese yo, y que como quiera nos agrada, ¿no? La disfrutamos, la vivimos, nos identificamos inclusive con los personajes, que son testigos y que son sobrevivientes de algún evento específico, histórico, y que nos atrapa. Y yo creo que, o sea, ahí está la historia también, ¿no?
+
+
+[1:06:05] >> Pedro Ángel Palou: Yo creo que esta pregunta es bastante importante e interesante, porque lo que yo hago es que ya no creo que haya una sola diferencia entre lo artístico y lo no artístico. Es decir, nosotros podemos ir... A ver, voy a poner un ejemplo no literario y luego voy a ir a uno literario.
+
+
+[1:06:22] Nosotros podemos ir a un museo. Hoy pueden incluso, si quieren, meterse al MoMA, al Museum of Modern Art, por internet, y pueden ver una obra que está sucediendo en este momento físicamente, una pieza que es un performance de la abuela del performance, le llaman; yo digo que es la abuela y la nieta, porque está muy, muy por encima de sus seguidores, que se llama Marina Abramović.
+
+
+[1:06:50] Y ella está hoy haciendo un performance impresionante. Están haciendo una retrospectiva de sus performances, que es un arte esencialmente efímero. Entonces, para lograrlo, lo que hizo fue primero hacer un taller en su casa en Nueva Jersey de 3 semanas y preparar a los que van a actuar como si fueran ella.
+
+
+[1:07:09] Entonces escogió, obviamente, mujeres de todas las edades, porque ella ha hecho performance desde los años 60. Y con los videos del performance, ellas van a actuar el performance, pero pueden salir cosas totalmente distintas, porque hay un performance, uno de los más famosos de ella, en que todo el dibujo es a partir de cortes en su piel y hecho con su sangre. Entonces, por más que se siga una línea, pues la actriz que lo interprete lo va a reinterpretar.
+
+
+[1:07:36] Y la pieza que ella está haciendo en este momento, performando en este momento, es una pieza en la que ella está sentada. Físicamente, la propia artista está haciendo el performance, obviamente desde las 9 de la mañana, que llega al MoMA, hasta que se cierra el museo, durante todos los días de la exposición; lo que escribe con el cuerpo.
+
+
+[1:07:54] La pieza es una mesa en la que ella está sentada de un lado, sin moverse y sin hacer absolutamente ningún gesto, frente al público que desea entrar a la pieza. Te sientas enfrente de ella. Ha habido de todo en estos días. Por cierto, pueden verla todo el tiempo, porque está en streaming permanente. Puedes ver la pieza durante las horas que tengas tiempo, o cada que veas tu correo electrónico ves cómo va la pieza.
+
+
+[1:08:18] Y hay algunas personas que han entrado, por ejemplo, y se han quedado calladas; otras que le han contado su vida; otras que han llorado, pero amargamente así; otras que no han podido... Después las han entrevistado; está haciendo ahorita un estudio sociológico de las respuestas a la pieza.
+
+
+[1:08:33] Hay unas gentes que no han podido con el shock de encontrarse frente a un ser humano que no les habla. Hay otros que lo han visto como su espejo, etcétera, etcétera. Se han producido en estos días, la pieza tiene tres o cuatro días de haberse inaugurado, los más impresionantes resultados.
+
+
+[1:08:51] Uno puede ir a ver esa pieza de Marina Abramović, o puede uno ir a ver incluso algo no tan necesariamente viejo, ¿no?, Las señoritas de Aviñón de Picasso, que están en el MoMA, ¿no?
+
+
+[1:09:09] Alguien diría, desde la óptica de ahora: uno es arte y otro no es arte, no está ya significado, sancionado como arte, Picasso. Y esto... Incluso hay quienes han dicho: "Yo no participo en esta mamarrachada", y se han seguido a la siguiente sala de exposición del MoMA y no han participado en el evento, para seguir con mi terminología.
+
+
+[1:09:33] Pero uno y otro no son necesariamente antitéticos. Si una obra te dice algo, no importa si está sancionada o no como arte. Más aún, mucha gente va a ver Las señoritas de Aviñón porque las tiene en la guía de highlights, y ni las ve, ni le dicen nada.
+
+
+[1:09:51] Como los japoneses que le toman fotos a la Mona Lisa, y que ya pasas en una banda como la que hizo don Pedro Ramírez Vázquez para la Guadalupana, ¿no?, y tomas [?] tu foto con miles de japoneses, ¿no?
+
+
+[1:10:07] ¿Puede pasar eso, o puede pasar que alguien llegue frente a ese Picasso y le produzca que sea un acto eventual? Pero no radica en su carácter artístico.
+
+
+[1:10:19] Se está haciendo ahora en Monterrey una cosa que va a terminar en estos días. Está empezando, de un colectivo, como le llaman ahora; uno de ellos, yo lo admiro mucho, acaba de hacer unas cosas impresionantes en Barcelona y en toda la frontera, que se llama El Mac. Es un grafitero, y el evento se llama Rostros queridos, o algo así.
+
+
+[1:10:41] Y ellos han... Mucha gente, muchos jóvenes de Monterrey estuvieron durante muchos meses rescatando, en el centro histórico, quiénes eran los rostros queridos: el bolero, el señor este, el mago de la suerte, ¿no? No sé cómo fue. Total, encontraron las historias de estas personas y las pusieron al uso del colectivo.
+
+
+[1:11:00] Llegaron estos cuatro artistas, son cuatro artistas, y escogieron qué piezas, qué personas, son las historias contables, y están ya pintando sus rostros con las cuatro técnicas de graffiti totalmente distintas.
+
+
+[1:11:14] Aquí en el MARCO, en una de las esquinas, ayer en la noche estaba El Mac ya diseñando la de un señor que mueve, como no soy de Monterrey me cuesta trabajo, pero que mueve coches, o que acomoda coches en un estacionamiento donde hay una ballena, o la ballena, o algo así. Yo, como no sé ni quién es el señor ni dónde es la ballena, me explicaron eso, y se los cuento para que ustedes sepan que es una persona real, de carne y hueso.
+
+
+[1:11:38] ¿Qué están haciendo estas gentes? Primero, están integrando el arte urbano no sancionado, por eso lo cuento, a espacios sancionados. O sea, la gente que vea en el MARCO al Mac va a ver otro tipo de graffiti, ¿no?; no este graffiti que es un código entre bandas y entre barrios, incluso hay muchas amenazas para quien sabe leer los grafitis, sino este graffiti artístico que produce una obra callejera efímera.
+
+
+[1:12:04] Hay uno de ellos, por ejemplo... El Mac pinta con aerosol, pero hay uno, un cubano de estos cuatro, que pinta todas esas cosas gigantescas con carboncillo, porque dice que lo que él pinta en sí mismo es algo que se deshace, y que entonces no le importa. O les pone un fijador, pero de todas maneras es una pieza que en la primera lluvia incluso se transforma, ¿no?
+
+
+[1:12:28] Todas estas formas alternativas de arte, puse ahorita el ejemplo del performance, etcétera, ante cierto espectador pueden ser cuestionadas, si son arte o no son arte. Voy ahora a las novelas. ¿Para qué? Todo depende de qué novela te haya llamado.
+
+
+[1:12:42] La más comercial, que compraste en un aeropuerto, y en aeropuertos pueden vender buenos libros, pero la más comercial, que aparezca menos artística, puede ser el libro que tú estabas esperando, y puede ser el que te produzca esa testimonialidad, que te haga, como dijiste muy bien, participar, vivir, identificarte; eres testigo como es testigo el otro.
+
+
+[1:13:06] No necesariamente requieres ni el arte ni lo que llamamos literatura formalmente, porque pudiera ser incluso una historia de vida. El libro que agarraste puede ser una novela, o una historia novelada, o no sé. Por ejemplo, a mí me gustó mucho, yo sé que artísticamente no es muy buena, esta de Memorias de una geisha, ¿no?
+
+
+[1:13:27] Sí, obviamente mis amigos puristas dirán: "Este cuate, ¿qué onda? ¿Cómo anda leyendo eso?". Bueno, es que si alguien revisa mi biblioteca se suicida, ¿no? Pero es que te puede llamar la atención ese libro, y además puedes realmente quedarte enganchado por esa historia sin necesariamente enjuiciar si tiene un valor o no.
+
+
+[1:13:51] Yo incluso creo que no debe haber un juicio de valor, porque el juicio de valor es un juicio estético que está hecho a partir de otros referentes, que no son los referentes que hemos tocado y tomado en este curso. Y depende de tu gusto, porque lo estético, hasta donde me enseñó mi abuelita, cuando me decía que el gusto se rompe en géneros, lo estético no tiene tampoco un canon [?]. Lo que es estético en una época no es estético en otra. Lo que es visto incluso como feo puede a otra persona parecerle hermoso.
+
+
+[1:14:29] ¿Por qué cada vez hay menos crítica literaria? Pues porque cada vez es más difícil hacer crítica literaria. ¿Qué hace un intermediario si no tiene referentes de lo que es bueno, malo, lo que está bien escrito? Pues enjuiciar solo desde la óptica de lo subjetivo. Hay buenos críticos literarios que ya lo están haciendo.
+
+
+[1:14:47] Hay una crítica terrible, una de las más duras del planeta, en el New York Times, que se llama Michiko Kakutani, que es dura como el... O sea, nunca quisiera yo estar en sus manos. Pero ella dice: "Yo hablo desde mí. A mí no me gusta este señor Murakami. Todos dicen que es muy bueno; a mí me parece malísimo, una mamarrachada por A, B, C, D, F, G".
+
+
+[1:15:06] Entonces, en lugar de ser la crítica, dice: "Soy una lectora", que happens to be la crítica del New York Times, "pero soy una lectora y hablo desde mi lectura". Es muy válido, mucho más válido que decir "yo hablo desde la sanción de la crítica", porque no existe en este momento ninguna plataforma de sanción crítica, en ninguna de las artes, que pueda decir qué es artístico y qué no es artístico, qué es aceptable y qué no es aceptable.
+
+
+[1:15:30] Ahí, en ese sentido, sí tiene razón Barthes: finalmente, la literatura es lo que se estudia como tal. Hace 10 años, no mucho más, era muy raro encontrar una exposición de fotografía en un museo. Alguien le dijo a la fotografía la pariente pobre de las artes plásticas. Hoy en día hay exposiciones de fotografía que le cuestan al museo, me refiero, lo que... a pesar de la reproductibilidad, ¿no?
+
+
+[1:15:58] Porque por eso no se las tomaba tan en serio: porque, a diferencia de las otras obras, que, aunque dijera Benjamin que han perdido el aura, son obras cultuales, casi casi únicas e irrepetibles, estas otras no lo son. Y por eso muchos artistas plásticos se burlan de lo no repetible; hay algunos artistas que ya están haciendo repetible su obra, ¿no?
+
+
+[1:16:22] Y, por ejemplo, no sé, hay gente que incluso dice: "Nadie puede tener ya mis cuadros". Pienso en el caso, por ejemplo, de Francisco Toledo: "Pues hago papel con mis..." Y ahora lo último que acaba de hacer son mosaicos. Te puedes comprar el piso de tu patio Francisco Toledo, que te cuesta 600 pesos el metro cuadrado, casi más barato incluso que muchos pisos Interceramic.
+
+
+[1:16:49] Y tienes tu Toledo, si quieres tener un Toledo, bajo la óptica de que otro señor también puede tener su Toledo, porque están los moldes y se van a repetir. Pero, por cierto, hay muchas otras artes que también están en molde: el grabado, la xilografía, muchas de las esculturas, ¿no? Alguien le debería haber dicho a Slim que hay tantos Rodins que ya no gastara tanto en esos Rodins, que son reproducciones, ¿no? Espero haber contestado esa primera pregunta. A sus órdenes.
+
+
+[1:17:18] >> Participante 1: A partir del lector... Nada más quiero saber a partir del narrador. O sea, si yo me propusiera hipotéticamente escribir algo, cualquier cosa... Me quiero quedar con lo que comentó ayer, de que inclusive al estar blogueando estoy escribiendo y narrando la historia en el preciso momento en que lo estoy escribiendo, ¿verdad? Y es testigo de, o sea, está testimoniando ese acto de sobrevivencia.
+
+
+[1:17:52] >> Pedro Ángel Palou: Sí.
+
+
+[1:17:55] >> Participante 2: Propones aquí la decepción como categoría de estudio, pero ¿no es esta decepción como distanciamiento una utopía?
+
+
+[1:18:06] >> Pedro Ángel Palou: Pienso mucho en esta, por eso hablé de Žižek, ¿no?, en esta noción de paralaje, que él en inglés llama parallax, ¿no?, que es, más que un distanciamiento en el sentido brechtiano, una toma de ver las cosas por lo menos desde dos perspectivas distintas.
+
+
+[1:18:21] Žižek obviamente está haciendo aquí una lectura filosófica, sin decirlo, de Hegel. Está diciendo: finalmente hay que rehacer; finalmente es un movimiento visual dialéctico. Lo que pasa es que Žižek está convencido de que en la dialéctica hegeliana, y lo lee en Hegel, no hay una síntesis, como sus discípulos creyeron, sino que la síntesis es una contradicción de los opuestos.
+
+
+[1:18:48] Entonces, el paralaje para Žižek, como la decepción que yo propongo, no es una reconciliación de los opuestos, sino que estos dos opuestos que no pueden unirse producen una paradoja, algo irresoluble, una aporía en sí misma, o un oxímoron, desde el punto de vista estrictamente trópico, formal, o producen eso, justamente, una contradicción. Y es la contradicción la que nos permite el distanciamiento.
+
+
+[1:19:16] O sea, no hay esa síntesis posible, sino que la síntesis en sí misma de cualquier movimiento dialéctico es contradictoria, como las síntesis lacanianas que hemos visto; todas son, por algo está en Lacan, todas son contradictorias. Nunca se llega al final; o sea, la noción misma de deseo es que nunca se satisface.
+
+
+[1:19:37] Pero obviamente los intentos sucesivos de satisfacción son, en su contradicción, las capas de la cebolla de las que habla Lacan en el inconsciente, las capas de la interpretación o de la significación, que ya sabemos que nada significa, pero las capas que se van superponiendo a esa posible significación siempre postergada.
+
+
+[1:19:56] Si pretendiéramos que sí existe como final, claro que sería totalmente utópico, ¿no? Pienso leer ahora, y este es de las lecturas que tengo ahora pendientes, regresando... Uno de los discípulos de Alain Badiou, que es otro lector, desde la filosofía y la matemática, de Lacan, acaba de escribir un libro, que es ya desde la óptica estrictamente filosófica, que se llama After Finitude, ¿no?
+
+
+[1:20:25] Es decir: y ahora, después de la finitud, ¿qué? Este no nihilismo de la finitud, porque no es la nada, es la no-thing, la no cosa de la que hablaba Lacan. Después de la finitud, ¿qué? Yo creo que esa es la pregunta en la que estamos. No hay una respuesta concreta; no creo que este libro tampoco proponga la respuesta, pero lo pongo porque es justo lo que se está discutiendo hoy.
+
+
+[1:20:46] Bueno, y después de esto que hemos diagnosticado, ¿qué? Sigue habiendo actos de lectura, como sigue habiendo actos de vida. Y la conclusión preliminar que yo haría sería solamente esa: siempre y cuando sepamos que es contradictorio. Esa nueva contradicción es el inicio de un nuevo intento, o de una nueva cadena de significantes, para no decir una nueva cadena de significación, porque no hay significación en sí misma.
+
+
+[1:21:27] >> Participante 2: Gracias.
+
+
+[1:21:29] >> Participante 3: Mi pregunta está relacionada con la pregunta que mencionaba que había hecho don Luis González, de cuál es su divisadero. ¿Podría ser una pregunta inicial para la aproximación al texto desde ese distanciamiento también? No sé si se...
+
+
+[1:21:55] >> Pedro Ángel Palou: Sí, sí. Yo creo que las ciencias sociales... Yo nunca hablo de ciencias humanas, porque, como ven, tengo mi bronca con lo humano. No, porque en realidad las ciencias humanas son un invento para quitarle lo social a lo humano, ¿no? Es como cuando alguien dice historia social: toda historia es social, ¿no?, y me dice que hace historia social.
+
+
+[1:22:13] Entonces, las ciencias sociales se tardaron mucho en algo que las ciencias naturales habían logrado, que es la paradoja del observador de Heisenberg, y que un sociólogo que yo frecuenté mucho, y sobre el que trabajé mucho cuando hice mis, digamos, pininos en ciencias sociales, que es Pierre Bourdieu, llama la objetivación del sujeto objetivante, ¿no?
+
+
+[1:22:37] Es decir, me parece muy buena manera de decirlo, ¿no? Si tú estás objetivando, tienes que primero objetivarte a ti mismo. ¿Desde dónde hablo? Soy un profesor del liceo, o un profesor universitario, el caso de Bourdieu, que está analizando la educación. Pero nací en Argelia [?], llegué tarde, digamos, a la repartición de muchas cosas, ta, ta, ta. ¿Desde dónde veo?
+
+
+[1:23:03] Y este es el divisadero que proponía don Luis González, con la misma inteligencia. En ciencias sociales, si no me digo primero desde dónde veo, y me asumo como si fuera objetivo, produzco muchos resultados miopes posteriormente, ¿no? Si soy miope, pero me definí primero como miope, pues qué bueno, ¿no? La miopía es una condición de mi divisadero: veo mal de lejos. Pues ni modo, ese es mi divisadero.
+
+
+[1:23:33] Entonces, don Luis González hacía eso: era miope históricamente, veía mal de lejos. Entonces, ¿qué hacía? San José de Gracia, historia, microhistoria se le llamó después, etcétera, etcétera. Pero ese era su divisadero: "Yo voy a construir la historia de mi pueblo en determinada época, la Revolución, etcétera, porque es un microcosmos de", etcétera, etcétera.
+
+
+[1:23:54] Los que hacen redes sociales, por ejemplo, los antropólogos que hacen redes antropológicas, obviamente, ¿para qué haces una red, que es un trabajo de locos, si no es para, con ese modelo, ejemplificar? Porque viene de la vieja idea de parentesco, ¿no?, de las nociones de parentesco de Lévi-Strauss.
+
+
+[1:24:15] Si yo hago redes sociales modernas, algún día tengo que saber que esto es cómo se comporta en general; es una especulación, un modelo de cómo se comporta en general esta población. No es que me interesen estrictamente los nuditos de estas ocho familias que estoy ejemplificando. Si alguien hiciera, por ejemplo, un estudio de redes sociales de Monterrey, pues no le cuesta mucho trabajo, ¿no? Las redes, redes; ya los que caen en la red por ahí, pues ya es de casualidad.
+
+
+[1:24:42] A mi maestra, a Brigitte Boehm de Lameiras, una de las grandes antropólogas de este país, la corrieron del pueblo en el que vivía cuando hizo el primer estudio de parentesco; se tuvo que ir. Las estructuras de poder... Y era queridísima como persona.
+
+
+[1:24:57] Pero cuando publicó el libro, que además yo creo que ella, como antropóloga, ese día se le fue el avión, invitó a la presentación a sus mejores amigas, que eran todas estas señoras, ¿no? Y pues perdió la presidencia de El Colegio de Michoacán; se tuvo que ir de Michoacán, porque había develado, vía los matrimonios, los hijos, todas las estructuras de poder que están atrás de las estructuras de parentesco, por cierto, de un pueblo levítico que se llama Zamora, Michoacán. Y se tuvo que ir de Zamora, Michoacán, ¿no?
+
+
+[1:25:29] >> Dora?: Sí. Una pregunta que cambia un poco el tono en que estamos. El juicio que haces sobre la literatura mexicana, que desde tu óptica es totalmente histórica, ¿tiene algún viso de cambio? ¿Qué es lo que ves que está sucediendo en los nuevos autores, o en los autores más jóvenes, o las autoras más jóvenes? ¿Qué percibes en ese mundo? Porque si tú la llamas histórica, a mí me parece ya bastante tradicional.
+
+
+[1:26:00] >> Pedro Ángel Palou: Sí, sí, sí.
+
+
+[1:26:03] >> Dora?: O sea, ya rebasamos, creo yo.
+
+
+[1:26:08] >> Pedro Ángel Palou: Pero ha habido... Obviamente vino el Bicentenario, y desde hace unos años vino un embeleso con el tema histórico, no de la nueva generación, porque la nueva, nueva, nueva generación no está escribiendo necesariamente novela histórica; está utilizando ciertos géneros.
+
+
+[1:26:23] El otro día, yo, en la presentación de Zapata, citaba a uno de los autores que a mí me parecen más interesantes, que se llama Yuri Herrera. Yuri es del Estado de México, pero sus temas son la frontera. Y uno de sus libros, los dos los ha editado en España, en editoriales muy independientes, pequeñas, pero aquí los redistribuye Sexto Piso y se pueden conseguir, se llama Señales que precederán al fin del mundo. Y es la historia de una mujer que va buscando a su hermano, que se fue de mojado, y es eso, ¿no?, una historia de frontera.
+
+
+[1:27:02] ¿Qué veo en el caso de Yuri, siendo que está realmente haciendo una literatura distinta? Otra vez el tema que también diagnosticaba yo el día de Zapata, la resistencia: que las cosas que les pasan a los mexicanos no nada más sean historias. Otra vez hay una estructura mítica abajo, y los corazones aztecas, y el chuqui chuqui chui [?], ¿no?
+
+
+[1:27:23] Que a veces le funcionaba muy bien a Fuentes, y que al propio Fuentes no le funcionó muy bien, y que ya en Villoro, en el último Villoro, pues ya no funciona, ¿no? Porque no todo lo que pasa en el mundo... Pienso en Materia dispuesta, ¿no? La novela está muy bien, hasta que resulta que el temblor del 85 es casi casi Regina, la novela de Velasco Piña, ¿no?, el sacudimiento por culpa de los dioses que se enfurecieron, ¿no?
+
+
+[1:27:47] Bueno, le pasa esto un poco a Yuri, a pesar de que está produciendo una literatura distinta. Y la que empezó en novela histórica, y está produciendo para mí la mejor literatura, sin género, o sea, mujer u hombre, es Cristina Rivera Garza, que empezó con una novela histórica que se llama Nadie me verá llorar, ella es historiadora, además, de profesión, que es sobre el manicomio.
+
+
+[1:28:12] Hizo una novela juguetonísima, muy rara, sobre Amparo Dávila como personaje, que se llama La cresta de Ilión, ¿no? Y ahora ha jugado con el género policiaco en una novela que es la mejor hasta ahora de ella, que se llama La muerte me da.
+
+
+[1:28:28] Es una escritora... Son para ella discursos, personas en sí mismos, sujetos de subversión. Pero incluso escritores que no habían hecho historia están escribiendo parte de sus mejores novelas haciendo historia: Parra con Juárez, Álvaro Uribe con El atentado, con la historia del atentado. Después ha escrito una historia bien íntima sobre su papá, y Fran [?] es muy buena; las siguientes, otra vez históricas, sobre Federico Gamboa.
+
+
+[1:29:04] Entonces, hay como un juego en que yo... Y creo que sí, esto que diagnosticas bien ahora, el tradicionalismo de nuestra novela, el tradicionalismo de nuestra novela histórica, que pocas veces subvierte el propio género de lo histórico. Y yo diagnosticaba y digo: ¿por qué? Porque siempre ha tenido un viso de periodismo y de costumbrismo desde El Periquillo. Incluso en las más renovadoras hay algún afán didáctico, ¿no?
+
+
+[1:29:42] ¿Cuándo no le pasa a Fuentes? Bueno, pues cuando se desprende, por ejemplo, él mismo de su intención didáctica, ¿no?, cuando juega. Por eso es mucho mejor, y es nuestra única buena novela del nouveau roman, La muerte de Artemio Cruz, que incluso La región más transparente, porque está este sustrato mítico, como relectura de la historia, que a fuerza penetra en todo.
+
+
+[1:30:11] Es como el "Call me Ishmael": no soy Ishmael y en fuego y ya soy la representación de lo mexicano [?]. Yo siempre digo: los personajes de Philip Roth están mal de la próstata, van al doctor, se curan o no, ven a una antigua novia que está peor que ellos, sufren más y se van a su casa.
+
+
+[1:30:35] Y en ningún momento dicen: "Bueno, y esto es porque desde que se cayó Wall Street, y las 13 colonias, y hay una explicación mítica, y la esclavitud en la zona de Rhode Island". No, nadie explica ni mítica ni históricamente la historia de un personaje que sufre de la próstata. Yo espero un día que haya estas novelas mexicanas, ¿verdad? Ahí está ese tradicionalismo del que habla muy bien Dora.
+
+
+[1:31:00] >> Dora?: Los cuentos, muy bien. Bueno, Mario Bellatin...
+
+
+[1:31:03] >> Pedro Ángel Palou: Mario Bellatin, hace tiempo, ¿no? Pero Mario es un instalador. Mario está haciendo lo de Marina Abramović en literatura. En Mario ya el texto es un pretexto de una gestualidad. Incluso en algunas cosas ha habido exposición, o unos perros xoloitzcuintles subiéndose ahí en el claustro de Sor Juana. Ha habido performance, porque es fundamental para lo que él está haciendo. Está haciendo instalación con la literatura.
+
+
+[1:31:31] >> Participante 4: Y yo también, cambiando un poquito... ¿Se oye?
+
+
+[1:31:35] >> Pedro Ángel Palou: Sí.
+
+
+[1:31:35] >> Participante 4: Cambiando un poquito, volviendo a lo de los testigos, o el testigo y el textigo, por ejemplo, en Pedro Páramo, porque está Juan Preciado en el presente de la muerte, y como que cada uno es testigo de la vida de Pedro Páramo, y nosotros tenemos...
+
+
+[1:31:56] >> Pedro Ángel Palou: Exacto. Polifónica.
+
+
+[1:31:56] >> Participante 4: Y nosotros, como lectores, estamos presenciando los huecos que nos deja cada lector.
+
+
+[1:32:03] >> Pedro Ángel Palou: Claro, así es. Sí, sí. Y es una novela, en ese sentido, totalmente inacabada, porque no por nada el final, para mí, de la novela es la... En Rulfo siempre hay una clave sutil de interpretación, ¿no?
+
+
+[1:32:15] "Diles que no me maten", por ejemplo, un cuento que es fantástico, ¿no? Hay una frase final que todo el mundo interpreta solo como el enojo ya del hijo ante el padre aferrado a la vida. Pero la frase es fuertísima. La frase es: "Tu nuera y tus nietos no te reconocerán de tanto tiro de gracia como te dieron".
+
+
+[1:32:39] Si hacemos un análisis rapidísimo: a alguien le dan muchos tiros de gracia, ¿no? El tiro de gracia se da a bocajarro. Pero después de haber leído un cuento en el que el hombre está todo el tiempo "diles que no me maten", uno se imagina necesariamente que el hombre, incluso con el tiro de gracia, no moría.
+
+
+[1:32:56] Entonces ya no te reconocen. O sea, hay un desfiguro del rostro, de tal manera que tu nuera y tus nietos no te reconocerán, por tu aferre a la vida. Y el final de Pedro Páramo es igualmente así: "Y entonces Pedro Páramo", que ya estaba, porque además recordemos la estructura de la obra, "se desmoronó como si fuera un montón de piedras".
+
+
+[1:33:12] O sea, Pedro Páramo es en sí mismo una estructura simbólica fragmentaria. Pedro Páramo es, ahí sí, el master signifier de toda la novela; es el gran Otro, ¿no? Por cierto, nunca se me había ocurrido, pero estaría muy padre hacer una lectura lacaniana bien seria de Pedro Páramo, que se presta...
+
+
+[1:33:38] >> Participante 4: Por completo, de principio a fin. Se me hizo todo muy coherente.
+
+
+[1:33:45] >> Pedro Ángel Palou: Sí, sí.
+
+
+[1:33:47] >> Dora?: Digo que estaría muy bien la lectura lacaniana para superar ya Pedro Páramo.
+
+
+[1:33:52] >> Pedro Ángel Palou: Sí, sí.
+
+
+[1:33:56] >> Participante 5: Ahorita que estaban hablando de que si todo es entonces novela y todo el mundo escribe, me recordó a Alfonso López Quintás, que habla de una forma de ver las cosas que es objetivizante, y te quedas en el objeto, lo controlas, te apoderas de él, o verla como un ámbito, ¿sí?, donde se ven muchas posibilidades. Y yo creo que ahí está el novelista. ¿Tú cómo lo ves?
+
+
+[1:34:35] >> Pedro Ángel Palou: Bueno, además, acuérdense de que no hay un otro en el otro, ¿no? No hay un otro en el otro; o sea, no hay posibilidad de objetivizar nada, porque no hay objetos. No hay un otro en el otro. Estoy proyectando.
+
+
+[1:34:49] >> Participante 5: Bueno, es cómo lo ves. O sea, la visión que tú tienes puede ser una visión objetivizante: yo te veo como objeto, no como un otro con posibilidades.
+
+
+[1:35:02] >> Pedro Ángel Palou: Okay. Desde allí.
+
+
+[1:35:03] >> Participante 5: Posibilidades. Sí. Y en cambio, pues, por ejemplo, esto que acabas de decir de Pedro Páramo al final, esa imagen, pues es haberle dado todas esas posibilidades a esa imagen, ¿no? Entonces, siento que ahí está el arte y ahí está la creatividad, ¿no? Yo siento.
+
+
+[1:35:28] >> Pedro Ángel Palou: Sí. O sea, estando de acuerdo en un principio, insisto mucho en que la única singularidad de este arte en particular que nos ha ocupado estos tres días, que es la literatura, es que es en sí mismo una subversión y un cruce de discursos. Es un discurso que pervierte los discursos, es un discurso que cuestiona las nociones de autoridad de los discursos con los que se topa, incluso el discurso del padre, o el discurso psicoanalítico mismo.
+
+
+[1:35:57] Por eso los grandes análisis psicoanalíticos que se han hecho de la literatura, pienso en esta mujer que citaba yo el primer día, Shoshana Felman, con sus lecturas de Baudelaire o de Rimbaud; pienso en Žižek estudiando Otra vuelta de tuerca de Henry James, son aquellas lecturas donde el autor no está en ningún momento ya en el análisis.
+
+
+[1:36:30] O sea, ¿por qué se dejó de hacer análisis literario psicoanalítico? Porque el texto era una prueba de la anormalidad del autor. Entonces resulta que había que analizar realmente que el pobre Shakespeare, pues en realidad siempre quiso ser mujer, o era homosexual, y por eso en el soneto tal... "Claro, ahí está".
+
+
+[1:36:53] Y entonces, pues, toda la timidez ante Ofelia de Hamlet en realidad es una homosexualidad reprimida, etcétera, etcétera, etcétera, ¿no? Es un discurso analizable.
+
+
+[1:37:03] Yo no he podido tocar hoy, porque no ha sido fácil para un seminario de tres días, además intentando tocar tantos temas, pero habría que revisar cuidadosamente el tema de la fantasía en Lacan. Por eso se está haciendo tanto estudio lacaniano con el cine: la fantasía como proyección.
+
+
+[1:37:33] La fantasía es el único territorio, dice Lacan, cuando ya está en su última etapa, que es cuando lo real es [?] parte de su centro de atención psicoanalítico. La fantasía es el cruce, es el lugar del cruce de la proyección del yo y de la proyección de lo real.
+
+
+[1:37:51] Nunca hay algo tan fantástico que no sea en realidad un cruce de estos dos órdenes: el orden de lo real y el orden de lo imaginario, del yo construido por este ego ideal.
+
+
+[1:38:04] Hay una película que podría analizarse con esa óptica, y con lo que yo contestaría también la respuesta, que es excepcional absolutamente, de Guillermo del Toro: El laberinto del fauno, ¿no?, donde la fantasía está integrada a toda la narración, pero sabemos que es una proyección, justo casi lacaniana, de lo doble, de lo real y del yo construyéndose de esta niña.
+
+
+[1:38:35] Un peliculón, ¿no?, en todos sentidos. Primero, porque es una interpretación excepcional de la Guerra Civil española, no solemne, no lacrimógena, a pesar de lo durísima que es. Con este background que tiene Del Toro: como saben, él hace todo, dibuja, construye, dibuja sus propios muñecos, las máscaras; desde Hellboy ha hecho un trabajo fantástico en materia de animación o de efectos especiales, ¿no?
+
+
+[1:39:05] Pero aquí los incorpora a una historia donde lo que importa es la historia, y podríamos hacer una lectura bien seria, cuidadosísima, de la película en términos de todo lo que yo he dicho. Yo los invitaría, esa podría ser una muy buena conclusión preliminar: es más fácil que en literatura. Intenten analizar la siguiente película que les impacte o que les interese desde esta óptica, porque, como hay una proyección visual, hay una imagen, es más fácil de analizar, por lo menos inicialmente, que un texto literario. Sí.
+
+
+[1:39:49] Todo es palabra; siempre todo es discurso.
+
+
+[1:39:51] >> Participante 6: Yo tengo otra iluminación con lo que comentaron de Pedro Páramo, por lo de las piedras, y ahora que se cruza un poco también con lo de la fantasía: en Los recuerdos del porvenir, de Elena Garro, ¿sería posible?
+
+
+[1:40:11] >> Pedro Ángel Palou: Totalmente, totalmente. Yo creo que además es la, no sé si es la mejor de la Garro, pero es una subversión del mismo género de la Revolución Mexicana. Eso que no se nos olvide, un poco por lo que decía Dora hace un rato, de que superemos a Pedro Páramo. Todos estos son los libros finales de una tradición que ya tuvo sus parodias.
+
+
+[1:40:41] Para mí, insisto, por eso me gusta tanto La muerte de Artemio Cruz: es la parodia del lenguaje. Es decir, todo esto es verborrea, tú, él; todo es construcción ficticia. E Ibargüengoitia le queda todavía más duro: pues ahí sí ya no deja títere con cabeza. Pero además, Ibargüengoitia ya nos había dado en la torre a la pretensión histórica, incluso con Los pasos de López, que en España se llamó Los conspiradores.
+
+
+[1:41:07] Es que hay una escena en la que sale Santa Anna en patines, y le preguntaron alguna vez a Ibargüengoitia que por qué, y dice: "Pues porque así entró en la escena rapidísimo, y lo tuve que meter en patines".
+
+
+[1:41:17] Hace tiempo vino a México un escritor que yo admiré mucho, que se llama Christoph Ransmayr, que escribió un libro que se llama El último mundo, novela con repertorio ovidiano, y es el exilio de Ovidio. Y en el discurso que le cuesta... Hay varias interpretaciones, no sé si realmente estaba [?] de Julia o lo que sea, pero en el discurso, que por lo menos en la historia sabemos que es el que le cuesta el exilio al Ponto Euxino.
+
+
+[1:41:44] En la novela, Ovidio está en el circo romano, ¿no? Y es el único gesto no histórico de la novela: agarra unos micrófonos, se los acomoda y habla. Yo le pregunté aquí, en una entrevista para el periódico de la UNAM, por qué lo había hecho, y me dice: "Porque si no, ¿quién lo oía?".
+
+
+[1:42:09] Y es una respuesta también a lo que dijo Marguerite Yourcenar, ¿no?: ¿dónde están los hechos contemporáneos? "Yo no me puedo imaginar", dice Ransmayr, "que una persona puede hablar en el circo romano y que lo van a oír. Yo necesitaba los micrófonos". Y esa es su única licencia. Pero es que no es una licencia. Tenemos tiempo para dos preguntas más.
+
+
+[1:42:28] >> Participante 7: Ahorita estás viviendo en Francia, ¿no? ¿Ya en México? En México... estuviste viviendo en Francia. Me interesa mucho a nivel cultural: ¿se da el ritmo de evolución en estilos literarios, o enriquecimiento de perspectivas, como lo de México?
+
+
+[1:42:42] >> Pedro Ángel Palou: Lo de México, el mismo ritmo, porque seguimos con Pedro Páramo y con los poetas. Lo que pasa es que allí no ha vuelto a haber un gran escritor después de Jean Genet. El gran problema de la cultura literaria francesa, como el cine francés, si ustedes lo ven, es que es de un solipsismo... Es como la literatura de la Onda, pero décadas y décadas y décadas después, ¿no?
+
+
+[1:43:07] Hay incluso un hartazgo de los lectores, que están leyendo literatura foránea, por primera vez en mayoría, frente a la literatura francesa, porque es la misma historia otra vez, ¿no?: personaje joven que vive en un edificio, que tiene broncas existenciales, etcétera, etcétera, etcétera.
+
+
+[1:43:22] Y en algún momento, platicando con Kundera, él decía una cosa que es maravillosa, como buen lector de la vida parisina desde allá, de tantos años, y dice: "¿Y dónde, en algún momento, a estos cuates les tocó la historia?". O sea, no les pasa nada de lo que le pasa al mundo. Y es buenísima la reflexión de Kundera. Es decir, a los personajes de las novelas, como del cine francés, parece que no les afectara nada más que su bienestar personal, ¿no?
+
+
+[1:43:49] Hay un grupo que yo admiro mucho, sin embargo, dicho lo anterior, que es el grupo... es un grupo que se formó en sus inicios, y por eso lo criticaron mucho, alrededor de Philippe Sollers y de Gallimard. Y ahí hay dos autores particularmente: uno de ellos se llama François Meyronnis, y el otro se llama Yannick Haenel.
+
+
+[1:44:12] Yannick escribió una novela que es ya la superación de todo esto, que se llama Cercle, incluso porque nace de eso y se burla ya de eso. Y François Meyronnis, su anterior libro se llama [?] por la literatura, y es justamente su gran discusión.
+
+
+[1:44:29] Pero uno de los autores franceses más fuertes, que no es obviamente Houellebecq, que no me gusta, sino, pero es del tipo, porque estuvo antes en un grupo de rock, decidió incluso ya mejor irse a vivir a Canadá, se llama Maurice Dantec, y está escribiendo una novela muy distinta; no es ciencia ficción propiamente, pero es novela futurista.
+
+
+[1:44:52] Y decidió irse a vivir a Canadá porque dijo: "Es que es el ambiente literario de Francia el que me ahoga", dice. "Todos nos citamos en los mismos cafés, a las mismas horas, platicamos con las mismas personas, y nunca nos ha preocupado ya nada de lo que ocurre". El propio Dantec dice esto mismo que Kundera diagnostica de la joven literatura francesa.
+
+
+[1:45:23] Hay una manera también de hacer buena literatura, que es callarse. Y eso es lo que ha estado haciendo, a su manera, el otro gran autor francés, a mi juicio, que es Pascal Quignard, que incluso ya se fue totalmente de la escena literaria, vive en un pueblito, escribe unas cosas que él dice que son novelas, pero que no son novelas, que son petits traités, pequeños tratados de reflexiones literarias. Ya no sale a nada del circo literario.
+
+
+[1:45:50] Fue un poco lo que tuvo que hacer en algún momento, y lo hizo con gran apostura intelectual, y sobre todo con gran ética, en nuestro país, José Emilio Pacheco. Hoy le están lloviendo los homenajes, pero como consecuencia de la calidad. Pero José Emilio fue el primer escritor que dijo: "Hasta aquí ya del circo literario, hasta aquí del club de los halagos mutuos al que nos lleva esta literatura autocomplaciente, solipsista, que no supera los viejos modelos".
+
+
+[1:46:22] >> Participante 7: Entonces, ¿estamos saturados en todos los países?
+
+
+[1:46:23] >> Pedro Ángel Palou: Sí, sí, sí, pero porque lo que tiene que haber es un cambio. O sea, después de House, y de 24, y de Roma, y de... tiene que haber otra manera de narrar. Se está haciendo una televisión que es el nuevo teatro del mundo, y que la están haciendo los escritores, además: Mad Men, The Wire, que son George Pelecanos, Richard Price, que es uno de los grandes escritores norteamericanos actuales.
+
+
+[1:46:49] Lo están haciendo porque les está permitiendo allí, cosa que no se puede todavía en México, ¿verdad?, la televisión intervenir en la televisión y hacer historias, contar historias, y contarlas después de Lost. ¿Cómo vamos a contar una novela como si no hubiera habido Lost?, ¿no? Sí.
+
+
+[1:47:07] Pues muchísimas gracias. Gracias por su presencia y por sus preguntas.

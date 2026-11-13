@@ -1,0 +1,484 @@
+﻿[00:36] >> Peter Singer: Thank you very much for the warm welcome, or should I say welcomes, many of them. It's a great pleasure to be here. It's my first visit to Monterrey and to Tec. It's fascinating to see your beautiful campus, and I've had a chance already to speak to a number of professors and students, and I appreciate your great interest in ethical issues.
+
+
+[01:02] So, I want to thank Professor López for the invitation to come, and Dr. Professor Bustani [?] and Professor Rangel for the hospitality that I have been shown in this very fine campus that you have.
+
+
+[01:18] I must say I'm also very impressed with the state-of-the-art technology that is enabling me to talk to people beyond this room. In some ways this is in advance of what we are using in Princeton at the moment. So, you can certainly feel proud of the way that you have made use of technology to enhance the academic experience.
+
+
+[01:43] And in fact that does lead me to the theme of what I wish to talk about with you today. That is the idea of ethics for one world. And it is of course technology of various kinds that has played a role in making it true that we are one world today, in a sense that we were not 100 years ago, for example.
+
+
+[02:11] It is through technology that we can know what is happening in other countries more or less immediately as it happens, and that we can also respond to it more or less immediately. That is, we have the communication and we have the transportation to react to whatever happens around the world.
+
+
+[02:34] So, if we see a humanitarian disaster, a flood or a cyclone or something of that sort, we can know about it and we can provide assistance within a day or two. And if we think back even as little as a century, that would not have been possible. It would have taken much longer, and so the opportunities that we have to assist others would have been very different.
+
+
+[03:06] And naturally, therefore, we developed an ethics that was more built to our own community. In fact, if you think back longer, a few hundred years, we had an ethic that was essentially local, that was built to our village or our parish, or perhaps to some extent for a larger nation, but certainly no further.
+
+
+[03:29] And then gradually we developed ethics to a national level, and over the past century we have talked about such ideas as universal human rights. But we have not really had the ability to make that a reality until much more recently.
+
+
+[03:51] And it's also because the world has grown closer economically. The possibilities of trade are much greater with better transport. And we can also export not only goods but services.
+
+
+[04:10] So that, because of instant technology, for example, when I pick up the phone and call directory assistance in the United States, I may well be speaking to someone in India rather than someone in the United States who is providing information, because that's a cheaper way to do it. And that provides employment, obviously, for people in India, but also makes the networks much closer.
+
+
+[04:41] And let me finally mention one other important development in our technology, or more broadly in our science, which is another way in which the world has become more closely united. A hundred years ago, there were only one or two prescient scientists who had vaguely speculated that perhaps the increase in industry that had already taken place in the 19th century could, through its emission of carbon dioxide, change the world's climate.
+
+
+[05:18] And most people thought that that was a fairly wild speculation, and it was not taken very seriously. But over the last 20 years, that prediction has been shown with a very high degree of probability, if not absolute certainty, to be true.
+
+
+[05:38] That is, that the growth of industry, and particularly the consumption of fossil fuels and the emission of carbon dioxide and some other greenhouse gases, is having an effect on the climate, is creating global warming, and is creating unpredictable weather patterns all around the world.
+
+
+[06:03] Now, that discovery is also a fact that brings us closer together in a special sense. It means that the decisions that are made in, let's say, New York, the decisions that are made about what kind of industries are there, or even individual decisions about what kind of cars people drive and how far they drive them, can have an effect on people as far away as Bangladesh, perhaps.
+
+
+[06:37] That it may change the climate there. It may contribute to a rise in the sea level in Bangladesh. And since there are at least 20 million people who are farming lands that are not more than 1 m above the high tide level in Bangladesh, obviously quite a small rise in sea level, combined with particularly storms and particular weather conditions, can make a life or death difference to millions of people.
+
+
+[07:12] So, the world has got closer. We now realize that what we normally might have thought of as completely private decisions, what kind of car will I buy, how much will I drive it, can have an effect on people all around the world.
+
+
+[07:31] So, this is what I want to talk about when I talk about ethics for one world. I want to talk about the idea of developing an ethic that goes beyond national boundaries and looks at the world as a whole.
+
+
+[07:50] And there are a number of different issues that can be raised under that topic. One of them, which I've already mentioned and will come back to in a moment, is this question of climate change. Is that an ethical question? And if so, what kind of ethic should we develop for it?
+
+
+[08:09] I've also mentioned trade questions. And of course, these have been very much in the news over the last three or four years, I guess dating from the World Trade Organization's meeting, or perhaps I should say attempted meeting, in Seattle in 1999, when demonstrations disrupted that meeting and, I think for the first time, really put ethical questions about trade relations onto the international agenda.
+
+
+[08:45] Before that, people were not paying very much attention. Everyone was assuming that global free trade was a desirable goal, which would progress, and that first set of demonstrations and subsequent demonstrations raised questions about that.
+
+
+[09:02] I also want to talk a little bit about international law and its role in developing ethics for one world: international law at the level of solving disputes between nations, and also at the individual level of protecting human rights.
+
+
+[09:23] And I want to talk about the obligations of rich nations to do something to help the poorest nations of the world, that ability which, as I said, we didn't have a century or so ago.
+
+
+[09:38] And finally, since, as Professor López mentioned, I have taken a keen interest in extending ethics beyond the human species to non-human animals, I will say just a little bit about that, which I also see as raising global questions as well as local ones.
+
+
+[10:01] So, that's rather a large amount of things to get through in a relatively short time. But let me see what I can do in that time to at least stimulate your interest to pursue these questions a little bit further.
+
+
+[10:19] All right. Let's talk about this question of climate change first. As I said, we now know that decisions that we make in any one country of the world will affect people all over the world, and will affect them in unpredictable ways.
+
+
+[10:41] We can also see that some people are going to be made significantly worse off if this process continues. In particular, I mentioned people living close to sea level in Bangladesh, or there are other parts like that. Also people in sub-Saharan Africa, where they are farming lands that are marginal in terms of their rainfall, where, on at least some models of global climate change, rainfalls could become less reliable still. Areas that are now possible for agriculture could become simply desert.
+
+
+[11:25] And it's these people, who are among the world's poorest people, who are the least able to adapt to that change. I mean, there are of course parts of the United States that are very near sea level, around the state of Florida, for example, and there would certainly be ecological damage to areas like the Everglades by rising sea levels.
+
+
+[11:45] But other people in affluent nations will no doubt build seawalls to keep out the sea, and will use irrigation to overcome less reliable rainfalls, and, if the worst comes to the worst, they will move somewhere else where they will be able to make a living. So, they will be less seriously affected; but it's the world's poorest people who will be most affected.
+
+
+[12:12] Now, if you think of this as an ethical question, you might at first be a little bit puzzled. How should we think of this ethically? What kind of model should we use? What I want to suggest is we should use the model of dividing up a scarce resource.
+
+
+[12:33] We have something that many people want, but there's not enough of it for everyone to have as much as they want; then we need some principles for deciding what is a fair or just division of it. Okay, and you all know this. The classic example, of course, is how you divide the cake when there are many people who would like a slice of the cake and not enough cake to give everyone as much as they want.
+
+
+[12:58] Well, in this example, the cake is the atmosphere. Or, to be more specific, it's the capacity of the atmosphere to absorb our waste gases without causing consequences that we don't want, without causing adverse consequences. And that capacity is limited. We can't all have as much as we want of it.
+
+
+[13:29] Because, if we look at the world situation today, as I say, most experts agree that we are already producing too much in the way of greenhouse gases to maintain the world's climate as it is, that we need to cut back.
+
+
+[13:48] And the agreement that was reached in Kyoto, known as the Kyoto Protocol, would have cut back emissions by the developed nations by roughly 5% below their 1990 levels, which means considerably more than 5% below their present levels.
+
+
+[14:08] Now, if we just assume that that's a reasonable level, or that's a sustainable level, some people think it's still too much, but if we assume it's a sustainable level, and we say, "Well, can everyone manage with that?", then we have to say, if we look at the facts now, we see that there are some countries that are using more than their proportionate share of the atmosphere.
+
+
+[14:36] When I say more than their proportionate share, I mean in proportion to their population. So, if you divided the total amount that the world can sustain according to that Kyoto agreement, you divided that by the population of the world, and multiplied that by the number of people in each country, you would get a notional equal per capita share of the atmosphere. Okay? So you can do that calculation. And then you can match it against the various nations of the world.
+
+
+[15:22] And if we do that calculation, we find that the United States, on this model, is using about five times its per capita share, about 500% of its per capita share. And if we compare that with developing nations, we find that they are generally using less than their per capita share.
+
+
+[15:47] The largest developing nation, still considered as such, of course, is China, which is getting close to its per capita share, but is still a little bit below it. But it is increasing rapidly, because China's economy is booming, and it's been burning a lot more coal to provide more energy, and more Chinese are starting to get cars of their own, although car ownership is still very low, and that's also increasing fossil fuel emissions.
+
+
+[16:18] So, then we have countries like India. India is only using about 1/3 of its per capita share, but it is also a quite rapidly growing economy, and it's also a country with a very large population. So, if China and India were to produce an amount of greenhouse emissions per capita that was anything comparable to what the United States is producing today, we would clearly be headed for a global disaster.
+
+
+[16:51] So, on that basis, what can one say? Is there a reason why China and India should be held back, while countries like the United States and other developed nations, including my own native country, Australia, and Canada, and the European nations, are all in excess of their per capita share by varying amounts, but by between two and three times in excess anyway, if not quite as much as the United States?
+
+
+[17:25] I think that I have searched, and I discussed this in my book One World, through a variety of possible principles that could justify the developed nations in using so much more of the atmosphere's capacity to absorb their waste gases than other nations like China and India. But I find it impossible to come up with any good arguments that can justify the present skewed distribution, the present allocation that so much favors the existing developed nations.
+
+
+[18:07] And even if we did implement the Kyoto Protocol, which of course most developed nations have agreed to sign on to, and which will come into effect if Russia agrees to sign on to it; but even if that were fully implemented, and even if, which doesn't seem likely under the present administration, the United States were to have a change of heart and were to sign on to Kyoto as well, we would still have a distribution that was very favorable to the developed nations and would hold back developing nations if they were to simply stay at their existing levels.
+
+
+[18:45] Of course, Kyoto, as it's currently formulated, does not bind the developing nations, but eventually we certainly do need global controls which include countries like China and India, and indeed all the developing nations, as well as the developed nations. That's the only fair allocation.
+
+
+[19:07] But I think that there is an urgent ethical necessity for the developed nations to take the first step, since they are the ones that are using so much in excess of what would be a notional fair share, that is, an equal share for every inhabitant of the planet.
+
+
+[19:31] So, I think that, looking at this ethically, as an ethical problem, we need to recognize the needs of people in other countries, recognize the rights of the developing nations to develop, and therefore to increase their amounts of fossil fuel burning, and accordingly recognize the duty or obligation on the developed nations to cut back.
+
+
+[19:57] Now, let me move from that topic to one of the other topics that I mentioned. Let's look at this question of global trade, which has been very much in the news. If we look at that debate, we find that there are very polarized views on global trade, and particularly on the World Trade Organization and its role.
+
+
+[20:23] There are some people who say that global free trade is the way in which the poorest nations can catch up with the other nations, can participate in the global economy, can prosper, and benefit their inhabitants. And there are others who say: "No, a free trade regime is a way in which the richest nations and multinational corporations impose their will on the poorest nations, and, instead of helping them, actually widen the gap between the richest and the poorest".
+
+
+[21:03] And we saw very recently, of course, in the meeting here in Mexico, in Cancún, we saw a bit of a crisis there, where, for the first time perhaps, a group of developing nations turned to the developed nations and said: "You talk a lot about free trade and fair trade, but what about your own restrictive trade practices? What about your own barriers to our export of agricultural products? And what about your own enormous subsidies to your farmers, which provide for unfair competition with farmers in the developing world?".
+
+
+[21:45] And I think that was an interesting and significant step, and a kind of a logical progression from the developments that began in Seattle. But of course it hasn't solved anything as yet. It hasn't changed the practices of the developed world, and it hasn't helped the developing nations either. It's still a kind of a standoff.
+
+
+[22:07] Well, when we look at this situation and attempt to look at it fairly impartially, I think we see that the truth lies somewhere between the two polarized extremes. And to some extent there are ethical questions here in terms of whether we think that free trade is or is not a good thing.
+
+
+[22:29] People often say, as I said, that free trade has widened the gap between the rich and poor: so, the rich have got richer, the poor have got poorer. And certainly I think it's true that the gap has widened; that is, the rich have got richer. It's less clear whether the poor have got poorer.
+
+
+[22:50] In fact, as far as I can tell, although the data are not very reliable, the answer to that question depends on who exactly you mean by "the poor". Do you, for example, mean the poorer half of the world? Have they got poorer in the last 20 or 30 years in a way that we could attribute to free trade? And I think the answer is no. The poorer half of the world, the poorer 3 billion people in the world, have on average become better off.
+
+
+[23:26] We can make the group smaller. We could talk about the poorest third of the world. I think even there, as far as I read the figures, the poorest third of the world have on average become better off.
+
+
+[23:40] What about if we talk about the poorest fifth of the world, the poorest 1.2 billion, which is the number that is usually said to be living in absolute poverty, on something like the equivalent of $1 US per day, purchasing power equivalent? One can't say that they have become better off in the last 20 or 30 years. At best they've stayed roughly the same.
+
+
+[24:07] And if we go to an even smaller group, the worst-off 10%, then there are good reasons for thinking that this group have become worse off over the last 10 or 20 years. So, when you say "have the poorest become poorer?", as I say, it all depends what you mean.
+
+
+[24:27] And one person could look at the progress made by the poorer half or third of the world and say: "This is so good. There are, you know, a billion people or more who were in poverty who've moved out of poverty because of development and trade and so on". Or you could look at the poorest five or 600 million and say: "This is terrible. They were already extremely poor; they're sinking into worse poverty".
+
+
+[24:54] So, there is no simple answer, but I think it is clearly true that we must focus more on the situation of the worst off, both in trade and, as I will be saying shortly, in terms of foreign aid as well. And that's been the biggest flaw in the trade regime.
+
+
+[25:15] That's not the only flaw. The other flaw that's often been talked about is the lack of environmental protection: the fact that the free trade regime allows a competitive advantage to countries with the weakest environmental regulations, and to corporations that pollute more, because there is nothing that takes into account the method of production, the process of production. And you cannot discriminate against products because they were produced in ways that cause pollution.
+
+
+[25:48] So, you provide an economic incentive for countries to have low standards in order to attract industry, even though that may be bad for the country, and perhaps bad for the world as a whole. And also, of course, it may be bad for endangered species, where industries are threatening endangered species.
+
+
+[26:07] So, I think we need a more global ethical approach to this whole question of trade, which should be fair as well as free, so it does assist the poorest countries, and should have protections for the environment, and, we could also say, for workers' conditions, built in to those trade rules.
+
+
+[26:30] Now, let me turn to that topic of international law that I mentioned before. Again, I think we have been trying over the last few decades to work towards a system of international law that protects human rights. This has been true on the individual level particularly, that is, the level of punishing criminals who commit crimes against humanity, or crimes like the crime of genocide.
+
+
+[26:58] And whereas, you know, say 20 years ago, the only real example we had of that was the trial at Nuremberg of the Nazi war criminals, we've now had a series of other tribunals trying criminals, for example, in former Yugoslavia and in Rwanda.
+
+
+[27:19] But more recently still, we have moved to acceptance of an International Criminal Court, which I think at the latest count about 90 nations or so have signed on to, basically saying that they accept the jurisdiction of international law and of an international court to try people who are guilty of crimes against humanity and crimes of genocide.
+
+
+[27:41] And I see that as an important progressive step towards protecting human rights, towards ensuring that those who violate them in a particularly gross manner will be brought to justice, will have no hiding place.
+
+
+[27:58] Again, I have to point out the United States has not acted as a good global citizen in this respect. It has refused to sign on to the statute of the International Criminal Court, and it has actively tried to undermine it by negotiating bilateral treaties with nations where it has troops stationed, to say that they will not apply the jurisdiction of the International Criminal Court to Americans serving in that country.
+
+
+[28:25] And I think this is particularly hypocritical when America claims the right to take prisoners of war anywhere in the world, to capture members of Al-Qaeda, for example, anywhere in the world, to fly them to Cuba, and to hold them in detention without trial in Cuba, without charging them with any crimes.
+
+
+[28:46] I think it's particularly hypocritical to say: "Well, we're not going to allow our citizens to be subject to the law of an international tribunal", which has much better safeguards for due process and proper impartial judicial procedure than the detainees in Guantánamo Bay are receiving.
+
+
+[29:10] But on the whole, I think there has been progress. The more difficult problem, of course, is the maintenance of international law at the level of disputes between nations. And I think that the events of the autumn of 2002 and the spring of 2003 saw a major setback for that, because, for all of its flaws, and it certainly has flaws, the United Nations is the only body that exists that could resolve international disputes.
+
+
+[29:43] And when the American administration took its concerns about weapons of mass destruction in Iraq to the Security Council, that was a positive step, or at least appeared to be a positive step, in recognizing the role of the Security Council in solving such disputes.
+
+
+[30:02] But when, in March, the United States became impatient with the inspections procedures, on the basis, we can now see, of what appears to have been misleading intelligence that had been accumulated by the United States, and when they decided to take the matter into their own hands, irrespective of all United Nations support, I think that was a setback for the idea that we should have a global body that can peacefully resolve disputes if possible, and sometimes, of course, use force.
+
+
+[30:40] I'm not saying that it's never necessary to use force, but if we are going to use deadly force against nations, I think we should try to work towards a situation where we have an internationally accepted authority to decide when it is justified.
+
+
+[30:58] And it may be justified, and of course overthrowing tyrants who kill and torture their subjects may be a desirable thing to do in some circumstances, but I do not think it is a good thing to have an individual nation deciding whether a tyrant should be overthrown. I think we need more settled, more impartial procedures to make those sorts of decisions. So there too, we need a different ethic.
+
+
+[31:28] Now, I said I would talk a little bit about the obligations of the developed nations to assist the poorest of the poorer nations in the world. And again, that's a major topic that I could talk about at great length. And let me say that I don't think of it only as a question to be considered at the national level.
+
+
+[31:48] I do think, of course, it's a question for national governments. Many, many years ago the United Nations set a target of 0.7 of 1% of gross domestic product to be given as foreign aid. That's just 7/10 of 1%: 70 cents in every $100. So it's not very much. But the number of nations that give even that small amount is just a handful. It's basically the Scandinavian nations, Denmark, Sweden, Norway, the Netherlands, and that's about it.
+
+
+[32:32] Some of the European nations may give about half of 1%, or 0.3% [?]. The United States is currently giving only 1/10 of 1%, only 10 cents in every hundred dollars of gross domestic product. It's actually the lowest level of all the developed countries.
+
+
+[32:52] And in fact a lot of my students at Princeton, who, you know, you would think are fairly well-educated Americans, are not aware of how little the United States gives. There's a kind of a myth that goes around in the United States that the United States is a generous nation in terms of foreign aid.
+
+
+[33:08] The fact is that it's not. And although President Bush has said, and it's one of the things that I credit him with, that the United States will increase its foreign aid from its present about 10 billion dollars a year to about 15 billion, so far very little of that money has actually moved. So I think this is something that many nations need to do more about.
+
+
+[33:32] But, as I say, it's not something that is only to be considered at the national level. Because, in addition to rich or developed nations and developing or poor nations, we also have, in developing nations and in nations where there is a lot of poverty, a lot of affluence.
+
+
+[33:53] So that, for example, we have in India, which we think of as a poor nation, a developing nation, a middle class which is larger than the middle class in France, for example, and has, you know, as much purchasing power and surplus income, because the population of India is so large. And that's true in Latin America too, to a large extent: we have countries with great poverty, but with very wealthy upper or middle classes.
+
+
+[34:26] And I think it's up to each of us, if our government is not doing enough to help the poorest; it's up to each of us to think: well, are we doing enough? If we think the government should give more, should give 1%, or perhaps 5%, or even 10%, then why can't we ourselves at least make a start, and at least do something to contribute some of our surplus income?
+
+
+[34:49] When I say surplus: the amount we spend on luxuries, the amount we spend on holiday travel, or on buying new clothes because we like the new fashions, or going to the theater or to rock concerts. Those are all luxuries which more than a billion people in the world can never think of doing.
+
+
+[35:10] And there are voluntary agencies all over the world which will quite efficiently assist some of the world's poorest people. So, although our own contribution is not going to be able to solve this problem, in one sense, of course, it's a small part of the problem, but we can help specific people. We can make a difference.
+
+
+[35:32] Our contributions through these agencies can help individual families or individual villages to make a difference. And I think that, excuse me, I think that's what we ought to be doing.
+
+
+[35:46] Well, finally, as I said, I'm getting close to the time limit, but finally, let me say a little bit about going beyond the human species, because everything that I've been talking about now has been about how we can make the world a more fair, a more just, a better place for our fellow human beings. How can we make them better off, or reduce their suffering?
+
+
+[36:13] But, of course, it's not only human beings who suffer. Non-human animals suffer as well, all over the world. They're capable of suffering. And a great deal of the suffering that they experience is inflicted on them by human beings.
+
+
+[36:29] We might think, for example, of humans hunting them, or clearing their habitat, clearing the jungle, causing them to die by loss of habitat. And we're all aware of the risks of extinction of many species. But it's not only in terms of extinction and endangered species that we should be thinking about non-human animals.
+
+
+[36:50] We are also, on a larger scale, inflicting suffering on them when we put them into modern high-tech factory farms, confine them indoors, and perhaps have 10,000 hens in a single shed, in small wire cages, so that they will lay their eggs in a way that we can produce them more cheaply. Or we'll put pigs together in sheds, in stalls where they cannot turn around for their entire lives.
+
+
+[37:21] These are perhaps economically efficient, but they are environmentally damaging, because we have to grow crops to feed to these animals, and we waste a lot of food in that way. And they also cause a lot of pollution, and are responsible for a lot of environmental pollution.
+
+
+[37:42] I think that this is an issue that we need to think about. It's a form of agricultural production that is increasingly being exported from the developed world to the developing nations; they're following the model of these countries. And I think that that's a negative step, a retrograde step.
+
+
+[37:56] So I think that we need to think about non-human animals as well. We need to think perhaps about moving to a more environmentally sustainable diet, which will often be a diet which is lower in animal products, or even a diet that is vegetarian, that does not use animal products, because that is both more effective and, ultimately, I think, in a future time, will be an ethic that we will want to embrace.
+
+
+[38:28] Not only for ourselves, but that we will hope to see gradually spreading across the entire world, so that we have a world that practices an attitude of refraining from violence wherever it can, not only to our fellow human beings, but to members of other species as well. Thank you very much for your attention.
+
+
+[39:06] >> Moderador/a (nombre desconocido): Thank you very much, Dr. Singer, for your lecture. We will now read the questions that have been asked by the audience here, and in other campuses of the Sistema Tecnológico de Monterrey. With the purpose of answering as many questions as possible, similar ones have been grouped.
+
+
+[39:23] First question; it's a long one. What are the real chances of having in the future a reformed World Trade Organization, with a commitment to more fundamental goals, such as human welfare and environmental issues? Is it more likely that the World Trade Organization, keeping free trade as its main goal, could at least act fairly?
+
+
+[39:45] This question is in regard to the double discourse on the application of higher tariffs on manufactured goods from poor countries, and the dumping practice in agricultural products performed by highly developed nations. This is a question from Campus Estado de México.
+
+
+[40:03] >> Peter Singer: Well... Yeah. Okay. Thank you. I am a professor of ethics; I'm not a professor of futurology, and I can't really say how likely it is that we will get a fairer WTO.
+
+
+[40:28] I do think that the chances of getting one that is fairer have improved in the last five years. There is a huge public movement now that is demanding changes, and there is a lot more pressure on the developed nations to actually practice what they preach, to really have fair trade rules.
+
+
+[40:50] So in that respect I see a lot of positives in the situation. And I hope that the pressure will force the developed nations to reform the WTO and to make it fairer in all the respects that the questioner mentioned. But, you know, how likely this is to happen, I simply don't know. I'm sorry.
+
+
+[41:15] >> Moderador/a (nombre desconocido): How can we implement the Kyoto Protocol?
+
+
+[41:19] >> Peter Singer: Well, it's a somewhat similar question. The Kyoto Protocol will be implemented if Russia signs on. That's now the crucial matter. And it seemed until quite recently that Russia would sign, and then President Putin suggested, well, maybe they were having some second thoughts about this, and they would study it further. I still hope that they will. But, again, I can't really say.
+
+
+[41:48] Meanwhile, I hope that other nations will continue to adhere to it and will take steps towards implementing it. And even some corporations can do this. In fact, even in the United States, BP, the petroleum company, has instituted its own standards and has said: well, whether or not the United States government accepts the Kyoto Protocol, it's going to try and reduce its emissions to below 1990 levels. And it's made very good progress in doing so, and has actually saved itself a lot of money in terms of wasted energy.
+
+
+[42:22] So, there are other steps we can take even if the protocol is not formally implemented. But I do think it would be desirable for it to be formally implemented, and I also think we must move beyond it to a more global treaty which, as I say, includes the developing nations, but on a fair basis.
+
+
+[42:44] >> Moderador/a (nombre desconocido): What do you propose to reduce global air pollution?
+
+
+[42:49] >> Peter Singer: I think that ultimately we need to be less wasteful in terms of our use of energy, and certainly we need to try to move towards more energy-efficient methods. But, you know, I'm still astonished, living in the United States, about how much wastage there is. We see more and more people driving these large SUVs, which are less fuel-efficient than smaller cars.
+
+
+[43:21] Repeatedly, I walk into buildings in summer where, you know, although it's very hot outside, the building is so cold inside that I need to wear a jacket; I'm not comfortable just in a shirt. I think there are a lot of things that can be done on local levels to simply reduce wastage, and that will help, although it's not going to solve the whole problem.
+
+
+[43:44] >> Moderador/a (nombre desconocido): What do you recommend for including the poorest 10% of the population into the global economy?
+
+
+[43:50] >> Peter Singer: Well, I recommend, obviously, that we accept whatever they produce without tariffs against it. That's one step. But it is also very important that the developed nations wind back their subsidies, which make it hard for them to compete.
+
+
+[44:10] Those of you who followed the recent debate around the Cancún meeting will know that, for example, United States cotton subsidies were one of the targets. And this is one of the most incredibly wasteful subsidies that can exist: something like $3 billion a year, some people say as much as 4 billion, are given in subsidies by the United States government to 25,000 cotton producers.
+
+
+[44:34] And, you know, that's a huge amount of money. As I say, the entire United States foreign aid budget is 10 billion, and 3 to 4 billion goes to 25,000 American cotton farmers, who are already quite wealthy.
+
+
+[44:50] And that means that millions of farmers in poor countries, in Africa, like Burkina Faso and Mali and so on, are unable to sell their cotton, because, although they produce more cheaply than the United States, they don't get huge subsidies, and the American cotton farmers can sell below their prices. So, winding back those subsidies is a very major issue.
+
+
+[45:14] >> Moderador/a (nombre desconocido): Are your proposed ethics Western-oriented, or maybe applicable to other cultures, societies that do not embrace Western ideas and values? How have your proposals impacted other cultures?
+
+
+[45:29] >> Peter Singer: I don't think that the proposals I have are distinctively Western. Although, of course, it's true that, since I have grown up in a Western society, since I don't speak any non-Western language, obviously my orientation is somewhat Western. But I have read in translation ethical classics from China, for example, from India, from a number of non-Western cultures.
+
+
+[45:56] And I do think there are some common values. I think we can find ethical principles like reciprocity, for example, which we may express as doing unto others as you would like them to do to you. We find that in almost every culture, in some sense or other. We also find a general idea of beneficence, of helping others, as an ethical principle that exists in a very wide range of cultures.
+
+
+[46:26] And in fact some of the things that I've talked about, about the treatment of animals, I guess you could say are almost non-Western. Some people who hear me speak come up to me and say: "Have you accepted a Buddhist ethic?", because they think that my view of animals is more like a Buddhist view than like a Christian view. And in some respects it is.
+
+
+[46:46] But it doesn't actually come out of Buddhism. It comes out of, I think, universal ethical standards, a kind of application of reason, which is something that is universal to humans, and to some basic moral principles. So, you know, yes, of course there are differences between cultures in specific ways, but I think underlying those differences, at a more fundamental level, we have some common principles that we can use to develop, if you like, a universal ethic.
+
+
+[47:21] >> Moderador/a (nombre desconocido): Considering the extinction processes caused by human beings, do you think it's important to include the concept of animal rights in educational programs?
+
+
+[47:31] >> Peter Singer: Yes, I would certainly like to see issues about the ethical treatment of animals included in educational programs. Whether we talk about animal rights, or whether we talk about the interests of animals and the need to give them equal consideration, whatever interests they have, I think in some way the question of the moral status of animals should be included in educational programs. And that's, you know, partly simply because I think it's an important issue.
+
+
+[47:59] But also, of course, one has to point out that some areas of science, biological sciences and medical sciences, use very large numbers of animals. And sometimes they have been used in ways that cause them a lot of suffering and that are not justified in terms of the importance of the goal.
+
+
+[48:19] So I think, in particular, any students in areas where animals are likely to be used should have the opportunity to discuss the ethics of the use of animals, to make objections if they don't wish to participate, to have conscientious alternatives to those practices, and to be simply more aware of the fact that they're treating other sentient beings in ways that can harm them.
+
+
+[48:48] >> Moderador/a (nombre desconocido): What role should our intuitions play in moral judgment?
+
+
+[48:54] >> Peter Singer: Institutions or intuitions?
+
+
+[48:57] >> Moderador/a (nombre desconocido): Intuitions, yes, sorry.
+
+
+[48:59] >> Peter Singer: Okay, thank you. I think that we all grow up with certain moral intuitions. We grow up with a kind of instinctive sense of what's right and what's wrong. And we cannot abandon that completely; it must continue to play a role in any person's ethical life.
+
+
+[49:25] But when we study ethics in a philosophical manner, when we think and reflect on it, I think we will also become critical of some of our intuitions. We will think about those intuitions and we will ask: "Why do I have those intuitions? Are they really justified? Are they perhaps prejudices that we have?".
+
+
+[49:48] Because we know that, if we look back at the past, we can see that people have had intuitions which allowed them to think that things are wrong that we do not now think are wrong. For example, in earlier periods of European history, when we had racial prejudices, people had some intuitive reaction, if you like, to the idea of a marriage across different races, to a mixed-race marriage, and they sort of felt some repugnance at this.
+
+
+[50:25] Nowadays, I think most enlightened people don't feel that there is anything wrong with that at all. So, we have overcome an intuitive response that at least some people had, by realizing that it is based on a prejudice.
+
+
+[50:38] I think some of our attitudes to animals are also still based on prejudices. I think some of our intuitions about questions of life and death in health care are based on intuitions that come from an earlier period of time, when we did not have the technology to keep people alive who were very sick and were suffering from a very poor quality of life. So, I think, you know, intuitions are a starting point, but they are not the end point. They are something for us to get beyond when we reflect and think a little bit more.
+
+
+[51:13] >> Moderador/a (nombre desconocido): How long do you think it would take for the developed nations to follow the example of Iceland's hydrogen-oriented economy?
+
+
+[51:21] >> Peter Singer: I'm sorry, I didn't catch the last bit.
+
+
+[51:22] >> Moderador/a (nombre desconocido): To take the example of Iceland's hydrogen-oriented economy. Hydrogen-oriented economy. Iceland. Hydrogen economy.
+
+
+[51:38] >> Peter Singer: All right, the hydrogen economy. Sorry, okay, I didn't get all of that.
+
+
+[51:42] >> Participante 1?: You need a translator up here.
+
+
+[51:44] >> Peter Singer: Sorry, thank you. Look, again, this is a question that's a little bit outside my expertise. I do not really know enough about the technical aspects of that question. I hope that this will come; obviously, it has many possible benefits, but I just can't say how long that will take.
+
+
+[52:06] >> Moderador/a (nombre desconocido): Our senses are under constant attack by the advertising industry, which pushes us to consume even more stuff that we don't even need. Also, if this consumption were to stop, we are told, recession and depression would ensue. What is the solution to this dilemma of the attacks of advertising?
+
+
+[52:26] >> Peter Singer: What is the solution to that dilemma? Yeah, it's a really difficult question, I think. And I think the influence of commercially motivated thought on us is a serious problem, and it's very hard to get away from it. I mean, in the long run, I think, if we have a more educated population, people will perhaps be able to think for themselves more, but it's hard to get there, and commercial interests are very strong.
+
+
+[53:00] I think it's important to try to have independent forms of communication. I mean, at the moment, you know, most people spend a lot of their time and get a lot of their information from watching television. And where television is commercial, there's a lot of consumer pressure put on people to be like the people they're watching, to buy things.
+
+
+[53:21] I think it's important to try to have non-commercial television, to support non-commercial television and radio, so that people have alternatives to get their information. I think it's important to try and have different standards, to have examples of other ways of living that are not so consumer-oriented.
+
+
+[53:38] But, at the same time, I don't want to abandon the principles of liberal democracy, which allow freedom of expression. I don't want to prohibit commercial television or stop people from watching it. So, that means that in one way the problem is going to be with us for a very long time.
+
+
+[54:01] Even if we get more educated, we are still going to have a lot of pressure on us to consume more, and we just have to hope that groups who are fighting in the opposite direction will become stronger and will be able to have their voice heard, so that it becomes a counterweight to that commercial information.
+
+
+[54:23] >> Moderador/a (nombre desconocido): How ethical was it for President Bush to eliminate much of his pollution reduction policies, and his lack of interest in the Kyoto Protocol?
+
+
+[54:32] >> Peter Singer: Well, I think I've already talked about that. I think there is no ethical justification at all for the United States to continue to be the world's worst polluter on a per capita basis. And for the United States to spurn the Kyoto Protocol was, I think, a completely unethical and indefensible step.
+
+
+[54:54] And, despite a bit of rhetoric about voluntary movement towards more efficient production, very little has actually happened. So, I think the rhetoric is not the reality, and the United States is being an unethical global citizen on this issue.
+
+
+[55:15] >> Moderador/a (nombre desconocido): This question is about teaching. Some topics that deal with ethical issues are quite controversial and may cause a big argument or a fight in a classroom. As a professor of bioethics, how do you recommend dealing with these types of issues while teaching ethics?
+
+
+[55:30] >> Peter Singer: Well, I make it clear to my students at the beginning of the course that we are here to think critically about ethics, and that means thinking critically about some things that might be cherished beliefs for you, for the students. So, beliefs that you think are important, that you have perhaps never questioned or criticized before, are going to be questioned if you're attending one of my courses.
+
+
+[55:58] But I also make it clear to my students that the object of my teaching is not to persuade you that, where my opinion differs from yours, I'm right and you're wrong. The object of my teaching is to challenge you to think critically about your own ideas. And at the end of the course, when I'm grading your papers, your exams, your essays, your grade is not going to depend on whether you agree with me or not, but on how well you argue for your position.
+
+
+[56:32] So, I hope that by doing that I get students to see that, although what I'm saying may be controversial or provocative, or what other students say in discussion, for example, they are free to work out their own views and to develop their own views. And as long as they can defend them well, as long as they can show that they're aware of objections to those views, and show how they would answer those objections, they can get the highest grade in the course; there's nothing stopping them. I think in that atmosphere we've had good discussions, without suffering from the fact that the issues are provocative.
+
+
+[57:10] >> Moderador/a (nombre desconocido): Question from Campus Chiapas. In order to arrive at an optimal state of ethics on a microeconomic scale, don't you believe there should be a solid foundation in every individual? If so, how do we build that foundation?
+
+
+[57:23] >> Peter Singer: I'm sorry, what kind of foundation?
+
+
+[57:26] >> Moderador/a (nombre desconocido): Solid.
+
+
+[57:27] >> Peter Singer: Solid? Solid foundation? Well, I think that everyone has within them a capacity to think ethically and act ethically. When I say everyone, you know, maybe that's a bit of an exaggeration. There are a few psychopaths, perhaps, who simply do not have the kind of empathy with their fellows that most of us have. But these are, you know, rare cases. They can be very damaging, they can do enormous destruction and damage; but the overwhelming majority of human beings, I think, have within them the capacity to act ethically.
+
+
+[58:06] Of course, that doesn't mean that they do always act ethically; they also have the capacity to act badly. Much depends on the way they're brought up. Much depends on their peer group and who they live with. Much depends on their education, which is why education is important. But I think we have that foundation to build with.
+
+
+[58:26] We should be realistic about human nature; we should recognize a certain amount of selfishness. But we should also recognize that generally people don't want to hurt other people for the sake of hurting them. Generally, as long as their own vital interests are not at stake, they like to see other people being made better off, and they like to feel the satisfaction or fulfillment of knowing that they're doing the right thing.
+
+
+[58:50] So, I believe that, on the whole, there is enough of a foundation in all of us to build up a world which is a better world ethically than the one we have now.
+
+
+[59:03] >> Moderador/a (nombre desconocido): A question from Campus Hidalgo. What do you think about the concept of preventive war from an ethical point of view?
+
+
+[59:12] >> Peter Singer: Yes, this question relates to what I was saying earlier when I talked about the situation in Iraq. I am not opposed to the idea of preventive war in principle, because I judge actions by their consequences. I could accept that, if there were a situation where a preventive war would clearly prevent a larger war that would have many more casualties, then I could accept the idea of preventive war.
+
+
+[59:42] But what I find particularly alarming about the situation in regard to Iraq is that this was done unilaterally, or, let's say, by the United States and Britain, and Australia too, and one or two other smaller nations that participated on a small scale, without United Nations support, and even when it was clear that United Nations support could not be forthcoming.
+
+
+[1:00:12] And I think that, you know, that's very dangerous, because then other countries will see this as a precedent and will say: "Well, you know, yes, we're being threatened by someone; we should also engage in preventive war".
+
+
+[1:00:22] In fact, you know, it's ironic, but you would have to say that, by the principles that America appealed to, that is, the fact that they felt threatened by Iraq, you could say that North Korea would have been justified in going to war against the United States. Not a very wise move, given that they would have been overwhelmed if they had attempted to do so; but ethically they would have been justified, because they could well have felt threatened.
+
+
+[1:00:49] The United States did threaten North Korea. The United States flew bombers closer to North Korea, to their bases in the Pacific close to North Korea. So, you know, there was a threat. Do we think North Korea would have been justified in a preventive war against the United States?
+
+
+[1:01:07] Well, no; but that's because I think we should support and strengthen a global authority that alone is regarded as having the moral authority to authorize a preventive war, not any individual nation that feels that it's threatened.
+
+
+[1:01:28] >> Moderador/a (nombre desconocido): If animals have rights, are they then moral beings?
+
+
+[1:01:32] >> Peter Singer: No. I don't think that only moral beings have rights. If we thought that only moral beings have rights, we would have to say that small children don't have rights, because they're not moral beings when they're very young; that people with intellectual disabilities don't have rights, because they're also not moral beings.
+
+
+[1:01:51] There's a difference between being a moral agent, that is, the kind of being whom you can hold morally responsible for what they do, and being what we might call a moral patient, that is, the kind of being to whom it matters, morally, what you do to that being.
+
+
+[1:02:10] And, as we see in the case of infants and the intellectually disabled, they are moral patients: it matters what we do to them, even though they're not moral agents. And the same is true, I think, of non-human animals, which are not capable of understanding morality or acting morally, but still there are certain things that we should not do to them.

@@ -1,0 +1,613 @@
+﻿[00:38] >> Conferencista (nombre desconocido): [Buenas tardes] a todos y a todas. Vamos a seguir con el curso que empezábamos ayer. Les recuerdo que es un curso previo a una conferencia, la conferencia magistral que dará la semana que viene, el miércoles, Javier Echeverría, que es un famoso filósofo de la ciencia español.
+
+
+[01:00] Este curso yo lo llamé "Perspectivas de la ciencia en el siglo XX, en la segunda mitad del siglo XX". No comenté ayer el título, pero ahora que ya vimos las dos horas de ayer pueden entender un poco de qué se trata. Podríamos englobarlo dentro de los estudios de ciencia, tecnología y sociedad; ¿se acuerdan de que ayer lo comentábamos?
+
+
+[01:23] Entonces, claro, estos estudios engloban muchas disciplinas: la filosofía de la ciencia, la historia de la ciencia, la sociología de la ciencia. Por eso, al principio se me había ocurrido un título relacionado con filosofía de la ciencia, y luego pensé en una cosa más general, ¿no?: "Perspectivas de la ciencia en la segunda mitad del siglo XX", porque sobre todo nos centramos en los últimos 40 años; más bien se puede decir 42.
+
+
+[01:52] O sea, el hito en el cual empezábamos el curso era, se los recuerdo, 1962, que es cuando Thomas Kuhn publica su libro más famoso, La estructura de las revoluciones científicas.
+
+
+[02:12] Ayer ya vimos, simplemente por hacer un esquema, por recordarles, ayer vimos, empezando en Kuhn y echando un poco marcha atrás, al positivismo lógico, a Popper. Vimos el gran cambio que hubo en la filosofía de la ciencia desde la primera mitad del siglo XX, que era centrada en la epistemología, es decir, en el conocimiento científico. A partir de los años 60 se hizo mucho más social, se puede decir; a la filosofía de la ciencia empezó a importarle mucho más toda la estructura social, la estructura económica, la estructura política dentro de la que se realizaban las teorías científicas.
+
+
+[03:00] Recordemos que a partir de esos años, de los años 60, se critica mucho la diferencia, la dicotomía, entre contexto de justificación y contexto de descubrimiento. Y entonces, a partir de ahí, la filosofía de la ciencia empieza a ocuparse no solo de las cuestiones del conocimiento científico, de la epistemología, sino también de cuestiones sociales y cuestiones de la práctica científica, que es lo que vamos a ver hoy.
+
+
+[03:33] Y, por otra parte, la sociología de la ciencia también se ve validada para estudiar algo tal como el conocimiento científico. Ahí aparece todo lo que es la sociología del conocimiento científico, que es lo que estuvimos viendo ayer, con los varios programas que aparecen: el programa fuerte, el programa [empírico del relativismo], los programas de ciencia y género, los programas de etnometodología.
+
+
+[04:04] ¿Se acuerdan de que hablábamos de Bruno Latour? Es uno de los más famosos sociólogos de la ciencia, que hizo trabajo de campo, trabajo dentro del laboratorio. Y nombro a Bruno Latour porque hoy volveremos a encontrarnos con este nombre en la segunda parte de esta plática, cuando hablaremos del famoso caso Sokal, que es lo que más ha revolucionado todos los estudios sociales de la ciencia en los últimos años.
+
+
+[04:33] Y, volviendo a la ciencia y género, los estudios, los women's studies, los estudios de las mujeres: ayer al final me hacían una pregunta sobre cuáles son las principales estudiosas [?] de esos temas. Ya nombré a Helen Longino, L-O-N-G-I-N-O, que es una de las más famosas, una de las pioneras.
+
+
+[05:02] Otros nombres importantes son Harding, H-A-R-D-I-N-G, y Jaggar, J-A-G-G-A-R. Y, ya centrándonos en el mundo hispano, quisiera nombrar a tres especialistas españolas, como son Marta González García, Eulalia Pérez Sedeño y José Antonio López Cerezo.
+
+
+[05:31] Bueno, ya ven que he dudado al decir "españolas". Creo que, según la Real Academia de la Lengua, en un grupo en el que haya el mismo número de mujeres, o mayor número de mujeres, se permite hablar en femenino. O sea, si estoy yo con varias mujeres y hay mayor número de mujeres, podemos hablar de "nosotras", que es algo muy chistoso.
+
+
+[05:53] Entonces, ya que estamos hablando de estudios de género, pues no voy a decir "los investigadores" si hay dos mujeres y un hombre, ¿no? Entonces podemos decir que entre las investigadoras está José Antonio López Cerezo, y eso no dice nada respecto a ninguna cuestión sobre su masculinidad.
+
+
+[06:15] Bien, vamos ya con lo que es propiamente lo que vamos a ver el día de hoy. Simplemente, para que no se pierdan: ya vimos cómo el libro de Kuhn había influido en todo el giro de la filosofía de la ciencia hacia la historia, hacia la sociología.
+
+
+[06:31] Seguramente tan grandes cambios no fueron resultado solo del libro de Kuhn, sino de la aparición de la big science tras la Segunda Guerra Mundial, como dice prácticamente Echeverría, la big science y la tecnociencia; hoy hablaremos de estos términos. Se puede decir que el libro de Kuhn fue bastante oportuno en aparecer en esos años, pero el responsable de todos los cambios no fue solo Kuhn, sino todo el ambiente de la ciencia y de la tecnología en aquel tiempo.
+
+
+[07:12] En general, la filosofía de la ciencia dejó de tener un camino dado, un mainstream, que es lo que había ocurrido hasta entonces: el positivismo lógico, Popper, Kuhn. Y entonces empezó a haber muchas ideas. Siguió habiendo autores, de hecho, que insistían en que el principal objeto de estudio de la filosofía de la ciencia es el conocimiento científico; o sea, podemos hablar sobre todo de la filosofía analítica, por ejemplo, o del énfasis en el lenguaje como paso previo a las teorías científicas.
+
+
+[07:51] Sin embargo, también tras este giro hubo corrientes dedicadas a la actividad científica, que es lo que vamos a ver ahora. Ya vimos a los sociólogos de la ciencia; ellos y los filósofos de la tecnología se empezaron a ocupar cada vez más de la práctica científica a partir de los años 80.
+
+
+[08:19] Es decir, la ciencia no solo explica, no solo describe, no solo predice o comprende el mundo, sino que también lo transforma. Este es el concepto clave: la transformación del mundo. No solo es importante el resultado de la ciencia, es decir, el conocimiento científico, sino también la propia práctica científica. Hasta el conocimiento, y la práctica, y la práctica, porque transforma nuestro mundo.
+
+
+[08:46] Y uno de los filósofos que más ha tratado este tema, o por lo menos el más famoso, es Hacking, Ian Hacking. Yo diría que es uno de los filósofos de la ciencia vivos más famosos, porque, bueno, todos los que son considerados los filósofos de la ciencia clásicos del siglo XX, Popper, Kuhn, incluso Feyerabend, todos ellos murieron en los años 90; Lakatos murió en los 70. Pero actualmente, entre los que siguen vivos, Ian Hacking es quizá el más famoso.
+
+
+[09:26] Él es realista. Y aquí tenemos que hablar un poco de lo que es realismo. Bueno, de hecho, desde la Antigüedad ha habido un debate sobre el realismo y la ciencia. No voy a entrar en esto; simplemente les diré que hay distintos tipos de realismo: hay el realismo ontológico, el epistemológico, el teórico, el semántico.
+
+
+[09:48] Hacking es realista desde el punto de vista de la práctica experimental. Él piensa que nuestros cuerpos y nuestros aparatos científicos y tecnológicos son reales, porque con ellos podemos modificar nuestro entorno y nuestras percepciones sobre el mundo. Otros objetos son reales porque nos pueden transformar a nosotros y a nuestro entorno.
+
+
+[10:09] Es decir, nosotros podemos estar pensando, escribiendo, por ejemplo, en nuestra computadora, sobre el idealismo o sobre el solipsismo; podemos estar pensando: "Oye, ¿y si yo soy el único ser en el universo, y si todo lo que está a mi alrededor es pura ficción?". Sin embargo, estoy usando mi computadora, y estoy usando la luz eléctrica, estoy usando cosas que la ciencia me ha puesto. Y finalmente, si yo pienso que todo es pura ficción, pero alguien me da un golpe, yo lo voy a sentir, ¿no?; afecta sobre mí. Entonces, desde ese punto de vista, él es realista.
+
+
+[10:52] Entonces, es un realismo práctico, o realismo transformativo, que no tiene que ver con el conocimiento, sino con la práctica científica y técnica, y con los efectos que esa práctica tiene sobre todo el mundo en el que estamos. Es decir, el gran argumento en favor del realismo para la ciencia y la tecnología es su capacidad para transformar el mundo que nos rodea.
+
+
+[11:18] Por eso Hacking critica la filosofía de la ciencia que se había dado hasta ese entonces, centrada sobre todo en el conocimiento científico teórico. Para él, la ciencia representa, pero también interviene en el mundo. De hecho, su libro más famoso se titula Representar e intervenir; fue publicado en 1983. Aquí tenemos... a ver si lo pueden... Bueno, es este: Ian Hacking, Representar e intervenir, publicado en Paidós, en 1983.
+
+
+[11:53] Bien. Javier Ordóñez y José Ferreirós escribieron un artículo titulado "Hacia una filosofía de la experimentación", que creo que los que se han inscrito en este curso han tenido la posibilidad de acceder a él.
+
+
+[12:10] Estos dos investigadores españoles, Ordóñez y Ferreirós, critican el teoricismo de Popper y otros, que se centran en las teorías. ¿Se acuerdan de que decíamos ayer que Popper ponía mucho énfasis en las teorías, y la famosa comparación de que las teorías son redes que lanzamos al mundo para pescar los hechos científicos, ¿no?
+
+
+[12:37] Ellos, Ordóñez y Ferreirós, estudian el papel de los instrumentos y los experimentos. Finalmente, no se trata de negar la teorización, son importantes las teorías científicas, sino simplemente de equiparar a ella la experimentación; o sea, no dejar de lado la experimentación científica. Todo esto es lo que estudia Hacking, y de hecho es lo previo para llegar a la tecnociencia, de la que hablaremos enseguida.
+
+
+[13:04] Bueno, para Hacking, en la práctica científica, el experimento es previo a la obtención del conocimiento científico. Él dice: "Experimentar no es enunciar o informar, sino hacer, y hacer con algo, hacer con cosas distintas de las palabras".
+
+
+[13:26] Hay un libro de un filósofo que se llama Austin que se titula Cómo hacer cosas con palabras. Este filósofo sigue la filosofía analítica. Aquí [Hacking] se opone a esta concepción, que finalmente es una concepción lingüística de las teorías, que existía desde Wittgenstein. ¿Se acuerdan de que Wittgenstein había puesto mucho el énfasis en que nosotros llegamos a la realidad mediante el lenguaje?
+
+
+[13:57] Entonces, a partir de él, por medio del positivismo lógico, el Círculo de Viena, la concepción heredada, y luego otras filosofías, como la filosofía analítica, ponían mucho énfasis en el lenguaje.
+
+
+[14:14] Bueno, Hacking dice que no, que hay que ir a las cosas. Para Hacking, de hecho, lo principal no es la verdad científica, sino la capacidad innovadora: producir nuevos fenómenos científicos. O sea, como solo conocemos los objetos del mundo a través de nuestras acciones, la filosofía de la ciencia debe partir de una teoría de la acción.
+
+
+[14:36] Otro que también sigue esta línea es Pickering. Ellos quieren criticar la sociología del conocimiento científico. O sea, ellos [dicen] que la sociología del conocimiento científico, ¿se acuerdan de que la vimos ayer?, por ejemplo, el programa fuerte, iba demasiado a algunas cuestiones teóricas, y por ejemplo otros, como los etnometodólogos, como Bruno Latour, se centraban en el estudio de campo dentro de los laboratorios.
+
+
+[15:05] Pero claro, según Echeverría, se centran en el laboratorio, pero olvidan dos cosas: por una parte, la educación, que es imprescindible para transmitir el conocimiento y la técnica de la ciencia a las nuevas generaciones; y, por otra parte, la propia aplicación de la ciencia a la transformación del mundo. La ciencia transforma el mundo: esa es la tesis principal de Hacking.
+
+
+[15:29] Pickering señala la importancia de las máquinas para la actividad científica; los instrumentos científicos son una necesidad para la investigación. No se trata de olvidar el conocimiento científico, como decía, sino que solo se trata de reconocer que ese conocimiento aparece tras una acción; no lo da el mundo per se.
+
+
+[15:54] O sea, el mundo no nos da el conocimiento, sino que se necesitan las acciones, en este caso los experimentos, para llegar a ese conocimiento. La ciencia implica acciones experimentales; por eso una teoría de la acción es previa a una teoría del conocimiento científico.
+
+
+[16:12] Esta es una diferencia entre el conocimiento en general y el conocimiento científico: para conocer científicamente hay que actuar sobre el mundo, transformándolo.
+
+
+[16:27] Ahora quisiera ya empezar... Me gustaría que hoy la clase fuera un poco más debatible. Lo voy a decir, aunque no se pueda hacer mucho debate, porque simplemente al final quedarán unos minutos, podremos hacer un poco de debate, podrán hacer algunas preguntas, pero no va a dar tiempo de mucho. Pero sí me gustaría que se fueran con algunas nuevas ideas.
+
+
+[16:55] Les quiero hablar de la ciencia en Occidente y la ciencia en Oriente. Como saben, yo viví tres años en China. Y bueno, realmente no voy a decir que puedo ver las cosas desde el punto de vista oriental. De hecho, el tercer año que estaba en China, y últimamente también, a veces, en lugar de parecerme que entiendo cada vez más a los chinos, me da la impresión de que los entiendo peor, porque es algo insondable.
+
+
+[17:29] Pero bueno, por lo menos permite la posibilidad de hacer algunos análisis de nuestra ciencia desde un punto de vista un poco más externo. Entonces, lo que me pregunto es: ¿no será que todo lo visto tiene que ver con las ideas de la ciencia precisamente en Occidente?
+
+
+[17:47] Hay un historiador de la ciencia china muy famoso, el más famoso; se llama Joseph Needham. Él era británico, un personaje muy interesante. Nació en 1900, fue a China durante la Segunda Guerra Mundial, y posteriormente ya se vio cautivado por el país y por su cultura, y empezó a estudiar la ciencia a lo largo de la historia en China.
+
+
+[18:13] Y él partía de una pregunta, que es la siguiente: ¿por qué la ciencia moderna, la ciencia matematizada tal como la conocemos hoy, la ciencia que decimos que nació en la época de Galileo, apareció en Europa y no en otras culturas que en la Edad Media estaban más desarrolladas, como, por ejemplo, el mundo musulmán, y en este caso China? Esto se conoce como el dilema de Needham. O sea, ¿por qué se dieron las condiciones en Europa y no en otras civilizaciones?
+
+
+[18:46] Needham, ya digo, era un personaje muy interesante: era cristiano, se consideraba taoísta, era marxista. Entonces, bueno, desde su marxismo consideraba que lo principal, obviamente, eran las condiciones sociales.
+
+
+[19:05] Claro, él también estudió otras cosas muy interesantes; por ejemplo, las leyes. Él hablaba de la gran importancia que tuvo el derecho romano, y el derecho en Occidente, para que ya en la época de la Revolución Científica surgiera una idea de las leyes naturales aplicadas a las cosas del mundo.
+
+
+[19:26] Cuando hablamos de las leyes de Newton, las leyes de Kepler, no sé si se han dado cuenta, estamos usando una terminología que viene del derecho. Es como si las cosas, como si las masas, tuvieran que obedecer obligatoriamente la ley de Newton para atraerse.
+
+
+[19:48] Entonces, bueno, él pone algunos ejemplos. Por ejemplo, él dice que en Europa había un gallo que puso un huevo, y entonces fue juzgado en Europa, y condenado, y lo mataron, porque era una violación a las leyes de la naturaleza.
+
+
+[20:13] Entonces, en China, por ejemplo, habría sido imposible que fuera eso. Bueno, seguramente también lo habrían matado, pero no juzgado, sino simplemente porque rompía, digamos, la estabilidad del mundo que aparece, por ejemplo, en el confucianismo: el gallo no está en una posición en la que pueda poner huevos; esas son las gallinas.
+
+
+[20:40] Sin embargo, en Europa fue juzgado y condenado. Es algo muy extraño; decimos: "Bueno, pues qué raro", ¿no? Pero realmente ahí está la base de las leyes científicas.
+
+
+[20:57] Esto lo podemos ver, ya digo, a partir de la Revolución Científica, con Francis Bacon, que es uno de los grandes, grandes ideólogos de la ciencia actual. Él dice que hay que utilizar la ciencia. En un libro que se llama La gran restauración, Bacon dice que la Tierra es la herencia de Dios a los hombres, y podemos y debemos usarla.
+
+
+[21:24] Claro, tenemos que colocarlo dentro de la sociedad puritana; entonces, es un derecho divino. Él llega a hablar de interrogar al mundo bajo tortura. Esto es la base de nuestra ciencia actual.
+
+
+[21:39] Pero a esto se opusieron, por ejemplo, los críticos de los años 60 que decíamos ayer. Sin embargo, realmente tanto el liberalismo como el marxismo, se puede decir, hablaban el mismo idioma: ambos querían usar, utilizar la ciencia.
+
+
+[21:53] O sea, los movimientos de los 60, en teoría, parecía que querían romper con todo eso; o sea, pasar del individualismo al holismo. Después hablaré un poco más de esto: el holismo, ya saben, es una teoría por la cual hay que tener en cuenta todo el conjunto; se opone al individualismo.
+
+
+[22:12] Nos podemos imaginar todas estas ondas esotéricas, todo lo oriental que se puso de moda y sigue de moda: el yoga, el taichí, el budismo. Pero ¿es posible eso para los occidentales? A lo mejor estamos dentro de esa mentalidad tan fuerte de que necesitamos, necesitamos utilizar la ciencia.
+
+
+[22:38] Entonces, Hacking, cuando habla de la intervención, de la práctica científica, ¿no está siendo muy occidental? ¿No sería posible no usar la naturaleza, sino contemplarla en un sentido más místico, como podría ser, por ejemplo, lo que quería el taoísmo? ¿Sería posible?
+
+
+[23:01] Sin embargo, bueno, por ejemplo, Javier Ordóñez: una de sus tesis principales es que siempre ha habido tecnología. El ser humano, simplemente como ser humano, siempre ha intentado transformar la naturaleza para utilizarla. ¿No se está viendo ahí Javier Ordóñez muy occidental?
+
+
+[23:24] Bueno, Javier Ordóñez me parece un filósofo y un historiador de la ciencia excepcional, pero precisamente es posible que él sea muy occidental [?] cuando dice eso. O a lo mejor no; a lo mejor realmente es humano.
+
+
+[23:38] Tampoco... Cuando estoy hablando de otras culturas, en este caso la oriental, a lo mejor me estoy volviendo demasiado relativista, que es toda la crítica que hicieron algunos de los filósofos de la ciencia contra todos estos estudios sociales de la ciencia, del posmodernismo, del que hablaré después un poquito. O sea: si todo es tan relativo, nos quedamos sin ninguna base para nada. Bueno, esto se los pongo simplemente como una posibilidad para el debate y para que lo mediten.
+
+
+[24:18] Vamos a volver a Hacking, que decíamos que la ciencia representa e interviene. La intervención de la ciencia nos lleva directamente a lo que es la actividad tecnocientífica, a estudiar la actividad de la ciencia y de la tecnología.
+
+
+[24:36] Según Javier Echeverría, básicamente en el siglo XX hay dos corrientes principales que han pugnado, que son el holismo y el individualismo, lo que les estaba comentando hace unos minutos: al priorizar el estudio de la acción social, que sería el holismo, o sea, ver todo el conjunto, o bien la acción individual, el individualismo.
+
+
+[25:03] Posteriormente se intentaron conjugar ambas tendencias, al considerar que los hechos sociales hay que remitirlos al comportamiento individual, pero también que los individuos actúan siempre dentro de un contexto social que influye sobre sus motivaciones y acciones.
+
+
+[25:20] Popper consideró las acciones humanas individuales, y un seguidor suyo, Tuomela [?], consideró la acción social como la suma de las actividades individuales. Tuomela [?] teorizaba sobre varios tipos de acción; por ejemplo, tiene toda una teoría de la acción cooperativa, que es muy interesante, porque se supone que es una acción muy seguida entre los grupos científicos.
+
+
+[25:44] En fin, no vamos a entrar en esto; simplemente lo he nombrado para que vean hacia dónde va la cuestión: el hacer una filosofía de la acción humana. Si decimos que la ciencia no solo es conocimiento, sino que también son acciones, ha habido teóricos de las acciones humanas, de las acciones científicas y no científicas, claro.
+
+
+[26:10] En fin, lo interesante es que todos estos estudios son una base para la acción en la tecnociencia. Normalmente se relaciona más la ciencia con el conocimiento científico, y la técnica, la tecnología, con la práctica; por eso es bueno estudiar la acción tecnológica para después ir a la acción científica.
+
+
+[26:35] La ciencia actual está totalmente mediatizada por la tecnología y sus acciones. Entonces, con la big science, ya hay que hablar ya no tanto de ciencia y de tecnología, sino de tecnociencia, y esto, bueno, se relaciona mucho con todo lo que estamos viendo, ¿no?, con lo que acabamos de ver de Hacking.
+
+
+[26:56] Bueno, ¿qué es la big science? Que ya la he nombrado, entre ayer y hoy, yo creo que 20 veces, la big science, la tecnociencia, y no he dicho lo que es. Normalmente se conoce como big science, o sea, la "gran ciencia" en inglés; en español normalmente no se traduce, se habla así, de la big science.
+
+
+[27:17] Suele hablarse de la tendencia de la ciencia y la tecnología a partir de la Segunda Guerra Mundial, cuando la ciencia y la tecnología llegaron a algunos extremos, bueno, tremendos: las investigaciones científicas ya hay que hacerlas dentro de grandes laboratorios, que una persona, o unas personas, o grupos pequeños no pueden pagar; tiene que haber grandes transnacionales, o bien el Estado.
+
+
+[27:46] Hay un documento muy, muy interesante que fue escrito en 1945 por parte de un señor que se llamaba Vannevar Bush. Bueno, aunque parezca mentira, este Bush no tiene nada que ver con la saga de los Bush que actualmente gobierna en el mundo, sino que es pura casualidad que se llamara así: Vannevar Bush.
+
+
+[28:21] En la Segunda Guerra Mundial, era científico, y trabajó en algo relacionado con submarinos, y se convirtió en el director de la Oficina de Investigación y Desarrollo Científico, a finales de la Segunda Guerra Mundial.
+
+
+[28:38] Lo que pasa es que ya en 1945, cuando los americanos veían la guerra ganada, dijeron: "Bueno, ¿qué vamos a hacer con la ciencia?". La ciencia había tenido una hipertrofia, había crecido muchísimo. Entonces, tras la guerra, ¿qué podía hacer el gobierno con la ciencia y la tecnología, y cómo podía usar todo lo que había avanzado la ciencia durante la Segunda Guerra Mundial para el bienestar del pueblo, en este caso del pueblo de Estados Unidos?
+
+
+[29:12] Entonces el presidente Roosevelt pidió un informe a este hombre, a Vannevar Bush, y este Bush hizo este informe, que se titula Ciencia, la frontera sin fin: un informe al presidente, de julio de 1945.
+
+
+[29:36] Y bueno, pues es un discurso absolutamente ideologizado, y es un texto que, realmente, aunque casi no es conocido, es muy anodino, ha influido muchísimo en nuestra sociedad.
+
+
+[29:52] De pronto, ¿qué dice este informe? Dice que el progreso científico es esencial. Se ocupa mucho de la guerra contra la enfermedad; o sea, intenta poner énfasis en la medicina. Claro, esto hay que verlo desde el punto de vista de que, aunque es de julio del 45, ya el proyecto Manhattan se estaba desarrollando, la bomba atómica estaba a las puertas, y eso hizo que la ciencia tuviera una imagen terrorífica.
+
+
+[30:26] Se trataba de limpiar un poco la imagen de la ciencia, y ¿qué mejor forma de limpiar la imagen que dando a los seres humanos la salud, que es uno de los bienes más preciados? Entonces, bueno, ¿por qué es esencial el progreso científico? Primero, por la guerra contra la enfermedad, por la medicina; pero también por la seguridad nacional y por el bienestar público. Voy a leer algunos fragmentos que a mí me parecen muy interesantes:
+
+
+[30:57] "No podemos volver a confiar en que nuestros aliados contengan al enemigo mientras luchamos por ponernos a la par. Debe haber más y más adecuadas investigaciones militares en tiempos de paz. Es esencial que en esos periodos los científicos civiles prosigan realizando algunos de los aportes a la seguridad nacional que tan eficazmente hicieron durante la guerra.
+
+
+[31:21] La mejor manera de lograrlo es mediante una organización de control civil, con estrecha vinculación con el ejército y la armada, pero con financiamiento directo del Congreso y facultades explícitas de iniciar investigaciones militares que complementarán y fortalecerán las llevadas a cabo directamente bajo el control de ambas fuerzas".
+
+
+[31:39] Como ven, es prácticamente el inicio de la escalada bélica de la Guerra Fría. Otro fragmento, que habla del bienestar público, dice así: "Una de nuestras esperanzas es que después de la guerra haya pleno empleo. Para alcanzar esa meta deben liberarse todas las energías creativas y productivas del pueblo norteamericano. Debemos hacer nuevos productos, mejores y más baratos. Queremos que haya una multitud de nuevas y vigorosas empresas".
+
+
+[32:10] Esto lo tienen que ver desde el punto de vista del consumismo: claro, tiene que haber más productos. Además, están muy dentro de toda la economía keynesiana que aplicó Roosevelt, ¿no?: de que se hagan cosas y que haya consumo.
+
+
+[32:30] "Ya no podemos depender de Europa como una fuente importante del capital científico. Es evidente, entonces, que más y mejores investigaciones científicas son un elemento esencial para el logro de nuestra meta de pleno empleo. ¿Cómo incrementamos este capital científico? En primer lugar, debemos contar con muchos hombres y mujeres formados en la ciencia. Segundo, debemos fortalecer los centros de investigación básica, que son principalmente las facultades, universidades e institutos de investigación.
+
+
+[33:00] Con algunas notables excepciones, la mayor parte de la investigación en la industria y el gobierno implica la aplicación del conocimiento científico existente a problemas prácticos. Solo las facultades, universidades y algunos institutos de investigación dedican casi todos sus esfuerzos a expandir las fronteras del conocimiento".
+
+
+[33:21] Como ven, es muy importante que haya mucha gente formada, la educación científica. "Para que la ciencia actúe como un poderoso factor en nuestro bienestar nacional, la investigación aplicada debe ser vigorosa, tanto en el gobierno como en la industria. Deben tomarse para ello medidas para modificar los procedimientos de reclutamiento, categorización y remuneración del personal del área. Es preciso crear una junta permanente de asesoramiento en ciencia.
+
+
+[33:57] La forma más importante en que el gobierno puede promover la investigación industrial consiste en incrementar el flujo de nuevo conocimiento científico a través del apoyo a la investigación básica y la ayuda al desarrollo del talento científico. Además, el gobierno debería brindar a la industria incentivos adecuados para la realización de investigaciones".
+
+
+[34:15] Y una de las cosas en las que pone mucho énfasis es el fortalecimiento del sistema de patentes. Es muy importante considerar la cantidad de patentes que un país saca a lo largo del año para ver cómo está su investigación en ciencia y tecnología. Van a ver algunas cifras que son bastante escalofriantes: las patentes otorgadas en el año 2001 en algunos países.
+
+
+[34:48] Bueno, estas son patentes otorgadas a residentes, a gente que investiga en ese país, porque hay muchas patentes que se otorgan a multinacionales. O sea, a lo mejor en un país como México cada año se otorgan muchas patentes, pero a algunas cosas que se han investigado en otros países, en Estados Unidos, por ejemplo, y que son de transnacionales que vienen aquí.
+
+
+[35:17] Entonces, las que se realizan dentro de un país, en el 2001: Estados Unidos, 87,606; Francia, 11,010; España, 1,781; México, 118. O sea, comparen los números de Estados Unidos y de México: Estados Unidos, 87,606; México, 118.
+
+
+[35:46] O sea, la gente en España, por ejemplo, se queja; dicen: "1,700, o sea, no es nada; son 8 veces menos que en Francia, pues como 50 veces menos que en Estados Unidos". Bueno, aun así son más de 10 veces la cantidad en México. Eso nos habla mucho de la investigación que se lleva a cabo dentro del país.
+
+
+[36:08] Entonces, fíjense que el informe de Vannevar Bush ya ponía el énfasis en esto: "Debemos renovar nuestro talento científico", dice Vannevar Bush. "La rapidez o lentitud con que desplazamos cualquier frontera científica dependerá de la cantidad de científicos altamente calificados y capacitados que la exploren. La formación de un científico es un proceso largo y costoso.
+
+
+[36:34] El gobierno debe proporcionar una cantidad razonable de becas para estudiantes y graduados, a fin de desarrollar el talento científico de la juventud norteamericana. Es preciso elaborar planes que atraigan a la ciencia solo la proporción de talentos jóvenes ajustada a las necesidades de aquella, en relación con las otras necesidades nacionales de aptitudes superiores".
+
+
+[36:57] Bueno, me he detenido mucho en este informe porque es fundamental para entender los valores que tiene la ciencia. En este texto se pueden ver muy bien cuáles son los valores de la ciencia. Para empezar, el título es muy indicativo: es el progreso ilimitado. O sea, el título de este informe es Ciencia, la frontera sin fin.
+
+
+[37:28] Entonces, se transmite la idea, el valor, de que el progreso es ilimitado, es infinito. Se transmite la idea de que la ciencia es la verdad, la ciencia es la prosperidad; la libertad de investigación: todo lo que podamos investigar se debe investigar, esto muy dentro de esa idea ya de Francis Bacon, ¿no?, desde hace siglos.
+
+
+[37:53] Y, por otra parte, también lo de prepararse para la guerra para el bienestar nacional; o sea, para vivir en paz hay que prepararse para la guerra. ¿Nos recuerda algo esto? A mí me recuerda la famosa novela esta de Orwell, 1984, en la que llamaban Ministerio de la Paz al que se ocupaba de la guerra. Finalmente, ese es el mundo en el que vivimos.
+
+
+[38:20] Y también él dice: "Recomiendo que se cree un nuevo organismo con esta finalidad". La finalidad de que, bueno, dice que la estructura gubernamental debe apoyar, que haya fondos, fondos permanentes, para apoyo a la investigación básica en las facultades, universidades e institutos de investigación.
+
+
+[38:45] "Y recomiendo, por lo tanto, que se cree un nuevo organismo con esa finalidad. Ese organismo debería estar integrado por personas de amplios intereses y experiencia, con una comprensión de las peculiaridades de la investigación y la educación científicas. Debería tener una provisión estable de fondos, a fin de que pudieran llevarse a cabo programas de largo plazo".
+
+
+[39:05] Este es, por ejemplo, el que aquí en México es el CONACYT, Consejo Nacional de Ciencia y Tecnología; por ejemplo, en España es el CSIC, el Consejo Superior de Investigaciones Científicas. O sea, a raíz de este organismo que se creó en Estados Unidos, en otros países también se crearon, pero sobre todo hay que ponerlo en esta idea, ¿verdad?
+
+
+[39:32] Esto nos definiría un poco la big science. ¿Y qué es la tecnociencia? Bueno, básicamente, la tecnociencia es el tipo de investigaciones científicas y técnicas que se llevan a cabo dentro de esta época, ¿no?, de la big science. Voy a leer un fragmento del libro de Echeverría que habla sobre lo que es la tecnociencia, porque él enumera todas las características de la tecnociencia y la compara con lo que podemos conocer como la ciencia, la ciencia moderna:
+
+
+[40:13] "La tecnociencia no es solo la búsqueda de conocimiento, representación adecuada, sino ante todo un sistema de acciones eficientes basadas en conocimiento científico, que transforman el mundo". Como ven, aquí sale totalmente [Hacking]. "Están desarrolladas tecnológica e industrialmente, y ya no versan solo sobre la naturaleza, sino que también se orientan a la sociedad y a los seres humanos.
+
+
+[40:44] Sin limitarse a describir, explicar, predecir o comprender el mundo, sino tendiendo a transformarlo, basándose en una serie de valores satisfechos en mayor o menor grado por la actividad tecnocientífica y por sus resultados. Entre dichos valores, la verdad o la verosimilitud no ocupan el lugar central", como podía ser para la ciencia, por ejemplo, "aunque siguen teniendo un peso específico considerable.
+
+
+[41:10] Su referente es una serie de escenarios artificiales, o mundos artificiales, que la tecnociencia posibilita y construye. Por oposición a la ciencia moderna, la tecnociencia implica no solo una profesionalización, sino una empresarialización de la actividad científica".
+
+
+[41:31] O sea, el científico ya no solo es un profesional, sino que entra totalmente dentro de la industria. "Siendo la tecnociencia un factor relevante de innovación y de desarrollo económico, pasa a ser uno de los poderes dominantes en las sociedades más avanzadas. La tecnociencia también se enseña públicamente, pero, a diferencia de la ciencia moderna, el conocimiento y la práctica tecnocientífica tienden a privatizarse, e incluso a devenir secretos.
+
+
+[42:01] La tecnociencia no solo es un instrumento de dominio y transformación de la naturaleza, sino también de las sociedades, revelándose muy útil para determinados grupos sociales, transnacionales, en principio no estatales, que obtienen grandes beneficios de ella. La tecnociencia se inserta en un nuevo sistema de producción al que podemos denominar postindustrial: sociedad del conocimiento y de la información. La tecnociencia contemporánea, para su desarrollo, se basa en un nuevo formalismo: la informática.
+
+
+[42:35] Cabe añadir una última diferencia, en la que se sintetiza una de las tesis principales de la filosofía de la actividad científica por diferenciación respecto a la epistemología clásica: la tecnociencia no se reduce a la razón pura, a la episteme, sino que es además una modalidad de la razón práctica, puesto que transforma el mundo conforme a criterios y métodos, acciones y objetivos discutibles racionalmente.
+
+
+[43:04] En otras palabras, la tecnociencia rompe con la separación kantiana entre la razón pura y la razón práctica, y por ello la filosofía de la ciencia no debe atender solo al conocimiento científico, sino también a la práctica científica. Desde un punto de vista estrictamente filosófico, aquí radica la diferencia principal entre la filosofía clásica de la ciencia y las corrientes más recientes en los estudios sobre la ciencia y la tecnología".
+
+
+[43:30] Como vemos aquí, en esta definición que da Echeverría de la tecnociencia, pues prácticamente tenemos todo. O sea, ahí explica la gran importancia de la intervención, que es de lo que nos habla Hacking, y también nos da paso a toda la sociología del conocimiento científico. Prácticamente es una justificación, desde la propia epistemología, desde la propia teoría del conocimiento, de los estudios sociales de la ciencia.
+
+
+[44:04] Y a partir de aquí ya llegamos a lo que es la axiología de la ciencia, es decir, ciencia y valores. Axiología es la ciencia que estudia los valores. Ya veíamos ayer que el positivismo lógico proclamaba, en gran sentido, que la ciencia es neutral, es objetiva; básicamente, que no tiene valores, por lo menos que no tiene valores éticos.
+
+
+[44:35] Tras la crítica de los años 60, algunos autores, empezando precisamente por Thomas Kuhn, dijeron que la ciencia tiene valores epistémicos, o epistemológicos. Según Echeverría, la ciencia es axiológicamente plural; es decir, está regida por un conjunto de valores más o menos estables, cuya importancia relativa puede cambiar según las disciplinas, las épocas históricas y las situaciones.
+
+
+[45:03] Si la tecnociencia es un conjunto de acciones que transforma el mundo, no basta con estudiar los conocimientos previos que permiten esas acciones, sino que hay que considerar los valores que hay tras ellas.
+
+
+[45:19] Es decir, se puede considerar que el medio tecnocientífico está cargado, por una parte, de práctica, lo que proclama Hacking, la práctica científica; por otra parte, de teoría, como ya, por ejemplo, Hanson... ¿Se acuerdan de que ayer nombré brevemente a Hanson? Es un filósofo de la ciencia que decía que la ciencia no empieza por la pura observación, sino que toda la observación está cargada de teoría. Entonces, la actividad tecnocientífica está cargada de práctica, de teoría, pero también de valores.
+
+
+[46:01] Según Echeverría, la axiología de la ciencia debe partir de valores epistémicos internos, como son, por ejemplo, el rigor, la precisión, la coherencia; no tanto externos, como son los valores éticos, estéticos, políticos o económicos.
+
+
+[46:18] Bueno, claro, estos últimos valores son también importantes; lo que pasa es que aparecen también en otras actividades humanas: los valores éticos, los valores políticos, estéticos. Por eso es más interesante, para el estudio de la actividad científica, los que son internos a la ciencia, los valores epistémicos, como son el rigor, la búsqueda de la verdad, cosas así.
+
+
+[46:45] Bueno, no voy a seguir con esto de ciencia y valores, con la axiología de la ciencia, porque, de hecho, me imagino que Echeverría en su conferencia de la semana que viene lo nombrará.
+
+
+[46:59] Lo que sí quisiera es dar un ejemplo relacionado con ciencia e ideología, para que nos demos cuenta de hasta qué punto influye la propia ciencia dentro de los propios valores que aparecen en la sociedad. O sea, no solo la sociedad da valores a la ciencia, sino que la ciencia propiamente da valores a la sociedad.
+
+
+[47:36] Esto se encuentra totalmente dentro de lo que se conoce como ciencia e ideología, o sea, los estudios de ciencia e ideología, que están totalmente centrados dentro de lo que decíamos ayer, ¿no?, todas las críticas a la ciencia que se hicieron en los años 60 y 70. A partir de ahí se empezó a estudiar mucho la relación de la ciencia con la ideología. La ideología es la ciencia de las ideas.
+
+
+[48:05] Entonces, cómo ha influido mucho toda la ideología imperante en la sociedad en la ciencia; o sea, toda la ideología de la sociedad en la ciencia. Eso ha sido muy estudiado. Por ejemplo, el caso típico es el caso Galileo: o sea, cómo influyó la ideología, en este caso de la Iglesia católica, en todo el proceso de Galileo, y todas estas cosas. Sin embargo, lo que es muy interesante es considerar también lo opuesto: cómo la ciencia ha dado valores, ha dado ideología a la sociedad.
+
+
+[48:50] Bueno, es casi la hora del receso. Entonces me gustaría... Según el reloj quedan dos minutos, porque luego empezaré con esto de ciencia e ideología, y después con el caso Sokal, que es una de las cosas más, más interesantes. Pero ahora me gustaría, si alguien tiene alguna pregunta, alguna duda, rápidamente, de lo que hemos visto hoy...
+
+
+[49:22] Bueno, los he dejado a todos... Bueno, si quieren, hacemos un descanso y volvemos dentro de 10 minutos, un cuarto de hora, ¿vale?
+
+
+[49:34] Vamos a continuar ya con la última hora de este curso, minicurso de cuatro horas. Estaba hablándoles de las cuestiones de ciencia e ideología. Les quiero nombrar un artículo que fue publicado hace unos años, en el 97, en los Archives Internationales d'Histoire des Sciences; es un artículo que escribieron Mariano Hormigón y Serguéi Kara-Murzá [?].
+
+
+[50:12] Bueno, yo tengo que decir que conozco bastante a las dos personas, sobre todo a Mariano Hormigón: fue mi director de tesis doctoral en España, en Zaragoza, en la Universidad de Zaragoza. Y Kara-Murzá [?] es un investigador ruso.
+
+
+[50:26] Ellos escribieron un artículo que se titula "La influencia de las contribuciones científicas en los aspectos ideológicos de la economía política". Es un artículo que a mí me parece muy, muy interesante, porque, digamos, estudia, aparte de lo que he dicho, de lo típico, de cómo la ideología que hay en la sociedad influye en la ciencia, ellos se dedican a estudiar cómo la ciencia ha influido para dar ideología, a través de valores, de creencias, a la propia sociedad; en este caso, en un ejemplo concreto: la economía, la economía política.
+
+
+[51:18] Ellos dicen que la ciencia es generadora de modelos para la economía política. De hecho, ellos explican el liberalismo económico, por ejemplo, como una consecuencia de la propia física newtoniana.
+
+
+[51:38] Ya sabemos que el liberalismo económico, la teoría de Adam Smith, está muy dentro de toda la ideología que había en el Reino Unido, en Gran Bretaña, de aquella época, del siglo XVII, XVIII; o sea, todo lo relacionado con el empirismo, por ejemplo. Del empirismo de Hume: Hume era muy amigo de Adam Smith.
+
+
+[52:07] Pero, aparte de eso, también tenemos que darnos cuenta de que el siglo XVIII, cuando vivió Adam Smith, era el siglo en el que la teoría científica reina era la newtoniana. Alguna vez se ha dicho que el paradigma de Kuhn... el paradigma de Newton, el paradigma newtoniano, fue el más exitoso en toda la historia de la ciencia mundial.
+
+
+[52:35] Entonces, desde ese punto de vista, en la economía se buscaba el equilibrio, y no se miraban para nada los sistemas de no equilibrio; solo se trataba de mirar los sistemas de equilibrio, de ver los sistemas lo más simplificados posibles, que es lo que hace la mecánica, la mecánica de Newton.
+
+
+[53:02] Posteriormente, en el siglo XIX, el desarrollo de la termodinámica influyó mucho en la emergencia de la teoría marxista de la economía.
+
+
+[53:18] Posteriormente, ya en el siglo XX, se terminó totalmente con el determinismo que existía en la física newtoniana. Y entonces, pues eso: la mecánica cuántica y la relatividad, y sobre todo la cuántica, mejor dicho, son ya teorías físicas totalmente indeterministas [?].
+
+
+[53:39] Entonces, eso lo relacionan estos investigadores, Kara-Murzá [?] y Hormigón, con la emergencia de la teoría económica de Keynes y el Estado de bienestar.
+
+
+[53:56] Sin embargo, según estos investigadores, la vuelta al liberalismo, a lo que hoy conocemos como neoliberalismo, es romper con esa tradición, porque es volver otra vez a buscar el equilibrio en algo en lo que no puede haber equilibrio.
+
+
+[54:15] Claro, este artículo está hecho desde un punto de vista más bien de izquierdas, más bien marxista, y es una crítica muy fuerte al neoliberalismo. Pero a mí sí me parece que tiene muchas cosas muy interesantes, y es, sobre todo, el ver cómo la propia ciencia, en este caso la física, que ya decíamos ayer que fue considerada durante mucho tiempo el paradigma de ciencia natural, fue tomada por las ciencias sociales, en este caso por una ciencia tan social como es la economía, para buscar sus propios paradigmas, sus propias ideas.
+
+
+[54:59] Entonces, pues se ve muy fácilmente cómo la ciencia puede dar valores, y más aún, dar ideología, en algo como es la política y la economía.
+
+
+[55:12] Voy a terminar este curso, esta plática, esta conversación, podemos decir, con el caso Sokal, el asunto Sokal, que es uno de los que más se ha oído en los últimos años. Y luego me gustaría tener un tiempo para diálogo. Espero que haya preguntas, y espero que también gente de otros lugares del sistema, que nos están viendo desde la Ciudad de México, desde Guadalajara, desde cualquier otro punto de la república, o desde otros sitios del mundo, manden también sus preguntas, y aquí las intentaremos responder.
+
+
+[56:01] Bueno, Alan Sokal es un físico norteamericano, un intelectual de izquierdas, que trabajaba en Nueva York. Él había enseñado en la Universidad Autónoma de Nicaragua durante la época sandinista. Les cuento todo esto para que vean que él realmente era de izquierdas, y cómo influyó todavía mucho más la crítica que él hizo.
+
+
+[56:32] Publicó un artículo en abril de 1996 en una revista titulada Social Text, Texto Social, que es una revista que se dedicaba a los estudios sociales de la ciencia. Su artículo se titulaba "Transgredir las fronteras: hacia una hermenéutica transformativa de la gravitación cuántica". Les voy a leer un pequeño fragmento.
+
+
+[57:06] Decía Sokal en su propio artículo, a ver, escuchen bien, porque aquí van a poder ver que hay algo que no funciona; bueno, a ver si alguien se da cuenta: "Mi meta aquí será hacer avanzar esos profundos análisis, teniendo en cuenta los desarrollos recientes de la gravitación cuántica, la rama emergente de la física en la que la relatividad general de Einstein y la mecánica cuántica de Heisenberg son a la vez sintetizadas y superadas.
+
+
+[57:38] Como veremos, en la gravitación cuántica la variedad espacio-temporal deja de existir como realidad física objetiva; la geometría pasa a ser relacional y contextual, y las categorías conceptuales fundamentales de la ciencia anterior, entre otras la existencia misma, devienen problemáticas y quedan relativizadas. Como sostendré a continuación, esta revolución conceptual tiene profundas implicaciones para el contenido de una ciencia futura que sea a la vez posmoderna y liberadora".
+
+
+[58:09] Bueno, aquí ya podemos ver... La cuestión es que le publicaron este artículo, y dos meses después el propio Sokal escribió otro artículo, en otra revista llamada Lingua Franca, titulado "El experimento de un físico con los estudios culturales", donde decía que en realidad este artículo lo había escrito metiendo algunos errores tremendos, garrafales, para demostrar que, digamos, los nuevos filósofos de la ciencia, los filósofos de los estudios sociales de la ciencia, no tenían ni idea de la ciencia natural.
+
+
+[58:53] En lo que les he leído, ¿alguien ha visto algo que le haya llamado la atención? Decimos un gazapo, o sea, aquí, un error, un error así, grave.
+
+
+[59:17] [Participante del público, inaudible] En la... los desarrollos recientes de la gravitación cuántica, la rama emergente de la física en la que la relatividad general de Einstein y la mecánica cuántica de Heisenberg son a la vez sintetizadas y superadas.
+
+
+[59:31] Es eso, efectivamente: no existe esa teoría. O sea, los físicos llevan, ¿qué?, 80 años buscando la unificación de todas las fuerzas. Porque, en la mecánica cuántica, se suele hablar de que hay cuatro fuerzas en el universo, que son la fuerza gravitatoria, la electromagnética, la fuerte y la débil; estas dos últimas son de tipo atómico.
+
+
+[1:00:02] Entonces, la mecánica cuántica ha llegado a una cosa que se llama la teoría de gran unificación, donde se unifican tres: la electromagnética, la fuerte y la débil. Y la relatividad general de Einstein es una teoría de la gravitación, pero no se ha llegado a unificar las cuatro. O sea, no existe la, como la llama, gravitación cuántica; no existe.
+
+
+[1:00:30] Bueno, y así otras. Por ejemplo, también dice que el número pi y la constante gravitacional G de Newton, que antaño se creía que eran constantes y universales, son vistos ahora en su ineluctable historicidad. Bueno, el número pi es el número pi. El número pi es la relación que hay entre la longitud de la circunferencia y el diámetro, y es un número irracional, al que podemos buscarle todos los decimales que queramos, pero no cambia.
+
+
+[1:01:05] Entonces, la cuestión es que, claro, eso utilizaba palabrería y citas, sobre todo citas de los principales autores posmodernos, Lacan, Derrida [?], etcétera, etcétera. Entonces, bueno, ya digo que dos meses después apareció un artículo en el que decía que había sido un experimento, y la polémica fue tremenda. Empezó sobre todo en Nueva York, en Estados Unidos, y luego se trasladó sobre todo a Francia, que fue el centro de todos los jaleos estos.
+
+
+[1:01:36] La broma de Sokal fue, en cierto modo, como una respuesta a los estudios sociales de Bruno Latour. Claro: si Latour puede estudiar a los científicos desde un punto de vista antropológico, como si fueran una tribu, ¿por qué no un físico va a poder estudiar, aplicando los métodos de la física, a los sociólogos, experimentando con ellos? Es un experimento, un experimento social.
+
+
+[1:02:10] La cuestión es que uno de los físicos más famosos de nuestro tiempo, del siglo XX, que es Weinberg, apoyó a Sokal. Y finalmente se formaron dos bandos muy enfrentados: por una parte estaban los físicos, con Sokal, Weinberg y otros, y por otra parte estaban los filósofos, bueno, filósofos, sociólogos, pensadores en general, dentro de esta cosa que se ha dado en llamar posmodernismo, de la que todo el mundo habla y nadie sabe bien lo que es, porque si lo supiéramos dejaría de ser posmodernismo.
+
+
+[1:02:53] Bien. En 1997, un año después de aparecer el artículo de Sokal, Sokal, junto con otro físico de la Universidad de Lovaina, Jean Bricmont, publicaron en francés Impostures intellectuelles, Imposturas intelectuales, que fue traducido al inglés en el 98 y al español en el 99.
+
+
+[1:03:17] Y básicamente es una generalización de lo que pasaba con el primer artículo de Sokal: es un libro en el que ponen muchos ejemplos de investigadores de los estudios sociales de la ciencia, o de los estudios culturales, como también se llaman, donde aparecen los errores garrafales que tienen estos investigadores, estos sociólogos o filósofos, como, por ejemplo, Bruno Latour.
+
+
+[1:03:52] Y ahí empezó a arreciar la polémica. Varios autores escribieron; hay varios artículos cruzados en importantes periódicos de Francia, en Le Monde y en Libération, a lo largo del año 1997.
+
+
+[1:04:09] La respuesta que daba Bruno Latour a todo esto que habían hecho los físicos es muy interesante. Latour decía que todo era por el fin de la Guerra Fría: que los físicos tenían miedo de quedarse sin trabajo. Claro, cuando acabó la Guerra Fría, ya saben, cayó el Muro de Berlín en el 89, en el 91 se desmembró la Unión Soviética.
+
+
+[1:04:41] Entonces, según Latour, los físicos tenían miedo de que, ya en el nuevo orden mundial, en que ya no hay un enemigo, ya no hay que hacer investigaciones contra él para luchar contra los comunistas, el peligro rojo, pues tenían que buscar un enemigo. Entonces, los enemigos que se buscaron fueron precisamente los propios sociólogos. Eso decía Bruno Latour.
+
+
+[1:05:09] Y, de hecho, en otoño de 1998, varios historiadores, filósofos y científicos franceses, británicos, belgas y norteamericanos publicaron el libro Impostures scientifiques: les malentendus de l'affaire Sokal, es decir, Imposturas científicas: los malentendidos del asunto Sokal, que era como la respuesta al otro libro, al libro de Sokal y Bricmont.
+
+
+[1:05:36] El libro de Sokal y Bricmont se titulaba Imposturas intelectuales, como diciendo, bueno, imposturas, refiriéndose a impostores; decían que Bruno Latour, [?], todos estos, eran impostores que hablaban de cosas sin saber. Y entonces, digamos, un año después se escribió otro libro: Imposturas científicas: los malentendidos del asunto Sokal.
+
+
+[1:06:08] En fin, ¿el artículo de Sokal fue una broma, o tiene realmente una trascendencia real hacia la filosofía de la ciencia? Posiblemente podemos decir que el hecho de escribir un artículo en una revista como para hacer un experimento no es demasiado importante.
+
+
+[1:06:42] La cuestión es que seguramente debajo de eso sí hay algo de fondo, y es lo que han tratado de estudiar en los últimos años algunos de los filósofos y de los sociólogos de la ciencia: hasta qué punto la crítica de Sokal es auténtica, y no simplemente una burla, sino que realmente ahí hay un peligro de que se esté saliendo demasiado de los cauces normales... Y voy a emplear una expresión un poco baja; bueno, la voy a emplear: de que se esté saliendo de madre todo el asunto de los estudios sociales de la ciencia y los estudios culturales de la ciencia.
+
+
+[1:07:33] Es decir, que ya, si todo es tan relativo, pues prácticamente nos quedamos... ¿Dónde queda la racionalidad de la ciencia? Es lo mismo que ayer les decía, ¿no?, la misma crítica que hacía este Lakatos, la que se le hacía [?] a Kuhn: si resulta que no podemos decir que la física de Newton sea mejor que la de Aristóteles, pues ¿dónde queda el avance de la ciencia?, ¿dónde queda la racionalidad?
+
+
+[1:08:06] Los posmodernos criticaron a Sokal y Bricmont, a los dos autores del libro este de las Imposturas intelectuales, de ser reduccionistas. Es casi, con esto, volver al Círculo de Viena; o sea, decían que querían que todo se pareciera a la física: que la química se redujera a la física, la biología a la química, etcétera, etcétera.
+
+
+[1:08:33] Y, por otro lado, bueno, en los círculos posmodernos, el relativismo, pero ultrarrelativismo; hay rechazo a la ciencia tradicional e inclinación hacia la ciencia alternativa. Esto, o sea, es lo mismo que les decía ayer, ¿verdad?: el imaginarnos toda la onda esta de los años 60, de los hippies, la búsqueda de otras cosas, el pensar que no hay unas teorías mejores que otras, no hay una forma de vida mejor que otra, todo es relativo.
+
+
+[1:09:09] Sokal, en un artículo publicado en Le Monde, en el que contestaba a otro que había escrito también en Le Monde Bruno Latour, decía: "Escribí mi parodia no para defender la ciencia contra las presuntas hordas bárbaras de la sociología, sino para defender a la izquierda universitaria estadounidense de las tendencias irracionales".
+
+
+[1:09:30] Claro, Bruno Latour, y también desde arriba [?], criticaban a Sokal, a los físicos en general, de que estaban buscando un enemigo: el enemigo, los sociólogos. Les decía: no, o sea, no es que escribiera esto para defender a la ciencia contra las presuntas hordas bárbaras de la sociología, sino para defender [a la izquierda] de las tendencias irracionales.
+
+
+[1:10:00] Él decía también, estoy hablando de Sokal, que hay algo radical, original y sobre todo falso en la nueva sociología de las ciencias, a saber: "que se puede y se debe explicar la historia de las ciencias sin tener en cuenta la veracidad o la falsedad de las teorías científicas, lo cual quiere decir, si se es honesto, que es necesario explicar la aceptación de las teorías de Newton o de Darwin sin jamás invocar las pruebas empíricas a favor de estas teorías.
+
+
+[1:10:38] Pasar de esta actitud a la idea de que los argumentos empíricos no existen, o de que estos carecen de importancia, supone franquear un umbral que se ha atravesado demasiadas veces, Feyerabend lo ha hecho, por ejemplo, y que conduce directamente a lo irracional". Y termina ese pequeño artículo en Le Monde: "Coquetear con el relativismo y con la irracionalidad no nos llevará a ninguna parte".
+
+
+[1:11:06] Claro, prácticamente todo esto llevó a una lucha entre ideologías, porque, ya digo, el bando de los sociólogos llegó a decir que Sokal y Bricmont, que el bando de los físicos, eran reaccionarios. Y, sin embargo, estos afirmaban que no, que eran de izquierdas. O sea, ya digo, lo bueno es que Sokal había estado enseñando en una universidad de Managua, la Universidad Autónoma de Nicaragua, en la época de los sandinistas; o sea, era realmente de izquierdas.
+
+
+[1:11:40] Estos, o sea, Sokal y Bricmont, afirmaban que no, que son de izquierdas, pero no irracionales. Y luego, por otra parte, los franceses, ya saben cómo son los franceses, muy suyos, veían como un ataque por parte de los Estados Unidos, de algunos de los físicos de Estados Unidos, a todas estas ideologías que nacieron básicamente en Francia: o sea, Bruno Latour, Jacques Derrida, Lyotard; en fin, muchos grandes intelectuales son de origen francés. Entonces, ellos se sentían heridos, como franceses, en contra de los norteamericanos.
+
+
+[1:12:28] En fin, ya prácticamente voy a ir terminando para dar paso a preguntas. Simplemente me gustaría dejar todo esto así abierto, para que haya un diálogo, para que piensen ustedes. Fíjense: hoy en día, en la posmodernidad, se habla mucho, por ejemplo, de la hermenéutica. Pero claro, si todo es texto y todo es interpretable, ¿dónde queda la racionalidad?
+
+
+[1:13:02] O sea, todo es relativo, todo se vale; es lo que decía Feyerabend, ¿se acuerdan de lo que les leía ayer? Si todo es texto, ¿qué pasa con lo que no es texto? O sea, en una época, podemos decir que es una época de gran materialismo, la época actual: o sea, solo hay texto, por una parte, que se puede interpretar de muchas formas, o bien solo hay protones, o sea, solo hay la propia física, por la otra. Sin embargo, hay mucho más.
+
+
+[1:13:34] Y quisiera terminar con un libro... bueno, como el último libro del que voy a hablar, para suavizar un poco el ambiente. Es un libro que no tiene nada que ver, en principio, con la filosofía de la ciencia ni con la historia de la ciencia, pero bueno, a mí me pareció muy, muy divertido. Se titula Bobos en el paraíso: ni hippies ni yuppies, un retrato de la nueva clase triunfadora, de David Brooks. Es un libro, ¿de qué año?, del año 2000; o sea, es totalmente actual.
+
+
+[1:14:13] Y es un libro que habla de una nueva clase, que es la que llaman los bobos, que son los burgueses bohemios; o sea, en inglés es "bourgeois bohemian". [?] Yo no sé si en México también es como en España: un bobo, una persona tonta. Es pura casualidad, o sea: el título original en inglés es así, "Bobos", y "bobo" en inglés no significa nada; pero bueno, encima da la gracia de que, al pasarlo al español, pues ocurre esto.
+
+
+[1:14:55] Entonces, les voy a leer lo que dice la contraportada: "Tras la era de los yuppies llega el reinado de los bobos, término que resume las aspiraciones burguesas y bohemias de la nueva élite de la era de la información. Según David Brooks, este colectivo, criado en la prosperidad y provisto de una selecta formación, trata de conjugar el mundo de la bohemia creativa con el mundo burgués, en el que imperan la ambición y el éxito material.
+
+
+[1:15:25] Un auténtico bobo vive en el mestizaje entre la creatividad y la espontaneidad de los bohemios con la disciplina de trabajo y el afán de prosperidad de los burgueses. Dispuestos a reformar la sociedad a través de la cultura y no mediante la política, representan una original combinación entre los hippies de los 60 y los yuppies de los 80".
+
+
+[1:15:49] Es un libro, ya digo, muy divertido; está hecho todo en plan de humor, y explica cómo la nueva élite intelectual de los 90 y de esta década de los 2000, o de los 0, ¿cómo se llamaría?, no sé, por una parte tiene sus bases en todos estos movimientos intelectuales que hubo en los 60.
+
+
+[1:16:10] Ya digo: en los años 60, buena parte de los intelectuales del mundo occidental tenían ideas izquierdistas, muy marxistas, y entonces fueron los hippies a buscar otro tipo de mundo. Y, por otra parte, en los años 80 vino lo contrario, ¿no?, los yuppies. Entonces, la nueva clase dominante es esta de los bobos, que definen las dos cosas: por una parte, tienen trabajos donde ganan miles de dólares al mes, y por otra parte son muy dados a ciertas ondas de tipo así, medio místico, medio hippie, y medio, en fin...
+
+
+[1:17:01] Es simplemente como un elemento más del diálogo que me gustaría iniciar ahora, relacionado con todo lo que hemos visto. Ya ven que he tratado de dar una visión de por dónde han ido toda la cuestión de la historia, la filosofía, la sociología de la ciencia, los estudios posmodernos, en fin. Si quieren, y si tienen alguna pregunta... El micrófono.
+
+
+[1:17:43] >> Participante 1: ...de transformación, de acción, de una serie de términos que realmente parece que sí necesitamos un diccionario que nos diga: "Bueno, ¿de qué estamos hablando?". De pronto es un caos, de pronto es una serie de datos, donde pareciera que de pronto viene una especie de marejada, o de onda, donde se empujan demasiados datos.
+
+
+[1:18:08] Y pareciera como que estamos llegando a un momento en que sí necesitamos una especie de síntesis, de poner un cierto lenguaje para entendernos, de manera que, como Saramago [?], sí necesitamos un intérprete, de decir: "Bueno, esta letra se entiende en este alfabeto, en esta frase, en este capítulo, en este libro, en este historiador, en esta etapa de la historia, en este mundo donde estamos". De otra manera, pareciera como que vamos a regresar a la torre de Babel.
+
+
+[1:18:48] >> Conferencista (nombre desconocido): Sí. Efectivamente, quizá es muy importante ir a la hermenéutica; por eso la hermenéutica ha cobrado tanto, tanto interés en los últimos años. Lo que pasa es que no sé si nos estamos yendo demasiado hacia el otro lado.
+
+
+[1:19:07] Bueno, yo confieso, les confieso aquí, ante ustedes, que soy físico, y cuando iba leyendo, cuando me iba enterando de toda esta polémica entre los físicos, por una parte, y los sociólogos, por otra, casi se puede decir entre las ciencias naturales y las ciencias sociales... Yo, vamos, me he pasado a las humanidades: soy un físico de formación que ahora está totalmente dentro de las humanidades, dentro de cuestiones sociales y todo eso.
+
+
+[1:19:51] Sin embargo, bueno, y por otra parte también simpatizo mucho con todos estos movimientos del relativismo, hasta con Feyerabend, con todos los movimientos de izquierdas. Sin embargo, repito, casi estoy un poco más de acuerdo con los físicos que con los sociólogos, porque los sociólogos a veces no saben de lo que hablan.
+
+
+[1:20:15] Es que fíjate... Perdón por decirlo; ya digo, por eso pedí perdón desde el principio. Es que, vamos a ver: si nosotros no podemos hablar, si todo es texto, y tenemos que hablar de que este término era como era interpretado en este momento, por este autor, en este contexto, en este libro, entonces casi no podemos llegar a estudiar nada.
+
+
+[1:20:44] El año pasado vino un intelectual, no me acuerdo cuál era su formación, vino aquí al Tec y nos dio una plática; se llama Ferraris. Y este Ferraris habló de esto de la hermenéutica, relacionándolo con el posmodernismo, y decía: es que, bueno, la hermenéutica está muy unida al posmodernismo, pero en cualquier momento se puede hundir eso, en el sentido de lo que les decía antes: si todo es texto, ¿dónde queda cualquier otra cosa?
+
+
+[1:21:23] Esto nos lleva al relativismo puro. Por ejemplo, es muy fácil de entender en el caso del relativismo moral, o ético, más bien. Si todo es tan... Gracias. Si todo es tan relativo, ¿cómo saber lo que está bien y lo que está mal? En el sentido de que, si decimos: "Bueno, pues imagínense que en tal país de África son caníbales", pues no podemos decirles nada de su cultura; o sea, no está mal ni está bien, es distinto.
+
+
+[1:22:06] O, por ejemplo, la famosa ablación del clítoris a las niñas en algunos países musulmanes: ¿es su cultura, vamos a dejarles? No sé. Yo en ese sentido soy muy relativista moral, y me doy cuenta de que quizá demasiado, porque yo soy muy de decir eso: "No, pues yo no puedo decirle a nadie qué es lo que tiene que hacer, porque es su cultura".
+
+
+[1:22:33] Precisamente por eso: soy europeo, he vivido tres años en China, cuatro años en México; digamos que estoy así, de pensar: "Bueno, hay tantas costumbres, tantas opiniones". Pero yo mismo me hago la autocrítica, de decir: a lo mejor no hay tal relativismo, a lo mejor hay cosas humanas, hay valores humanos. Entonces, eso aplicado a la ciencia es lo que dicen Sokal y Bricmont: "Oigan, señores, es que ya esto se está yendo demasiado al extremo". En fin, no sé, es algo muy para debatir.
+
+
+[1:23:04] Aquí tengo, si me permiten, una pregunta que me ha llegado, que dice así: "Los estudios sociales e históricos de la ciencia y la tecnología, ¿qué han aportado a la epistemología? ¿Cómo cambia el modo de plantearse el problema de la normatividad epistémica después de dichos estudios? Y lo que dicen sobre la ciencia los filósofos, sociólogos e historiadores, ¿ha tenido, tiene, alguna relevancia o incidencia en el quehacer científico?".
+
+
+[1:23:30] Bueno, la primera pregunta, ¿qué han aportado a la epistemología?: pues precisamente es lo que les decía. Cuando se rompe, digamos, la frontera, la separación entre el contexto de descubrimiento y el contexto de justificación, es cuando ya los sociólogos se ven posibilitados a estudiar el contexto de justificación, y es cuando nace la sociología del conocimiento científico.
+
+
+[1:24:00] La sociología del conocimiento científico es un estudio social, histórico, de la ciencia y la tecnología, pero que llega a lo más profundo, al conocimiento científico, a la epistemología.
+
+
+[1:24:10] ¿Cómo cambia el modo de plantearse el problema de la normatividad epistémica después de dichos estudios? Pues simplemente es lo que vimos: todas estas ideas que hay, ¿no?, el programa fuerte, el programa empírico del relativismo, los estudios de etnometodología. Es decir, ahí, mediante estudios sociales, el ejemplo más claro es el de Bruno Latour: mediante unos estudios totalmente sociales, como es el irse a un laboratorio de una materia de la que no tiene ni idea, y prácticamente sin saber inglés, este Latour, pues el ver cómo funcionan las cosas desde dentro.
+
+
+[1:24:58] Y bueno, la conclusión a la que se llega es lo que decíamos: la importancia de la escritura, de las inscripciones; o sea, el hecho de que, al fin y al cabo, la ciencia inicia como un caos, inicia como un caos, y hay que poner orden.
+
+
+[1:25:16] O, por ejemplo, todos estos valores epistémicos, en cierto modo, del programa fuerte, que eran, ¿se acuerdan?, la causalidad, la simetría, la... [?] [Participante del público: la reflexividad] La reflexividad, exacto, y la imparcialidad. Eso es: causalidad, imparcialidad, simetría y reflexividad. Es decir, todo eso nos ayuda a estudiar lo que es la propia epistemología de la ciencia.
+
+
+[1:26:05] Y la otra pregunta: lo que dicen sobre la ciencia los filósofos, sociólogos e historiadores, ¿ha tenido o tiene alguna relevancia o incidencia en el quehacer científico? Bueno, esa es la gran pregunta. Yo, sinceramente, no creo que tenga demasiada. O sea, nosotros estamos aquí para eso; nosotros estamos aquí precisamente para que tenga algo que ver.
+
+
+[1:26:35] De hecho, la mayoría de los científicos, de los científicos de ciencias naturales, por lo menos, nunca han oído hablar de Kuhn; o sea, nunca han oído hablar de Kuhn, ni de Popper, y por supuesto ni de Lyotard, ni de Derrida, ni de Latour, o sea, de nadie, de todos los que hemos nombrado el día de ayer y de hoy. Estoy seguro: el 90% de los científicos del mundo no tienen ni idea de quién es ni uno solo de ellos.
+
+
+[1:27:04] ¿Por qué? Pues porque siguen estando en compartimentos estancos, ¿no?: lo que llamamos las ciencias y las humanidades, y las ciencias naturales y las ciencias sociales. Precisamente nosotros estamos aquí para intentar tender un puente.
+
+
+[1:27:19] O sea, de hecho, este tipo de estudios creo que es muy bueno para un lugar como el Tec, el Tecnológico de Monterrey, porque el Tec, al fin y al cabo, está totalmente dentro de esa idea, ¿no?, esa idea, ¿se acuerdan?, de cuando hablaba del informe de Vannevar Bush: el hecho de que un país, para que crezca, para que se desarrolle, tiene que apoyar la educación científica y técnica, sobre todo.
+
+
+[1:27:55] Eso está muy dentro de lo que es el Tec. Pero precisamente es muy importante que los estudiantes, y los profesores, para luego hablar a los estudiantes, se formen en todas estas cuestiones, para tender un puente, para que estén un poco más conscientes de lo que van a hacer en su trabajo científico o técnico. ¿Más preguntas?
+
+
+[1:28:26] >> Participante 2: Bueno, este, yo soy una de esas personas que normalmente no escucho mucho de estos filósofos, pero, pensando que me ha interesado bastante, lo quiero ver desde el punto de vista, como mexicano: usted, con la experiencia que tiene, cuatro años aquí en México, ¿cuál es el exponente que más ha contribuido a la filosofía de México en los últimos años?
+
+
+[1:28:57] Y un punto de vista muy particular, sin ofender tampoco a nadie: yo considero que aquí en México hay muchos intelectuales, entre comillas, que pueden caer en esto de los bobos. Un ejemplo, no voy a decir nombres: es una persona que me llama mucho la atención, porque yo creo que él dice una cosa y en su vida interior hace otra, en el sentido de que se van por ahí por la izquierda; muchas veces defienden ideales, y a lo mejor sí inalcanzables.
+
+
+[1:29:24] Y de cualquier manera puede ser que, por ejemplo, la televisora que lleva a un intelectual a dar un punto de vista le está pagando por ese punto de vista, y ese punto de vista llegue a todo el país. Pero ¿qué tan pura es esa esencia de un intelectual en México, que puede llegar a caer en lo absurdo, ¿no?, en los dos extremos?
+
+
+[1:29:52] >> Conferencista (nombre desconocido): Bueno, a ver, son varias cuestiones. Para empezar, la verdad es que no... Yo me dedico más a la historia de la ciencia; no estoy muy enterado de qué filósofos de la ciencia importantes hay en México. Sí sé que, bueno, la mayoría de lo poco que se hace en México de filosofía de la ciencia, puesto que la ciencia está en México, claro, en el DF...
+
+
+[1:30:20] Estuve dando un curso de historia de la astronomía en la Ciudad de México, en la UAM Iztapalapa, y allí, por dar simplemente un nombre, Mario Casanueva: él era un filósofo de la ciencia, era el director del área de posgrado de una maestría en filosofía e historia de la ciencia que hay en la UAM Iztapalapa.
+
+
+[1:30:53] A nivel de historia de la ciencia, por ejemplo, pues también hay gente en el DF. Por ejemplo, bueno, uno que es así más o menos reputado es Saldaña. Y el más importante de todos es... no me sale el nombre; es un investigador del Colegio de México, que es el que ha estudiado la historia de la ciencia y la tecnología en México: Elías Trabulse. No me salían nombres, pero bueno. Ya digo que no hay mucho aquí.
+
+
+[1:31:35] Pero, yendo más a las otras cosas que preguntabas, la verdad es que eso del bobo es algo que se comprende. Tú dices: "Bueno, uno ve una contradicción entre lo que uno dice y lo que uno hace". Pero es que, mira, yo, hace 10 años, 12 años, cuando estaba en la carrera, cuando en lugar de tener treinta y tantos tenía veintipocos, era mucho más idealista.
+
+
+[1:32:07] Y yo veía a gente, yo veía a un profesor que tuve, no voy a decir qué profesor tuve, que se las daba de muy marxista, y sin embargo vivía absolutamente como un burgués, y decía: "Bueno, ¿cómo puede ser?". Sin embargo, me he dado cuenta de que, en gran parte, pues no hay tanta contradicción. O a lo mejor es que yo me estoy volviendo un poco bobo, ¿no?, yo también.
+
+
+[1:32:41] A lo mejor, cuando tenía 20 años, como vengo de Europa, de un lugar mucho más social, ni se me ocurría pensar que iba a trabajar en un sitio como el Tec de Monterrey, que entre mucha gente de la UNAM o de la UNI [?] es considerado un lugar elitista, un lugar de la alta sociedad, un lugar de los ricos, etcétera, etcétera. Sin embargo, estoy trabajando aquí. ¿Por qué? Pues porque precisamente creo que mi labor aquí puede ser muy importante.
+
+
+[1:33:13] Entonces, lo que pasa realmente es que los que estaban en los años 60 luchando contra el poder establecido y yéndose de hippies, diciendo "seamos realistas, pidamos lo imposible", los de mayo del 68, todos esos son los que están ahora gobernando el mundo, y están desde una posición privilegiada, y en todas partes, en todas partes.
+
+
+[1:33:37] Y bueno, en México quizá es todavía un poco más extraño, porque México es un país con unas ciertas carencias todavía. Aquí en México está lo mejor, pero también está lo peor; hay lugares muy pobres. ¿Qué sentido tiene estar discutiendo sobre Derrida, Lyotard y Bruno Latour si hay campesinos en Chiapas, o, bueno, en el sur de Nuevo León, que sobreviven con unos cuantos cientos de pesos al mes? ¿Qué sentido tiene? Pues yo creo que tiene un cierto sentido, ¿no?, porque no somos todos la madre Teresa de Calcuta, no sé.
+
+
+[1:34:16] En fin, tengo aquí otra pregunta... Espero que todo esto les haga pensar; es de lo que se trata, de pensar. Aquí, dos preguntas: "¿Hasta qué punto encontramos una fuerte carga ideológica en el relativismo posmoderno, es decir, en el sentido de mantener el statu quo y dar la espalda al cambio de estructuras?".
+
+
+[1:34:40] Bueno, es lo que estamos diciendo. O sea, realmente el relativismo posmoderno también tiene una fuerte carga ideológica. Es decir, que todo vale y que todo es relativo: eso es también crear un absoluto, que todo es relativo. Y, al fin y al cabo, es lo que les comentaba ayer, si se acuerdan: que todas estas ondas de estudios sociales y estudios culturales y por ahí adolecen de que consideran muy absoluta la existencia de sociedades, de culturas, y todo eso.
+
+
+[1:35:24] "Ahora bien, el relativismo tiene una negación de principio. Pero bueno, ¿cómo hablar hoy de objetividad, de la verdad, como algo universal y necesario?". Bueno, me están diciendo que queda un minuto. ¿Cómo hablar hoy de objetividad, de verdad, de algo universal, necesario?
+
+
+[1:35:46] Pues no sé. Yo creo que lo bonito de todo, y en eso sí estoy de acuerdo con Feyerabend, es la multiplicidad, la multiplicidad de opciones: de opciones epistemológicas, de opciones científicas, de opciones de todo tipo. O sea, el hecho de que no solo existan todas estas opciones relativistas, sino que pueda haber pensadores que opinen que todo es relativo, pensadores que digan que hay cosas absolutas; que pueda venir un Popper y hablar de la Verdad con mayúsculas, que pueda haber un Feyerabend que diga que todo vale. Eso es lo que me parece más importante.
+
+
+[1:36:21] Entonces, desde ese punto de vista, es importante que siga habiendo debate, que se pueda seguir hablando de objetividad, que se pueda seguir hablando de verdad, que se pueda hablar de cosas necesarias y universales, y de valores éticos. Pues simplemente, lo bonito es que somos todos diferentes, que haya gente que opine de una forma y gente de otra.
+
+
+[1:36:41] Bueno, creo que se acaba el tiempo. Entonces, pues muchísimas gracias. Antes de terminar, les recuerdo que dentro de una semana, el miércoles, día 31 de marzo, creo que a las 5 y media, corríjanme si me equivoco, a las 5 y media, en la Sala Mayor de Rectoría, aquí del campus Monterrey, dará la conferencia magistral Javier Echeverría, que es, bueno, el filósofo del que hemos estado hablando la mayor parte del tiempo, y del que he sacado la mayor parte de las ideas. Nos hablará de la revolución tecnocientífica.
+
+
+[1:37:17] Ojalá que nos puedan acompañar; si no, de todas formas, esta conferencia también se transmitirá por la Universidad Virtual. Bueno, muchas gracias.

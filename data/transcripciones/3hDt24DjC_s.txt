@@ -1,0 +1,325 @@
+﻿[00:28] >> Conferencista (nombre desconocido): Muy bien. Empiezo por agradecer al Tecnológico de Monterrey esta invitación a participar en este curso sobre Gaston Bachelard. Agradezco muy particularmente a la Cátedra Alfonso Reyes y a su coordinadora, Silvia Garza, la posibilidad de estar con todos ustedes, y a Javier Ordóñez, aquí presente.
+
+
+[01:00] Me motivó mucho para recuperar viejas lecturas de un gran filósofo, de un gran estudioso de la poesía, que es Gaston Bachelard, a quien le dediqué muchos años verdaderamente devotos, hace ya también muchos años. He tenido ahora esta posibilidad de recuperar esas lecturas, y me pasa con Bachelard lo mismo que diría Borges con respecto al fuego.
+
+
+[01:36] Y ya que estamos hablando de Bachelard, hablar del fuego viene muy a cuento, cuando dice Borges que ningún ser humano puede mirar el fuego sin un asombro antiguo. Este asombro antiguo, este asombro que parece antitético con su antigüedad, es de alguna manera lo que genera la lectura de Bachelard: esta sabiduría, esta certidumbre de que lo que estamos leyendo tiene este sentido de la originalidad, de lo primigenio, y al mismo tiempo, por más antiguo que sea, no deja de suscitar permanentemente una gran sorpresa, un gran asombro.
+
+
+[02:18] No es fácil realmente para mí hablar después de Javier Ordóñez, quien es un filósofo de la ciencia y quien conoce de estos asuntos del discurso filosófico, y del discurso científico, y del discurso epistemológico. Pero de todas maneras celebro que él haya tocado ya, en las dos sesiones precedentes, estos aspectos científicos del Bachelard diurno, por llamarle de alguna manera, y que yo pueda ahora centrarme en los aspectos más bien del Bachelard nocturno, en los aspectos poéticos de su discurso filosófico.
+
+
+[03:02] Frente a un pensador como Gaston Bachelard, que partió de la física, que partió de las matemáticas, y que llegó finalmente a la poesía, pues hemos tenido que ser dos los que hablemos de él, y yo creo que deberíamos ser muchos más, porque realmente la amplitud, la complejidad, la diversidad de la obra bachelardiana es notable.
+
+
+[03:25] Lo que es realmente milagroso no es que seamos dos ahora los que hablemos de Bachelard, sino lo verdaderamente milagroso es que Bachelard haya reunido en un solo pensamiento, congruente, articulado, absolutamente consistente, lo diurno y lo nocturno, es decir, su pensamiento científico y su pensamiento poético.
+
+
+[03:52] En ese sentido, Bachelard creo que es un verdadero surrealista; surrealista en el sentido en que teóricamente lo planteó, desde su primer manifiesto de 1924, André Breton, cuando finalmente dice que la surrealidad, el surrealismo, la sobrerrealidad, es esta posibilidad de incorporar en un solo discurso los elementos propios de la conciencia y lo que él llamó entonces, siguiendo muy de cerca los postulados freudianos, las potencias oscuras del alma.
+
+
+[04:29] El planteamiento que quiero hacerles como punto de partida es el siguiente. A partir de la segunda mitad del que ahora ya tendremos que acostumbrarnos a llamar siglo pasado, se derivaron de los diversos paradigmas filosóficos sendas metodologías de crítica literaria. De un tipo de filosofía surge el estructuralismo; de la filosofía marxista surge una metodología de carácter sociológico para el estudio del fenómeno literario; y del paradigma psicoanalítico surge precisamente esta crítica literaria de carácter psicoanalítico.
+
+
+[05:15] Me parece que estas tres grandes corrientes, que tuvieron verificativo en la segunda mitad del siglo pasado, como decía, y que cobraron particular auge en la década de los 60 y de los 70, veían el texto, el objeto de estudio, de maneras ciertamente diferentes.
+
+
+[05:33] El estructuralismo consideró que lo único importante para el crítico literario, para el estudioso de la literatura, era precisamente el texto, y que todo aquello que no fuera estrictamente textual no era más que una inferencia, pudiera ser incluso distractora del objeto pertinente de estudio, que era el texto de marras.
+
+
+[06:00] En el caso de la crítica sociológica de inspiración marxista, más que el texto, realmente lo que importaba era el contexto, es decir, los elementos circunstanciales de carácter social, generalmente de carácter político, de carácter ideológico, que determinaban la elaboración de tal o cual texto literario. Y el estudioso del texto literario veía, más que el texto mismo, lo que estaba alrededor, la periferia de ese texto, al grado tal de que muchas veces parecería que el objeto de estudio, el texto, no era más que una especie de pretexto para hablar de otras cosas. Era importante tomar a Balzac para hablar de lo que ocurría en la Francia del siglo XIX.
+
+
+[06:54] Y la crítica psicoanalítica, por su parte, se basaba fundamentalmente en el subtexto; es decir, tomaba el texto prácticamente como un síntoma de las diversas patologías o motivaciones del escritor, y con frecuencia importaba más el autor que el texto mismo.
+
+
+[07:16] Estas metodologías fueron muy significativas, como decía, en las últimas décadas, en la década de los 60, 70, 80 del siglo pasado. Y creo que de alguna forma Bachelard se ubica dentro de este panorama de la crítica literaria de una manera ciertamente singular, muy novedosa y, sobre todo, diría yo, muy liberadora.
+
+
+[07:42] No obstante que la epistemología sea la columna vertebral de la amplia y diversa obra de Bachelard, la verdad es que este filósofo francés, este epistemólogo, no articula una metodología de crítica literaria. Y no la articula porque, más bien, diría yo, desprecia, y desprecia profundamente, a los críticos literarios que juzgan obras que, dice, no solo no podrían crear, sino que muchas veces ni siquiera quisieran escribir.
+
+
+[08:20] Y también hay que reconocer, y esto no deja de ser un tanto doloroso, que Bachelard arremete también contra los maestros de literatura que adolecen de la admiración inicial necesaria y tienen una especie de complejo de inferioridad, dice él, para estudiar la literatura y hacérsela disfrutar a sus estudiantes, a sus alumnos. Seguramente se refiere a un tipo de maestros con los cuales no nos identificamos.
+
+
+[08:58] Lo que es interesante en el caso de Bachelard es que, a pesar de que sus obras de carácter literario, poético, son las últimas de su largo recorrido intelectual, en los años 50 y principios de los 60, la verdad es que él se adelanta de manera muy, muy señalada a la desconfianza que habrán de suscitar las metodologías de crítica literaria a las cuales hemos hecho referencia.
+
+
+[09:30] Y frente a las cuales Bachelard, de una manera anticipada, ya decía una frase verdaderamente lapidaria, que creo que se podría en muy buena medida aplicar al estructuralismo, a la crítica sociológica y a la crítica psicoanalítica. Decía Bachelard que estas metodologías de alguna forma explicaban la flor por el fertilizante.
+
+
+[09:57] Es decir, que había toda una parafernalia para explicar esa flor, pero esa flor no era vista, tocada y contemplada con esta emoción poética. Porque, ciertamente, por la imposición de estas metodologías, o en nombre de ellas, con mucha frecuencia se convirtieron, diría yo, muchos poemas en [?]; es decir, no se dejaba a esa flor realmente que tuviera su propia vitalidad, su propia respiración.
+
+
+[10:34] No en vano Juan Ramón Jiménez por ahí dice: "No la toques ya más, que así es la rosa", prácticamente como una suerte de poética del propio escritor.
+
+
+[10:43] Creo que en el caso de Bachelard, lo que prevalece a lo largo de su producción relativa al estudio de la imagen poética, al estudio de la poesía, a la fenomenología de la imagen poética, es fundamentalmente un gran entusiasmo. Y ese entusiasmo, aunque no sea el área de mi especialidad, me parece que también está presente cuando toca los temas científicos de su incumbencia. Hay un entusiasmo que anima toda la obra de Bachelard, y por momentos ese entusiasmo parece estallar.
+
+
+[11:20] No en vano uno de sus críticos, Roger Martin [?], decía que de alguna forma habría que considerar que la de Bachelard era, y fíjense qué frase tan espléndida, una epistemología feliz. Hay una gran felicidad en Bachelard, hay un gran entusiasmo para acercarse al fenómeno poético, como lo hubo también para acercarse al fenómeno científico.
+
+
+[11:49] Hay una suerte de racionalismo lírico, que parecen dos términos tan antitéticos como el asombro antiguo con el que se ve el fuego, y hay una suerte de romanticismo de la inteligencia en toda la producción bachelardiana.
+
+
+[12:06] Lo que hace Bachelard realmente es defender, preservar y garantizar el placer de la lectura, un placer muchas veces soterrado y proscrito por las metodologías que tiempo después habrían de imponerse de esta forma tan limitante para el propio texto literario.
+
+
+[12:25] Dice Gaston Bachelard, en una confesión realmente cercana, porque cuando leemos a Bachelard hay una suerte siempre de gran complicidad, de gran cercanía; es un escritor al que a lo mejor primero queremos y luego entendemos; hay algo realmente de amoroso en su propia literatura. "En cuanto a nosotros", dice, después de haber criticado a los críticos literarios y a los maestros de literatura, dice: "En cuanto a nosotros, aficionados a la lectura feliz, no leemos ni releemos más que lo que nos gusta", con un pequeño orgullo de lector, mezclado con muchísimo de entusiasmo, que es algo que define de manera muy clara la obra bachelardiana.
+
+
+[13:18] Pues bien, si Bachelard no plantea una metodología de crítica literaria, como lo decía hace un momento, lo que es cierto es que sí da cuenta de una fenomenología de la imagen poética, que ejemplifica, que explica, a través del análisis de numerosas obras líricas, sobre todo obras de poetas franceses, como Lautréamont, a quien le dedica un libro entero.
+
+
+[13:47] Aceptemos que Lautréamont era francés, aunque haya nacido en algún país del sur de este continente de manera más o menos casual, Isidore Ducasse [?], pero finalmente escribió en francés, y la lengua puede ser fundamentalmente la patria del escritor.
+
+
+[14:03] Y también se dedica, en muchos textos, al estudio de la fenomenología de la imagen poética en el ámbito elemental, elemental en el sentido estricto de la palabra, en el sentido de los elementos: estos textos maravillosos como Psicoanálisis del fuego, El aire y los sueños, El agua y los sueños, La tierra y las ensoñaciones del reposo, que dan cuenta de esta especie de asombro antiguo que sentimos siempre frente a los elementos.
+
+
+[14:35] Psicoanálisis del fuego: ya ese título es maravilloso. Y él decía que ese título, del que seguramente el doctor Ordóñez ha hablado con ustedes, surgió de una imagen poética, cuando él mismo se pescó diciendo: "Es roja la florecita azul". Se refería obviamente al fuego: es roja esa florecita azul. Esta especie de gran contradicción es lo que lo lleva a escribir el Psicoanálisis del fuego, un libro realmente espléndido, de título admirabilísimo.
+
+
+[15:13] Que, claro, como él le confesaba a alguno de sus discípulos: "Basta con saber que nació de 'es roja la florecita azul' para que usted ya tenga posibilidad de no leer el libro; no se preocupe de leerlo".
+
+
+[15:28] Así las cosas, yo diría que Gaston Bachelard es más un modelo, ciertamente un modelo muy difícil de imitar, pero es un modelo más que el creador de una metodología; es un teórico del fenómeno poético, y muy particularmente de la imagen poética.
+
+
+[15:47] Digo que es inimitable porque su obra dedicada a la literatura es también, en muy alta medida, una obra literaria. No es nada más una obra que hable de literatura, sino que es una obra que tiene un contenido y una valía literaria por sí misma. Y en ese sentido es inimitable, porque lo que rige esa redacción es finalmente un estilo, y el estilo es lo que diferencia a un escritor de otro escritor.
+
+
+[16:19] Roger Martin [?] decía, fíjense qué importante consideración, que frecuentar la obra epistemológica de Gaston Bachelard es encontrarse con un estilo aun antes de tomar contacto con una filosofía, que es un poco lo que trataba de decir con otras palabras hace un momento.
+
+
+[16:44] Pongamos algún ejemplo de esta sensibilidad lírica, poética, de Gaston Bachelard. De la biografía suya, de la que seguramente también, como lo habíamos convenido, el doctor Ordóñez dio un panorama amplio, a mí me parece que destacan dos o tres elementos que simplemente quisiera retomar o subrayar, que son cambios domiciliarios que lo alejan, los dos primeros, cada vez más de su pueblo natal, Bar-sur-Aube, en la Champaña.
+
+
+[17:13] Decía que uno de estos cambios domiciliarios es fuerte, porque en algún momento, cuando tiene que dejar su pequeño pueblo, lo nombran catedrático de Dijon, en la Borgoña, y ahí, dice, "empezaron mis desgracias".
+
+
+[17:33] Pero de todas maneras esas desgracias, que se debían fundamentalmente a la lejanía con respecto a su pueblo natal, estaban todavía mitigadas, porque en Dijon tenía posesión de una casa, que es... Ya después esto lo relatará amplísimamente en La poética del espacio: una casa no es más que un departamento, dice, con un desván en la parte de arriba y con un sótano en la parte de abajo.
+
+
+[18:04] Y en una casa, dice Bachelard, se aprenden cosas verdaderamente muy importantes y esenciales de la existencia. Se aprende, por ejemplo, que las escaleras que suben al desván solamente suben, y que las escaleras que bajan al sótano solamente bajan.
+
+
+[18:25] Es imposible, en la ensoñación poética, pensar en una escalera que vaya del sótano a la planta baja, o que baje del desván hacia la planta baja. Unas escaleras que van a la azotea siempre subirán a la azotea, y unas escaleras que van al sótano siempre serán descendentes en el imaginario poético.
+
+
+[18:51] En otro tiempo, posteriormente, en el año de 1940, cuando empieza a ser reconocido, ya no está en su pueblo natal, tampoco está en Dijon, sino que es invitado como catedrático a la Sorbona. Y ya en ese caso no tiene el pobre de Bachelard esta casa esencial, esta casa que configuraba su poética del espacio, en donde podía tener un desván y un sótano, es decir, escaleras que solo subían y escaleras que solo bajaban.
+
+
+[19:29] Déjenme leerles una espléndida página que nos da muy clara cuenta de este lirismo [?] de Bachelard, y de esta capacidad propia no nada más para hablar de las ensoñaciones poéticas de los otros, sino para articular sus propias ensoñaciones poéticas.
+
+
+[19:48] Esto que escribe en La poética del espacio, precisamente en un capítulo que se llama "La casa. Del sótano a la guardilla" [?], se refiere al momento en que vive en París y ya está desposeído de una casa con desván y con sótano. Fíjense qué espléndida descripción de la ensoñación poética en sí misma:
+
+
+[20:13] "Cuando el insomnio, mal de los filósofos, aumenta con la nerviosidad debida a los ruidos de la ciudad; cuando, en la plaza Maubert, tarde en la noche, los automóviles roncan y el paso de los camiones me induce a maldecir mi destino citadino, encuentro paz viviendo las metáforas del océano.
+
+
+[20:41] Se sabe que la ciudad es un mar ruidoso; se ha dicho muchas veces que París deja oír, en el centro de la noche, el murmullo incesante de la ola y las mareas. Entonces convierto esas imágenes manidas en una imagen sincera, una imagen que es mía, como si la inventara yo mismo, según mi dulce manía de creer que soy siempre el sujeto de lo que pienso.
+
+
+[21:10] Si el rodar de los coches se hace más doloroso, me ingenio para encontrar en él la voz del trueno, de un trueno que me habla y me regaña, y tengo compasión de mí mismo: '¡Ahí estás, pobre filósofo, de nuevo en la tempestad, en las tempestades de la vida!'. Hago una ensoñación abstracto-concreta.
+
+
+[21:33] Mi diván es una barca perdida sobre las ondas; ese silbido súbito es el viento entre las velas. El aire furioso claxonea por todas partes, y me digo a mí mismo para animarme: 'Mira, tu esquife es sólido, estás seguro en tu barca de piedra. Duerme a pesar de la tempestad. Duerme en la tempestad. Duerme en tu valor, feliz de ser un hombre asaltado por las olas'".
+
+
+[22:04] Es una página realmente memorable, que es preferible no comentar, sino solamente dejar caer, como quisiera Bachelard que se dejaran caer estas imágenes poéticas, y no que las explicáramos [?], como si explicáramos la flor por el fertilizante.
+
+
+[22:25] Bien, el doctor Ordóñez ha explicado la faceta diurna de Gaston Bachelard. Yo trataré, en esta sesión, de hacer algunas consideraciones más bien sobre la faceta nocturna, sobre la faceta poética de Bachelard. Pero no puedo dejar de referirme, para mi mal y el de ustedes, seguramente, a la parte científica, así sea brevemente, y la verdad sin ninguna autoridad, y con cierto temor de estarlo haciendo delante de la autoridad del doctor Ordóñez.
+
+
+[23:05] Pues la parte poética creo que solo se puede explicar en relación con la parte científica, en una relación de oposición, fundamentalmente. Y estas partes, la poética y la científica, a su vez encuentran explicación en la concepción filosófica que Gaston Bachelard tenía con respecto al tiempo.
+
+
+[23:33] Fundamentalmente, dos libros tempranos y muy importantes de Bachelard recogen su concepción sobre el tiempo: La intuición del instante, uno; La dialéctica de la duración, otro. Y en estos libros Gaston Bachelard, para decirlo de una manera muy sencilla, muy elemental, sostiene la tesis de que el tiempo solo tiene una realidad posible, que es la realidad del instante.
+
+
+[24:09] ¿Por qué la realidad del instante es la única posible, por qué el tiempo solo tiene esta realidad del instante? Pues porque el pasado no es real, en tanto que ya pasó, en tanto que ya dejó de ser; y en tanto que el futuro todavía no es.
+
+
+[24:29] Esta posición de Gaston Bachelard se opone de manera muy radical, diría yo, a los planteamientos de Henri Bergson, quien decía que la duración humana es siempre continuidad. Decía Bergson que el presente está lleno de pasado y está grávido de futuro, y que no hay rupturas en nuestra vida, sino que siempre tenemos presentes nuestros recuerdos; se conservan en la situación presente del ser total que somos.
+
+
+[25:03] Bachelard, por lo contrario, piensa que el tiempo no puede transportar su ser de un instante a otro instante para hacer de él una duración. Y por eso, precisamente por eso, el instante es trágico, porque solo puede renacer a condición de morir.
+
+
+[25:26] El instante, así las cosas, según el planteamiento de Bachelard, es soledad: es soledad con respecto a los demás, y es soledad también con respecto a nosotros mismos, en tanto que rompe con nuestro propio pasado. "El hombre está solo, no consigo mismo, sino despoblado de sí, abandonado por él mismo, aislado de su pasado por los bordes del instante en el cual lo encierra un tiempo desgarrado", dice Bachelard.
+
+
+[26:04] Frente a esta soledad, para vencer esta soledad, para superar esta soledad, hay dos caminos: el camino de la razón y el camino de la imaginación. Por el camino de la razón, es decir, por el camino de la ciencia y de la técnica, la ciencia y la técnica más bien se esfuerzan por crear precisamente una continuidad.
+
+
+[26:33] Y mediante la imaginación, por otra parte, es decir, mediante la poesía, la poesía nos libera de las servidumbres de la historia y de las referencias de la memoria, para que nosotros podamos descubrir hombres y cosas de manera primigenia, de manera original.
+
+
+[26:52] Hay, pues, en Gaston Bachelard, en función del tiempo, dos filosofías: la filosofía de la razón, por un lado, y la filosofía de la imaginación, que no pueden confundirse de ninguna manera. ¿Por qué? Porque los pensamientos, dice Bachelard, no se imaginan, aunque su génesis pueda ser la imaginación; los pensamientos no se imaginan, de la misma manera que las imágenes no se piensan.
+
+
+[27:22] Imágenes y conceptos se forman, pues, en esos polos opuestos, y es una polaridad de exclusión. Explicar, por ejemplo, la imagen por acumulación de ideas, o explicar, por lo contrario, la idea por acumulación de imágenes, dice Bachelard que es una deshonestidad intelectual, tanto para la ciencia como para la poesía.
+
+
+[27:51] No sé realmente qué tanta significación tenga para los científicos que no se pueda explicar la idea por acopio de imágenes, pero me parece particularmente saludable que se permita vivir la imagen sin tener que explicarla de manera racional: la imagen poética.
+
+
+[28:15] Si no se pueden confundir ambas filosofías, la razón y la imaginación, no hay que excluir nunca a una en favor de la otra, porque el hombre es un ser diurno y es un ser nocturno. Habría que ver al hombre diurno, al hombre de la ciencia y la razón, y al hombre nocturno, el hombre de la poesía y de la imaginación.
+
+
+[28:43] No en vano un escritor importante francés, Dominique Lecourt, tituló un libro Bachelard o el día y la noche.
+
+
+[28:54] Vamos a empezar un poco por el hombre diurno, siguiendo seguramente lo que ya explicó mucho mejor que yo el doctor Ordóñez, y decir, de esta manera muy sintética, que en lo que se refiere al pensamiento racional, al pensamiento científico, Gaston Bachelard, en sus teorías epistemológicas, determinó algunos axiomas que creo que son verdaderamente importantes y revolucionarios.
+
+
+[29:24] El primero de ellos es la primacía teórica del error. "No hay verdades primeras", dice Bachelard, "sino solo errores primeros". Y lo que es importante es que estos errores no hay que considerarlos como negativos, sino que el error siempre tendrá una función positiva en la génesis del saber.
+
+
+[29:49] El ejemplo que suele darse es el del átomo: el átomo mismo, se dice, no es la continuación de las teorías desde la Antigüedad hasta nuestros días, sino que es la suma de las críticas que se les han dirigido a las teorías atómicas.
+
+
+[30:09] Un segundo axioma es el de la depreciación de las intuiciones. La ciencia, dice Bachelard, se hace contra lo inmediato, contra las sensaciones, y fundamentalmente contra el sentido común, lo que implica que hay, en la posición de Bachelard, una crítica al empirismo, por un lado, y una consecuente vindicación del racionalismo. "La verdad", dice Bachelard, "es el límite de las ilusiones perdidas".
+
+
+[30:42] Y plantea una propuesta que me parece realmente muy importante, y en donde Bachelard es precursor, que es precisamente la de los obstáculos epistemológicos, o la de la ruptura epistemológica. Dice Bachelard que el progreso de la ciencia, es decir, esta simulación, o este anhelo de continuidad, se da fundamentalmente por rupturas epistemológicas.
+
+
+[31:15] Este concepto de ruptura epistemológica, del cual, digo, Gaston Bachelard es precursor, creo que es fundamental para la filosofía contemporánea. Es un término que habrán de adoptar posteriormente pensadores tan importantes como Lacan, en el psicoanálisis; como Althusser, en el materialismo histórico; como el propio Foucault, en la arqueología del saber.
+
+
+[31:42] En ciencia no hay, pues, evolución, sino que hay revoluciones, hay rupturas epistemológicas, lo que hace que exista una discontinuidad [?], o una diferenciación fundamental, entre la naturaleza, que evoluciona, mientras que la ciencia más bien se revoluciona continuamente.
+
+
+[32:06] Algunos ejemplos que han puesto algunos estudiosos de la obra bachelardiana para explicar este sentido de la ruptura epistemológica creo que pueden ser muy ilustrativos. Por ejemplo, se dice que a lo largo de toda la historia de la humanidad se había pensado que, para poder iluminar un espacio, había que quemar una materia.
+
+
+[32:31] Cuando hay una verdadera ruptura epistemológica, cuando hay una revolución científica, cuando se inventa el foco eléctrico, ocurre exactamente todo lo contrario: si se quema ese filamento en el vacío, se apaga la luz. Lo importante, pues, fue no tener el prejuicio, sino poder dar un verdadero salto epistemológico a través de una ruptura epistemológica.
+
+
+[32:58] Otro ejemplo que se suele poner es el de la máquina de coser. Mientras se trató de reproducir las manos de una persona en el acto de coser, no se pudo inventar la máquina de coser. La máquina de coser se hace cuando procede, pues, esta ruptura epistemológica.
+
+
+[33:21] El tercer axioma, al cual quisiera referirme muy brevemente para después poder entrar realmente en lo que más me concierne, es el de la construcción del objeto de estudio. La ciencia crea su objeto de estudio mediante la destrucción de las percepciones del sentido común. Y es que la ciencia, dice Bachelard, no es representación, sino que la ciencia es acto. El espíritu no se aproxima a la verdad contemplando la realidad, sino construyendo esa realidad.
+
+
+[33:56] Aquí vemos una posición bachelardiana, que es la del idealismo epistemológico contra el empirismo. Para Bacon [?], la realidad era un espectáculo, y para la ciencia moderna, en cambio, es una operación. Nuestro pensamiento va hacia lo real, no parte de lo real, porque la realidad no habla, sino que a la realidad hay que interrogarla.
+
+
+[34:24] No hay realidad, pues, fuera de la ciencia ni antes de ella. La ciencia no capta la realidad, sino que solo indica la dirección y la organización intelectuales según las cuales se puede tener la seguridad de que nos vamos aproximando a lo real.
+
+
+[34:43] Como advierten ustedes, hay una crítica al empirismo, esta vindicación del racionalismo, y podríamos, pues, ubicar a Gaston Bachelard dentro del racionalismo aplicado y dentro del idealismo epistemológico.
+
+
+[34:58] Es decir, si en términos muy generales dijéramos que en la historia de la filosofía el problema del conocimiento bien se cristaliza en torno al sujeto, o bien se cristaliza en torno al objeto: en torno al sujeto, al sujeto que aprende, al sujeto que conoce, pues en esta consideración estaríamos dentro de un nominalismo, de un racionalismo, como es el caso de Bachelard; mientras que, si el problema del conocimiento se enfoca en torno al objeto, estaríamos más bien dentro de un sensualismo, o dentro de un empirismo.
+
+
+[35:34] Lo que para Gaston Bachelard se perfila como trasfondo de la antítesis entre conocimiento común y conocimiento científico no es tanto la rivalidad de algunas filosofías de la ciencia, sino más bien la confrontación entre dos teorías del conocimiento: el racionalismo, por una parte, y el empirismo, que abarca todas las filosofías que otorgan primacía a lo inmediato sobre el conocimiento de lo construido, o que se niegan a desvalorizar lo concreto en beneficio de lo abstracto.
+
+
+[36:12] Supongo que estos asuntos los vieron mucho más ampliamente, y sin lugar a dudas mucho más profundamente, con el doctor Ordóñez, pero yo los quería mencionar porque sin ellos no podríamos advertir la pertinencia de la otra faceta bachelardiana, que es precisamente la faceta nocturna, la faceta de su filosofía de la imaginación y de la imagen poética.
+
+
+[36:43] La premisa diurna es que la razón avanza siempre a fuerza de negaciones; es decir, estamos ante una filosofía del no, ante una filosofía de la ruptura epistemológica, ante una filosofía de la destrucción de los objetos percibidos por el sentido común.
+
+
+[37:02] Si esto lo lleváramos hasta sus últimas consecuencias, esta filosofía del no, de la destrucción, de la ruptura epistemológica, conduciría a la negación total, conduciría a la nada, conduciría al vacío; a no ser, a no ser, subrayo, precisamente por la imaginación, que permanentemente le lleva la contra a la razón.
+
+
+[37:32] Gracias a la imaginación, que es negada continua y sistemáticamente por la razón, la ciencia precisamente puede avanzar. La imaginación obliga a la razón a decidirse continuamente, porque la imaginación es visión, mientras que la razón es revisión.
+
+
+[37:58] La imaginación adopta, o readopta más bien, sin cesar los temas primitivos, los arquetípicos, los temas elementales, y trabaja siempre como un alma primitiva, y esto me parece muy importante, a despecho de los logros del pensamiento elaborado. La imaginación trabaja contra las propias experiencias científicas.
+
+
+[38:25] Creo que esto es realmente medular en el pensamiento bachelardiano, ya no referido a la imaginación poética: la imaginación siempre está libre de las ataduras de la razón, está libre del pensamiento elaborado, y se desarrolla contra las propias experiencias racionales.
+
+
+[38:47] La imaginación es primigenia, la imaginación es siempre original, y está readoptando continua, permanentemente, los temas arquetípicos, los temas primitivos, los temas elementales. Es decir, la imaginación nos permite realmente llegar al propio origen. Creo que esa es una de las tesis fundamentales de los cuatro libros dedicados precisamente a los elementos de Gaston Bachelard.
+
+
+[39:16] Y pongo el ejemplo que han estudiado aquí más con el doctor Ordóñez, según lo convenimos, que es el del Psicoanálisis del fuego, y que podríamos también emparentar con otro texto que se llama La llama de una vela, en donde precisamente el fuego es el arquetipo, el elemento objeto de estudio.
+
+
+[39:39] Dice Gaston Bachelard, fíjense qué cosa tan, tan impresionante y tan certera: todas las imágenes poéticas del fuego, todas las que se nos puedan ocurrir, recobran el primitivismo de la experiencia sexual que da origen al descubrimiento y al dominio del fuego.
+
+
+[40:02] Dice que es una verdadera imbecilidad pensar que un hombre, por azar, o por casualidad, o por ocio, se ponga a frotar dos maderas secas, o dos pedernales, para finalmente producir el fuego y dominarlo. No: lo que está haciendo en ese acto es precisamente trasponer a la vida exterior su propia experiencia íntima, su propia experiencia erótica, al saber que precisamente frotando dos cuerpos encuentra calor.
+
+
+[40:38] Y esto es importante, porque todas las imágenes referidas al fuego tendrán que ver precisamente con esta especie de erotismo primigenio, de erotismo fundamental. No en vano las metáforas que se articulan, como la palabra "hogar", tienen que ver precisamente con esta concepción del placer sexual, y con la posibilidad de la reproducción, y de la casa, la poética del espacio, nuevamente.
+
+
+[41:06] Si hay algunas imágenes que tengan que ver con el fuego, están remitiendo a este arquetipo, aunque sean imágenes tan trilladas y tan manidas como "mirada ardiente" o como "labios fogosos". Estamos siempre, en esas imágenes, recuperando, o readoptando, un primitivismo elemental; estamos descubriendo el fuego por primera vez.
+
+
+[41:31] Tanto la ciencia como la poesía de alguna forma brotan de la imaginación. Pero la ciencia, que suele formarse antes sobre un sueño que sobre una experiencia, tendrá que recorrer un camino muy largo, precisamente a través de muchas experiencias, para poder lograr borrar las brumas de ese sueño original, las brumas de ese sueño que le dio origen.
+
+
+[42:00] Este papel de la imaginación en Gaston Bachelard caracteriza bien el pensamiento contemporáneo. Me parece que, siendo Gaston Bachelard un filósofo racionalista, estamos lejos de una filosofía racionalista de la omnipotencia de la razón.
+
+
+[42:20] Me parece que esta es la gran aportación de Bachelard: que, siendo un racionalista, en el sentido idealista, racionalista, es alguien que finalmente le da la misma importancia a la imaginación que a la razón. Y creo que esta es una de las aportaciones más importantes de sus trabajos epistemológicos.
+
+
+[42:48] Ahora, con respecto a la concepción bachelardiana del tiempo, que enunciamos de una manera muy sencilla, la poesía tiene su peculiar manera de vencer esta soledad que la naturaleza del instante le impone. Ante todo, la poesía acepta el aspecto trágico del instante. No trata de preservar este instante, que es de suyo fugaz, sino que más bien la poesía se exalta con la propia extinción del instante, porque sabe que es el precio que hay que pagar precisamente para lograr la novedad, que es parte consustancial de la imagen poética.
+
+
+[43:36] La imagen poética, entonces, no es que recuerde los arquetipos; la imagen poética es capaz de estar en el momento primigenio de la creación, y se arraiga en una experiencia material elemental, en el sentido elemental estricto de agua, tierra, aire, fuego. La imagen nos libera de todo lo que es mundano, de lo que es social, de lo que es superficial, y nos sumerge en la profundidad de las cosas.
+
+
+[44:13] La imagen, pues, no es un residuo muerto de la percepción o de la memoria, sino la invención de un sentido nuevo sobre el fondo oscuro de arquetipos que descubre, y que igualmente crea. La imaginación, pues, no reproduce, sino que la imaginación crea; es un retorno a lo elemental.
+
+
+[44:36] Vamos a referirnos ahora a la fenomenología de la imagen poética, planteada por Bachelard fundamentalmente en la larga introducción a su libro La poética del espacio.
+
+
+[45:03] La poesía desconfía del razonamiento. La poesía opera mediante nominaciones inmediatas, y no como resultado de planteamientos concatenados, de planteamientos racionales. Las razones de la poesía son el resultado de la intervención de sus comentaristas. La poesía, en un principio, la imagen poética, no tiene un pensamiento previo, no tiene un pensamiento racional original.
+
+
+[45:36] Para acercarse, entonces, a la poesía, a la imagen poética, hay que liberarse de lo que racionalmente se consideran sus oscuridades, y hay que aceptar como luminosas las que racionalmente serían oscuridades. Hay imágenes que nos resultan absolutamente luminosas, aunque no las podamos traducir a un lenguaje racional.
+
+
+[46:01] No sé si soy claro, pero cuando estamos frente a un fenómeno poético hay elementos que nos resultan verdaderamente resplandecientes y que no podemos traducir a un lenguaje racional, de manera tal que aquello que resulta oscuro para la razón de alguna forma resulta absolutamente luminoso y brillante para estas otras antenas con las cuales nosotros nos enfrentamos al fenómeno poético.
+
+
+[46:31] Las razones de la imagen poética siempre son a posteriori; son el resultado, como decía, de la intervención de sus comentaristas. Para acercarse a la poesía, pues, hay que liberarse entonces de todos estos mecanismos concatenados del pensamiento racional y llegar a vivir la imagen poética en su elementalidad.
+
+
+[46:58] Cuando uno lee un poema racionalmente, trataría de buscar lo que hay de significativo en las palabras que articulan la poesía. Pero la poesía, queridos amigos, es algo más que la significación de sus palabras. Es más, yo me atrevería a decir que la poesía es absolutamente resistente a significar.
+
+
+[47:25] Es resistente a significar porque, si la imagen poética tuviera un significado, una significación precisa, moriría precisamente en el instante; es decir, no tendría la posibilidad de renacer en el instante siguiente.
+
+
+[47:43] ¿Cuál es la especificidad de la poesía? Tiene la propiedad de impedir que las significaciones que se desprenden de ella supriman su forma. Es decir, en la poesía la forma no es nada más un vehículo que después se desecha cuando se ha cumplido el ciclo de la comunicación, sino que la poesía finalmente permanece en su propia forma, y, gracias a que no tiene una significación unívoca, una significación precisa, tiene la posibilidad de renacer conforme el instante pasa.
+
+
+[48:24] No es posible trasponer la poesía a otra forma; no es posible ponerla en otro lenguaje. La resistencia de la poesía a la significación implica, pues, que el sentido deja de ser algo esencial, y que la realidad pasa a ser constituida por esa forma.
+
+
+[48:49] Yo creo que debemos poner algunos ejemplos, sí. Vicente Huidobro dice: "Un pájaro anida en la cresta del arcoíris". Pues nadie debe tratar de preguntarse qué significa eso. Eso no significa más que lo que es; ya no significa, es.
+
+
+[49:13] Lo que nos parece racionalmente un disparate, porque un pájaro, que tiene una gravidez, no puede posarse en un espectro lumínico, en términos del alma, en términos de nuestra apreciación, nos resulta de tal manera convincente esa imagen que la asumimos a tal grado como real, que casi lo que nos parece un disparate es que los pájaros no aniden en las crestas de los arcoíris.
+
+
+[49:45] La imagen es de tal manera convincente que no podemos preguntarnos qué quiso decir Vicente Huidobro con aquello de que un pájaro anida en la cresta del arcoíris. No: lo que dijo es lo que nosotros estamos viendo, y esa imagen finalmente tiene una realidad per se en el mundo de la imaginación.
+
+
+[50:10] "Qué extraño lenguaje, ¿no?, para un filósofo: aquel que rechaza [?] su sentido y tiende a una existencia distinta e insensata". No deja de ser verdaderamente admirable la apertura de Gaston Bachelard, que, con toda su formación científica, haya podido llegar a una articulación poética como la que he tratado de alguna manera de sintetizar.
+
+
+[50:41] Lo bello, pues, no puede ser reproducido; lo bello es producido. Esta imagen de Vicente Huidobro tiene una realidad per se, una realidad autónoma e independiente de cualquier otra realidad.
+
+
+[50:56] Decía Huidobro, ya que estamos citando a este gran poeta, que el poeta tiene que parir un poema exactamente igual que la naturaleza pare un árbol. Es este creacionismo, en donde la poesía no es ya una reproducción de lo real, sino que es la creación de una nueva realidad.
+
+
+[51:25] Lo que entraña, entonces, no existe fuera de él, ni lo precede; no se agrega a la vida, sino que le agrega a la vida. Y vamos a hacer un paréntesis...
