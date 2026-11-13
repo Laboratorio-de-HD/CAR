@@ -1,0 +1,268 @@
+﻿[02:38] >> Connie Castillo: Bienvenidos, bienvenidas y bienvenidos a esta segunda edición de las Jornadas de Feminismos organizadas por la Cátedra Alfonso Reyes y la Escuela de Humanidades y Educación.
+
+
+[02:48] Durante la semana del 8 al 12 de marzo se han estado presentando diferentes paneles y conferencias que cuentan con la presencia de profesoras de nuestra facultad y de otras escuelas, así como de invitadas externas. Porque los feminismos son más necesarios que nunca y sabemos que la nueva realidad será feminista o no será.
+
+
+[03:10] Mi nombre es María Concepción Castillo González, soy representante del Comité Estratégico Nacional para la Igualdad de Género de la Escuela de Humanidades y Educación por la Región Centro-Sur. Es para mí un gusto darles la más cordial bienvenida a esta conferencia titulada *Why Data Science Needs Feminism*.
+
+
+[03:31] El día de hoy proponemos una reflexión crítica sobre la ciencia de datos y para ello hemos convocado a dos expertas, que son Lauren Klein y Paola Ricaurte, quienes abordarán la necesidad de pensar la ciencia de datos desde una mirada feminista interseccional.
+
+
+[03:49] Este abordaje crítico es impostergable en el marco de la creciente digitalización y plataformización [?] de la cultura y de las profundas brechas de desigualdad que hay en el mundo. Hablar de ciencia de datos es hablar de poder, de un poder que se ha desarrollado en el norte global por un grupo reducido de personas.
+
+
+[04:10] Ciencia de datos, ¿para quién?, ¿por quién? Ciencia de datos que favorezca los intereses de quién.
+
+
+[04:18] Lauren Klein es profesora de investigación distinguida y profesora asociada en los departamentos de Inglés y Teoría y Métodos Cuantitativos de la Universidad de Emory, donde también dirige el Laboratorio de Humanidades Digitales. Es doctora en Inglés y Estudios Americanos por el Graduate Center [?] y licenciada en Literatura por la Universidad de Harvard.
+
+
+[04:42] Actualmente está trabajando en dos grandes proyectos: una historia interactiva de visualización de datos desde el siglo XVIII hasta el presente y *Vectores de libertad*, un análisis cuantitativo del movimiento abolicionista de los Estados Unidos del siglo XIX.
+
+
+[05:01] Es editora con Matthew K. Gold [?] de *Debates in the Digital Humanities*, una publicación que explora los debates que emergen en el campo; su más reciente libro en esta serie es *Debates in the Digital Humanities* en el 2019. Es coautora con Catherine D'Ignazio del libro *Data Feminism*, una obra innovadora que explora la intersección del pensamiento feminista y la ciencia de datos, tema del que hablaremos el día de hoy.
+
+
+[05:29] Paola Ricaurte es doctora en Ciencias del Lenguaje por la Escuela Nacional de Antropología e Historia. Es profesora asociada del Departamento de Medios y Cultura Digital del Tecnológico de Monterrey y profesora asociada del Berkman Klein Center for Internet & Society [?] de la Universidad de Harvard.
+
+
+[05:48] Junto con Nick Couldry [?] y Ulises Mejías cofundó Tierra Común, una red de académicos, profesionales y activistas interesados en descolonizar datos. Es co editora del libro *Global Debates in the Digital Humanities*, publicado por la Universidad de Minnesota.
+
+
+[06:07] Es integrante de la alianza A+ Alliance [?] para algoritmos inclusivos y líder de la red de investigación de inteligencia artificial feminista f<a+i>r [?]. Actualmente trabaja en Feminist AI Research [?], un proyecto multidisciplinario de investigación, acción e innovación.
+
+
+[06:26] La dinámica de esta conferencia se llevará a cabo de la siguiente manera: la doctora Lauren Klein impartirá su conferencia en alrededor de cuarenta y cinco minutos y después será seguida por la conversación con la doctora Paola Ricaurte y, por supuesto, de sus preguntas y comentarios. A continuación le cedo la palabra a nuestra invitada, Lauren Klein.
+
+
+[06:56] >> Lauren F. Klein: Buenos días y gracias por todo lo que invitaron [?]. Estoy muy honrada de estar aquí con ustedes y en verdad agradezco esta tan cálida introducción; quisiera únicamente compartir mi pantalla.
+
+
+[07:33] De acuerdo. El día de hoy voy a explorar la pregunta que ustedes están viendo en la diapositiva en este momento en términos de por qué la ciencia de datos necesita del feminismo.
+
+
+[07:49] Voy a comenzar reconociendo que esta plática está basada en un libro en el cual soy coautora con Catherine D'Ignazio, que ven justo aquí en la diapositiva. Si se sienten curiosos con respecto al libro, lo pueden encontrar en la parte inferior de la diapositiva; actualmente está siendo traducido y en unas cuantas semanas estarán los capítulos disponibles. Lo que haré el día de hoy será mostrar brevemente cuál es el marco de trabajo y después entraré a algunos ejemplos que ilustran el *data feminism* en acción.
+
+
+[08:34] Para comenzar, la premisa que motiva el libro es que en el mundo al día de hoy los datos son una forma de poder extraordinaria. Todos podemos pensar en ejemplos de cómo la ciencia de datos se ha utilizado para el bien, para un gran beneficio: para avanzar descubrimientos médicos, para descartar desinformación en línea y un gran número de cosas; inclusive el otro día vi que se utilizó para identificar pasajes del griego que habían desaparecido debido a la erosión.
+
+
+[09:10] Pero al mismo tiempo sabemos que hay muchos ejemplos de ciencia de datos utilizados para causar mucho daño: todos los malos usos de software de reconocimiento facial para realizar labores policiacas o de supervisión y cosas de esa índole. Podemos pensar en otros ejemplos más mundanos: cómo grandes compañías como Amazon utilizan sistemas automatizados para elegir a ciertas personas para ciertos trabajos descartando solicitantes femeninas.
+
+
+[09:45] Puedo hablar de muchos de estos ejemplos, pero quiero llegar a un punto en particular: los datos son sumamente poderosos, pero ese poder actualmente está repartido de manera desigual y está siendo tomado por varias corporaciones y otras instituciones, ya que estos son los que cuentan con los recursos para diseñar y desplegar estos sistemas de datos para sus propias ganancias a expensas de todos los demás.
+
+
+[10:14] Y aquí es donde entra el feminismo. Lo que nosotros explicamos en el libro es cómo el feminismo, y el feminismo interseccional en particular, se ha enfocado en este problema: en esta inequidad de poder y las fuerzas estructurales que la causan; el feminismo interseccional ha atacado este problema ya por décadas y décadas.
+
+
+[10:37] Para ponerlos de otra manera: algunas personas pueden ser nuevas en la evidencia de los sistemas de inteligencia artificial que son optimizados para ciertas situaciones pero no para otras, u optimizados para ciertos grupos de personas y no para otros; o algunas personas pueden ver estos sesgos en datos de capacitación que producen justamente algoritmos sexistas como los que acababa de describir hace unos cuantos minutos. Estos ejemplos pueden ser nuevos, pero la idea básica de que los sistemas están optimizados para ciertos grupos y no otros no es algo nuevo: ha habido feministas que han estudiado sistemas de inequidad de poder por muchos años, y tampoco es nueva la idea de que los sesgos están entrando a nuestros registros científicos.
+
+
+[11:29] Este ha sido un tema de los estudios feministas de ciencia y tecnología (STS) [?], sin dejar fuera el trabajo que las humanidades han hecho con respecto a esto tampoco. Pero antes de entrar más de lleno al argumento que realizamos en el libro en términos de por qué la ciencia de datos en verdad requiere del feminismo, voy a realizar algunas definiciones.
+
+
+[11:50] ¿A qué nos referimos cuando decimos feminismo? En el libro nosotros presentamos tres definiciones relacionadas de este término.
+
+
+[12:01] Primero, el feminismo cree centralmente en la equidad para todos los géneros, lo cual incluye a las mujeres, a personas no binarias y transgénero. Pero si observamos a nuestro alrededor podemos ver que el enfoque de la equidad no ha sido generado en el mundo; entonces el feminismo también necesariamente requiere de actividades organizadas a nombre de las mujeres y personas no binarias para convertir esta equidad en una realidad.
+
+
+[12:31] Regresaré a esta idea del activismo, porque no todas las acciones por parte de la equidad de género tienen el mismo impacto y, en algunos casos, un activismo muy estrechamente enfocado que eleva a ciertas mujeres en particular a los rangos de los poderosos puede más bien traer un daño significativo. Pero antes de llegar a ese punto, quisiera presentar una tercera definición del feminismo, la cual es un juego de teorías e ideas.
+
+
+[13:01] Estas teorías comenzaron con conceptos de equidad en términos de género y sexo, pero en los últimos años, y dada la realidad política actual, han traído muchas más dimensiones de inequidad a la conversación, incluyendo raza, clase, orientación sexual, capacidad y demás.
+
+
+[13:23] Esto me lleva de regreso a la idea del feminismo interseccional y lo que explica el libro: el feminismo actualmente, en el año 2022, debe ser entendido como algo interseccional. Muchos de ustedes saben que «interseccionalidad» es un término acuñado por Kimberlé Crenshaw [?], que utiliza para explicar cómo la inequidad social no puede ser descrita en términos de sólo una dimensión de diferencia como lo es el género: cuando hablamos de inequidad y opresión debemos estar hablando de la intersección de muchos de los factores y fuerzas, como el racismo, el colonialismo, el clasismo y así sucesivamente.
+
+
+[14:09] Ahora, un punto clave que hay que entender con respecto a la interseccionalidad —y esto es algo que a veces es pasado por alto cuando se menciona el término— es que no solo son marcadores de identidad; no se trata solo de decir «soy una mujer caucásica que vive en el sur». Lo que describe el feminismo interseccional son las fuerzas estructurales de poder y las intersecciones que generan el efecto que experimento con respecto a estos aspectos de mi identidad; ha sido el trabajo de mujeres de color y de feministas el que ha traído esta conversación al frente con respecto a las fuerzas del poder.
+
+
+[14:58] Para regresar a la pregunta de cómo debe ser el activismo de feminismo de datos, la acción feminista debe intervenir en cuestiones de poder: si queremos justicia de género, únicamente la podremos lograr en conjunto con justicia racial, con justicia económica, con justicia para personas con discapacidad y así sucesivamente. E inclusive más importante: este movimiento tiene que ser liderado por personas con la mayor experiencia en esas instancias de injusticia, en alianza con el resto.
+
+
+[15:37] Únicamente para regresar al argumento principal del libro antes de pasar a la siguiente porción de mi plática: el feminismo interseccional, cuando es aplicado a la ciencia de datos, puede equilibrar este desequilibrio de poder. O si lo quieres poner en un lenguaje más claro: la ciencia de datos en verdad requiere del feminismo, especialmente el interseccional, si esperamos darle la vuelta a estas injusticias que experimentamos todos los días.
+
+
+[16:11] Lo que hacemos en el libro es que utilizamos las enseñanzas del feminismo interseccional junto con otras ideas como el activismo y el pensamiento crítico para poder llegar a estos siete principios para realizar una ciencia de datos más equitativa: examinar el poder, desafiar el poder, elevar la emoción y la corporalidad, aceptar el pluralismo, considerar el contexto, hacer visible el trabajo.
+
+
+[16:46] Nuestra meta con estos principios era en verdad operacionalizar el feminismo para la ciencia de datos: establecer un juego de principios para personas que están trabajando con datos actualmente, para personas que quieren trabajar con datos (incluyendo estudiantes) o para personas que se rehúsan a trabajar con datos por cuestiones ideológicas. En el libro nosotros tenemos un capítulo para cada tema que ataca ese principio en particular y cómo esto puede ser aplicado a la ciencia de datos mediante muchos ejemplos.
+
+
+[17:22] En el resto del día de hoy no voy a repasar cada uno de estos principios, pero sí voy a sacar unos ejemplos del libro que fueron de mucha ayuda para mí para establecer estos principios y que creo que unen varios de ellos en un solo proyecto. También les mostraré un poco del trabajo que hemos realizado Catherine y su servidora desde que escribimos el libro, sobre cómo esto ha influenciado mi trabajo y el trabajo de otras personas yendo hacia adelante.
+
+
+[18:01] Uno de los proyectos que discutimos al inicio del libro es *The Library of Missing Datasets* (*La lista incompleta de juegos de datos faltantes*) de Mimi Onuoha [?], una obra de arte que cuenta con un repositorio que enlista los juegos de datos faltantes. Si entran al sitio web, pueden ver los datos que no están allí: personas trans que han sido asesinadas por crímenes de odio, personas que han sido discriminadas debido a sus antecedentes criminales... Esto es antes de COVID, pero el COVID ha generado conciencia de estos juegos de datos faltantes, que son cuestiones sociales que atacan necesidades importantes pero donde el gobierno y las organizaciones grandes no deciden recopilar estos datos.
+
+
+[19:19] La segunda manera en la cual pueden encontrar ese trabajo es en un gabinete de archivos que ven en la galería: vez el gabinete, ves las carpetas, buscas los nombres de los juegos de datos faltantes y puedes sacar uno que consideres importante, pero al hacerlo descubres que la carpeta está vacía porque estos juegos de datos están faltantes. Y el motivo por el cual faltan, como lo explicamos Catherine y yo, se debe a este desequilibrio de poder en términos de recopilación de datos alrededor del mundo: es este desequilibrio de poder el que determina qué juegos de datos son recopilados y cuáles no, y determina cuáles son las investigaciones que pueden ser realizadas y cuáles no.
+
+
+[20:16] El gobierno y las grandes corporaciones tienen este poder y, hablando en su mayoría, los grupos minoritarios no lo tienen. Es por eso que el abordaje del feminismo a la ciencia de datos tiene que ver con las estructuras de poder, porque con frecuencia los juegos de datos a los cuales tenemos acceso y las preguntas que nos hacen explorar ya han sido determinadas por la estructura desequilibrada de poder.
+
+
+[20:45] En el libro nosotros hablamos de otro ejemplo bastante profundo de datos faltantes, que es justamente la cuestión del feminicidio. Hablamos de la historia de María Salguero [?], una ciudadana mexicana que entró en este problema de falta de datos y empezó a recopilarlos ella misma.
+
+
+[21:07] Estos son asesinatos de mujeres y niñas, incluyendo mujeres transgénero, tipificados como crímenes en muchos países, pero en la mayoría de los casos el sistema no recopila estos datos de manera sistemática, por lo que las políticas o iniciativas no pueden entrar en vigor. Ella estaba muy frustrada por esta inacción y comenzó el trabajo de recopilar el mayor archivo de feminicidios en México: pasa de dos a cuatro horas al día ingresando los datos de estos crímenes en un mapa de Google a partir de reportes mediáticos, y su trabajo ha ayudado a familias a encontrar a sus seres amados, ha proporcionado estos datos a organizaciones no gubernamentales y se ha presentado ante juzgados.
+
+
+[22:09] Esto es algo que se conoce como «contradatos»: acciones de recopilación de datos que entran al quite cuando otras organizaciones no lo hacen para garantizar la seguridad básica de sus ciudadanos, y es una manera de utilizar los datos para desafiar el poder. Quisiera mencionar a Catherine D'Ignazio con el proyecto de datos sobre feminicidio (*Data Against Feminicide*) [?], ya que está llevando este activismo a Latinoamérica y el Caribe trabajando con herramientas pero también con la comunidad para proporcionar apoyo técnico, emocional y social para esta labor tan desgastante; algo que se toma muy en serio Catherine en ese proyecto es aceptar el pluralismo, priorizando a las activistas para aprender de ellas y saber qué tipo de apoyo y herramientas necesitan.
+
+
+[23:20] Voy a pasar a otro ejemplo en este momento: el proyecto realizado por el Anti-Eviction Mapping Project [?] de San Francisco. Este proyecto ha estado trabajando desde 2013 en colaboración con organizaciones de inquilinos para recopilar datos de la crisis de desalojo en el Área de la Bahía.
+
+
+[24:00] El desalojo es un problema sumamente agudo allí ya que se encuentra Silicon Valley, y los caseros se dieron cuenta de que si traían a trabajadores de la industria de la tecnología podrían cobrarles muchísimo más. Como San Francisco tiene leyes de desalojo muy estrictas, los arrendadores tuvieron que usar muchos trucos y artimañas para sacar a los inquilinos que habían vivido allí por décadas y generaciones para hacer espacio para trabajadores mejor pagados.
+
+
+[24:49] En el mapa, todos los puntos rojos representan un lugar donde una familia o una persona ha sido desalojada, y los puntos azules son donde el proyecto ha entrevistado a una de las personas afectadas; si hacen clic en uno de los puntos azules ven una liga a una entrevista en video, como la de Phyllis Bowie [?]. En el libro nosotros mostramos el contraste entre este mapa y el mapa de Eviction Lab [?] de la Universidad de Princeton: antes de entrar a la crítica, puede indicar que este es un proyecto bastante valioso del cual utilizo artículos en mis clases, pero su proceso y su percepción son distintos.
+
+
+[25:56] Es posible que ustedes vean el mapa de Eviction Lab y piensen: «Estoy viendo un mapa de todos los Estados Unidos, debo tener una imagen mucho más integral con respecto a lo que está ocurriendo», o pensar que es más profesional o científico porque no usan Google Maps sino bibliotecas de mapas más sofisticadas. Pero lo que hemos mostrado es que las bases de datos que utilizan para sus datos no cuentan muchos desalojos informales: un conjunto de datos generado por la industria de bienes raíces no va a reportar más desalojos de los necesarios para no pasar por el radar de las regulaciones, además de que hay muchas maneras en las cuales una persona puede ser desalojada sin que se registre oficialmente (por ejemplo, si el arrendador no te arregla una fuga o te sube la renta deliberadamente).
+
+
+[27:39] Debido a que el Anti-Eviction Mapping Project trabaja directamente con estas personas, ellos han desarrollado un método para catalogar y mostrar estos datos de manera más precisa y contextualizada. Estamos hablando del gran valor que se genera cuando adoptas el pluralismo: llevar las experiencias e ideas de las personas que sufren estos problemas a la mesa de diseño.
+
+
+[28:19] Quisiera mostrarles una nota pragmática de este tema de adoptar el pluralismo: es fácil pasarse mucho tiempo pensando en cuáles son las voces que vas a priorizar, pero el feminismo ofrece una muy buena respuesta sobre qué voces priorizar en los procesos de diseño y en la toma de decisiones: hay que priorizar a las personas que se encuentran en los márgenes del sistema. Siguiendo el trabajo de Sasha Costanza-Chock en diseño para la justicia, una perspectiva de diseño feminista coloca a las personas que están en los márgenes y diseña desde afuera hacia adentro; lo mismo aplica para el diseño de proyectos de ciencia de datos, trabajando arduamente para generar relaciones con ellos.
+
+
+[29:39] Voy a dar un giro aquí: los ejemplos anteriores se han enfocado principalmente en los problemas de personas y poder, pero otra gran idea que proviene del feminismo se relaciona con las estructuras binarias que son definidas con una distinción muy marcada entre dos elementos. La teoría feminista por muchos años nos ha mostrado cómo estas distinciones binarias se presentan con un grupo arriba y el otro abajo en una jerarquía que funciona como un mecanismo de opresión para asegurarse de que el grupo en la parte inferior no suba.
+
+
+[30:38] Puedes pensar en la idea de hombres y mujeres como un ejemplo obvio de falsos binarios; pero en la ciencia de datos tomamos estas lecciones para cuestionar otras cuestiones binarias en el mundo, como la división entre cultura y naturaleza o entre profesor y estudiante. La pedagogía feminista te hace darte cuenta de que como profesores aprendemos de los estudiantes tanto como ellos aprenden de nosotros: deberíamos estar pensando en cómo transferir y coproducir el conocimiento de manera justa, lo cual es un abordaje feminista a la pedagogía.
+
+
+[32:05] Otro ejemplo de esta crítica a los binarios es la diferencia entre la razón y la emoción. En el contexto occidental en donde la mayoría de las teorías de visualización de datos son formuladas, hemos heredado la idea de que la razón es mejor que la emoción al presentar datos: vemos mejores prácticas para visualizar datos que exigen un diseño claro y minimalista presentando únicamente los datos, haciéndonos creer que este tipo de gráficas son más neutrales de lo que en realidad son.
+
+
+[33:00] Investigaciones muestran que incluir una línea de fuente en una visualización hace que las personas crean más en ella, sin importar si la línea de crédito realmente muestra una fuente de datos confiable o no; de igual manera, investigaciones en el MIT han mostrado cómo personas que difunden desinformación sobre COVID utilizan estrategias de visualización de datos que parecen oficiales y rigurosas para hacer creer que esa información es verdadera. Por otro lado, estudios de Helen Kennedy demostraron que cuando se le pedía a las personas ver una gráfica de barras estándar y después una visualización ilustrada con diseños únicos o caricaturas, dos semanas después recordaban la información de las imágenes ilustradas mucho más que la presentada de manera estandarizada.
+
+
+[34:48] Reconocer el valor de poner la emoción en la visualización de datos puede ser sumamente importante. Un ejemplo es esta visualización animada de muertes por armas de fuego en los Estados Unidos en *guns.periscopic.com* : cada persona asesinada por un arma de fuego es rastreada y mostrada una por una en la pantalla.
+
+
+[35:45] Comienza lento para que puedas leer la información de cada persona, pero cada vez se hace más rápido hasta que ya no puedes leerla porque llega a ti a gran velocidad; las trayectorias se cruzan y se genera lo que en diseño se conoce como oclusión o traslape de puntos de datos. En general se supone que no deberías tener puntos traslapados para no ocultar datos, pero aquí el diseño se hace a propósito: la visualización es abrumadora porque son demasiadas las personas que han sido asesinadas por armas de fuego.
+
+
+[37:11] Metodológicamente esto viene de una base de datos de crímenes del gobierno federal y de un modelo de la Organización Mundial de la Salud que calcula los años que esas personas habrían vivido si no hubiesen sido asesinadas. A pesar de este rigor estadístico, este proyecto fue visto con sospecha por la comunidad tradicional de visualización porque nos hizo sentir cosas; el enfoque feminista diría que esto no es ningún problema, sino una visualización más impactante justamente porque mezcla la razón con la emoción.
+
+
+[38:26] Si eres capaz de equilibrar la emoción con la razón, encuentras una caja de herramientas de comunicación de datos mucho mejor. Un proyecto en el que estoy trabajando, *Data by Design*, muestra ejemplos históricos de visualizaciones que mezclan la razón con la emoción y desafían estas distinciones falsas, tomando el poder de la visualización como punto de partida y considerando su potencial tanto para informar como para causar daño.
+
+
+[39:45] Un último ejemplo es el proyecto *Covid Black*, dirigido por Kim Gallon en la Universidad Johns Hopkins: un monumento a los afroamericanos que han fallecido por COVID bajo el lema de datos y honor. Al igual que María Salguero, recopilaron datos de personas fallecidas a partir de reportes mediáticos, pero en lugar de visualizarlas como simples puntos de datos tomaron fotos y obituarios de cada persona con una pequeña biografía para evitar que fueran anonimizadas.
+
+
+[41:26] Este proyecto es una manera de desafiar al poder y de rendir homenaje a personas que en vida muchas veces no recibieron ese respeto; en los Estados Unidos los afroamericanos tienen una tasa de fallecimiento por COVID que duplica la de los caucásicos, y este proyecto sirve como testimonio de este hecho.
+
+
+[42:03] Quisiera cerrar con algunos comentarios generales: los datos requieren ser considerados dentro de una definición más amplia de la ciencia de datos, ya que muchas veces los requisitos técnicos tradicionales han sido utilizados para excluir a las mujeres, a los afroamericanos y a las minorías de este campo. Si ampliamos la definición, podemos ver que los trabajos más emocionantes en ciencia de datos el día de hoy están siendo realizados por artistas, periodistas, humanistas, activistas y líderes comunitarios.
+
+
+[43:34] Ciertamente este trabajo incluye investigaciones muy técnicas sobre sesgos en conjuntos de datos para entrenamiento de modelos, pero la ciencia de datos feminista también puede verse como una escultura con la que puedes dialogar sobre varias generaciones familiares, como análisis periodísticos de *The Pudding*  sobre sesgos de género en Hollywood o sobre el tamaño de los bolsillos en la ropa de mujeres y hombres, o como murales comunitarios de visualización de datos pintados en vecindarios.
+
+
+[45:33] Con lo que quisiera cerrar el día de hoy es que los datos están en la raíz de muchos de nuestros problemas —desde la discriminación en reconocimiento facial hasta la automatización en servicios sociales—, pero cuando la ciencia de datos se conforma en colaboración y cuidado con las comunidades, puede ayudar a generar un futuro más justo. Muchísimas gracias por el espacio; por lo general me encuentro en Twitter o por correo electrónico, y pueden ver nuestro trabajo e infografías en *datafeminism.io* .
+
+
+[47:04] Paola, estoy preparada para continuar con nuestra conversación.
+
+
+[47:09] >> Paola Ricaurte: Muchísimas gracias, Lauren. Tus reflexiones fueron muy inspiradoras; estamos muy agradecidas por haber aceptado nuestra invitación y honradas de tener esta conversación contigo.
+
+
+[47:40] Comenzaría con una pregunta de mi parte: tu plática se tituló «¿Por qué la ciencia de datos requiere del feminismo?», y me gustaría darle la vuelta a esta pregunta: ¿por qué el feminismo requiere de la ciencia de datos y por qué las humanidades requieren de la ciencia de datos?
+
+
+[48:31] >> Lauren F. Klein: Me encanta esa pregunta. Es curioso porque fue una pregunta que nos hicieron los editores cuando escribimos el libro: nos decían si no debería ser una calle de dos sentidos.
+
+
+[48:54] Catherine y yo determinamos que el feminismo no requiere a la ciencia de datos al mismo grado que la ciencia de datos requiere del feminismo, porque el feminismo ya conoce la inequidad de poder y tiene modelos establecidos para desafiar ese poder; no queríamos ser tan prescriptivas para las feministas como lo éramos para los científicos de datos. Sin embargo, creo que hay maneras interesantes en las cuales la ciencia de datos puede apoyar los procesos humanísticos y feministas.
+
+
+[50:41] Por lo general operamos desde la perspectiva de que más información y conocimiento cuantitativo ayuda a complementar los abordajes cualitativos de las humanidades. Por ejemplo, en los Estados Unidos la evidencia histórica del racismo en los periódicos puede complementar historias individuales de ficción para mostrar la escala del problema; además, en humanidades creemos en el poder de la acción colectiva más allá del héroe individual, y la identificación de patrones de la ciencia de datos puede ayudarnos a rastrear las redes de personas que son responsables de generar cambios a gran escala.
+
+
+[53:14] >> Paola Ricaurte: Muchísimas gracias, Lauren. Me parece muy bien la manera en la cual enmarcamos los principios feministas en toda la ruta de los datos, porque recientemente he visto que las personas se enfocan casi exclusivamente en los sesgos de datos, como si arreglar los datos de entrenamiento fuera a solucionarlo todo; ¿qué opinas al respecto?
+
+
+[53:47] >> Lauren F. Klein: Tienes toda la razón; estoy muy frustrada con las conversaciones tan estrechas que asumen que si tuviéramos un conjunto de datos perfectamente curado todos los problemas desaparecerían. El motivo por el cual tenemos sesgos en los datos es porque vivimos en una sociedad sesgada.
+
+
+[54:19] Catherine y yo tratamos de enfatizar que debemos abordar el problema en toda la línea de tiempo de los datos: desde identificar las preguntas a realizar y qué personas están involucradas, hasta el diseño y la implementación. Para la academia esto es difícil porque a veces nos da miedo buscar sabiduría fuera de las instituciones, pero las personas que han experimentado los mayores problemas son quienes te pueden decir qué hacer o si una tecnología no debería siquiera ser creada.
+
+
+[55:58] >> Paola Ricaurte: Me gustaría preguntarte con respecto al principio del contexto: siempre me ha llamado la atención la recopilación de datos en los Estados Unidos, donde existe una cultura de datos que permea casi cada aspecto de la vida (desde estadísticas de décadas en el béisbol hasta registros problemáticos en aeropuertos y fronteras); ¿cómo influye el contexto específico en el que se recopilan los datos para el feminismo de datos?
+
+
+[57:05] >> Lauren F. Klein: Tienes toda la razón; en los Estados Unidos vemos esto vinculado históricamente con la esclavitud, donde las personas fueron transformadas en números monetizados para que el Estado pudiera acumular riqueza. Esto está incrustado en la cultura de los Estados Unidos, en la Constitución y en leyes federales como el censo decenal que cuenta a las personas para la representación legislativa.
+
+
+[58:47] Los datos han sido históricamente una herramienta del Estado, pero paralelamente siempre han existido colecciones de «contradatos» creadas en resistencia: por ejemplo, las convenciones de personas negras libres en el siglo XIX, donde los delegados recopilan sus propios datos comunitarios para demostrar su existencia y exigir derechos civiles. Platícame tú qué opinas de esto.
+
+
+[1:00:53] >> Paola Ricaurte: He estado pensando mucho con respecto a la cuantificación de la sociedad como un mecanismo de expansión de los imperios. He estado investigando los procesos de cuantificación en el Imperio inca y es impresionante cómo estaba asociada la cuantificación a cada aspecto de su vida social mediante dispositivos y códigos para hacer funcionar el imperio; es importante hacer visible que este no es un proceso nuevo, sino que hoy tenemos herramientas y escalas distintas.
+
+
+[1:02:11] >> Lauren F. Klein: Creo que reconocer eso es fundamental: hemos llegado al punto de inflexión donde sistemas como el motor de búsqueda de Google son «suficientemente buenos» para la mayoría en el día a día, por lo que resulta difícil pensar de otra manera a pesar de los sesgos que reproducen. Además, en la cultura estadounidense se han desvalorizado las formas humanísticas de conocimiento elevando ciegamente las mediciones cuantitativas a gran escala.
+
+
+[1:03:56] >> Paola Ricaurte: Pasando a las preguntas de los estudiantes, Diana Laura, del campus Puebla, pregunta: «¿Cómo y dónde te diste cuenta de que el feminismo era necesario para la ciencia de datos?».
+
+
+[1:04:15] >> Lauren F. Klein: Me di cuenta vergonzosamente tarde. He trabajado en humanidades digitales combinando lo técnico y lo humanístico, y ese trabajo siempre estuvo influenciado por una manera feminista de pensar que aprendí en el posgrado con autoras como Saidiya Hartman sobre cómo abordar las brechas y datos faltantes; pero fue al escribir el libro cuando identifiqué que el pensamiento feminista estaba en la base de cómo abordar rigurosamente las preguntas en ciencia de datos.
+
+
+[1:07:08] >> Paola Ricaurte: Ricardo, del campus Puebla, pregunta: «Desde la perspectiva del feminismo de datos, ¿cómo hacer una crítica para asegurarte de que estás seleccionando los datos correctos y saber si necesitamos más datos?».
+
+
+[1:07:25] >> Lauren F. Klein: La respuesta más directa es acercarte a la comunidad afectada y preguntarles; una vez que has recopilado los datos y hecho el análisis es muy difícil regresar a cero. Este cuestionamiento debe ocurrir muy temprano en el proceso de diseño, generando relaciones con las personas que estás estudiando o invitando a miembros de esa comunidad al equipo del proyecto.
+
+
+[1:09:08] >> Paola Ricaurte: Ana Gómez, del campus Puebla, pregunta si es difícil para las mujeres entrar al mundo de la ciencia de datos ante la brecha de género existente en México.
+
+
+[1:09:27] >> Lauren F. Klein: Es difícil, pero no imposible. Te vas a topar con sesgos donde no respeten tu perspectiva de inmediato, donde asumen que eres hombre si no conocen tu nombre o donde tengas que repetir tus ideas; pero las mujeres y las minorías de género son sumamente necesarias en este campo. La clave es encontrar redes de apoyo de personas que se alineen con tus metas para no hacer el camino sola.
+
+
+[1:11:08] >> Paola Ricaurte: Cristina María e Iris Barajas preguntan sobre ejemplos de feminismo de datos aplicados a migración y cómo traducir experiencias cualitativas en datos cuantitativos.
+
+
+[1:11:45] >> Lauren F. Klein: En migración pienso en *Border Mapping*, una obra de arte interactiva sobre cartas e historias intercambiadas en la frontera México-Estados Unidos que combina lo cualitativo y emocional con lo racional; y en un ensayo sobre cómo el perfilamiento de mulas de drogas en la frontera utiliza biomarcadores cargados de estereotipos raciales y de género impuestos por el aparato de control estadounidense.
+
+
+[1:14:45] Sobre convertir experiencias en datos: hay que reconocer que los datos nunca son idénticos a las experiencias vividas. Proyectos en el ámbito de la salud, como el *Atlas of Caregiving* o proyectos artísticos sobre el dolor de enfermedades autoinmunes, combinan mediciones cuantitativas con diarios y registros cualitativos de los pacientes para no despojar a los datos de su dimensión emocional y humana.
+
+
+[1:18:28] >> Paola Ricaurte: Para ir cerrando, Juan Carlos pregunta cómo la ingeniería puede apoyar al feminismo y cómo mejorar estas condiciones desde nuestra posición como estudiantes.
+
+
+[1:19:17] >> Lauren F. Klein: La primera pregunta que debemos hacernos como ingenieros es si el género realmente necesita ser una categoría para la toma de decisiones en el sistema que estamos construyendo; muchas veces la respuesta es no. Por ejemplo, en los escáneres de seguridad de los aeropuertos los operadores presionan un botón rosa o azul basándose en la apariencia del pasajero, lo cual etiqueta automáticamente como sospechosas a las personas trans o no binarias sin ninguna justificación técnica real.
+
+
+[1:22:03] Debemos creer en la colaboración interdisciplinaria y derribar las jerarquías académicas donde se asume que la informática o la ingeniería aeroespacial están por encima de las humanidades o de los saberes comunitarios; se genera el mejor trabajo cuando nos sentamos a la mesa en condiciones de igualdad para escuchar a los demás.
+
+
+[1:23:22] >> Paola Ricaurte: Una última pregunta de Miguel Lara: «No tengo los datos que necesito porque no fueron producidos o estaban ocultos, ¿qué debo hacer?».
+
+
+[1:23:39] >> Lauren F. Klein: Hay dos caminos: si es a pequeña escala, pueden recopilar los datos tú mismo como proyecto de investigación o comunitario; o bien, como se hace en las humanidades, puedes documentar la ausencia de esos datos faltantes para utilizarlos como una palanca política que presione a las instituciones responsables a recopilarlos.
+
+
+[1:24:39] >> Paola Ricaurte: Muchísimas gracias, Lauren, ha sido fantástico. Le cedo la palabra a Concepción Castillo.
+
+
+[1:24:51] >> Connie Castillo: Muchísimas gracias a todos, a todas y a todes por acompañar esta maravillosa conferencia y conversación; gracias a Lauren Klein, a la doctora Paola Ricaurte y a todos ustedes por sus preguntas audaces. Les esperamos en los eventos que continúan esta tarde y el día de mañana en el marco de las Jornadas de Feminismos 2022.
+
+
+[1:25:22] >> Paola Ricaurte: Thank you very much, Lauren, for your amazing talk.
+
+
+[1:25:29] >> Lauren F. Klein: Thank you so much, gracias más bien a ustedes por invitarme a esta gran conversación.
