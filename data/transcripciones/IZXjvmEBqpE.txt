@@ -1,0 +1,271 @@
+﻿**CONTEXTO**
+
+
+* **Título del video:** La basura de unos, el arte de otros: consumos, desechos y residuos como creación
+* **Participantes y roles:**
+* Manuel - Moderador (presentador inicial)
+* Roberto Domínguez - Moderador / Entrevistador (Profesor/Doctor)
+* Agustín Fernández Mallo - Escritor y conferencista invitado
+* Público - Asistentes al evento (preguntas del público)
+
+
+
+
+
+
+---
+
+
+### Transcripción Pulida
+
+
+*(Música)*
+
+
+**Manuel:** Vamos a iniciar el día de hoy. Les agradecemos su asistencia. Vamos a iniciar el día de hoy con la conferencia "La basura de unos, el arte de otros: consumos, desechos y residuos como creación".
+
+
+El día de hoy tenemos con nosotros al escritor Agustín Fernández Mallo, quien va a realizar un conversatorio con el Dr. Roberto Domínguez, quien se encuentra aquí ya presente. Voy a presentar y a leer una pequeña semblanza de nuestro visitante.
+
+
+Agustín Fernández Mallo, nacido en La Coruña, es licenciado en Ciencias Físicas y escritor. Su última novela publicada es *Trilogía de la guerra*, que obtuvo el Premio Biblioteca Breve en 2018. Su último libro de ensayo es *Teoría general de la basura: cultura, apropiación, complejidad*, que fue Premio Cálamo Extraordinario en 2018.
+
+
+Entre 2006 y 2009 publica el *Proyecto Nocilla*, que consta de las novelas *Nocilla Dream*, *Nocilla Experience* y *Nocilla Lab*, galardonadas con diferentes premios y traducidas a varios idiomas. Es autor del libro de relatos *El hacedor (de Borges), remake*, publicado en Alfaguara en 2011, y de la novela *Limbo*, igual en Alfaguara en 2014.
+
+
+En el año 2000 acuñó el término «poesía postpoética», reflejada en los poemarios *Yo siempre regreso a los pezones*, *Y al punto 7 del Tractatus*, *Creta lateral travelling*, *Joan Fontaine Odyssey*, *Carne de píxel* y *Antibiótico*. Su último libro de poesía es *Ya nadie se llamará como yo + Poesía reunida*, editado por Seix Barral en 2015.
+
+
+En el campo del ensayo, además de *Teoría general de la basura*, fue finalista del Premio Anagrama de Ensayo 2009 con *Postpoesía: hacia un nuevo paradigma*. Su blog, *El hombre que salió de la tarta*, lo mantiene junto con Eloy Fernández Porta. A través del dúo de spoken word *Afterpop Fernández y Fernández*, junto con Juan Feliu, hizo el disco *Pacas Go Down Down* bajo el nombre de Frida Laponia.
+
+
+Con esto finaliza una breve semblanza de nuestro visitante y también voy a mencionar que este es el evento final con el que se clausura un ciclo de conferencias, talleres y encuentros entre Agustín Fernández Mallo, profesores y estudiantes del Tecnológico de Monterrey durante todo el mes de septiembre. El Tecnológico de Monterrey le agradece mucho a Agustín sus intervenciones durante todo este largo mes.
+
+
+También quiero reiterar que su presencia se debió a la conjunción de la logística y la organización de varias instancias del Tecnológico de Monterrey; entre ellas, la Escuela de Humanidades y Educación Zona Norte, el Departamento de Estudios Humanísticos, la carrera de Letras Hispánicas y la Cátedra Alfonso Reyes. Les agradecemos a todos los que han asistido e intervenido durante este largo y profundo mes en diferentes encuentros con Agustín Fernández Mallo. Les damos el micrófono a nuestros dos personajes que el día de hoy van a realizar este conversatorio. Adelante, muchas gracias.
+
+
+**Roberto Domínguez:** Muchas gracias, Manuel. Gracias a la Cátedra Alfonso Reyes, gracias a Ana y sobre todo gracias a Agustín y a ustedes por su presencia esta tarde aquí. Hace exactamente un mes, el primer sábado del mes, hicimos una serie de sesiones en un seminario preparatorio para la visita del autor. A mí me dieron el placer de ser convidado a leer las últimas obras de Agustín para armar una introducción. Creo que esta introducción a mí me sirvió para replantearme algunas ideas sobre lo que hacemos en la literatura y lo que se hace en el Tec en términos de las metodologías con las que nos aproximamos al mundo.
+
+
+Creo que es muy importante pensar en la obra de Agustín Fernández Mallo, aquí presente, como una provocación, pero también como una invitación a pensar la poesía, la *poiesis*, la creación, como un acto de aportación cultural. Vale la pena explicar el título de la conferencia; no sale de la nada. El título de la conferencia lo inventamos una colega —Connie Castillo— y yo en un Zoom, diciendo: «¿Cómo damos cuenta de una obra tan amplia para decir algo en un título que pueda llegar a provocar algo?». Entonces tomamos esta idea de la basura. Lo que quiero expresar aquí sobre esta idea para crear «la basura de unos, el arte de otros» es que lo interesante de nuestro invitado, entre otras muchas cosas, es su capacidad poética para teorizar. Hay dos palabras que no podemos dejar de lado acá: hacer una teoría no es evadir la realidad, sino al contrario, permitirnos entrar a la realidad desde alternativas insólitas.
+
+
+Quiero dar la bienvenida a Agustín y provocar algunas ideas en él. Ayer tuvimos una espléndida sesión en un seminario donde nos dieron chance de estar y nos divertimos mucho exponiendo nuestras opciones. Te quiero dar la bienvenida, Agustín, y pedirte que seas tan amable y generoso como lo has sido siempre. ¿Qué es para ti una teoría? Una teoría en tu obra que atraviesa campos disciplinares desde una óptica muy original. Tú eres físico de formación, pero de ocupación eres poeta. La combinación de poeta y físico parece extraña o estirar la liga para pensar de otra manera. ¿Qué significa esa relación y qué es para ti la teoría?
+
+
+**Agustín Fernández Mallo:** Bueno, pues muchas gracias, Roberto, por tu presentación y por ser tan generoso con mi obra estudiándola y leyéndola desde hace muchos años. Me consta que eres uno de los mayores conocedores en México de mi obra, lo cual tengo que agradecer muchísimo. También gracias a la Cátedra Alfonso Reyes, como siempre a Ana Laura y a todo su equipo, al Tec y al Departamento de Humanidades. Muchas gracias a todos porque es una oportunidad única de presentar en otro país y en otro continente unas ideas que llevo desarrollando desde hace a lo mejor 20 años de alguno u otro modo. Por supuesto, gracias a los y las presentes.
+
+
+Lo que tú planteas de qué es para mí... Yo no... En realidad lo que yo concibo como el acto poético lo concibo también como el acto teórico. Es decir, mi formación es como físico, como tú has dicho, y yo siempre consideré que dentro de las ciencias había también una especie de poesía, una especie de estética. Son cosas que luego vas confirmando con los años, esas intuiciones. Como en un ejemplo que puse el otro día en alguna de las clases, cuando un científico se plantea preguntas primeras, preguntas originales que van al núcleo de las cosas, eso es lo que también se plantea siempre el poeta.
+
+
+Cuando Newton se hace la gran pregunta que cambia el mundo, que es «¿por qué la manzana cae y la luna no?» —que es la gran pregunta que cambia la historia de la humanidad—, esa pregunta tonta, vamos a decir así, porque todo el mundo había visto caer manzanas y había comido manzanas, solo una persona tuvo la mirada extrañada respecto al mundo, un poco delirante si quieres, justo para hacerse esa pregunta que nadie se había hecho. Bueno, pues esa pregunta es una pregunta que bien podría habérsela formulado muchas veces la poesía. Heráclito se podría haber formulado esa misma pregunta: «¿por qué la manzana cae y la luna no?». Luego cada disciplina se desarrolla a través de objetivos diferentes y lenguajes diferentes, pero no quiere decir que no haya un núcleo común.
+
+
+En realidad yo no concibo ninguna teoría sin el lance poético. De hecho, yo creo que todo lo que hago es poesía. Cuando escribo ensayo, para mí mis ensayos, por muy duros que parezcan o livianos, no son más que poemas disfrazados de ensayo; al igual que mis novelas no son más que poemas disfrazados de novela. ¿Y por qué digo esto? Porque lo que me lanza a mí a escribir, lo que me lanza a continuar un texto y las preguntas que me hacen ir cabalgando sobre mis propios textos —sin tan siquiera saber yo a dónde voy— son siempre preguntas metafóricas, preguntas que no tienen respuesta en el horizonte. Aunque esté tratando un tema supuestamente técnico de filosofía o estética, da igual: la filosofía estética, como la ciencia y como todo, tiene que valerse de preguntas que no tienes ni idea de cómo vas a contestar, pero tienes que plantear hipótesis, metáforas y probar.
+
+
+**Roberto Domínguez:** Creo que aquí hay un punto de partida muy preciso. Ayer hablábamos también un poco de si hay dos campos que pudiéramos relacionar entre la teoría y la poesía, y si lo damos vuelta diciéndolo así: «toda poesía es teórica y toda teoría es poesía». Ahí tenemos lecturas diferentes, pero en el centro hay una relación que tú planteas: el punto de partida no es la teoría, sino la capacidad que tienes de relacionar algo para crear. Entonces viene una palabra que es pesadísima para quienes nos dedicamos a tratar de leerte: ¿qué significa la metáfora como tu punto de partida?
+
+
+**Agustín Fernández Mallo:** Claro, claro. Está muy bien que plantees esto porque, efectivamente, tal como yo lo veo, la metáfora no solamente es esta figura retórica que usamos en poesía o que está conceptualizada desde la academia como un tropo. Lo que yo entiendo como metáfora es cualquier mecanismo que relacione dos objetos, entes o conceptos que hasta antes de ese momento estaban absolutamente separados. Esto es algo común a la actividad humana. Quiere decir con esto que la metáfora no la concibo como algo perteneciente a ese campo de la literatura llamada la poesía, sino que es algo común a cualquier investigación del mundo. Diría más: es la única manera que yo conozco de construir la realidad, porque la realidad no está allá afuera esperándonos; la realidad se construye y se construye con el lenguaje. Ya sea un lenguaje escrito, verbal, pictórico o mímico, se construye con alguna clase de lenguaje. En todo lenguaje tiene que haber esta parte metafórica.
+
+
+*(Música)*
+
+
+Por ejemplo, en poesía, cuando alguien te dice esa metáfora que es horrible hoy día y que ya no se puede decir porque es como de telenovela: «tus ojos son el mar». Obviamente nadie puede escribir eso ya si quiere hacer algo creíble. Pero eso de lo que hoy día nos reímos, en un momento allende los tiempos, hace siglos, al primer humano al que se le ocurrió relacionar dos conceptos que en principio nadie había relacionado (como mar azul y ojos azules) y consiguió unir eso, lo que hizo fue crear realidad. Creó en el mundo algo que antes no había, y a partir de ahí los ojos ya no son solo ojos y el mar ya no es solo mar. Es decir, creó realidad.
+
+
+Eso es un hallazgo, a mi modo de ver, epistemológico, científico y poético de primera magnitud. Es como si ahora cualquiera de los que estamos aquí consigue relacionar este micrófono con algo que nunca imaginaríamos que se pudiera relacionar y que está ahí fuera. Bueno, eso es construir el mundo, es construir la realidad y se construye a través de algo que se llama metáfora, que nunca es totalmente demostrable —por algo es metáfora—, que generará otras metáforas y que cuando ya sea vieja y gastada nos olvidaremos de que es una metáfora. Para siempre los ojos azules serán el mar, pero hubo alguien que se lo inventó.
+
+
+Como decía Nietzsche, toda palabra, hasta la palabra más común (casa, mesa, mamá) es metáfora de algo, solo que es una metáfora tan gastada que ya lo hemos olvidado. Pero eso siempre viene de una construcción de la realidad a través del lenguaje. Todo esto para decir que, evidentemente, cuando yo construyo novelas, teorías o poemarios, trabajo con ese concepto de metáfora. De ahí, por ejemplo, el título de mi libro *Teoría general de la basura*, que ni es teoría, ni es general, ni es de la basura. Pero hay que entenderlo.
+
+
+No es ninguna broma, porque cuando lo empiezas a leer ves que lo que yo estoy haciendo ahí es conceptualizar palabras que se usaban de un modo y usarlas de otro. Ese es el hallazgo, entre otros hallazgos creativos: es lo que se ha dicho siempre, pero decirlo de otro modo, porque al final estamos siempre diciendo lo mismo, solo que hay que decirlo de un modo que dialogue con tu tiempo. Cuando llego ahí digo: «Bueno, pues ahora voy a cambiar esto». Yo planteo que no trabajamos ni creamos partiendo de la excelencia de quienes nos precedieron, sino de los residuos de quienes nos precedieron. Pues eso es la basura de alguna manera. Podríamos luego hablar de por qué digo eso, pero es para explicar que el término de metáfora y re-concepto es mirar el mundo como si fueras un marciano que aterriza en el planeta Tierra por primera vez y le dicen: «Diga usted qué es esto».
+
+
+¿Qué haría un marciano (o marciana, si es que tienen sexo, que habría que verlo)? Daría vueltas a esto y haría su propia teoría marcianocéntrica —que no antropocéntrica, porque no es humano— y haría algo totalmente extrañado respecto al mundo; construiría una especie de antropología alternativa. Bueno, pues el científico o el poeta es alguien que aterriza en el planeta Tierra y le dicen «diga usted qué es eso», ve caer una manzana y dice «ah, pues esto no es solo caer una manzana». O si le dicen «¿qué hay aquí dentro?», ven agua y el científico dice: «No, espere, no hay agua, hay muchas más cosas: hay oxígeno e hidrógeno». Eso es mirar el mundo como un marciano. O el poeta, que es el que se pregunta qué es el mar y por qué en los ojos de esa persona ve el mar, está viendo el mundo como nadie lo había visto antes, es decir, extrañadamente. Es lo que permite construir teorías, metáforas y, en definitiva, ampliar el campo semántico del mundo, que es lo que estamos haciendo cada día.
+
+
+**Roberto Domínguez:** Me da pie a pensar que si tu punto de partida es la metáfora, no haces metáforas para tu obra, sino más bien haces metáforas para compartir. Creo que es muy interesante porque la noción de la obra de Agustín —es decir, el ensayo que no es ni teoría, ni general, ni de la basura— tiene un índice en el mejor estilo de los tratados: hay un desarrollo temático, no va a hablar de un disparate, sino que hay una rigidez metodológica para hacerlo, pero comparte metáforas. Creo que es algo muy interesante: no las explica, sino más bien las comparte, las lanza, las propone. «Ahí va esto, podemos leerlo desde aquí, hay una alternativa para leer desde acá». Algo que quiero preguntarte es si estos hallazgos tú los consideras como una manera de crear realidad.
+
+
+**Agustín Fernández Mallo:** Claro, absolutamente. Habíamos dicho antes que una de las características de lo original —que es otro de los temas del subtítulo: *Cultura, apropiación y complejidad*— hace que la originalidad quede de alguna manera relativizada. ¿Dónde está lo original en la aproximación? Bueno, es que lo original obviamente no existe. El término "originalidad" es un término ingenuo para que las masas pensemos que somos geniales y de repente hacemos algo que no ha hecho nadie nunca; pero es un término totalmente ingenuo y *naïf*. Evidentemente hay cierta originalidad, pero hay que explicar bien qué es.
+
+
+Por resumirlo: nadie crea desde la nada, salvo Dios en caso de existir, vamos a decirlo así. Todo viene de algún lugar siempre. El mito romántico es que se puede crear una obra original que no existía antes, que se crea de una vez y para siempre, y que cualquier copia de ese original es una devaluación. Eso es una barbaridad, porque creamos copiando. De hecho, digámoslo así: todo lo que ha hecho el ser humano bueno o productivo y que consideramos genial no es más que una copia que salió mal.
+
+
+Salió mal porque, afortundamente, el ser humano copia y copia mal, y eso es una gran fortuna. Cuando queremos copiar a nuestros maestros, a las obras que admiramos, como copiamos mal, si hay talento en esa copia aparece un error. Ese error es el error positivo al cual todos llamamos talento o genio, pero en realidad es producto de una copia que salió mal porque queríamos copiarlo exactamente y no pudimos, porque no podemos copiar bien. No somos fotocopiadoras; e incluso las fotocopiadoras no fotocopian exactamente igual siempre. Si la copia sale mal es lo que llamamos un producto desechable y la propia cultura lo rechaza.
+
+
+El original absoluto no existe. Lo que existen son variaciones, repetir variaciones, como decía Deleuze en *Diferencia y repetición*. Lo que vamos haciendo es que, queriendo repetir, sin querer establecemos diferencias, y esas diferencias, si son buenas, son las que hacen que una obra sea perdurable.
+
+
+**Roberto Domínguez:** Continúa entonces la necesidad... De ahí que... perdón.
+
+
+**Agustín Fernández Mallo:** De ahí que —por no hablar solo de literatura— todos estos, a mi modo de ver, disparates tipo «hemos encontrado un pueblo original en la Amazonía»... ¿Cómo va a ser original si vive en el siglo XXI? No tiene sentido. Es negarle una evolución a un ser humano; es tanto como decir que son menos que piedras, porque incluso las piedras evolucionan al ser gastadas por el aire y erosionadas. No puede existir un pueblo original hoy día en el sentido de que vive en el siglo XXI, por lo tanto está sujeto a sus propias evoluciones. Decir que existe o que han encontrado un pueblo original significa negarle su condición humana, significa decir que no son complejos y que por lo tanto son inertes, que han estado siempre igual, lo cual es una barbaridad desde un punto de vista antropológico. Yo sé que esto es muy bueno y sirve para venderte ropa supuestamente original y ese tipo de compras; es marketing. Evidentemente ya no existe nada original porque todo evoluciona.
+
+
+**Roberto Domínguez:** Te voy a preguntar esto porque hablas de la necesidad de la copia, pero de la copia imperfecta, y luego avanzamos. Hace algunos años surge el concepto del *glitch art*. El *glitch* es como el defecto que sale en los videos o en las fotos, todo lo que antes se tenía que borrar; y luego de repente en la música o en literatura, lo que era el gazapo. Después resulta que el *glitch* cobra una tarjeta de identidad para decir: «Bueno, esto muestra algo».
+
+
+A ver si me siguen: en la portada de este libro impreso hay una parte acá *(muestra el libro)* que son como las pruebas del Pantone. Eso está explicado en la génesis del libro, que hace referencia a un disco de New Order, un grupo ochentero que tenía esa pequeña muestra del Pantone. La portada de ese disco de New Order estaba basada en una fotografía de Fantin-Latour. Para los que no lo conocen, Fantin-Latour es un pintor más importante que Vermeer, pero menos conocido y por lo tanto más caro. Todo ese recorrido de ir dando una evolución a una marca como una huella es un primer elemento para hablar de cuál es la propuesta. Entonces ya no podemos hablar de originalidad porque es ingenuo; ¿podríamos hablar entonces de una apuesta por hacer una relación más venturosa de las anteriores, una relación insólita?
+
+
+**Agustín Fernández Mallo:** Bueno, podemos hablar del apropiacionismo. Ese es el concepto por el cual también hemos evolucionado. Esta idea de lo que tú has comentado: el cuadro original del siglo XIX, del Romanticismo, es tomado por el diseñador Peter Saville en el año 83 para hacer la portada del disco de New Order e introduce esta prueba de colores, que es lo que siempre se desecha en las imprentas. Me recuerdo a mí mismo con el disco en la mano en el año 83, muy joven, de 14 años, pensando: «¡Qué cosa tan rara esto que han puesto! ¿Por qué han estropeado el cuadro?». Y de repente, claro, empiezas a pensar. Quizás es el primer recuerdo claro que tengo de ver una obra de arte (que era la portada del disco) en la cual aparece un elemento que en teoría no debería estar ahí, un alien, algo que aterriza y dices: «¿Pero por qué han hecho esto?».
+
+
+Solo con el tiempo te das cuenta de que lo que está haciendo ahí el diseñador de la portada es un acto de apropiacionismo: toma algo original, lo interviene para modificar el sentido, es decir, para crear una nueva metáfora. Porque en la portada del disco de New Order hoy día ya veo otras muchas cosas: veo, por ejemplo, una especie de virus cuadriculado que en realidad se está comiendo el cuadro original; o puedo ver al contrario, puedo ver el cuadro original en abstracto, en tanto que puedo pensar que todos los colores que hay en el cuadro están puestos en modo Pantone aquí aislados, de modo que este Pantone es el cuadro de las flores en abstracto. Hay muchas formas de verlo.
+
+
+Cuando yo veo esto digo: «Bueno, a ver qué portada le pongo a mi libro». Evidentemente había mucho y dije: «Voy a poner esta porque ilustra muy bien el concepto al cual dedico muchas páginas: el apropiacionismo». Que no es más que eso: tomar algo que coges de los demás y modificarlo para crear otro sentido. En literatura ahí está *Pierre Menard, autor del Quijote*, el famoso cuento de Borges, que es como el acto conceptual de la literatura por antonomasia: aquel que copia el *Quijote* exactamente, pero en otro siglo, por lo tanto enriquece el *Quijote* y ya no es el *Quijote*, es otro *Quijote* aunque sea palabra por palabra. Es muy bueno Borges cuando dice que Cervantes dice x cosas y Pierre Menard dice lo mismo, y sin embargo es distinto. Eso es lo que te da el mazazo teórico.
+
+
+¿Por qué no es lo mismo? Porque lo que hace que algo cobre sentido no son las cosas en sí. Las cosas en sí no llevan nada, eso es un concepto platónico; es el contexto en el que estén. Este micrófono que tengo aquí es un micrófono, pero puedo imaginar mil otras formas de usar este objeto de un modo que ya no sea un micrófono. Como decía Wittgenstein, el significado es el uso: el significado de las cosas es el uso que le des. Nada lleva un significado dentro, eso es un mito romántico, platónico, esencialista. Aquí nos vamos a otros lugares un tanto nazis en el sentido de «hay una raza pura, las cosas llevan algo puro dentro». Y ahí volvemos a la originalidad: nada lleva nada original dentro, nada es original del todo, nada es puro del todo. Por lo tanto no puede existir una raza aria, pero ni una raza mexicana ni española, por decirte algo. Son barbaridades que se van replicando a modo de spot publicitario, por ejemplo estas tonterías que oímos a menudo tipo «el arte mexicano» o «el arte español», por no hablar ya del «arte gallego», «el arte catalán» o «el arte andaluz».
+
+
+Pensemos un poco: ¿cómo puede haber un «arte mexicano» en el siglo XXI cuando esa persona de México está trabajando en línea, viéndose influida por un artista danés o un artista de África? Es que no tiene ningún sentido. Otra cosa es «arte hecho en México», eso sí; pero pasar del «hecho en» a la ontología —que es el siguiente paso identitario y esencialista («no es arte hecho en México, es arte mexicano»)— son dos cosas muy diferentes. Toda esta forma de rechazar esencialismos que desgraciadamente en Europa han vuelto... En Europa es un desastre ahora mismo, el problema identitario en Europa es tremendo: todos los países quieren separarse porque de repente creen que son únicos; y ya no solo entre países, sino dentro de los propios países. En España misma hay varias regiones que se quieren separar porque se creen que son únicas. Dices: «A ver, cabeza de chorlito, ese tipo de esencialismos filosóficos tienen ese origen platónico de "yo soy único y construyo un molde que ya nadie podrá modificar"». Considero que todo eso corresponde a un tipo de pensamiento que, desde luego, como mínimo es antimoderno.
+
+
+**Roberto Domínguez:** Me hiciste pensar en el monje de la Comunidad Europea como versión de un tesoro donde es único y quiere hacer las cosas. Una primera redención estaría en la preposición: no hay que pensar en «arte *de* México», sino «arte *en* México», por ejemplo, o «arte *con* México». Ahí pasas de la epistemología a la ontología, que es muy diferente. Es decir, «arte español» versus «arte hecho en España» no tienen nada que ver, porque puede ser arte hecho en España pero con características globales. Esta forma de usar las identidades siempre se usa para excluir a otros, evidentemente. Funciona de un modo totalmente contrario a los presupuestos de mi propia vida.
+
+
+Para poner un ejemplo: en el libro, a espacio, tiempo, tiempo topológico y apropiacionismo se le dedican aproximadamente 120 páginas. Un libro de esta naturaleza tiene, como todos los libros, epígrafes. Creo que es muy interesante cómo estos libros llevan a pensar, y por eso decía que son metáforas compartidas. Apunté esto: en el epígrafe de *Teoría general de la basura* hay tres.
+
+
+El primero, de Lévi-Strauss, dice: *«Soy un lugar donde durante meses o años se elaboran y ordenan cosas, y luego se separan de mí como si fueran una excreción»*.
+
+
+El segundo es de Michel Serres, que es un querido filósofo para ti, y dice: *«¿Dónde están los escombros de la división del saber y las ciencias? Algún día se encontrará usted conmigo en los campos de estiércol, y allí también donde se tiene la posibilidad de encontrar maravillas perdidas por el proceso de la talla, por el trabajo de producción. Algún día los epistemólogos jugarán en los cubos de basura. En las basuras de la talla encontraremos el mundo mismo»*. Es una imagen muy poderosa que completa con Sebald diciendo: *«Pues la realidad, como sabemos, siempre es diferente a todo»*.
+
+
+Creo que son tres maneras de entrar a un discurso muy amplio para plantear lo siguiente: ¿de qué manera revalorar positivamente la noción de residuo, algo que se queda?
+
+
+**Agustín Fernández Mallo:** Es en realidad el núcleo del libro. La noción de residuo, tal como la conceptualizo ahí, es esa idea de que no podemos trabajar solamente a través de la excelencia de quienes nos precedieron, porque la excelencia por definición está agotada, por definición es excelente. Entonces hay que ir a los lugares donde la excelencia despreció o que la excelencia no supo ver. Esto se ve muy bien en un ejemplo que he puesto otras veces: en el *Quijote*, Cervantes conoce la excelencia de los libros de caballerías que le precedieron, pero para hacer el *Quijote* lo que hace es ir a los residuos de aquellos libros de caballerías, a lo que en aquel momento no se entendió, a lo que se despreció, y de ahí extraer la materia prima para hacer el *Quijote*.
+
+
+En las ciencias se está haciendo todo el tiempo este tipo de mecanismos. Es cambiar el foco: siempre nos dicen «fíjate en los grandes maestros, en los grandes cuadros para crear», y es verdad, hay que fijarse en la excelencia y conocerla, pero si te quedas ahí esa es una condición necesaria pero no suficiente para crear. Para crear tienes que ir a esas zonas no explicadas de las obras maestras, por decirlo de alguna manera, y esas zonas son las zonas de residuos, las zonas residuales, las zonas basura. Cuando digo basura me estoy refiriendo a la basura simbólica, no solamente a los residuos que tiramos a la basura (que también con eso se puede hacer obra). Voy a algo mucho más amplio.
+
+
+De ahí que esa cita de Lévi-Strauss me parecía perfecta, también la de Michel Serres y luego la de Sebald. La cita de Sebald está en una de sus novelas, *Vértigo*, y el texto dice: *«Pues la realidad, como sabemos, siempre es diferente a todo»*. Considerar la realidad es considerar la complejidad del mundo, y considerar la complejidad del mundo es considerar la obra con sus residuos. Si no consideras esos residuos no estás considerando la complejidad del mundo. Es como si en una ciudad solo consideraras la colonia buena que está en el centro, donde vive la gente más rica, y dijeras que eso es la ciudad. No, la ciudad es todo, también con su periurbanismo, todo con lo supuestamente residual. Nunca podrás ser un buen urbanista si no consideras todo eso.
+
+
+Esa cita de Sebald me interesaba mucho porque la realidad es compleja. De ahí que a lo que yo hago le llame «realismo complejo». Es realista porque dialogue con mi tiempo, ¿pero cuál es mi tiempo? El de la complejidad de las redes —no solo me refiero a internet, sino también a las redes analógicas—. Por eso la realidad siempre es diferente a todo, porque creemos que la realidad se puede calcular y predecir. La realidad no se puede predecir jamás, y si la predices tienes que hacer lo que se llama un reduccionismo metodológico, que a veces es necesario. Por ejemplo, para predecir dónde estará dentro de un año el planeta Tierra, los físicos tienen que hacer un reduccionismo metodológico que funciona: que es una simple esfera y un punto que rota en torno al Sol. Vale, pero si quieren considerar otro tipo de cuestiones ya no vale solo una esfera; hay que considerar, por ejemplo, que emite calor o que ahí viven personas, entonces la cosa se empieza a poner más compleja.
+
+
+Lo que vengo a decir es que cuando abordas algo no te puedes quedar solo con el reduccionismo metodológico, o si te quedas con eso tienes que aclararlo muy bien. Mis novelas y mis ensayos aspiran a tratar toda esa complejidad. Por eso la realidad siempre es diferente a todo. Es muy curioso que yo pueda saber (y cualquiera de nosotros) dónde estará el planeta Tierra dentro de mil millones de años exactamente, y no podemos saber dónde vamos a estar cuando salgamos por esa puerta. Hay un quiebro ahí absoluto de la realidad compleja, que es la realidad en la que nos movemos a escala humana, que hace que la realidad siempre sea, como dice Sebald, diferente a todo. Es una cosa extrañísima, casi una aberración del pensamiento: puedo saber dónde estará el planeta Tierra dentro de mil años, pero no puedo saber dónde voy a estar dentro de diez minutos.
+
+
+Entre la teoría y la experiencia hay un agujero infinito, un agujero infinito que el ser humano lleva intentando rellenar o poner un puente para atravesarlo y nunca puede. Hacemos teorías, pero de repente aparece la realidad con toda su complejidad que no atiende a las teorías. Ese salto el ser humano nunca lo ha podido dar. De ahí que haya salido varias veces en las conversaciones de este mes el libro del antropólogo francés Bruno Latour, *Nunca fuimos modernos*, donde plantea la gran duda de los filósofos y antropólogos allá por los años 90: «Vale, estamos todavía hablando de la modernidad, del Iluminismo, todos venimos del Siglo de las Luces, somos modernos... ¿pero se ha cumplido el programa moderno en la experiencia, en lo que se llama la realidad?».
+
+
+Si se ha cumplido el proyecto del Siglo de las Luces y el sueño de la razón, ¿por qué un broker de la City londinense, enchufado a la lógica de la razón pura, cierra su despacho, se va a su casa y se pone unas piedras en el pecho pensando que tienen poderes curativos? ¿Qué significa esa mezcla tan bestial de regímenes epistemológicos? No tiene sentido, porque evidentemente esas piedras no le van a curar. Él cree en la razón pura cuando habla de finanzas, pero para curarse del cáncer de repente entra en un tipo de pensamiento que no tiene nada que ver con el proyecto moderno, sino que es un proyecto chamánico, religioso o de lo que se llama en antropología el pensamiento mágico.
+
+
+Otro ejemplo que pone es una señora devota en Bolivia, en la periferia de una ciudad, que está con una pantalla de plasma gigante en una especie de chabola conectada al mundo y tiene una virgencita al lado para que cuide de la pantalla de plasma. Dice: «A ver, ¿qué significa eso?». No lo dice riéndose, sino que plantea antropológicamente qué significa: pues que no somos modernos, evidentemente, y nunca lo hemos sido por esto mismo, porque entre la teoría y la práctica hay un agujero tan profundo que el ser humano nunca ha podido atravesar. Tenemos ese sueño de alcance de que teoría, organismos y práctica vayan de la mano, pero obviamente nunca podemos, aunque podemos aproximarnos.
+
+
+**Roberto Domínguez:** Para plantear la última parte: qué bueno que dices esto, porque ya que estamos invitados por la Cátedra Alfonso Reyes, Don Alfonso Reyes dijo alguna vez que los mexicanos hemos llegado tarde al banquete de la modernidad. A Don Alfonso le gustaba mucho comer y pensar en términos de comilonas y banquetes, pero lo que tú has dicho me gusta más porque nos quita a los mexicanos la fama de llegar tarde a todas partes y nos hace pensar que no llegamos tarde, sino que ya estábamos en el lugar correcto, que era nuestra propia realidad. Hasta aquí la referencia a Don Alfonso que nos da nombre y cátedra.
+
+
+Por último, porque nos quedan poquitos minutos, quisiera abrir la conversación con quienes están aquí, pero también hacerles una invitación para que lean la novela. De lo que estamos hablando es *Teoría general de la basura*, pero tiene un link hacia otro género que es un ensayo disfrazado de novela o una novela disfrazada de postulación. Creo que en *Trilogía de la guerra* está la conjunción de muchas cosas. Quiero decirles nada más cómo cambia el tono del discurso en los dos epígrafes con los que empieza la novela *Trilogía de la guerra*. El primero es de Carlos Oroza y dice: *«Es un error dar por hecho lo que fue contemplado»*. A lo largo de la novela uno se da cuenta de que no podemos confiar en lo que vemos ni decir que lo que contemplamos es verdadero. Y para rematar, el otro epígrafe dice: *«Toto, tengo el presentimiento de que ya no estamos en Kansas»*, del Mago de Oz.
+
+
+La idea de la originalidad no está sino en esa posibilidad de lo que no existe todavía. Quisiera pedirles a ustedes que propongan alguna pregunta para el invitado y abrir la conversación.
+
+
+**Agustín Fernández Mallo:** Tengo que decir, entretanto ustedes se animan, que efectivamente deben leer *Trilogía de la guerra* si quieren ser felices. Así es, este es mi deber, este es mi 8000. Olvídense del resto de libros: lean esto. Dicho esto, si hay cualquier pregunta o comentario, estaré encantado.
+
+
+**Asistente 1 (Público):** ¿De qué manera podemos adaptar esta teoría —que es una teoría muy abstracta en el mundo de las ideas— si en el vivir tenemos un problema serio y real con los residuos en el mundo físico o si tenemos que afrontar el cambio climático? ¿Cómo podríamos adaptar el ser felices en el mundo con tu teoría y usar la metáfora para poder abordar el grandísimo problema que tenemos de los residuos físicos que siguen creciendo?
+
+
+**Agustín Fernández Mallo:** Es muy difícil. Es un tema que no abordo en el plano teórico de los residuos físicos; lo aborda un personaje precisamente en *Trilogía de la guerra*. Es un personaje que dice ser Dalí y dice que aún vive a fecha de hoy, que se pasea por Nueva York dando discursos a la gente como un loco. Se encuentra a los dos protagonistas de la novela en el East River y les dice: «A ver, ustedes, ¿por qué reciclan? ¿No se dan cuenta de que no hay que reciclar?». Le preguntan cómo que no hay que reciclar, y dice: «Porque claro, ¿qué harán los futuros arqueólogos si reciclamos todo? No sabrán cómo somos. La profesión de la arqueología será trabajar con archivos informáticos porque no tendrán ningún objeto. Si esta botella la reciclamos para convertirla en plástico, no habrá objeto».
+
+
+Eso lleva a otras reflexiones. Como dice este Dalí: «Fíjense ustedes que todo lo que sabemos de civilizaciones anteriores es por su basura». Cuando hablas con cualquier arqueólogo te dice que lo más interesante cuando llega a un hallazgo no es hallar el palacio donde vivía el emperador —eso no dice nada de cómo vivía un pueblo—, lo que más interesa es la basura. Incluso cuando se hallan cadáveres, en los intestinos se puede saber qué tipo de alimentación tenían. Este Dalí empieza a plantear esto y dice: «Esta obsesión por reciclar nos llevará a que dentro de mil o dos mil años no sepan cómo somos hoy día». Un personaje responde «pero podemos hacer un museo de nuestras cosas», y Dalí dice: «Eso ya es ad hoc, a un arqueólogo ya no le va a servir; lo interesante de la arqueología es lo que nos dejaron sin querer, y ahí está la basura».
+
+
+Esta obsesión del reciclaje lleva a otras reflexiones: por ejemplo, ¿un cuerpo se puede reciclar? ¿Está relacionado el reciclaje que hacemos cada día de los objetos con esa otra obsesión de reciclar nuestros cuerpos? Cada día se ve en las cirugías estéticas: es una forma de reciclar el cuerpo. ¿O la propia historia se puede reciclar igual que se recicla un envase? Es decir, hacer relecturas. La historia se está reciclando a cada momento porque se están dando a cada instante lecturas diferentes. Quiero decir con esto que el asunto del reciclaje... A ver, yo reciclo como todo el mundo, pero me gusta atravesar las cosas con otro punto de vista e intentar verlas desde otro ángulo. El reciclaje está bien, pero ya habrá que conservar algo, ¿no? Es un tema que no trato específicamente.
+
+
+**Asistente 2 (Público):** Se me hizo muy curioso que usted, siendo físico, cambiara a la parte poética de las cosas. ¿Qué cosas durante su preparación como físico le hicieron pensar que «esto es poético»?
+
+
+**Agustín Fernández Mallo:** Muchísimas, porque desde un principio empecé a ver que dentro de la ciencia hay metáforas; de hecho, la ciencia se puede considerar una gran metáfora también. Hay escuelas de científicos que son positivistas radicales que creen que la realidad es lo que la ciencia dice. Yo no soy así: no creo que las manzanas caigan exactamente como lo dice la teoría de Newton, creo que es un lenguaje que se usa para dar explicación a algo. Cuando te das cuenta de que la ciencia, incluso en su verbalización, está llena de metáforas... Hay muchos planos en los cuales se puede ejemplificar que la ciencia y la poesía son hermanas.
+
+
+Por decir unos muy obvios: los físicos decimos cosas como «un gas de helio sufre una presión de tantas atmósferas». Te pregunto: ¿qué hace un gas *sufriendo*? Eso es pura metáfora, un gas no puede sufrir. O por ejemplo: «los genes en un momento dado se *expresan*». ¿Qué hace un gen *expresándose*? ¿Tiene boca, tiene voz? Evidentemente toda la ciencia está atravesada por metáforas. El propio concepto de Big Bang es una gran metáfora, como una caricatura del principio del universo como una bomba que explota.
+
+
+Luego hay otras cosas más alambicadas. En la teoría de la relatividad hay conceptos matemáticos que se pueden cuantificar, como por ejemplo «horizonte de sucesos». Me parece una frase poética bellísima. El horizonte de sucesos es una frase que he usado muchas veces para insertar entre mis versos. Ese concepto físico y técnico es el lugar del universo más allá del cual cualquier cosa que ocurra jamás nos podrá llegar, el universo del cual estamos completamente desconectados para siempre. Ese estremecedor «horizonte de sucesos» insertado en un poema puede dar para la relación entre dos personas, para muchísimas cosas. La ciencia está atravesada de metáforas y, por lo tanto, de estética.
+
+
+**Asistente 3 (Público):** Dices que en las novelas y ensayos tratas de abarcar la complejidad de la realidad. ¿Crees que tus libros o tu poesía son más como una síntesis o como *samples* de esa complejidad?
+
+
+**Agustín Fernández Mallo:** Vaya pregunta, disparas con bala porque es una pregunta muy difícil. Creo que es una especie de retroalimentación entre ambas cosas: son *samples* de la realidad que se realimentan con una especie de totalidad. Es como si unas pequeñas muestras dieran idea de todo ese mundo complejo y amplio. Para representar el mundo en su totalidad no hace falta tener el plano a escala real, como diría Borges; te vale un detalle, o como decía Blake: «el universo se contiene en un grano de arena». Creo que es una realimentación entre esas dos cosas. Podría ser algo fractal: algo que se autorreplica y donde en ese pequeño espacio puede estar contenida una totalidad.
+
+
+**Asistente 4 (Público):** Me parece muy interesante lo que dijo sobre el gen expresándose. No he leído el libro, pero leí un poco antes de venir. Esto del residuo me suena mucho a algo genético. Uno creería que la genética funciona conservándose igual, pero es un camino lleno de accidentes, como toda evolución. Pensando en los géneros literarios (ensayo, literatura) o viendo otros lados del arte donde se encuentra el análisis o la genómica, ¿en qué género encaja o en qué género lo podrías poner tú?
+
+
+**Agustín Fernández Mallo:** Aventurándome diría que en el ensayo, haciendo frontera con lo poético. Me gusta que recuerdes que la genética y la génesis es un camino lleno de accidentes, es decir, de errores. Una de las cosas que digo en mi libro es que la creatividad es «copia más error». Sin eso no hay creatividad. Particularmente asocio el género de la poesía al género del ensayo como los géneros clave investigadores del mundo. La novela para mí es una cosa un poco aparte, es más un entretenimiento de crear un mundo de fantasía; investiga la realidad pero con otro atrezzo.
+
+
+Al ensayo y a la poesía los veo muy hermanados. De hecho, hay un verso en uno de mis poemarios, *Ya nadie se llamará como yo*, que dice: *«La poesía no es literatura, y de ser algo, es su ciencia»*. Yo realmente creo que la poesía no es literatura (decir esto aquí hace que luego ya no me vuelvan a invitar a la Cátedra). Para mí la poesía es un género investigativo del mundo, y la literatura es otra cosa. Yo también practico la novela, pero eso es otra cosa.
+
+
+**Roberto Domínguez:** Me parece interesante algunas de las ideas que planteas de la poesía y del uso de la metáfora en relación a un desarrollo contemporáneo de la filosofía: el realismo especulativo, los nuevos materialismos, la ontología orientada a objetos de Graham Harman, donde el mismo Harman retoma un texto de Ortega y Gasset del 27, un ensayo que es un prólogo a un libro de poesía llamado *Ensayo de estética a manera de prólogo*. Ahí Ortega desarrolla una teoría de la metáfora como ejecutividad, muy adelantado a estas concepciones filosóficas. Esta ontología orientada a objetos básicamente es una crítica al correlacionismo. Plantea que no es que podamos acceder a la realidad como tal, pero sí tendríamos una epistemología diferente por medio de esta ejecutividad de la metáfora. ¿Conoces este acercamiento? Resuena mucho.
+
+
+**Agustín Fernández Mallo:** Sí, conozco y cito en el libro de pasada el realismo especulativo y la teoría orientada a objetos. Pero lo dejo caer de pasada porque me fundamento más en la teoría del mexicano residente en Nueva York Manuel de Landa. Manuel de Landa me parece mucho más potente, realista y útil con toda su teoría del ensamblaje y del pensar el mundo a través del pensamiento topológico. De Landa lo que hace es traducirnos a Deleuze, pero quitando toda la paja. Me interesa más De Landa que Harman porque tengo un problema con el realismo especulativo: no llego a entender cómo ellos pueden definir que realmente existe algo objetivo separado del ser humano. Para mí da la impresión de que tienen que hacer unas piruetas semánticas que a veces me parecen pensamiento mágico. Dije: «¿Existe algo totalmente separado del ser humano y este árbol o esta mesa siempre será mesa aunque no haya un humano para verlo?». No llego a entender cómo lo justifican.
+
+
+Es un tipo de filosofía que por algún motivo no me llega a convencer, pero la he tenido en cuenta y conozco ese texto de Harman, maravilloso cuando habla de Ortega y Gasset. Es una extravagancia que un positivista norteamericano como Harman diga que el texto más maravilloso del siglo XX es de Ortega y Gasset. Me voy más por el pensamiento de Manuel de Landa.
+
+
+**Roberto Domínguez:** Hay una íntima relación entre los géneros en Agustín, pero también hay una práctica entre los géneros. Un personaje que aparece tanto en la teoría como en la novela es Jekyll y Hyde. Justo para demostrar cómo necesitamos la constante y el cambio. Me voy a permitir leer un fragmento donde los personajes están hablando del cambio:
+
+
+> *«Pensaba en la conocida ficción del Doctor Jekyll y Mr. Hyde, donde la personalidad del protagonista cambia pero el entorno social no: su vivienda y sociedad permanecen casi constantes. Porque si así no fuera, si en esa historia todo cambiara por completo, no podría haber historia, se acabaría la narración, ¿comprendéis? Pues lo mismo ocurre con la basura: si la eliminamos o la transformamos del todo, si la reciclamos totalmente, nos separaremos de la historia, de nuestra historia, y entraremos en una especie de realidad paralela a las civilizaciones que nos precedieron, aunque paradójicamente estaremos emparentados con ellas. Y ojo, muchachos, no estoy hablando de las patrañas de ciencia ficción, sino de la vida real, antropología real, cosas que nos afectarán de adeveras, porque si no existieran esas constantes se acabaría eso que llamamos memoria»*.
+
+
+Esto es un pedacito de un diálogo de los personajes, y de esto están llenas las 500 páginas de la novela. En el apartado de la teoría se llama *Tiempo topológico y catástrofes naturales como Jekyll y Hyde*.
+
+
+**Agustín Fernández Mallo:** Está fenomenal que leas mi obra, porque luego hay que saber leer. Que hayas leído tan bien, Roberto, para mí es todo un honor, y que hagas estas ligazones entre la teoría y la novela que yo admito que no hago. He de aclarar —para que nadie piense que soy un monstruo insoportable— que cuando escribo una novela o escribo poesía, obviamente no pienso en ninguna teoría. Es como quien va a dar un beso a la persona amada y está pensando en cómo se besa: eso es una aberración, tú besas y ya. No puedes estar pensando en teorías.
+
+
+Cuando escribo me dejo llevar. Todas estas teorizaciones que hago son porque los periodistas, cuando hacía promociones de mis novelas, me decían: «A ver, tú qué demonios haces, porque no es ni realismo mágico, ni realismo político, ni realismo social, ni fantasía. ¿Tú qué es esto que haces?». Un día, con un periodista de *El País*, cometí el error de decir «realismo complejo». Al día siguiente aparece en el periódico: «El realismo complejo». Yo no tenía ni idea de lo que había dicho y dije: «Ahora me he metido en un lío tremendo porque voy a tener que justificar qué demonios es esto». Empecé a pensar y vi que no iba muy desencaminado.
+
+
+Es realista porque dialogue con su tiempo. Aclaro que para mí cualquier obra (científica o de arte) es realista o es anticuada: son las dos únicas categorías que hay. ¿Por qué realista? Porque tiene que dialogar con su tiempo. Ahora bien, ¿qué es la realidad para mí? Obviamente no es la realidad de hace 50 años; la realidad hoy es una realidad compleja, de ahí lo de realismo complejo. Esa intuición que tuve en un segundo para salir del paso no iba desencaminada. Me parece precioso que una persona dedique diez años de su vida a justificar una ocurrencia o una metedura de pata, y que dedique días, noches y viajes. Es una forma de ver que el ser humano es ocioso por naturaleza y nos recreamos en esa ociosidad.
+
+
+**Roberto Domínguez:** Quiero retomar el valor que tiene para Fernández Mallo la intuición. Creer en esa intuición es como lo que dijimos ayer del huevo y el índice: creer que algo puede pasar en un link que nadie te ha enseñado y que tú tienes que proponer. Quisiera terminar esta sesión pidiéndote que nos hables de este concepto: lo creativo está en todas partes. En este momento en el que hay una presión por ser feliz, productivo y creativo —términos que se nos han ido robando por este discurso publicitario que achata todo para hacerte creer que tienes una experiencia cuando compras—, tu lectura nos devuelve esta capacidad de distinguir entre lo complejo y lo complicado. Ayer dijiste: «Lo complicado es aquello que requiere una clave para saberse; en cambio lo complejo es aquello que constantemente nos está proponiendo una especie de azar inverso, una propuesta de casualidad».
+
+
+**Agustín Fernández Mallo:** Lo que has dicho da para una hora más o dos. El asunto está en saber distinguir en nuestra realidad y desarrollar la intuición de qué es lo complicado y qué es lo complejo: son dos cosas totalmente diferentes. Lo complicado es aquello para lo cual, para entrar, tienes que tener una clave que te tienen que dar, y si no, no puedes entrar. En términos contemporáneos podríamos decir que el pensamiento falocéntrico o patriarcal es típico de «yo tengo las claves y te las tengo que dar para que entres a ese mundo». Es como el niño en el patio del colegio que tiene el balón y dice: «El balón es mío y solo va a jugar quien yo quiera, te daré las claves para entrar en este secreto, en esta novela, en esta corporación o en este país solo si pasas por donde yo te permito». Eso es algo complicado. Como el ajedrez, que es complicado pero no complejo: todas las partidas en algún lugar están escritas.
+
+
+Sin embargo, lo complejo es algo que se desarrolla con la propia vida, que va creando las reglas a medida que se va construyendo. Es como yo construyo mis ficciones: parecen muy abiertas porque no están predeterminadas, son complejas porque pertenecen al humus orgánico de mi propia vida. Cuando vi un huevo, ese huevo me inspiró el índice de un libro (*Postpoesía*), pero yo no sabía que ese huevo me iba a inspirar. Ocurrió. Eso es la complejidad del mundo. El cuerpo humano es complejo: cuando lo ves, entiendes cómo funciona.
+
+
+Sin embargo, lo complicado son los acertijos tontos que dicen «a ver quién es el más inteligente y acierta esto». Eso no tiene nada que ver con la inteligencia. La inteligencia tiene que ver con una sabiduría de saber dónde se está desarrollando lo que realmente está vivo y emerge. Eso es lo que hay que afinar, y ese es el olfato del poeta y del buen científico. Con eso no sé si contesto un poco a tu pregunta.
+
+
+**Roberto Domínguez:** Muchas gracias. Quiero agradecer al Departamento de Estudios Humanísticos, a la carrera de Letras Hispánicas y a la Cátedra Alfonso Reyes. También a Manuel por hacerse cargo de este personaje tan singular que nos acompañó durante un mes, en una visita de Agustín al Tec que espero no sea la última. Y a todos ustedes por acompañarnos esta tarde. Muchísimas gracias.
+
+
+**Agustín Fernández Mallo:** Muchas gracias, muchas gracias.
+
+
+*(Aplausos)*

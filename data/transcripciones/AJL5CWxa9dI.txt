@@ -1,0 +1,483 @@
+﻿**CONTEXTO**
+
+
+* **Título del video:** El utopismo y la Revolución Mexicana
+
+
+
+
+* **Participantes y roles:**
+* Alan Knight – Conferencista principal / Ponente
+
+
+
+
+* Moderador/a (nombre desconocido) – Presentación e introducción de la sesión de preguntas
+
+
+
+
+* Audiencia (varios participantes) – Intervenciones en la sesión de preguntas y respuestas
+
+
+
+
+
+
+
+
+* **Idioma de la transcripción:** Español
+
+
+
+
+
+
+---
+
+
+**Alan Knight:** Muchas gracias. Antes de nada, quisiera agradecer al Tec de Monterrey, a la División de Humanidades y Ciencias Sociales y a la Cátedra Alfonso Reyes por la invitación para participar en este muy interesante congreso. Y, personalmente, agregar mis agradecimientos a las doctoras Estela Rodríguez, Ana Laura Santamaría y a Ingrid Arriaga por su ayuda en esta y varias otras visitas a Monterrey.
+
+
+En segundo lugar, debo aclarar que el título de mi charla que aparece en el programa es incorrecto. Sí existe una charla así, es brillante, podría darla si ustedes quieren, pero no tiene nada que ver con el utopismo. Entonces, la charla de hoy... existe aquí, este es el título correcto.
+
+
+En esta charla analizo el papel de las utopías y el utopismo en la Revolución Mexicana, que defino convencionalmente en términos de los años 1910 al 40, incluyendo así tanto el periodo de la lucha armada como la revolución institucional de los años 20 y 30. Este análisis involucra dos tareas distintas: debemos entender lo que quiere decir «utopismo» —de otra manera no sabremos qué buscamos en el contexto de la revolución— y debemos aplicar este concepto en el terreno de la historia, un terreno muy amplio, complejo, que se ensancha continuamente, especialmente en este año del centenario.
+
+
+Esta forma de investigación doble es muy común. Si investigamos el papel del nacionalismo, del liberalismo, del populismo o de otros «ismos» en el contexto de la revolución, necesitaremos una definición inicial para orientar nuestro trabajo. De hecho, si pensamos que estos grandes conceptos son sencillos o claros gracias al sentido común, nos engañamos, ya que muchos debates históricos giran en torno no solamente de la evidencia empírica, sino de las definiciones, los modelos y las teorías subyacentes, algunas más implícitas, algunas explícitas.
+
+
+En tales situaciones, los historiadores a veces agarran sus diccionarios para sacar una definición y aplicarla. Pero esto no siempre sirve. Los diccionarios discrepan. Además, el historiador muchas veces debe distinguir entre las definiciones usadas hoy en día —quizás en los diccionarios— y las ideas comunes de la gente histórica, la gente que estudiamos y tratamos de entender.
+
+
+Nuestro entendimiento, digamos, académico del populismo, del nacionalismo o de la utopía no corresponde necesariamente al de los actores históricos, quienes tal vez carecen de tal entendimiento. Supuestos utópicos, como Hitler y Stalin, sin duda hubieran rechazado esa etiqueta. Y aun entre los expertos hay desacuerdos serios. El utopismo no es un tema muy bien teorizado, comparado, por ejemplo, con el Estado o el nacionalismo; y los análisis académicos varían enormemente, a veces ostentando idiosincrasias e inconsistencias.
+
+
+¿Y qué pasa si el experto X define al utopismo de una manera muy diferente al experto Y? ¿Quién decide entre las definiciones o modelos? ¿YCuáles son los criterios para hacer esta decisión? No creo que agarrar un diccionario u otro texto canónico resuelva el problema. Una definición o un modelo no es erróneo en sí; mejor dicho, es más o menos útil: útil, en este caso, para nuestro entendimiento, primero, de la Revolución Mexicana y, segundo, del tema genérico del utopismo.
+
+
+Las definiciones y los modelos, entonces, son utilitarios; no son esencias platónicas almacenadas en el cielo conceptual, sino instrumentos pragmáticos para ayudarnos a entender el mundo, en este caso la historia, pero sería igual con los conceptos económicos o sociológicos como la ley de rendimientos decrecientes o la autoridad carismática.
+
+
+Pero ¿cómo se decide qué es útil? A mi modo de ver, la utilidad de una definición o de un modelo se demuestra por medio de una larga y cuidadosa investigación de un problema o un grupo de problemas. No vale enfrentar un problema histórico —por ejemplo: ¿fue la Revolución Mexicana una revolución nacionalista?, ¿fue motivada por aspiraciones utópicas?— con un concepto o modelo *a priori* que se aplica automáticamente.
+
+
+Por supuesto, todo investigador viene con sus nociones preexistentes, algunas formales y explícitas, otras vagas y casi inconscientes. Y esto, vale agregar, es una idea muy antigua, no una reciente revelación posmodernista. Pero debemos ser flexibles en nuestra interpretación de los datos y esforzarnos para alcanzar una correspondencia eficaz y luminosa entre concepto, modelo y datos.
+
+
+La historia, en el sentido de historiografía, avanza —y sí creo que avanza, aunque de una manera algo titubeante— gracias a este intercambio entre conceptos, modelos y datos, durante el cual es a veces menester revisar los conceptos o modelos a la luz de lo que nos dicen los datos. La alternativa es aferrarnos rígidamente al concepto o modelo y seleccionar solamente los datos que corresponden —lo cual realmente no es difícil, al menos en la historia moderna, siendo los datos tan abundantes—. Pero tal enfoque es intelectualmente flojo y produce una historiografía torpe y dogmática.
+
+
+Por tanto, mi tarea es explicar el concepto de la utopía en el contexto de la Revolución Mexicana, permitiendo que este contexto —que conozco bastante bien— y otros contextos históricos que conozco menos influyan en el propio concepto. Desde luego, si mi tema fuera un texto canónico, como la *Utopía* de Tomás Moro, por ejemplo, las cosas serían diferentes: podría estudiar el texto elucidando lo que Moro escribió. El resultado podría ser un modelo utópico más preciso, más acabado, definido conforme al contenido de las 135 páginas del libro en mi edición. Pero si tratamos una revolución u otro gran proceso histórico, no es posible tal precisión conceptual.
+
+
+Entonces, ¿cómo se puede utilizar el concepto de la utopía en el contexto de la revolución? Anticipando mis conclusiones, mantengo en primer lugar que el utopismo puede significar dos fenómenos diferentes: uno más limitado e incluso local, que a veces ha tenido consecuencias prácticas en distintos contextos históricos; y otro mucho más amplio y filosófico, que tiene que ver con la gran teoría que también ha sido ensayada en la práctica, aunque con muy poco éxito.
+
+
+Los dos fenómenos se ven en México, pero dependiendo del rigor de nuestras definiciones —que tocaré después—, los fenómenos utópicos mexicanos han sido bastante marginales e intranscendentes. Es decir, el utopismo jugó un papel menor en la Revolución Mexicana comparado con su papel en otros contextos, incluso en otras revoluciones como la francesa, la rusa y la china. Aunque sea negativa esta conclusión, no carece de interés, a mi modo de ver.
+
+
+Dos puntos vale señalar al principio. Primero, esta conclusión no concuerda con las interpretaciones de la historia de México que consideran el utopismo como un fenómeno importante y recurrente. Como mi enfoque es el siglo XX, no quiero generalizar a través de toda la historia de México. Es cierto que el utopismo tuvo influencia entre los misioneros franciscanos del siglo XVI —incluso el propio Tomás Moro tuvo influencia— y sus esfuerzos tuvieron consecuencias concretas, pero de corto plazo, especialmente con respecto a las comunidades utópicas fundadas por el obispo Vasco de Quiroga en Michoacán. Este, sin duda, fue un fenómeno utópico.
+
+
+¿Podrían retirar eso? No sé de quién es, pero está platicando... No sé si supuestamente está grabando.
+
+
+Y esto, sin duda, fue un fenómeno utópico, pero las subsecuentes referencias al utopismo en México, aunque son frecuentes, no me convencen mucho. Gastón García Cantú, por ejemplo, escribió un libro vivo e interesante titulado *Utopías mexicanas*, que reúne una gama de episodios y eventos de los cuales solamente los esfuerzos misioneros de la conquista pueden ser considerados claramente utópicos. Adolfo Gilly también tituló su valioso estudio del cardenismo *La utopía cardenista*, pero nunca justifica lo utópico de su título y, de hecho, Gilly se refiere —cito— al «arraigado pragmatismo del presidente Cárdenas», un juicio esencialmente correcto, como voy a sugerir, pero que no cuadra con la noción del utopismo.
+
+
+Hay referencias pasajeras al utopismo en otras obras. El alemanismo, por ejemplo, propone, en palabras de Blanca Torres, la «utopía industrial»; mientras que Pancho Villa, supuestamente, buscó duplicar —palabras de John Hart— las ideas utópicas de Charles Fourier. Pero estas referencias son, en el primer caso, una mera metáfora, a mi modo de ver, y en el segundo, una afirmación tendenciosa y errónea.
+
+
+El segundo aspecto de mi conclusión negativa es que el uso promiscuo del término «utopismo» en contextos donde no vale devalúa el concepto y, al mismo tiempo, abre la ventana a comentaristas conservadores o reaccionarios que, utilizando una estrategia discursiva bastante común, rechazan todo proyecto o política reformista como «utópico», en el sentido de vano e imposible. Más aún, sostienen que proyectos y políticas de esta índole son contraproducentes, ya que las metas utópicas conducen a consecuencias distópicas: «el camino al infierno está pavimentado de buenas intenciones». Así, la utopía se vuelve un armamento en el arsenal semántico conservador.
+
+
+Es un buen ejemplo de lo que Albert Hirschman ha llamado la «retórica de la reacción», que busca rechazar proyectos o políticas que no gustan a los conservadores y que, por tanto, se consideran como imposibles y contraproducentes. En este sentido, la palabra «utópico», como la palabra «populista», vuelve a ser un término de desprecio, no una categoría de análisis como debe serlo.
+
+
+Ahora, permítanme aclarar dos especies de utopismo. No me preocupan mucho las utopías literarias, escritas, entre otros, por Moro, Bacon, Fénelon, Swift, Butler, Morris, Bellamy, Wells, etcétera. Esas pueden ser evaluadas como textos literarios o como comentarios sociales y políticos, generalmente escritos para señalar los errores y abusos de la sociedad contemporánea del autor.
+
+
+Pero la mayoría no son diseños para comunidades utópicas reales. Tomás Moro no proponía la creación de su utopía en la Inglaterra del rey Enrique VIII. Mucho menos consideró Jonathan Swift a Liliput, Brobdingnag y la tierra de los Houyhnhnms como modelos para la Inglaterra de la Restauración. Me preocupan más los proyectos utópicos que fueron propuestos como prácticos y alcanzables y que, en ciertos casos, fueron ensayados.
+
+
+Pero estos ensayos ocurrieron, a mi modo de ver, en dos niveles diferentes. Para aclarar la distinción, voy a referirme a las utopías *micro* y *macro*, que encarnan respectivamente el utopismo minimalista y maximalista. Primero mencionaré lo que tienen en común, que justifica la etiqueta compartida de utópico, luego aclararé las diferencias y después voy a tocar la revolución.
+
+
+El utopismo propone una sociedad alternativa radicalmente distinta de las sociedades actuales, pero quiere decir más que simplemente «distinto» o «mejor», porque en este sentido todo proyecto para cambiar y mejorar la sociedad —ya sea reformista o radical, incluso conservador o reaccionario— podría ser utópico y el concepto se hubiera diluido hasta ser inútil.
+
+
+Los proyectos utópicos son radicalmente distintos: no buscan simplemente mejoras modestas y, aun si no prometen la perfección —muchos sí la prometen—, ofrecen la posibilidad de una transformación total de la sociedad que resultará en un nuevo universo social tipo «estado estacionario» (*steady state* en inglés), la frase de los cosmólogos: un universo no solamente donde los antiguos males han sido eliminados, sino también donde los males no pueden reaparecer, al menos mientras dure el sistema utópico.
+
+
+El utopismo, entonces, quiere decir la abolición del conflicto y del cambio; en la célebre frase de Fukuyama: «el fin de la historia». Por tanto, algunas comunidades utópicas duraderas, como las de los amish en los Estados Unidos y en otras partes, han rechazado la tecnología moderna: para ellos, el fin de la historia ocurrió en el siglo XVI.
+
+
+Es verdad que *A Modern Utopia* de Wells permite una medida de cambio tecnológico, pero dentro de un orden sociopolítico dado y estático. De la misma manera, la sociedad sin clases de Marx no quiere decir un estancamiento cultural o tecnológico, pero es utópica en la medida en que la eliminación de la lucha de clases —tomando en cuenta que la historia de toda sociedad es la historia de la lucha de clases— pone fin a la historia y produce una estasis, un universo social de estado estacionario, utópico y permanente.
+
+
+De los casos mencionados, el de los amish es local y comunitario, amén de ser religioso y retrospectivo. Busca crear una unidad utópica autónoma dentro de, pero aislada de, la corrupta sociedad de afuera. Cuadra con mi categoría del utopismo minimalista, organizado en microcomunidades.
+
+
+La versión maximalista se ve en el marxismo, que propone la transformación total de la sociedad, no el retiro y el aislamiento. Pero el marxismo no tiene un monopolio del utopismo maximalista: ha habido otros platónicos, fascistas, islámicos, clérico-católicos. El utopismo maximalista es mucho más ambicioso, de mayor alcance y generalmente, pero no siempre, proyectado hacia el futuro.
+
+
+Su característica clave, conforme al análisis de Karl Popper —un análisis a veces un poco confuso—, es su holismo, su compromiso para —cito— «rediseñar la sociedad en su totalidad». El utopismo maximalista no busca recrear o preservar un pedazo del pasado, sino construir un futuro utópico enteramente nuevo, diferente y total.
+
+
+El minimalismo utópico, siendo más modesto, a veces ha tenido cierto éxito. Las comunidades amish, microutopías, han sobrevivido tres siglos. Comunidades parecidas, notablemente frecuentes en los Estados Unidos, han nacido y muerto con regularidad, sus trayectorias correspondiendo a veces a la vida del fundador carismático. No son necesariamente religiosas, aunque muchas lo son; las comunidades hippies de la contracultura del siglo XX también fueron ensayos más inconsistentes y superficiales para aislarse de la sociedad mayoritaria. Otra vez fueron más frecuentes en los Estados Unidos, lo cual es un asunto interesante.
+
+
+El utopismo maximalista generalmente depende de grandes teorías o mitos que pueden ser seculares, en el caso del marxismo, o religiosos, por ejemplo algunas formas del fundamentalismo islámico que buscan la creación del nuevo califato bajo la ley sharia, o una mezcla bastarda de los dos, tal como el nazismo.
+
+
+Tomando en cuenta la contrastante lógica de las dos formas, *micro* y *macro*, no es sorprendente que los proyectos *micro* se vean como menos amenazadores, relativamente inocuos; mientras controlan, organizan y hasta oprimen a su propia gente, realmente no amenazan la existencia de la sociedad mayoritaria.
+
+
+Las utopías *macro*, por otro lado, que se esfuerzan por apoderarse de la sociedad y transformarla, fácilmente provocan el temor, la sospecha y la censura, especialmente cuando su utopismo maximalista se combina con el estatus de gran potencia y con una política exterior agresiva, como en los casos de la Francia revolucionaria, la Unión Soviética y, según algunos comentaristas, los Estados Unidos en los años recientes. De hecho, Charles Fourier, arruinado y horrorizado por la Revolución francesa, abogó en favor de las microutopías como antídoto a los trastornos revolucionarios.
+
+
+Por tanto, la distinción es importante, especialmente cuando la «retórica de la reacción» de Hirschman tiende a tratar los proyectos reformistas más modestos como si fueran experimentos extremos y utópicos, haciéndolos aparecer así como más amenazadores y menos prácticos de lo que en realidad son.
+
+
+Un punto final acerca de las categorías. Muchas categorías históricas —nacionalista, liberal, populista— se ven correctamente no como cajas discretas en donde se puede poner a la gente, los proyectos o las políticas bien separados, sino más bien como características que deben ser trazadas a través de un continuo; es decir, una persona, político o régimen puede ser más o menos nacionalista, liberal o populista. Estas categorías se consideran categorías graduadas o de escala (*scaling* o *scalar categories* en inglés). Por otro lado, hay categorías que forman parejas discretas y binarias; por ejemplo, «perfecto / imperfecto»: no hay grados de perfección.
+
+
+¿A cuál de estas dos formas pertenece la categoría utópica? A mi modo de ver, hay una fuerte presunción de que, en contraste con muchos conceptos históricos, es binaria: un proyecto o es utópico o no lo es. No quiere decir que sus consecuencias deban ser 100 % utópicas, ya que todo proyecto político tiende a fallar en cierta medida, y no le negamos la etiqueta de liberal a Juárez o de populista a Perón por el hecho de que sus logros no correspondieron a un tipo ideal 100 % liberal o populista.
+
+
+Aun más, obviamente, los esfuerzos utópicos suelen decepcionar en la realidad. Pero en términos de sus ideales y metas, el utopismo debe proponer, a mi modo de ver, una transformación radical de la sociedad, ya sea por proyectos maximalistas o minimalistas, no simplemente lo que Karl Popper llama «ingeniería poco sistemática» (*piecemeal engineering*).
+
+
+Hablar del utopismo relativo, contrastándolo con el absoluto, como lo hace Karl Mannheim, me parece erróneo y posible solamente debido a la definición tan elástica que Mannheim propone. Porque si se considera utópica toda política reformista —quizás por comentaristas conservadores que desaprueban de ella—, el término resulta muy devaluado. La señora Thatcher, Margaret Thatcher, conforme al rastreo indiscriminado del inglés John Gray, se ve como arquitecta de la utopía. Yo no estoy de acuerdo.
+
+
+Además, como ha habido esquemas de transformación social total y permanente a través de la historia, necesitamos una etiqueta para esos esquemas que los distinga de la ingeniería poco sistemática o gradual. La etiqueta convencional de «utópico» cumple una función semántica necesaria y no debe ser aplicada casual y promiscuamente. Es decir, personalmente prefiero un uso algo puro y restrictivo del término, preservando una moneda fuerte en vez de devaluarla.
+
+
+Por supuesto, hay mucho debate legítimo acerca de cuáles proyectos o políticas cruzan el umbral y se califican de utópicos. Pero creo que es importante trazar este umbral, lo que quiere decir que el concepto utópico es diferente de categorías de escala como liberal o populista. Ahora me dirijo al tema de la revolución.
+
+
+Mencioné que varios historiadores han percibido fenómenos utópicos en la historia de México y que, al menos en un caso clásico —el milenarismo de la conquista—, probablemente tienen razón. Pero cuando tratamos de revoluciones es otra cosa. En primer lugar, tomemos el utopismo maximalista. ¿Generó la revolución grandes visiones o proyectos utópicos para la transformación total de la sociedad al estilo holístico? Yo creo que no.
+
+
+La ideología de la revolución, como lo han señalado muchos expertos tanto mexicanos como extranjeros, era heterogénea, flexible, para repetir la palabra de Popper, *piecemeal*, poco sistemática. «Una revolución viva —escribió Gonzalo Robles, participante—, para bien y para mal, no puede detenerse a copiar los datos, elementos y medios adecuados para hacer una obra perfecta. Las revoluciones no se hacen con ángeles, sino con gente de carne y hueso, dinamizada por la pasión y frenada por limitaciones de la más diversa índole».
+
+
+La Revolución Mexicana careció del carácter canónico, dogmático del marxismo. No tuvo ningún pensador sobresaliente. Podríamos hacer una lista de los intelectuales activistas que contribuyeron a las ideas de la revolución —Molina Enríquez, Manuel Gamio, los hermanos Flores Magón, Madero, Vasconcelos, Lombardo Toledano—, pero ninguno de ellos produjo una visión utópica coherente. Y, por añadidura, el programa que la revolución desplegó e implementó eventualmente —la no reelección, la reforma agraria y laboral, el nacionalismo económico, el anticlericalismo, el indigenismo— fue una suelta síntesis, una suerte de *bricolage* improvisado, pero al mismo tiempo bastante radical; y no, para citar otra vez a Popper, un proyecto holístico para la transformación total de México.
+
+
+Los más radicales de estos intelectuales, los hermanos Flores Magón, propusieron una serie de reformas sociales que eran avanzadas, pero bien prácticas. Varias habían sido implementadas en otros países del mundo. Y la palabra «utopía» apenas aparece en el discurso magonista, que yo vea, habiendo leído bastante; salvo raramente, como sinónimo de irreal o impracticable, cuando, por ejemplo, dicen que, no obstante la supuesta Pax Porfiriana, cito: «la seguridad de nuestros caminos es una utopía».
+
+
+Por añadidura, muchas de las reformas propuestas por los magonistas fueron plasmadas en la Constitución de 1917 y en cierta medida fueron implementadas en los años 20 y 30. El resultado fue un cambio sustancial, una verdadera revolución, a mi modo de ver, pero no una transformación total y holística de la sociedad mexicana. Más bien fue un esfuerzo de ingeniería social radical, pero poco sistemática.
+
+
+Aun si comparamos a México con el socialismo real existente y no con un socialismo platónico en el cielo, vemos una revolución menos transformadora en cuanto a sus metas y sus logros que la Revolución bolchevique en Rusia. Eso no quiere decir que fue una revolución inferior, de segunda clase, como dicen algunos historiadores revisionistas. Las revoluciones no tienen que ser utópicas para calificarse como revoluciones, incluso revoluciones grandes o sociales.
+
+
+La consideración de las consecuencias revolucionarias cambia el foco de nuestra atención lejos de los intelectuales y las ideologías, hacia las luchas revolucionarias y sus logros. Es un lugar común, pero un lugar común verdadero, que muchos Méxicos produjeron muchas revoluciones, que la revolución fue un fenómeno complejo y diverso y, si queremos entenderlo, debe ser desagregado.
+
+
+Aun si los intelectuales no fueron utópicos, el resultado final tampoco fue una utopía. Paso por alto cuando hubo el resultado final, que es otra cuestión. Quizás hubo corrientes utópicas fluyendo en el río revuelto de la revolución, corrientes que contribuyeron al torrente de eventos; aún así, a fin de cuentas fueron represadas y contenidas.
+
+
+Hay algo en este enfoque, pero quizás no tanto. Si desagregamos la revolución, los componentes tienen poco de lo utópico, a mi modo de ver. La visión liberal democrática de Madero era optimista, quizás ingenua, pero tuvo raíces hondas en el pensamiento político de México y en cierta medida también en su práctica política. Buscó una democracia electoral, la misma que existía en varios países, incluso países latinoamericanos como Chile, Uruguay y Argentina.
+
+
+Armó un reto serio a la política estrecha y esclerótica del Porfiriato; por lo tanto, los intereses creados del antiguo régimen resistieron, a veces declarando que para México la democracia era, sin decirlo textualmente, una utopía. Pero la plataforma maderista no era ni quijotesca ni impracticable, y prometió simplemente una medida de reforma política, no socioeconómica.
+
+
+Madero y la gran mayoría de sus seguidores, la clase media, no buscaron una profunda revolución social: respetaron los derechos y la propiedad, tanto mexicana como extranjera, y rechazaron la demanda zapatista de un rápido reparto de tierras. El zapatismo era políticamente reformista, quizás radical, porque amenazaba las bases del sistema político porfirista, pero distaba mucho del utopismo.
+
+
+Si nos enfocamos en los sucesivos gobiernos y proyectos nacionales como el carrancismo, el callismo o el cardenismo, surgen conclusiones algo semejantes. El carrancismo representó una forma de *realpolitik* altamente práctica, un rechazo del optimismo maderista más un compromiso con un gobierno fuerte, incluso autoritario, con reformas agrarias y laborales calculadas y quizás populistas.
+
+
+La descripción de los victoriosos carrancistas que leemos en las páginas del escritor español Blasco Ibáñez —cito: «Hombres de una visión dura y práctica que nunca hicieron caso omiso de la ganancia personal»— los pone muy lejos del mundo utópico.
+
+
+Es verdad que la Constitución, que el propio Carranza aceptó a regañadientes, contenía varias cláusulas radicales, pero también permitió bastante continuidad. México seguiría siendo una sociedad capitalista con un lugar determinado en la división del trabajo mundial, y los derechos de la propiedad privada, aunque constreñidos por el artículo 27, permanecieron como la base de la economía, mientras que el papel del Estado fue aumentando, pero todavía modestamente. Los críticos, exagerando otra vez, denunciaron el «bolchevismo mexicano», pero este era muy diferente del comunismo contemporáneo en Rusia.
+
+
+El callismo, quizás el más exitoso de los varios proyectos revolucionarios nacionales, no era tan diferente. Dotado de un Estado más fuerte, Calles podía innovar de una manera que ni Carranza ni Obregón hubiesen podido. Pero lo hizo de una manera netamente práctica: estudió y emuló los modelos extranjeros —la Alemania de Weimar, el laborismo británico—, rechazó la inversión extranjera parasitaria, pero no la productiva; y como político y empresario, respetó las normas del mercado y la acumulación privada.
+
+
+Además, como jefe máximo se volvió más conservador, siendo su respuesta a la Gran Depresión ortodoxa, neoclásica y prudente. Una preocupación callista, el anticlericalismo, sí tenía una cualidad utópica, como voy a mencionar. Pero si tomamos el proyecto callista en su totalidad, es marcadamente practicable y realista y, repito, bastante exitoso.
+
+
+El cardenismo, el último gran proyecto de la generación revolucionaria, fue sin duda el más radical, especialmente en cuanto a sus metas; sus logros, aunque sustanciales, fueron menores. Adolfo Gilly, como mencioné, lo llama utópico, pero repito: Gilly me parece equivocado, al menos conforme a mi entendimiento del término «utópico».
+
+
+Cárdenas era un político perito, realista, que había forjado su carrera en los rangos del ejército y ocupó una serie de puestos políticos importantes. Habiendo sido el protegido de Calles, se volvió su némesis. Construyó alianzas eficaces con los campesinos y los sindicatos y, para derrocar a Calles, se granjeó el apoyo de viejos veteranos como Amaro y Almazán.
+
+
+Como persona era austero y honesto; parece políticamente radical y populista. Algunos críticos lo tildaron de ser gris, algo tosco, carente de dotes intelectuales. Pero como lo demuestra su carrera, tanto antes como después de su presidencia, era un político capaz, incluso maquiavélico: sí, cito, «un zorro en sayal franciscano».
+
+
+Y la coalición que armó para derrocar a Calles y llevar a cabo sus políticas radicales —las reformas agrarias y laborales, la educación socialista, la expropiación petrolera— incluyó a los generales del ejército, a los líderes de los sindicatos y a una hueste de caciques locales y regionales.
+
+
+Sus políticas, sin duda, fueron radicales, pero no conllevaron una ruptura drástica con el capitalismo de mercado. Tanto los nuevos ejidos como las industrias bajo el control obrero tuvieron que ajustarse a las normas del mercado. La expropiación petrolera, sin duda un gran desafío a los inversores extranjeros, fue un caso insólito. Y la burguesía nacional, encabezada por el grupo Monterrey, prosperó bajo la administración cardenista, aun cuando denunciaba su extremismo socialista.
+
+
+El propio presidente, mientras solía elogiar al socialismo, tajantemente negó que era comunista. Y hasta los críticos conservadores, como Gómez Morín, admitieron que, en el peor de los casos, Cárdenas era «comunizante»; es decir, alguien que coqueteó con los comunistas sin entrar en un matrimonio serio.
+
+
+Para los estadounidenses, Cárdenas y sus voceros calificaron sus políticas como versiones mexicanas del *New Deal* norteamericano. El hecho de que tanto el embajador Daniels como el presidente Roosevelt parecen haberlo creído es testimonio del pragmatismo del proyecto cardenista.
+
+
+Por tanto, mientras que el cardenismo fue sin duda el más radical de los sucesivos proyectos nacionales, estaba lejos de ser un experimento comunista y representó una radicalización de la revolución institucionalizada, no una desviación marxista. Esta era la política del pragmatismo, no de la perfección. Otra vez, poco o nada de utopismo.
+
+
+Uno podría contestar que un enfoque en los proyectos nacionales, aunque esencial para captar la gran trayectoria de la revolución, necesariamente ignora o elimina las tendencias utópicas. Los gobiernos tienen que gobernar, lo que quiere decir hacer arreglos y transacciones y trabajar con lo que Kant llamó «la madera torcida de la humanidad». En esa época había bastante madera torcida.
+
+
+Quizás si miramos en otra dirección, penetrando más profundamente en la sociedad, rescatando lo que hoy en día se llaman a veces los movimientos sociales reacios al control y la corrupción del gobierno, encontraremos una política más pura donde el utopismo podría florecer. Y me parece que hay dos zonas sociohistóricas, en particular, que vale investigar un rato en este sentido: los movimientos campesinos de base y el jacobinismo revolucionario. Una palabra, entonces, sobre cada uno.
+
+
+John Womack, en su clásico estudio del zapatismo, observa que en el sur y el centro de México la utopía —hablaba de la utopía de una libre asociación de los clanes rurales— era muy antigua, siendo su vehículo más reciente el Ejército Zapatista.
+
+
+Es cierto que este ejército fue construido desde la base, gracias a alianzas locales y de agrarios. Nunca llegó a ser un ejército convencional al estilo villista: permaneció orgánicamente ligado a los pueblos de Morelos. Y dentro de sus muchos seguidores, Zapata parece haber gozado de respeto, de cariño y quizás de autoridad carismática. En ese sentido, el zapatismo fue un ejemplo clave de tendencias más amplias en la sociedad rural mexicana de ese entonces.
+
+
+El programa zapatista era reformista, proagrarista, en cierto sentido populista. Como otros programas revolucionarios, evolucionó con el tiempo. Comenzó con el Plan de Ayala de 1911 como un proyecto bastante moderado de reparto de tierras, que concedió su lugar a la hacienda. Pero bajo la presión de la revolución y frente a la intransigencia de los hacendados, se volvió más radical, proponiendo —y en Morelos implementando— un reparto más amplio que casi eliminó las grandes haciendas. Al mismo tiempo, el contacto con la Casa del Obrero Mundial dio al zapatismo —cito— «una ideología más exigente y militante que ahora incluyó la reforma laboral».
+
+
+Sin embargo, unos pocos años después, conforme el zapatismo se debilitó, se volvió otra vez hacia el centro político. En 1919, Zapata declaró en un manifiesto, en parte para ojos u oídos norteamericanos, que «de ninguna manera fomentamos los radicalismos sin sentido que tienden a suprimir el poderoso resorte de la iniciativa privada». Mientras que —quizás más importante—, en su desesperada búsqueda de aliados, advirtió a Gildardo Magaña que buscar a hombres perfectamente sanos en sus ideas y limpios de malos antecedentes era casi en vano: más bien, dijo, quería hombres con conexiones, los que tienen la ventaja de ser prácticos, de conocer todos los ángulos de la política.
+
+
+Esta actitud pragmática prefiguró lo que pasaría muy pronto después de la muerte de Zapata y el ascenso de Magaña al liderazgo del zapatismo. Los zapatistas hicieron un arreglo con Obregón, quien a cambio del apoyo zapatista les concedió tanto una medida del poder político local en Morelos como un temprano reparto de tierras.
+
+
+Quizás este desenlace representó una transacción, una renuncia a los antiguos fines más radicales, unos quizás dirían utópicos, de los zapatistas. Pero yo tengo mis dudas: los antiguos fines sí fueron radicales, pero no los veo como tan utópicos.
+
+
+El perfil del zapatismo ofrecido por Womack —un perfil quizás con cierto tinte rosado— posee elementos utópicos y, como mencioné, utiliza la palabra «utopía» al menos una vez. Pero hay varias salvedades. Los zapatistas buscaron la recuperación de sus tierras y de su autonomía política. Y su proyecto tuvo mucho de nostalgia, de retrospección, pero no de una manera extrema, ahistórica y maximalista.
+
+
+El zapatismo se ubicó cómodamente en la antigua tradición de la protesta campesina del centro de México y proclamó su filiación al liberalismo patriótico. En su apogeo, los zapatistas no lucharon para transformar toda la sociedad mexicana. Vale acordarnos de que no tuvieron ni un gran ejército convencional ni una poderosa burocracia para llevar a cabo tal transformación.
+
+
+Más bien, eliminaron a las fuerzas federales, a los antiguos caciques porfiristas y a la oligarquía azucarera morelense. Habiendo hecho eso, que era un logro impresionante, los zapatistas dejaron que la vida campesina pueblerina continuara como en el pasado: con las siembras y cosechas, las fiestas, las corridas de toros, además de las rivalidades locales, las riñas y, de vez en cuando, las palizas. Morelos jamás fue una utopía moral al estilo de la isla de Tomás Moro.
+
+
+El ideal zapatista sugiere que era —cito— «una vida que podían controlar, una prosperidad familiar modesta». ¿Es este un ideal utópico? ¿Corresponde a la ingeniería social holística de Popper? A mi modo de ver, las respuestas son negativas. El zapatismo careció de la desenfrenada ambición de los utopismos maximalistas.
+
+
+Por supuesto, es más plausible verlo como una colección de muchas microutopías: comunidades bastante autónomas que se habían extraído de las garras del Estado central y de la oligarquía terrateniente para vivir sus diversas vidas colectivas conforme a, uno podría decir, sus propios usos y costumbres, pero que nunca intentaron imponer su modelo en el resto del país. Y volveré a este punto en la conclusión.
+
+
+Una última observación sobre los zapatistas es importante. La visión tradicional de la revolución, que la vio como un alzamiento mayoritario, popular, progresivo contra una minoría explotadora, consideró al zapatismo como emblemático del todo. Se puede decir que, tradicionalmente, la revolución era el zapatismo hecho fenómeno nacional: es decir, popular, agrario, campesino, etcétera.
+
+
+Conforme las críticas revisionistas han cuestionado esta sencilla interpretación —a veces con razón, pero a veces llegando al extremo de negar a la revolución su carácter de ser popular y progresiva—, el zapatismo ha sido separado del resto de la revolución. Los revisionistas, que piensan estar en terreno sólido cuando niegan el carácter popular de la revolución en su totalidad, resisten una interpretación igualmente atrevida y revisionista cuando tratan el zapatismo, de cuyo carácter popular campesino hay evidencia sobrante.
+
+
+Así quedamos con la extraña conclusión de que el zapatismo era una rara anomalía, un insólito oasis verde de revolución popular dentro de un desierto de oportunismo burgués, quizás de politiquería sucia, de violencia sin razón. No solamente es cuestionable esta interpretación, también me parece inverosímil, ya que requiere que el zapatismo —una rebelión rural en el corazón de la Mesa Central, en un estado que había jugado un papel en todos los grandes episodios de la vida nacional desde la independencia— sea tan distinto de todos los movimientos en el resto del país.
+
+
+De hecho, los ingredientes del zapatismo —haciendas comerciales en auge, campesinos desposeídos, un sistema político caciquista opresor, pueblos dotados de una larga tradición de protesta— se ven en muchas otras partes de México. No solamente en el centro (Puebla, Tlaxcala, Estado de México), sino también en regiones del norte (La Laguna, el Valle del Yaqui y las sierras de Durango y Chihuahua).
+
+
+El zapatismo era típico, no insólito, en el sentido de que la comunidad campesina —una comunidad diversa, a veces dividida, otras no (no hablamos de microutopías felices e igualitarias)— fue la unidad básica de la revolución rural. En la medida en que los pueblos se unieron a la revolución en búsqueda de sus tierras y su autonomía, compartieron con el zapatismo una visión descentralizada, quizás federal. De ahí, creo, Womack habla de la asociación libre de clanes rurales. Por tanto, tratamos un fenómeno que no es raro ni limitado a unos pocos extraordinarios rebeldes morelenses; más bien es un rasgo central de la revolución, especialmente en su forma inicial, popular y rural.
+
+
+Pero otra vez me cuesta trabajo calificar este fenómeno de utópico sin devaluar el término. Como se ve con los zapatistas, los rebeldes rurales realmente tuvieron metas claras, prácticas y alcanzables. Su actuación fue inspirada por un vivo sentido de la historia —lo que no quiere decir que buscaran un pasado mítico— y no lucharon para imponer un plan uniforme y radical en todo el país. De hecho, a menos que tuvieran fuertes opiniones acerca de la organización de sus propias comunidades —hasta expulsar de ellas a los intrusos catrines de la ciudad—, toleraron lo que pasaba en otras partes.
+
+
+En términos generales, carecieron del gran diseño nacional del liderazgo carrancista: rechazaron el anticlericalismo, fueron indiferentes a las grandes ciudades y las grandes empresas extranjeras, no emprendieron largas marchas para imponer su control sobre lejanas provincias como lo hicieron los procónsules carrancistas en Yucatán, Chiapas y Oaxaca. Aun si su visión de la patria chica contenía elementos microutópicos —repito, tengo mis dudas—, el hecho es que repudiaron todo gran plan macroutópico para la transformación de México.
+
+
+Mencioné el anticlericalismo, al menos su ausencia en el caso del zapatismo y otros movimientos rurales y populares. Aquí creo que encontramos el mejor candidato para un genuino utopismo maximalista en el México revolucionario. Y, antes que nada, debemos notar que esto no es un utopismo socioeconómico: su pariente ideológico más cercano sería no el positivismo ruso, sino el jacobinismo de la Revolución Francesa. De ahí la etiqueta «jacobinismo».
+
+
+Este creía que México necesitaba una suerte de revolución ideológica que lo liberaría de las rancias ideas y prácticas del pasado, la herencia de la Colonia sostenida por la Iglesia Católica. Para los jacobinos, la Iglesia Católica era tanto antirrevolucionaria —de ahí su colaboración con Huerta— como antinacional; de hecho, estaba controlada por un potentado extranjero, el Papa en Roma. Representaba la superstición, el retraso, la degeneración y la jerarquía adscriptiva. Las obligaciones que imponía a los ciudadanos mexicanos competían con las del Estado.
+
+
+Y los jacobinos creían —muchas veces muy sinceramente, a mi modo de ver— que solamente después de haber derrotado a la Iglesia podría el Estado revolucionario afianzarse, prosperar, fomentando la suerte de sociedad secular, científica, nacionalista, progresista que los revolucionarios anhelaban, que el país merecía y a la que la Iglesia, hundida en el oscurantismo medieval, se oponía.
+
+
+La declaración más célebre del jacobinismo revolucionario fue el Grito de Guadalajara de Calles en 1934. Por supuesto, Calles, como presidente y jefe máximo, fue el promotor más dedicado y poderoso de este programa.
+
+
+¿Por qué se puede considerar esta corriente político-ideológica como una suerte de utopismo maximalista? Fue enunciado a nivel nacional y conllevó un atrevido diseño para la nueva sociedad mexicana. Tuvo sus instituciones y agencias, especialmente el presente sistema de educación federal; su arma política (después de 1929, el flamante Partido Nacional); sus rebuscados ritos (las fiestas seculares, los bautismos y bodas socialistas) y sus expresiones culturales (los murales, los corridos de contenido jacobino).
+
+
+Aunque formaba parte de una antigua tradición del anticlericalismo mexicano, alcanzó un nuevo nivel de radicalismo. Ahora la meta no era separar al Estado de la Iglesia, al estilo de Juárez y Lerdo, sino imponer el control del Estado sobre la Iglesia, llevar a cabo —como Calles deseaba— su debilitamiento y hasta su aniquilación. En breve, el jacobinismo era un credo radical, agresivo y progresivo que buscó una gran transformación de la sociedad mexicana. Fue mucho más allá de la ingeniería poco sistemática de Popper: expresó una ambiciosa visión más holística.
+
+
+Debemos enfatizar dos rasgos de este jacobinismo. En primer lugar, surge a raíz de una suerte de conflicto maniqueo entre Estado e Iglesia, conflicto que en su forma revolucionaria comenzó más o menos con el cuartelazo de Huerta en 1913 y culminó en la Guerra Cristera en los años 20 y el programa de educación socialista en los años 30.
+
+
+Este fue un conflicto maniqueo en el sentido de que postuló una lucha entre lo bueno y lo malo, la luz y la oscuridad, una lucha por los corazones y las mentes de los mexicanos (hombres, mujeres y niños) que potencialmente involucró la creación de un «nuevo hombre», una «nueva mujer» y un «nuevo niño». En esta lucha, el Estado tuvo un fuerte contrincante: la Iglesia; y esta, o al menos su ala radical, se dedicó a la lucha maniquea con igual compromiso.
+
+
+El resultado fue una dialéctica mutuamente radicalizadora, conforme el jacobinismo provocó un catolicismo político radical y este, a su vez, estimuló más esfuerzos jacobinos. Y así se puede detectar un utopismo rival católico al otro lado de esta lucha.
+
+
+El utopismo católico no abrazó a toda la Iglesia. De hecho, muchos prelados, incluso el Papa, eran cautelosos y pragmáticos, y no querían entrar en guerras a ultranza con el Estado mexicano. Pero algunos católicos —realmente católicos laicos, jóvenes, urbanos, letrados— se entregaron entusiasmados a la lucha maniquea.
+
+
+Por un lado, entonces, si miramos ambos lados de la barricada, si se quiere, tenemos a Calles, Garrido Canabal y los jacobinos; por otro, a Capistrán Garza y Salvador Abascal. Este último en particular tuvo un sentido mesiánico de su misión providencial, viéndose como —cito— «un nuevo Moisés, la reencarnación del padre Kino».
+
+
+No obstante su odio mutuo, ambos lados compartieron una gran ambición de transformar a México: en república modelo jacobina por un lado, en piadosa teocracia por el otro. Por supuesto, muchos católicos, incluso muchos cristianos, no compartieron estas elevadas, quizás utópicas, ambiciones: solo querían proteger su fe y sus prácticas tradicionales. Pero una minoría católica radical quería ir más lejos. En el ambiente exaltado de los años 20 y 30, creyeron que el apocalipsis de la revolución podría introducir un nuevo milenio, un nuevo —cito— «orden social cristiano de Cristo Rey». Los católicos radicales, entonces, previeron —otra cita— «una utopía de un mundo corrompido por la revolución que una religión encarnada regeneraría».
+
+
+Tanto los utopistas jacobinos como los católicos, no obstante su antagonismo, a veces compartieron un gran desdén por la gente común mexicana, a quienes buscaron transformar y elevar. Ambos, entonces, eran elitistas, paternalistas y autoritarios, al igual que muchos utopistas maximalistas cuyos rasgos principales no incluyen ni la moderación ni la modestia. Sabían lo que necesitaban las masas atrasadas e iban a imponerlo «cueste lo que cueste», como solía decir Victoriano Huerta.
+
+
+Por lo tanto, los oficiales encargados de la educación federal socialista lamentaban la torpeza, la terquedad, la indiferencia de las masas —especialmente de los campesinos—, que irracionalmente rechazaban la redención socialista, apegándose a sus borrachas fiestas religiosas, sus deportes sanguinarios (toros y gallos), su machismo y su mariolatría. Al mismo tiempo, muchos sacerdotes lamentaban la falta de asistencia a la iglesia, las uniones libres y, otra vez, las borrachas fiestas religiosas. La torcida madera de la humanidad no se enderezaba fácilmente, no obstante los esfuerzos tanto jacobinos como católicos.
+
+
+Y de ahí la segunda conclusión: ni el proyecto jacobino ni el católico tuvo mucho éxito. La Cristiada fracasó y los sinarquistas —los integralistas medio fascistas de los 30— fueron marginados. Triunfó la política pragmática del Vaticano. El Estado también se alejó de su jacobinismo extremo. Calles, en muchos aspectos un político altamente realista, lanzó dos ofensivas anticlericales (en 1925 y otra vez en los 30), pero fue derrocado, después de lo cual Cárdenas comenzó un proceso de distensión con la Iglesia que Ávila Camacho y Alemán aceleraron.
+
+
+Los jacobinos militantes como Garrido Canabal tuvieron que confesarse vencidos. Otros, como Francisco Múgica, se dedicaron al nuevo proyecto de radicalismo más socioeconómico —no jacobino— explicado por Cárdenas. Múgica incluso colaboró con Salvador Abascal en su proyecto de colonización sinarquista en Baja California.
+
+
+El jacobinismo revolucionario fracasó —en contraste, yo diría, con el reformismo laboral y agrario— por varias razones: se enfrentó a un contrincante muy poderoso (la Iglesia), no pudo movilizar a gran parte de la población, careció de medios para transformar los corazones y las mentes, y solamente gozó del apoyo de una minoría de la élite revolucionaria. Muchos políticos revolucionarios (Cedillo, Ávila Camacho) eran indiferentes u hostiles al anticlericalismo militante, el rasgo principal del jacobinismo. Se negaron a implementar medidas anticlericales, hicieron caso omiso de contravenciones de la ley por parte de los católicos (como en San Luis Potosí, Puebla, etcétera). Muchas veces esta fue una política sensata y reflejó el pragmatismo de la revolución. El jacobinismo dogmático era excepcional y, siendo excepcional, fracasó.
+
+
+Mientras tanto, al otro lado de las barricadas, el utopismo católico también fracasó: la Cristiada fue derrotada y el ala abascalista del sinarquismo fue marginada. La lucha maniquea mexicana duró unos 20 años y, desde el punto de vista nacional, nunca fue el evento principal. Por lo tanto, no pudo convertir la revolución en un ambicioso proyecto holístico macroutópico, como ocurrió, por ejemplo, en la Unión Soviética.
+
+
+La referencia a Abascal y los sinarquistas me lleva a mi último punto. De la misma manera que podemos percibir dos macroutopías rivales —la jacobina y la católica—, también hubo microutopías contrastantes. Y en México, como en otras partes, las microutopías tuvieron más posibilidades de ser llevadas a cabo.
+
+
+Por el lado revolucionario, la aproximación más cercana a una microutopía era, como ya mencioné, la comunidad campesina que buscó una medida de autonomía política y económica, más que nada agraria. Pero, como también mencioné, era una aproximación bastante lejana. Por las razones mencionadas, los pueblos zapatistas o los ejidos cardenistas distan mucho de ser utopías en el sentido estricto: estaban demasiado sumergidos en el mundo real de la movilización revolucionaria, un mundo donde tenían que hacer alianzas y arreglos y donde los feudos, el faccionalismo y la corrupción eran factores ineludibles; es decir, no podían comportarse como las comunidades de los amish en Estados Unidos.
+
+
+Pero por el lado católico, los años 30 sí vieron un experimento microutópico: la comunidad sinarquista de Santa María Auxiliadora en Baja California. Dentro de la gran narrativa de la revolución y sus enemigos, esta es una mera nota a pie de página, pero en el contexto de las utopías es un caso interesante.
+
+
+Durante los años 30, las autoridades católicas —nunca enamoradas de movimientos populares que no podían controlar— presionaron a los sinarquistas. En 1941, en alianza con facciones sinarquistas, destituyeron al líder de ese momento, Salvador Abascal, reemplazándolo con el más moderado y manejable Torres Bueno. El gobierno de Cárdenas, alejándose del anticlericalismo callista y buscando la distensión con la Iglesia, también quería moderar la protesta católica derechista. Por tanto, pareció sensato ofrecer a Abascal y sus fieles seguidores un lote de terreno árido en Baja California donde podrían ensayar su experimento microutópico en aislamiento.
+
+
+Para Abascal fue una oportunidad para emular a los Padres del Desierto de la primitiva Iglesia cristiana. Para Cárdenas fue una manera de aislar a un demagogo peligroso. Otra vez vemos la *realpolitik* de la revolución.
+
+
+Había habido unos pocos experimentos microutópicos en la historia de México, como la comunidad ideal establecida por Albert Owen en Topolobampo —que García Cantú describe como «el socialismo pequeñoburgués, en parte reaccionario, en parte utópico»—, que tuvo una vida breve y no muy exitosa en los 1880. Y algo más exitosamente existían, por ejemplo, las comunidades mormonas en Chihuahua.
+
+
+Pero Santa María Auxiliadora fue diferente: era católica y mexicana, y representó un cambio interesante del utopismo maximalista católico al utopismo minimalista. Derrotados por el Estado y por su propia Iglesia en sus esfuerzos para introducir una macroutopía teocrática, Abascal y sus seguidores sinarquistas decidieron, por así decirlo, achicarse (*to downsize*). Construyeron una microutopía organizada con una disciplina austera y puritana.
+
+
+En Santa María no había holgazanes. La comunidad mantenía un horario estricto y el saludo obligatorio «Ave María Purísima» requería la respuesta «Sin pecado concebida». Como otros microutopistas, cito: «los sinarquistas anhelaban un régimen autoritario donde todas las fases de la vida estaban estrictamente reguladas y controladas por los jefes». Y como tantos otros microutopistas, fracasaron.
+
+
+El medio ambiente era duro, caliente y árido. Los colonizadores, careciendo de recursos y habilidades, no pudieron construir el imaginado —cito sus palabras— «Edén hermoso». De hecho, apenas podían alimentarse. En 1944, con el proyecto en plena decadencia, Abascal partió habiendo roto con la Unión Nacional Sinarquista.
+
+
+Por añadidura, la revolución ya había perdido su ímpetu radical, el jacobinismo de antaño estaba moribundo y la antigua lucha maniquea había cedido a un acercamiento entre Estado e Iglesia. El combustible de la rivalidad utópica se había gastado. La Unión Nacional Sinarquista, dividida internamente, fue prohibida por el gobierno en el 42, y los restos sinarquistas, rechazando el utopismo, formaron un nuevo partido político, Fuerza Popular, que a su vez fue prohibido, etcétera.
+
+
+Mientras que este fracaso fue en cierto sentido inevitable, plantea la pregunta: ¿por qué México, comparado con su vecino del norte, ha producido relativamente pocos experimentos utópicos? Vale acordarnos de que varias microutopías establecidas en México, como los mormones, fueron ramales de movimientos norteamericanos —en el caso de Owen en Topolobampo también—.
+
+
+La explicación principal debe ser que la fuerza de la Iglesia Católica y su coctel con el utopismo humanístico del Renacimiento a principios del siglo XVI se han opuesto a tales experimentos heterodoxos, experimentos que, por supuesto, involucran aislamiento y a veces el repudio a la Iglesia. De la misma manera en que la Iglesia ha tratado con bastante éxito de controlar o reprimir los cultos populares, también ha resistido y reprimido desviaciones utópicas.
+
+
+En los Estados Unidos no hay una jerarquía clerical tan poderosa y la estructura del protestantismo norteamericano —fluida, frágil, fisionable— permite y hasta fomenta las secesiones y experimentos utópicos. Es decir, no obstante su larga enemistad, tanto el Estado revolucionario como la Iglesia Católica se combinaron para sofocar el utopismo. Como instituciones autoritarias ávidas de poder, ambas generalmente rehúyen el proyectismo macroutópico —siendo el jacobinismo y el radicalismo integrista católico excepciones, pero rechazadas por muchos de sus correligionarios—.
+
+
+Y mientras que podían tolerar una medida de utopismo minimalista —que era menos amenazador y, en el caso de Santa María Auxiliadora, políticamente conveniente—, la Iglesia y el Estado no aprobaban que comunidades autónomas se abstrajeran de la autoridad central, ya fuera eclesiástica o política. Santa María se marchitó, mientras que los más numerosos ejidos de la revolución —pálidos reflejos quizás de las ásperas aspiraciones campesinas de la lucha armada— se volvieron nidos de clientelismo y faccionalismo.
+
+
+En breve, el México moderno evitó los grandes proyectos utópicos del totalitarismo europeo. Optó por la reforma pragmática, poco sistemática (*piecemeal*) y gradual, en vez de las transformaciones totales. Eso no la descalifica como una verdadera revolución, lo cual es otra cuestión. Las revoluciones no deben ser utópicas, ya sea en cuanto a su inspiración o a sus resultados. Tal vez es mejor cuando no lo son, en el sentido de que, si comparamos los resultados revolucionarios en términos transnacionales, podríamos concluir que para una persona nacida en el decisivo año de 1917 hubiera sido un mejor destino haber nacido en México, sitio de la reforma pragmática y poco sistemática, que en la Rusia soviética, donde ocurrió un gran experimento macroutópico.
+
+
+Porque los experimentos utópicos, tanto *micro* como aún más *macro*, pueden ser muy interesantes para estudiar, pero son muy desagradables para vivir en carne propia. Gracias.
+
+
+---
+
+
+### Sesión de preguntas y respuestas
+
+
+**Moderador/a (nombre desconocido):** Eh, sí. El Dr. Alan Knight desea tener una sesión de preguntas y respuestas, por si alguien del público se anima a iniciar la sesión.
+
+
+**Alan Knight:** Preguntas aclaratorias, si no quieren iniciar un diálogo.
+
+
+**Moderador/a (nombre desconocido):** ¿Tenemos micrófonos por ahí o no? Puedes hablar fuerte.
+
+
+**Integrante de la audiencia 1:** Gracias, así no tengo que gritar. Lo que decía... Me interesa particularmente la elucidación metodológica que hizo con respecto a los conceptos de utopía en la primera parte de su exposición, con la cual coincido casi en un 100 %. Solo quería hacerle la consulta con respecto a la visión que expuso usted sobre Wells y sobre la posibilidad de una utopía moderna, como usted resaltó muy bien: cómo, a pesar del planteamiento de Wells... ¿Se escucha bien? A pesar del planteamiento de Wells, aún se mantiene la estasis. Ahora bien, mi pregunta es: ¿no existe la posibilidad de una utopía moderna entendida como un modelo regulativo que a su vez también permita movilidad social; es decir, una kinesis en la parte política, algo que no se daba en Wells, pero que parece proponerse a partir de él?
+
+
+**Alan Knight:** Yo traté de contestar... De hecho, es más fácil entender sin micrófono que con micrófono, porque la acústica es un poco difícil; pero si entiendo bien, tiene que ver con la cuestión de la estasis, de la estacionalidad de las utopías, y si no se puede imaginar una utopía en donde hay cambio, hay desarrollo.
+
+
+Yo mencioné muy de paso que creo que hay diferencias en los esquemas utópicos en ese sentido. Algunos en donde la idea es como congelar la sociedad en un momento histórico, no permitir ni tecnología ni cambios culturales —un poco una utopía retrospectiva, tradicional, un poco al estilo de los amish, algo así—. Se ve también en ciertos libros utópicos.
+
+
+Pero hay otros casos: por ejemplo, el libro de H. G. Wells, *A Modern Utopia*, es un esfuerzo para imaginar una utopía en donde hay cambio, por ejemplo desarrollo tecnológico. Pero, a mi modo de ver, todavía tiene una suerte de estabilidad permanente; es decir, dentro de una estructura utópica se pueden imaginar ciertos cambios, pero la estructura queda.
+
+
+Y para mí, la idea de la utopía —parece que hay muchas otras ideas diferentes, pero mi idea es esa— es una sociedad en donde no se pueden imaginar mejores posibilidades; es decir, una situación en donde las reglas del juego social y político han sido establecidas. Otro ejemplo que mencioné sería el ideal del marxismo: una vez que el proletariado ya ha conquistado el poder, ya no hay lucha de clases. Todavía hay desarrollo, hay cultura, hay tecnología, pero dentro de un marco sociopolítico que es más o menos dado y fijo.
+
+
+Eso para mí es un aspecto de la utopía y contrasta con otros, y este es el mero meollo de mi breve discusión más teórica: para mí hay una distinción entre un proyecto utopista que piensa una solución una vez para siempre —en cierto sentido, no porque siempre prohíba todo cambio, sino porque establece un sistema que no va a cambiar a menos que caiga todo el sistema utópico—. En contraste, obviamente ha habido numerosos proyectos de reforma como la Revolución Mexicana: fueron radicales, fueron revolucionarios, pero no utópicos. O sea, no pensaron que iban a establecer un sistema una vez para siempre.
+
+
+**Moderador/a (nombre desconocido):** Sí, hay aquí otra pregunta. Aquí.
+
+
+**Integrante de la audiencia 2:** Bueno, primero felicitarle por el trabajo que nos presenta. La visión que yo tenía con respecto a la Revolución Mexicana es que era como una convergencia de dos grandes utopías: una utopía de retorno hacia el pasado, representada básicamente por los zapatistas originales; y, por otro lado, una utopía de una visión de futuro, de crear una nación, ¿no? Esas eran la convergencia, más que este conflicto que se plantea entre un jacobinismo por parte del Estado y una exaltación del catolicismo, que siento que viene a ser como un elemento que existe dentro de nuestra realidad mexicana, pero que no es tan importante como esa visión hacia un pasado utópico, imaginario, de horizonte fantástico, ¿no?
+
+
+**Alan Knight:** Sí, coincido en que hay muchas corrientes y hubo muchos movimientos —yo mencioné nada más algunos de los más importantes—. Pero hay algunos que obviamente tienen más raíces en el pasado, incluso una visión un poco más retrospectiva. Por ejemplo, los zapatistas: el análisis de Womack y otros sugiere un movimiento que tenía sus metas un poco en el pasado; es decir, de la historia de sus pueblos, sus luchas en el pasado con la Independencia, con la Reforma, con el juarismo, luchas locales como el pueblo de Anenecuilco contra la hacienda del Hospital, y formaron sus ideas acerca de este pasado.
+
+
+Por otro lado, hay movimientos con más miras hacia el futuro. Por ejemplo, el callismo —estoy poniendo nombres de individuos no porque crea que los individuos siempre son los motores de la historia al estilo de Carlyle, sino porque es útil para distinguir ciertas corrientes de movimientos por los líderes—. El callismo, a mi modo de ver —y es interesante, obviamente Calles vino del noroeste, de Sonora, no de una región campesina, sino de la frontera—, tenía una visión más hacia el futuro, de un México mejor integrado, más próspero, más secular, más nacionalista. Y como presidente, quizás todo presidente quiere una sociedad nacionalista que lo apoye, etcétera. Entonces Calles para mí tuvo un proyecto muy bien definido de «forjar patria» —el título del libro de Manuel Gamio— y forjar Estado: un Estado callista, anticlerical, progresivo, secular, científico, etcétera. Entonces eso sí fue una imagen, una visión mucho más hacia el futuro.
+
+
+A mi modo de ver, ni uno ni otro —ni el zapatismo ni el callismo— fueron utópicos en el sentido estricto, como yo lo entiendo. Y ambos fueron a su manera radicales. Y el último punto interesante es la manera en donde estas corrientes se entrecruzan.
+
+
+Si tomamos la reforma agraria, el ideal de los zapatistas hubiera sido quizás un reparto de tierras muy particular: cada pueblo con sus tierras, a veces tierras que habían poseído en el pasado; de una forma muy particularista, cada uno tiene sus tierras. Mientras que lo que pasó fue una reforma agraria, especialmente con Cárdenas, mucho más centralizada, con ejidos, incluso con ejidos colectivos para mantener la producción de productos comerciales como el algodón en La Laguna o el henequén en Yucatán. Entonces hubo una gran reforma agraria bastante radical —insólita en América Latina en esos momentos—, pero fue una reforma cada vez más controlada desde el centro conforme a una visión hacia el futuro de Calles y, después, de Cárdenas.
+
+
+**Moderador/a (nombre desconocido):** Adelante.
+
+
+**Integrante de la audiencia 3:** Esta misma definición en torno a la utopía tiene que ver con que hay un proyecto concreto que precisamente se ha de iniciar de cómo hacerlas, cómo llegar a eso y, además, que sean revolucionarios. En ese marco, ¿cómo definiríamos esto aplicado a la literatura, pensando en la utopía en la literatura? ¿Tendría que ser desde su perspectiva, desde la manera en que ve esta definición de utopía, la misma para la literatura o cómo lo vería desde la literatura?
+
+
+**Alan Knight:** De la literatura yo no conozco tanto; hay lugares en donde no quiero entrar realmente. No, yo creo que obviamente en cuanto a la literatura, e incluso la filosofía, es otra cosa. Por ejemplo, en la filosofía hay un buen libro de Robert Nozick, *Anarchy, State, and Utopia*, que propone un sistema utópico libertario que tiene muchos detalles, bien hecho, teóricamente robusto, pero para mí no tiene nada que ver con la realidad: es una propuesta filosófica, como imaginar una sociedad de comunidades autogobernadas donde casi no hay un Estado.
+
+
+El problema con esta imagen es que no tiene nada que ver con la realidad. Y como historiador mi preocupación especialmente es la Revolución Mexicana: sus inspiraciones, sus causas, su trayectoria, sus resultados; y en eso yo veo poco del utopismo, salvo algo en cuanto al proyecto jacobino, como mencioné, y la respuesta católica, que sí tenía algo de lo utópico. Pero disculpe, no tengo ninguna respuesta perita en cuanto a la cuestión literaria.
+
+
+**Integrante de la audiencia 3:** Pero incluso habría también que considerarlo como imaginario fundante, no tanto como teoría de algo para aplicarse en un momento determinado de una revolución, sino como un fundamento, algo que genere imaginarios que pueden derivar incluso en una teoría o teorías que derivan en literatura.
+
+
+**Alan Knight:** Bueno, hay muchas teorías, hay muchos imaginarios, pero la cuestión es cuáles son utópicos, cuáles son los que debemos pensar como utópicos. Mi tendencia —parece que estoy erróneo en esto, pero es mi idea— es que para mí utopía significa algo bastante preciso y un fenómeno ya sea filosófico o político particular, y bastante raro incluso. Ha habido bastante literatura, por ejemplo, sobre las grandes macro y microutopías del comunismo, por ejemplo, que es otra cosa que podríamos mencionar. Pero en el caso de México, estas grandes visiones totalizadoras comunistas estaban bastante débiles.
+
+
+**Moderador/a (nombre desconocido):** Gracias. Sí, Melissa.
+
+
+**Integrante de la audiencia 4 (Melissa):** Gracias. No me queda claro cuál puede ser la diferencia entre una reforma y una microutopía que llega a ser viable. Sí, como dicen, «de lo perdido, lo encontrado»: de todo ese sueño de modificación estructural queda un rezago, queda algo que finalmente toca la realidad y le va dando velocidad al cambio. Me gustaría que me dijera qué variables son necesarias que se toquen en una utopía a diferencia de una reforma.
+
+
+**Alan Knight:** La diferencia entre la reforma y el esfuerzo de una microutopía... Ha habido muchas reformas por todos lados: en México ha habido reformas revolucionarias, más radicales, neoliberales, democráticas. Hay un sinnúmero de reformas que son, a mi modo de ver, proyectos o políticas para cambiar el *statu quo* hacia una dirección mejor, al menos a ojos de los reformadores —obviamente, a veces el mejoramiento de una persona es el empeoramiento de otra—.
+
+
+Pero ellos no imaginan que este es como el fin de la historia: es decir, la idea no es introducir un sistema total que después va a durar y en donde o llegamos a una perfección, como algunos utopistas piensan, o al menos llegamos a una situación en donde no se necesitan más reformas.
+
+
+Si tomamos las clásicas utopías —digamos literarias o filosóficas—, otra vez repito: a mi modo de ver son universos sociales fijos, estacionarios; ya no se puede mejorar la situación en una utopía. Se pueden hacer otros cambios, como mencioné: la gente todavía va a escribir libros o introducir nueva tecnología o algo así, pero dentro de un marco fijo y definido que es utópico.
+
+
+Y yo creo que se pueden concebir ciertos corrientes jacobinistas o clérigo-católicos en donde pensaron... por ejemplo, los radicales de la Unión Nacional Sinarquista pensaron que podían introducir el Reino de Dios en la Tierra. Obviamente, después de eso no hay otro futuro: ya está, el fin de la historia.
+
+
+Entonces eso para mí es un proyecto utópico, pero es una minoría de las muchísimas reformas y proyectos reformistas que se ven en México. Puede ser que en otros países sea diferente, porque hay historiadores que dicen que, por ejemplo, en el periodo entreguerras en Europa tenemos el fascismo y el comunismo, que fueron a su manera —quizás, no soy experto en eso, no quiero decir sí o no— ensayos utópicos para establecer una nueva sociedad. Hitler platicó de su *Reich* de mil años, su régimen de mil años: no es para siempre, pero mil años es bastante tiempo. Afortunadamente duró nada más 12 años, pero en esos casos sí quizás se puede distinguir algo utópico, mientras que en México lo que yo veo es una serie de reformas, salvo en estos casos que mencioné: el jacobinismo y el catolicismo radical integralista, que sí tenían ciertos rasgos utópicos.
