@@ -1,0 +1,412 @@
+﻿[00:04] >> Marcela: Pues bienvenidas, bienvenidos a esta tercera sesión de este ciclo de conferencias que hemos tenido con el profesor, el doctor Roger Chartier, quien desde París se ha conectado para celebrar estos setenta años de la Biblioteca Cervantina y estar presente en este segundo Congreso de Cervantistas Mexicanos. Hoy vamos a cerrar nuestro ciclo con una tercera charla acerca de los mapas del Quijote. Así es que nos dará muchísimo gusto nuevamente escucharle, profesor Roger Chartier. Adelante.
+
+
+[00:40] >> Roger Chartier: Muchas gracias. En este día siguiente a una elección que muestra que democracia y decencia pueden volverse contradictorias, quisiera empezar esta ponencia citando a Le Clézio, que en su conferencia inaugural del VII Congreso de la Lengua Española en 2016 recordaba la relevancia para nuestros tiempos de Cervantes. Lo citaba haciendo hincapié en la visión cosmopolita y humanista, temperada por la sátira de Cervantes, y añadía Le Clézio: «No debemos equivocarnos: estamos embarcados en el mismo mundo». Lo hemos visto ayer.
+
+
+[01:40] Mi ponencia hoy, como usted decía, está dedicada a los mapas del Quijote y está ubicada en una investigación más general sobre la presencia de mapas en los textos de ficción en la primera modernidad: siglos XVI, XVII y XVIII; novelas, poemas, utopías, distopías. ¿Por qué una presencia de mapas y qué podía significar para la comprensión, la interpretación y la apropiación de las obras mismas?
+
+
+[02:27] Y si Cervantes aparece en esta perspectiva, es porque en 1780 Joaquín Ibarra imprimió para la Real Academia Española una nueva edición del Quijote publicada en cuatro tomos en el formato en cuarto. Este libro, esta edición, está presente en la Biblioteca Cervantina de Monterrey.
+
+
+[02:58] Esta lujosa edición proponía un texto establecido por el académico Vicente de los Ríos. Varios instrumentos críticos se agregan a la obra en esta edición: un análisis del Quijote como forma de juicio crítico, una vida de Cervantes, un plan cronológico del Quijote.
+
+
+[03:18] Pero la novedad más espectacular de esta edición de 1780 no se encontraba en el texto: se encontraba en una hoja desplegable fuera del texto, introducida en el primer volumen de los cuatro de la edición, y que ofrecía al lector, cito, «un mapa de una porción del reino de España que comprende los parajes por donde anduvo Don Quijote y los sitios de sus aventuras».
+
+
+[04:00] Este mapa tenía todo el crédito científico deseable: lo dibujó Tomás López, geógrafo del rey y cartógrafo de los reinos, provincias y ciudades de España, que siguió, cito, «las observaciones hechas sobre el terreno por José de Hermosilla, capitán del Real Cuerpo de Ingenieros y también miembro de la Real Academia».
+
+
+[04:26] Los itinerarios de las tres salidas de Don Quijote —en la primera parte, los capítulos 1 a 5, luego todos los capítulos a partir del 7; y en la segunda parte, todos los capítulos a partir del capítulo 7— son trazados sobre el mapa, y treinta y cinco números remiten a otras tantas aventuras o desventuras de Don Quijote. Algunas de estas se localizan con precisión; por ejemplo, el número 22: las Lagunas de Ruidera y la Cueva de Montesinos; o el número 33: la playa de Barcelona.
+
+
+[05:17] Dos años después, en 1782, Ibarra vuelve a publicar su edición en cuatro volúmenes, pero esta vez en un formato más modesto, en octavo, pero con el mismo mapa desplegable. También la colección de Monterrey posee esta segunda edición del texto publicado dos años antes, y espero que con el mapa.
+
+
+[05:51] Antes de 1780, la geografía cervantina había sido únicamente textual y se hacía ver en los paisajes imaginados por las ilustraciones. En la edición de Ibarra, los treinta y dos grabados aspiran a ser fieles al texto del libro.
+
+
+[06:17] Los pintores y dibujantes encargados de realizarlos recibieron descripciones extensas y detalladas de las escenas que debían representar. Sin embargo, las indicaciones acerca de los paisajes son muy generales: una pradera, un bosque, un prado, una aldea, dejando así una gran libertad a la imaginación de los artistas.
+
+
+[06:48] Esa libertad era aún más grande en todas las ediciones ilustradas impresas entre —lo hemos visto el primer día— 1657, fecha de la traducción holandesa publicada en Dordrecht, que fue la primera en contener una serie de estampas, en este caso veinticuatro, y 1780, fecha de la edición de Ibarra.
+
+
+[07:18] La imaginación estética permitida por las ilustraciones presentaba un cierto riesgo: destruir una de las magias parciales del Quijote, para recordar la fórmula de Borges. Esta magia del libro consistía, en efecto, en situar las aventuras del caballero andante en un mundo prosaico, concreto, familiar.
+
+
+[07:55] Si Borges opone a las vastas y vagas geografías del Amadís los polvorientos caminos y los sórdidos mesones de Castilla, la referencia a realidades geográficas conocidas por los lectores era uno de los dispositivos que deben, cito, «confundir lo objetivo y lo subjetivo, el mundo del lector y el mundo del libro».
+
+
+[08:27] Al igual que la presencia de un ejemplar de La Galatea de Cervantes en la biblioteca de Don Quijote, como hemos visto el lunes, o el hecho de que en la segunda parte de 1615 los protagonistas de la historia hayan leído la primera parte publicada diez años antes, así como su continuación apócrifa a cargo de Avellaneda aparecida en 1614.
+
+
+[08:57] Trazar en un mapa exacto de una España auténtica las salidas y la peregrinación de un héroe de ficción no podía sino fortalecer la ilusión de realidad, el efecto de realidad, para citar a Barthes. Sin embargo, ninguna edición del Quijote lo hizo en vida de Cervantes, ni siquiera mucho después.
+
+
+[09:32] Cuando hay mapas en sus obras, se trata de mapas de palabras. Así sucede en Los trabajos de Persiles y Sigismunda, publicado en 1617, un año después de la muerte de Cervantes.
+
+
+[09:52] En el capítulo 10 del tercer libro, los héroes de esta historia septentrional, convertidos en peregrinos en marcha hacia Roma, llegan a una aldea de la Mancha, cito: «Un lugar no muy pequeño ni muy grande de cuyo nombre no me acuerdo», según declara el narrador, que recuerda así irónicamente la primera frase de Don Quijote.
+
+
+[10:23] En medio de la plaza, cito: «Vieron mucha gente junta, todos atentos mirando y escuchando a dos mancebos que, en traje de rescatados de cautivos, estaban declarando las figuras de un pintado lienzo que tenían tendido en el suelo». En la tela, en el pintado lienzo, se representa la ciudad de Argel, su puerto y el navío del bajá en el que los dos jóvenes dicen haber sido forzados.
+
+
+[11:04] La descripción de la tela pintada asocia las dos definiciones de la écfrasis: es la descripción de un objeto o de una obra de arte, y es la narración de la historia representada en el objeto o en la obra. Había utilizado este procedimiento de mímesis en el capítulo 9 de la primera parte del Quijote, cuando el manuscrito de Cide Hamete Benengeli se abre con una pintura que representa el combate entre Don Quijote y el vizcaíno, cuya narración se había interrumpido abruptamente en el capítulo anterior.
+
+
+[11:57] Por desgracia para los dos jóvenes del Persiles y Sigismunda, uno de los alcaldes de la aldea había estado cautivo en Argel durante cinco años, como le sucedió a Cervantes. Desenmascara entonces su bellaquería y obliga a los dos jóvenes a confesar la verdad.
+
+
+[12:18] Estudiantes en Salamanca, los dos hombres querían unirse a los ejércitos del rey en Flandes, cito: «Para facilitar y poner en obra este deseo, acertaron a pasar por ahí unos cautivos que también lo debían de ser falsos como nosotros ahora —dicen los dos jóvenes—. Les compramos este lienzo y nos informamos de algunas cosas de la de Argel que nos pareció ser bastante y necesarias para acreditar nuestro embuste».
+
+
+[13:00] Conmovidos por la buena intención, los alcaldes perdonan a los dos estudiantes. El que había estado cautivo decide recibirlos en su propia casa porque les quiere dar una lección de las cosas de Argel, tal que de aquí adelante ninguno les coja en mal latín en cuanto a su fingida historia.
+
+
+[13:29] La tela pintada de los dos estudiantes que muestra la ciudad y el puerto de Argel no es, propiamente hablando, un mapa: cabe imaginárselo o bien como un simple cuadro, una pintura, o bien como una vista panorámica. En el Persiles no es el único ejemplo de écfrasis en el sentido estricto: el de la descripción de una imagen pintada que cuenta una historia ubicada en un cierto territorio.
+
+
+[14:09] Cuando los protagonistas del Persiles llegan a Lisboa en el capítulo 1 del tercer libro, cansados de contar sus numerosas aventuras deciden hacerlas pintar. Cito: «De ahí se fueron a casa de un famoso pintor donde ordenó Periandro que en un lienzo grande le pintase todos los más principales casos de su historia».
+
+
+[14:45] De tal modo, la tela podía sustituir al relato, cito: «Este lienzo servía de una recopilación que les excusaba de contar su historia por menudo, porque Antonio el mozo declaraba las pinturas y los sucesos cuando le apretaban a que los dijese».
+
+
+[15:08] Entre las palabras y las imágenes hay una equivalencia semántica perfecta: los relatos se han convertido en imágenes y las imágenes son verdaderas narraciones. En el camino de regreso a su aldea, Don Quijote y Sancho, como decía el lunes, hacen una parada en una venta cuyas cortinas son telas pintadas.
+
+
+[15:40] Cito de nuevo: «Alojáronlos en una sala baja a quien servían de guadamecíes unas sargas viejas pintadas, como se usan en las aldeas». Las sargas también cuentan historias.
+
+
+[15:59] Cito: «En una de ellas estaba pintada de malísima mano el robo de Helena, cuando el atrevido huésped se la llevó a Menelao; y en otra estaba la historia de Dido y de Eneas, ella sobre una alta torre, como que hacía señas con una media sábana al fugitivo huésped, que por el mar sobre una fragata o bergantín se iba huyendo».
+
+
+[16:34] Las representaciones de esos dos episodios populares del ciclo troyano inspiran a Sancho. «Yo apostaré —dijo Sancho— que antes de mucho tiempo no ha de haber bodegón, venta ni mesón o tienda de barbero donde no ande pintada la historia de nuestras hazañas; pero querría yo que la pintase mano de otro mejor pintor que el que ha pintado a estas».
+
+
+[17:08] «Tienes razón, Sancho —dijo Don Quijote—, porque este pintor es como Orbaneja, un pintor que estaba en Úbeda, que cuando le preguntaban qué pintaba, respondía: "Lo que saliere"; y si por ventura pintaba un gallo, escribía debajo: "Este es gallo", porque no pensasen que era zorra».
+
+
+[17:38] «De esta manera me parece a mí, Sancho, que debe de ser el pintor o el escritor, que todo es uno, que sacó a luz la historia de este nuevo Don Quijote que ha salido, que pintó o escribió lo que saliere».
+
+
+[17:55] Don Quijote aprovecha las sargas pintadas para burlarse una vez más de la continuación apócrifa de la historia publicada en 1614 por un cierto Avellaneda, pero recuerda también la equivalencia fundamental entre el pintor y el escritor, entre los escritos y las imágenes.
+
+
+[18:23] Esta teoría, a menudo enunciada en los libros de emblemas mediante el recordatorio del verso de Horacio, *ut pictura poesis*, justifica la falta duradera de ilustraciones en textos que tienen el poder de producir en la mente del lector, por sus palabras únicamente, la presencia de los lugares, los acontecimientos y los personajes.
+
+
+[18:56] Durante los primeros cincuenta años de su existencia editorial, la historia escrita por Cervantes careció de ilustraciones, salvo algunas de sus portadas, como hemos visto para la traducción francesa de 1614 retomada en Inglaterra para la traducción de la segunda parte del Quijote en 1620. Solo a fines del siglo XVIII le acompañó a esta historia un mapa de las tres salidas del hidalgo andante.
+
+
+[19:38] El mapa incluido en la edición de 1780 fue el primero, a diferencia del incorporado a la edición erudita y anotada de John Bowle en 1781, un libro también presente en la colección de Monterrey. Este mapa de 1780 presenta la trayectoria de las itinerancias de Don Quijote y no solo, como lo hace el mapa inglés, la localización de los lugares mencionados en la historia.
+
+
+[20:25] En cambio, es un mismo mapa de los viajes de las salidas de Don Quijote el que se une a la edición publicada en 1797-1798 por Gabriel de Sancha; por supuesto, está presente también en la colección. El establecimiento de esta edición de 1797-1798 estuvo a cargo de Juan Antonio Pellicer, bibliotecario del rey y miembro de la Real Academia de la Historia.
+
+
+[21:03] Como lo indica la página de título, la portada, Pellicer propone un texto, cito: «Corregido de nuevo, con nuevas notas, nuevas estampas, con nuevo análisis y con la vida del autor nuevamente aumentada».
+
+
+[21:22] El mapa incluido en el libro lleva por título *Carta geográfica de los viajes de Don Quijote y sitios de sus aventuras*. En este caso aparece en el quinto volumen de la edición de 1797-1798, cuando estaba introducido en el primer volumen de la edición de Sancha en 1780.
+
+
+[21:52] El autor del mapa, Manuel Antonio Rodríguez, lo dibujó sobre la base de las observaciones históricas de Pellicer, que lo comenta en su *Descripción geográfico-histórica de los viajes de Don Quijote*. En el mapa se distinguen cuarenta y cinco aventuras, no solamente treinta y cinco como en 1780, repartidos estos cuarenta y cinco lugares entre las tres salidas de Don Quijote: en la primera, solo en el Campo de Montiel, y luego en las dos siguientes con su escudero Sancho.
+
+
+[22:43] El mapa agrega nuevas identificaciones geográficas a las propuestas en 1780: así, el número 35 pasa a ser el entierro de Don Quijote y el número 37 llega a Barcelona. La edición incluye asimismo dos planos: un plano geográfico de las Lagunas de Ruidera y curso que hacen sus aguas sobrantes con el nombre de río Guadiana, levantado por Juan de Villanueva, arquitecto del rey y de la ciudad de Madrid, que numera trece lagunas y no solo, como lo hace Cervantes, nueve.
+
+
+[23:27] Y por otro lado, otro plano: una demostración de la célebre Cueva de Montesinos citada por Cervantes en Don Quijote y visitada por Don Quijote y Sancho en los capítulos 22 y 23 de la segunda parte. En esta última lámina, un corte de la cueva es acompañado por una vista exterior de la entrada debida al pintor Paret, que ilustró la edición.
+
+
+[23:58] Este representa en ella la escena en que Don Quijote, Sancho y su primo —un famoso estudiante, cito, «y muy aficionado a leer libros de caballerías y que conoce el lugar, el emplazamiento de la legendaria cueva»— llegan a la entrada de la gruta, a la cual Don Quijote, sólidamente encordado, se apresta a bajar. Exactitud geológica, ficción narrativa y erudición quedan así estrechamente asociadas.
+
+
+[24:45] Con respecto a las Lagunas de Ruidera, cuyo origen mítico se recuerda en el capítulo 23 de la segunda parte, Pellicer en su descripción geográfico-histórica coteja las observaciones de Juan de Villanueva, el arquitecto del rey que levantó el plano de las lagunas y de la cueva, con varios documentos históricos conservados en la Biblioteca Real.
+
+
+[25:15] Se citan así las respuestas de los habitantes de Daimiel y Osa de Montiel al cuestionario de las Relaciones Topográficas de los pueblos de España hechas por Felipe II, y el manuscrito de la *Historia eclesiástica de la imperial ciudad de Toledo* del jesuita Román de la Higuera, condenado por otra parte por la creación de falsas crónicas paleocristianas, como lo recuerda Pellicer, pero al mismo tiempo mencionaba en su libro varias inscripciones romanas que retoma Pellicer en su comentario.
+
+
+[25:58] Las dos láminas de la edición de 1798 y sus comentarios producen una de esas magias parciales del Quijote, para citar de nuevo a Borges, que ya borran la distinción entre las invenciones del mundo del texto y, por otro lado, las realidades presentes en el mundo del lector. Los mapas que inscriben en territorios conocidos por los lectores las itinerancias imaginarias de un personaje de ficción intensifican los efectos de realidad del texto.
+
+
+[26:51] En la edición de 1780, Vicente de los Ríos se dedica a evaluar la credibilidad de la narración y, con ese fin, transforma las distancias en el mapa en duraciones de los viajes. Una legua sobre el terreno, que corresponde a ocho centímetros en el mapa, exige según él una hora de viaje con el caballo o el asno.
+
+
+[27:24] Su comentario se fundamenta en dos postulados. Por un lado, las aventuras de Don Quijote, héroe moderno como dice, son contemporáneas de la publicación de su relato y datan, pues, de 1604. Por otro, si se siguen literalmente las indicaciones cronológicas del texto, las tres salidas de Don Quijote tuvieron lugar el 28 y 29 de julio, entre el 17 de agosto y el 2 de septiembre, y entre el 3 de octubre y el 29 de diciembre de 1604. Tras su último retorno, el caballero andante, que vuelve a ser Alonso Quijano el Bueno, muere el 8 de enero de 1605.
+
+
+[28:29] La comparación entre la narración y el mapa permite a Vicente de los Ríos señalar los yerros de geografía de Cervantes, que asigna demasiado poco tiempo a las distancias recorridas por su héroe. Se menciona entonces un ejemplo correspondiente al capítulo 29 de la segunda parte.
+
+
+[29:05] Cito a Vicente de los Ríos: «Aquí cometió Cervantes un notable yerro de geografía, porque, dividida en cinco jornadas la distancia que hay desde la venta de los títeres —que en el itinerario del mapa es el número 23— hasta el río Ebro y aventura del barco encantado —número 25—, corresponde a cada jornada unas catorce leguas de andadura, y no es posible que Rocinante y el rucio anduviesen tanto camino en tan poco tiempo».
+
+
+[29:41] De igual modo, en el capítulo 50, el paje enviado por la duquesa a la mujer de Sancho no pudo hacer el viaje de ida y vuelta en seis días. Cito a Vicente de los Ríos: «Estando el lugar de Don Quijote en la Mancha junto al Toboso, y el palacio de los duques en Aragón, en las orillas del Ebro».
+
+
+[30:13] Decididamente, la geografía de Cervantes no tiene nada de cartográfico, como lo muestra la confusión —siempre estoy siguiendo a Vicente de los Ríos— del capítulo 9 de la segunda parte, al comienzo de la tercera salida del hidalgo.
+
+
+[30:32] De nuevo Vicente de los Ríos: «También cometió otro yerro de geografía diciendo que al salir del Toboso Don Quijote y Sancho siguieron el camino de Zaragoza, porque todos los lugares de las aventuras desde el Toboso hasta las Lagunas de Ruidera deben estar al mediodía del Toboso, dirección contraria a Zaragoza, que está al norte, como se demuestra en el itinerario señalado en el mapa desde el número 17 hasta el número 22». Este yerro se repitió en el capítulo 14.
+
+
+[31:20] A esas equivocaciones geográficas, Vicente de los Ríos agrega los errores de cronología detectados por las diferencias entre la narración y el calendario que el mismo Vicente de los Ríos ha establecido. Cervantes pone así la fiesta de Corpus Christi en octubre y no en junio como debe ser; describe la recepción de los duques en verano cuando en realidad se celebra en octubre; y sitúa la captura de Don Quijote a manos del bandido Guinart en la víspera de San Juan, cuando ocurrió en ese mismo mes de octubre.
+
+
+[32:04] Esos errores son otras tantas pruebas para Vicente de los Ríos de las negligencias bien conocidas de un autor que olvida lo que ha escrito, por ejemplo respecto a la duración del gobierno de Sancho en la ínsula Barataria, o que repite la misma escena, por ejemplo el envío de la carta de la duquesa a la mujer de Sancho dos veces, en los capítulos 46 y 50.
+
+
+[32:33] De tal modo, a las inverosimilitudes evaluadas por medio de la comparación entre la duración en la narración y las distancias calculadas en el mapa se suman los anacronismos y las negligencias internas del relato, atribuidas por Vicente de los Ríos a la prisa con que Cervantes escribió su historia, en particular su segunda parte.
+
+
+[33:08] En 1797-1798, en la segunda edición que tiene mapa, Pellicer recusa semejante perspectiva crítica adoptada por Vicente de los Ríos. «Porque —dice Pellicer— la cronología de Cervantes no es la de un historiador que sigue con exactitud la razón y el orden de los tiempos, cuanto como la de un poeta que los suele invertir y trastornar según lo hizo Virgilio con Dido y Eneas».
+
+
+[33:53] De igual manera parece que esta observación puede aplicarse también a la geografía. Cito de nuevo a Pellicer: «En la geografía que observó Cervantes, pues de un poeta y escritor de fábulas caballerescas no debe esperarse la rigurosa observancia de las leyes geográficas que tanto obligan al historiador y cronista de sucesos verdaderos».
+
+
+[34:28] «De ahí también que si tal vez se nota alguna oscuridad o contradicción en consecuencia en la situación de los lugares donde sucedieron las aventuras, se debe creer que así como estas son quiméricas, lo son igualmente muchos de los sitios donde acaecieron».
+
+
+[34:57] Vuelve a retomar la distinción tantas veces enunciada en el propio libro entre la historia y la poesía, pero para invertirla: para Pellicer, Don Quijote ya no es una historia, sino una fábula escrita por un poeta. Pellicer no propone ni fechas ni duraciones.
+
+
+[35:27] No obstante, alimenta su descripción con observaciones eruditas fundadas en documentos que él había consultado en la Biblioteca del Rey o en la biblioteca de la Academia de la Historia. A veces esas lecturas le permiten llenar los silencios del relato.
+
+
+[35:54] Es lo que sucede con las noticias consagradas a las ciudades de Cariñena, Cosuenda y Encinacorba, mencionadas durante dos jornadas de camino sin aventuras ni discurso al comienzo del capítulo 29 de la segunda parte. Cito a Pellicer: «Y supuesto que insinúa Cervantes que dos días que tardaron en llegar al río Ebro Don Quijote y su escudero los pasaron sin hablar y sin que les sucediese aventura alguna, se suplirá esta dilatada inacción y largo silencio refiriendo alguna singularidad de cada una de las tres mencionadas villas».
+
+
+[36:52] Así, la erudición histórica llena los blancos y los silencios de la narración cuando —y aquí retoma la palabra que de hecho está criticando— la historia nada especifica. A pesar de sus dichos, la identificación entre el mundo del lector y el mundo del texto sigue siendo una de las preocupaciones de Pellicer.
+
+
+[37:22] Así, identifica el palacio de los duques con el de los duques de Villahermosa. Cito a Pellicer: «Lo cierto es que la geografía, la cronología, la circunstancia de castillo, palacio, jardín, bosque para montería que atribuye Cervantes a los huéspedes de Don Quijote se verifican en el palacio de Buena Villa que tenían los duques de Villahermosa para su recreo, y todo concurre para conjeturar que estos eran aquellos señores».
+
+
+[38:02] En varias oportunidades, Pellicer plantea hipótesis realistas en los silencios del relato. En tanto que Cervantes no dice nada del camino seguido por Don Quijote a lo largo del Ebro, Pellicer propone su itinerario basándose en la identificación de los duques.
+
+
+[38:30] Cito: «Es de presumir que nuestro caballero andante se apartase del Ebro bajando por su orilla en busca de Zaragoza, porque estos señores eran los duques de Villahermosa, que residían en Pedrola». Las magias del Quijote parecen seducir incluso a quienes, tal como Pellicer, han planteado la ilusión de la fábula.
+
+
+[39:04] Los itinerarios trazados en los mapas de España invitan a los lectores a convertirse en compañeros de viaje de Don Quijote y de Sancho. Al situar sus hazañas y sus desventuras en lugares bien reales, identificados con precisión, los mapas de 1780 y 1797 tienen varios papeles: proponen un índice de las aventuras del caballero andante, remiten a los lectores a su propio saber y experiencia del territorio, y hacen ver la apertura de los horizontes de la historia.
+
+
+[40:04] Iniciada esta en los espacios estrechos del Campo de Montiel y de Sierra Morena, la historia conduce a sus héroes hasta Barcelona luego de atravesar Castilla y Aragón. Así, los caminos polvorientos de los cuales hablaba Borges llevan al mar descubierto en el capítulo 61 de la segunda parte.
+
+
+[40:37] Cito: «Tendieron Don Quijote y Sancho la vista por todas partes; vieron el mar, hasta entonces de ellos no visto; parecióles espaciosísimo y largo, harto más que las Lagunas de Ruidera que en la Mancha habían visto». En el mapa de 1780 se indican los dos paisajes: mar y lagunas.
+
+
+[41:10] El número 22, puesto en el Campo de Montiel, designa las Lagunas de Ruidera y la Cueva de Montesinos; mientras que, como decía, el número 33, impreso al lado de Barcelona, menciona, cito: «El sitio de la batalla del Caballero de la Blanca Luna en la playa de Barcelona, donde Don Quijote quedó vencido».
+
+
+[41:35] Los mapas de las salidas de las andanzas del caballero serán frecuentes en las ediciones de Don Quijote publicadas en la primera mitad del siglo XIX. Todos estos mapas se inspiran en uno u otro de los dos mapas españoles de fines del siglo anterior.
+
+
+[42:10] El mapa de 1780 fue utilizado por una traducción inglesa publicada en Londres en 1801, que revisa y corrige la traducción de Jarvis publicada en 1742 que hemos encontrado el lunes. Fue utilizado el mapa de 1780 por una edición del texto español en Berlín en 1805, y por la edición en miniatura y en español publicada en París en 1827 por los hermanos Didot y reeditada en 1832.
+
+
+[42:58] El mapa de 1797-1798 sirve de modelo a la edición del texto español publicada en París en 1814 por Bossange y Masson, que utiliza tres colores diferentes para las tres salidas de Don Quijote. También sirve de modelo a la traducción francesa publicada por Desoer en París en 1821 con un mapa que destaca los relieves montañosos, y sirve también de modelo a otra traducción francesa, la de Bouchon Dubournial, aparecida al año siguiente en la casa Méquignon-Marvis, cuyo mapa se preparó de conformidad con las observaciones hechas sobre el terreno por Bory de Saint-Vincent, un militar naturalista.
+
+
+[43:57] En la colección se encuentran tanto la edición de los hermanos Didot de 1827 como la edición de Bossange de 1814. Los dos modelos españoles reaparecen en las primeras ediciones americanas del texto: la edición de Boston en 1836 en español se inspira en la edición de París y, por tanto, en el mapa de 1797-1798; mientras que la edición de México de 1842, presente en la Biblioteca Cervantina, es fiel al mapa de 1780.
+
+
+[44:59] En la segunda mitad del siglo XIX se repite la misma historia que no he seguido, aunque en este caso aparece una innovación. En 1880, en un libro de Manuel de Foronda, *Cervantes viajero*, no son las itinerancias de Don Quijote las que dan motivo a un mapa, sino los viajes verificados o supuestos del escritor que imaginó Don Quijote de la Mancha.
+
+
+[45:37] El mapa, que abarca todo el espacio mediterráneo tanto europeo como africano, hace ver los viajes de Cervantes en España como compañero del legado papal y luego en Italia como soldado. El mapa le sigue a la batalla de Lepanto en 1571 y marca con una cruz el lugar donde le capturaron los piratas berberiscos frente a las islas Baleares en 1575.
+
+
+[46:17] Los viajes reaparecen al cabo de los cinco años de cautiverio en Argel con el retorno a España; lo sigue una supuesta expedición a las Azores desde Lisboa en 1581 y, para terminar, las últimas misiones a Mostaganem y Orán. Lo interesante es que las itinerancias del Cervantes viajero lo llevan a recorrer los mismos espacios que sus personajes: Don Quijote, que atravesó Castilla y Aragón; los peregrinos del Persiles, que siguieron el camino que lleva desde Lisboa hasta Roma; o los cautivos de los berberiscos, Ruy Pérez de Viedma en Don Quijote y Ricardo en *La española inglesa*, que ambos terminan en los baños de Argel, víctimas del infortunio de las navegaciones mediterráneas, tal como lo hizo Cervantes en 1575. Muchas gracias.
+
+
+[47:46] Tenemos un poco de tiempo para esta conferencia y otros temas que interesen a los colegas o estudiantes que nos han escuchado.
+
+
+[48:00] >> Marcela: Muchísimas gracias. Vamos a ver si aquí en la sala hay alguna pregunta o comentario, y quienes nos están viendo a través de Zoom, si gustan abrir su cámara y levantar la mano. Nos ha dicho el doctor Chartier que no necesariamente tiene que ser sobre esta sesión: las preguntas pueden ser sobre cualquier tema.
+
+
+[48:23] >> Roger Chartier: No necesariamente sobre el Quijote tampoco.
+
+
+[48:28] >> Marcela: Bien, pero lo interesante es que me parece que, con todos los recursos extraordinarios de la biblioteca, este tipo de geografía que aparece a partir de finales del siglo XVIII con los mapas en el Quijote... La biblioteca posee todas las ediciones que ha mencionado, a partir de 1780 hasta la primera mitad del siglo XIX. No sé si haya habido investigadores que hayan venido a trabajar ese tema acá en la Cervantina, Marcela, los mapas.
+
+
+[49:14] >> Marcela: Que vengan, que vengan. No han venido, me dice la directora de la Cervantina, investigadores a ver ese tema en específico.
+
+
+[49:23] >> Roger Chartier: Había un magnífico catálogo de la Biblioteca Nacional de Madrid que era sobre los mapas del Quijote.
+
+
+[49:40] >> Marcela: Parece que se apagó su micrófono sin querer. A ver si usted lo puede abrir, profesor Chartier, si puede abrir el micrófono. Parece que se apagó, se cerró. Aquí está. Sí, no le alcanzamos a escuchar lo que nos decía sobre el catálogo.
+
+
+[50:02] >> Roger Chartier: No, solamente como una base para una investigación sobre los mapas del Quijote se puede utilizar este magnífico catálogo de una exposición de la Biblioteca Nacional en Madrid, *Los mapas del Quijote*, con los mapas que se despliegan como se desplegaban en las ediciones del siglo XVIII o XIX. Puede ser preguntar sobre cualquier tema, no necesariamente los mapas.
+
+
+[50:57] Pero para mí era importante este tema de los mapas porque es una manera de mostrar que un libro no es únicamente el texto que publica este libro, que un libro es mucho más que el discurso que llamamos libro de Cervantes. En cualquiera de estas ediciones, no solamente las ilustraciones, pero a partir de las ediciones que he mencionado, los mapas hacen del libro algo más que el texto de Cervantes.
+
+
+[51:30] Y todos estos elementos que McKenzie describía como no textuales... Los mapas son en parte textuales porque están las indicaciones de los lugares o de los nombres, pero al mismo tiempo es un objeto que tiene su propia lógica: mostrar un territorio. En ese sentido, todos estos elementos participan de la construcción del sentido por parte del lector.
+
+
+[52:02] Y si una apuesta fundamental para El Quijote es borrar la diferencia, como fue borrada la diferencia entre los libros de caballerías y el lector Don Quijote de la Mancha, si es una operación que se repite para el lector del Quijote —lo que Borges llamaba magias parciales—, todos esos elementos contribuyen a este efecto de realidad. Porque en este caso se da un mapa exacto de un territorio auténtico que se refiere a una geografía conocida por los lectores.
+
+
+[52:47] Y el encuentro entre esta realidad percibida, conocida, tal vez andada, y por otro lado la presencia de un héroe ficticio, inventado, imaginado, puede producir tanto efecto de realidad como este momento de suspensión de la incredulidad que involucra al lector por un cierto tiempo, el tiempo de su lectura. A diferencia de Don Quijote, no va a pensar que su vida entera está en el mundo del Quijote, pero durante el momento de la lectura hay una forma de suspensión de esta incredulidad para tener el provecho de penetrar como actor en el mundo del libro.
+
+
+[53:48] Y de ahí esta idea de seguir como compañero de viaje a Don Quijote entre las dos partes, entre el Campo de Montiel y este momento de presencia en Barcelona, donde visita tanto las galeras como la imprenta.
+
+
+[54:06] >> Marcela: Muchas gracias. Tenemos una pregunta de Telma Camacho y después otra de Araceli. Adelante, Telma, vamos a abrir tu micrófono.
+
+
+[54:19] >> Telma Camacho: Ya se escucha, ¿verdad? Nada más una pregunta: noto que es durante el siglo XVIII que se hacen estos mapas, que hay una insistencia en la realidad, en la verdad y de representarla gráficamente. Pero también hay tierras fantásticas en El Quijote; la más significativa es la ínsula Barataria. ¿Cómo recibe este Siglo de las Luces esto o simplemente lo suprime?
+
+
+[54:55] >> Roger Chartier: En primer lugar, no hay mapas de estos lugares imaginarios del Quijote en todas las ediciones que conozco. Tal vez a partir de la segunda parte del siglo XIX o en el XX podemos... No sé si en algunos hayan representado los lugares imaginarios del Quijote, no solamente la España del Quijote; sería una primera investigación saber si existen, cuándo y por qué representaciones de lo que usted dice que son los lugares imaginarios del texto.
+
+
+[55:32] Más ampliamente, la relación del siglo XVIII con el Quijote efectivamente refuerza esta distinción entre la fábula, la ficción —que es este mundo imaginario en el cual Don Quijote piensa que está realmente viviendo—. De esta manera puede ser una representación, una denuncia de los peligros de la lectura, que puede hacer confundir el mundo ideal de los textos con un mundo que no lo es.
+
+
+[56:16] Y al mismo tiempo, es en el XVIII, me parece, donde se toma una primera distancia en relación con la visión puramente cómica del Quijote, en el sentido de que, como decía el primer día, todos los discursos de Don Quijote sobre corpus literarios que no son los libros de caballerías son razonables, agudos, informados: el discurso sobre la comedia, el discurso sobre otros géneros discursivos.
+
+
+[56:51] Y entonces, el momento en que me parece que existe en los comentarios o en estas traducciones o reempleos del texto para obras teatrales —en el caso inglés, por ejemplo—, aparece esta dicotomía del personaje entre cordura y razón, por un lado, y por otro lado locura. Y tal vez esta tensión entre la locura y el buen sentido es una contribución del XVIII para progresivamente desplazar la lectura del Quijote desde la visión de lo cómico hacia lo serio.
+
+
+[57:44] En el caso del XVIII, y lo hemos visto, hacia lo trágico, lo melancólico, lo romántico, lo militante en el XIX. Sería, me parece, un momento que corresponde a los discursos contradictorios del siglo XVIII sobre la lectura: lectura necesaria para los progresos de las luces y lectura peligrosa cuando, con un exceso de lectura, se olvida el mundo real para proyectarse en un mundo de la ilusión.
+
+
+[58:27] Esta ambivalencia de los discursos en Alemania o en Francia sobre la lectura como provechosa o como peligrosa encuentra en las interpretaciones del Quijote una ilustración, una ejemplificación. Sería de esta manera como me parece que se negocia en el siglo XVIII.
+
+
+[59:02] >> Marcela: Vamos con la pregunta de Araceli Sánchez. Adelante.
+
+
+[59:06] >> Araceli Sánchez: ¿Qué tal? Buenos días, un saludo a todos. Un gusto saludarlo, doctor Roger Chartier. Hace varios años, como unos cinco o seis años, tuve la oportunidad de entrevistarlo para un programa de radio y fue maravilloso, entonces para mí es un honor estar aquí y escucharlo. Estoy haciendo una tesis doctoral que tiene que ver con los libros y me gustaría saber de qué forma se puede rescatar la materialidad de estos materiales con las nuevas tecnologías. ¿Hay forma?
+
+
+[59:51] >> Roger Chartier: Es una pregunta y es un desafío, porque evidentemente hay también una ambivalencia. Por un lado, las nuevas tecnologías permiten encontrar los textos antiguos sin necesariamente ir a la biblioteca del Politécnico de Monterrey, a la Biblioteca Nacional de Madrid o a la Bibliothèque nationale de France. De esta manera, la conversión digital de estos libros permite un uso que no existía anteriormente con la necesidad del encuentro con el objeto mismo.
+
+
+[1:00:39] Es una extraordinaria posibilidad; al mismo tiempo, no debemos caer en la idea de la equivalencia. Porque cuando estamos frente a un libro del siglo XVI en su reproducción digital, evidentemente podemos estar frente al discurso, al texto que comporta, podemos ver las ilustraciones, pero tres elementos desaparecen, como lo decía el primer día.
+
+
+[1:01:10] El primer elemento fundamental para la cultura impresa o escrita desde la Edad Media: el formato. El formato de nuestro aparato no es el formato del libro. Podemos tener una gran reproducción de un pequeño in-octavo o in-duodécimo, y al mismo tiempo tener una miniaturización del folio.
+
+
+[1:01:45] Pensar que el formato era —como lo decía en la visita a la biblioteca de Don Quijote, el escrutinio de la biblioteca de Don Quijote— una indicación, un elemento esencial en relación con el género de los textos y con los usos por parte de los lectores... Desaparece; lo debemos imaginar o reconstruir a partir de las indicaciones en cuanto al formato, pero no, como en la biblioteca, directamente con la experiencia del formato. Es una primera pérdida.
+
+
+[1:02:24] Una segunda: como decía también, muchos libros en la primera modernidad no eran solamente un texto; muchos libros eran la encuadernación de varios textos o libros que un lector quería poner juntos, algunas veces para protegerlos contra la destrucción. Es el caso de los pliegos sueltos de los textos de teatro publicados en formato in-cuarto: la encuadernación los protegía y siempre producía una relación de proximidad entre varios textos, porque no había una encuadernación de un pliego suelto.
+
+
+[1:03:16] Cuando se encuentran las ediciones en cuarto de las obras inglesas del tiempo isabelino, se ve que son en general una serie de obras puestas juntas, pero puestas juntas por la voluntad, la conciencia y la percepción del propietario o del lector. Es la misma cosa con las partes de las comedias, que generalmente son la manera de proteger las comedias sueltas de la destrucción. Entonces la reproducción de una obra sola puede borrar la importancia que estaba vinculada con la copresencia en un mismo libro de varias obras, que podía ser una voluntad del librero-editor, pero más generalmente era el resultado de la decisión del lector; y de ahí también intentar rescatar en las bibliotecas la realidad de esta encuadernación de varios libros para hacer un libro.
+
+
+[1:04:39] Y finalmente, un tercer elemento que desaparece es la relación inmediata entre un fragmento y la totalidad de la obra. El libro material, en su realidad tipográfica o anteriormente manuscrita, da a ver inmediatamente la ubicación y el papel desempeñado por una parte, un capítulo o un parágrafo dentro de la arquitectura total de la obra.
+
+
+[1:05:15] Desaparece totalmente en la reproducción digital esta posibilidad de ubicar inmediatamente el pasaje que usted está leyendo dentro de la narración, la argumentación o la demostración. Entonces la conclusión sería, efectivamente, reconocer que la tecnología digital y la representación digital de los textos impresos han permitido formas de apropiación absolutamente imposibles anteriormente, y al mismo tiempo pensar en la prudencia para nuestros comentarios en relación con estas discontinuidades: el libro como encuadernación, la relación visible entre el fragmento y la totalidad textual, la arquitectura de la obra materializada en la arquitectura del libro y, finalmente, este elemento esencial de la producción escrita o impresa que era el formato.
+
+
+[1:06:37] Esto me parece que las bibliotecas nos lo enseñan, y es la razón por la cual me parece que debemos tener más relación entre enseñanza, crítica literaria, historia cultural y realidad de la conservación en las bibliotecas, porque es el lugar donde se pueden percibir estos tres elementos: el libro misceláneo, el formato del texto y la relación entre la totalidad textual y el fragmento.
+
+
+[1:07:19] Y para concluir: evidentemente el mundo digital no es solamente el mundo de los libros digitalizados; el mundo digital es fundamentalmente el mundo de comunicación de textos breves que son las redes sociales o las informaciones digitales. Y hay como un efecto sobre la relación con las obras cuando existen de manera digital y los usos más frecuentes de la misma tecnología, lo que podría conducir a pensar que los fragmentos ya no son fragmentos, porque el fragmento supone la conciencia y la percepción de la totalidad de la cual es o fue un fragmento.
+
+
+[1:08:05] Cuando la omnipresencia de los textos breves crea un universo de la cultura escrita en el cual la forma breve es dominante, apoderándose de un parágrafo o de una serie de frases de una obra, naturalmente descontextualiza estos fragmentos y no se preocupa o no puede fácilmente localizar o ubicar este fragmento dentro de la obra en la cual desempeñaba un papel particular. Y el riesgo aquí es, evidentemente, que con la descontextualización podemos tener interpretaciones totalmente erradas, absurdas o equivocadas del fragmento, porque ya no está pensado como un fragmento, sino como una unidad textual autónoma e independiente.
+
+
+[1:09:14] Entonces, no sé si he respondido, pero era esta idea de reconocer a la vez las posibilidades y hacer hincapié en las discontinuidades. Y no pensar con el modelo de la equivalencia: es lo que me parece que ha conducido a las equivocaciones del presente.
+
+
+[1:09:44] Hay una idea de equivalencia generalizada: ¿por qué ir a la biblioteca si puedo leer frente a la pantalla?, ¿por qué ir a la librería si puedo comprar con comercio electrónico?, ¿por qué comprar un periódico impreso si puedo leerlo frente a la pantalla? Todos estos elementos están vinculados con la idea de que nada se pierde, de que hay una equivalencia, lo cual no es el caso.
+
+
+[1:10:15] Porque tanto la tecnología digital permite actos y prácticas de apropiación imposibles en el mundo manuscrito o impreso, como al mismo tiempo impone lógicas que son propias del mundo digital y que, en un cierto sentido, nos alejan de la realidad material de la inscripción de los textos en el siglo XIX, siglo XX y aún más en la primera modernidad.
+
+
+[1:10:56] >> Marcela: Vamos a escuchar a Luis Gabutti, que tiene también una pregunta. Adelante, Luis.
+
+
+[1:11:04] >> Luis Gabuti: Hola, muy buenos días aquí en México, buenas tardes allí en Francia. Muchísimas gracias, doctor Roger Chartier, espero que se me escuche bien.
+
+
+[1:11:16] Primero que nada, se me hace fascinante que en estos tres días nos haya mostrado que el siglo XVIII ha servido como un momento de relectura y repensamiento no solamente de Cervantes, sino de Shakespeare y del Inca Garcilaso de la Vega, y que también ahí se empiezan a generar estas lecturas críticas por parte de los humanistas y luego por parte de los críticos literarios; pero también, a partir de lo que comentó hoy, de esta tematización literaria del lector enloquecido, que en Shakespeare también ha influido en el siglo XIX en otros personajes.
+
+
+[1:12:01] Mi pregunta va más en relación con algo que dejó en el tintero el lunes, que es sobre el lector común. Porque si bien podemos hacer un rastreo de lecturas críticas o de cómo los escritores han tematizado las lecturas de estos autores en sus propias obras, me quedo con la duda en torno al lector común, esto que Michel de Certeau en *Las maneras de hacer* reflexionaba sobre cómo el lector se apropia del texto.
+
+
+[1:12:33] Mi pregunta en concreto sería: las representaciones o inclusive el uso de la iconografía que rodea al Quijote —la típica imagen de Sancho y Don Quijote enfrentando el molino de viento, o sencillamente la imagen de este caballero andante flaco con Rocinante—, ¿se podrán entender como esta apropiación por parte del lector, o en qué otros registros podríamos investigar más bien estas lecturas de los lectores comunes? Muchísimas gracias.
+
+
+[1:13:14] >> Roger Chartier: Otra pregunta fundamental, evidentemente. Para empezar con la referencia a este capítulo de Michel de Certeau que describía la lectura como una caza furtiva: el lector va a entrar en un territorio del cual no es el propietario —es el territorio del libro, del autor o del editor— y va a cazar furtivamente en este territorio.
+
+
+[1:13:51] Lo que conducía a Michel de Certeau a hacer hincapié en la capacidad productora, inventiva e imaginativa de la lectura era la idea de resistir a todas las críticas literarias que habían ubicado al lector dentro del texto como si fuera su prisionero por el funcionamiento lingüístico del texto. Era una liberación del lector, que puede inventar, apropiarse del texto e imaginar un nuevo texto mental a partir del texto escrito.
+
+
+[1:14:32] De acuerdo con un matiz o una observación —la conclusión de la primera conferencia—: evidentemente el lector tiene capacidad de invención y no lo podemos describir como prisionero del texto. El primer matiz: evidentemente esta capacidad inventiva no está igualmente distribuida entre los lectores, y de ahí sería interesante una historia sociocultural de las comunidades de lectores.
+
+
+[1:15:13] Algunas con más libertad o inventiva, porque esta libertad se nutre de otras lecturas, de la totalidad de la cultura escrita y de las herencias; y otros lectores, tal vez más populares, que no tienen esta forma de herramientas para la invención y que pueden estar en una relación más dependiente con el texto en su discurso y en su forma material. Sería una primera observación.
+
+
+[1:15:50] La segunda sería pensar que, si el lector puede inventar y producir sentido, lo hace dentro de una serie de constreñimientos que le vienen tanto de su identidad sociocultural como de lo que impone en un cierto momento una clasificación de género discursivo o las formas mismas de inscripción de los textos. De ahí, en su pregunta, hay uno de estos elementos que puede desempeñar un papel entre el texto mismo que escribió Cervantes, lo que publicaron los editores y los lectores del Quijote: hay una serie de intermediarios.
+
+
+[1:16:45] Las ilustraciones, a partir del momento en que aparecen, son unos de estos intermediarios que van sea a reforzar el contenido textual, sea a suplementarlo. De ahí la importancia de descifrar cómo varios estilos de ilustraciones del Quijote desempeñan un papel en la recepción de la obra por parte de los lectores que se confrontan a estas ilustraciones.
+
+
+[1:17:33] Un ejemplo fundamental sería que la lectura romántica de Cervantes depende fundamentalmente de las ilustraciones de las ediciones del siglo XIX, y particularmente en el caso francés: el personaje frente al mundo, un mundo que no corresponde finalmente a lo que ha imaginado. Y entonces la interpretación, si no trágica, pero sí romántica del héroe que se encuentra con un mundo que resiste a su propio sueño, es dependiente no directamente del texto de Cervantes, que hacía reír en el XVII, sino de las ilustraciones de las ediciones del siglo XIX.
+
+
+[1:18:30] Sería una serie de mediaciones, lo que hace muy difícil, rico e interesante la cuestión de la lectura. Porque para asir estas interpretaciones de los lectores podemos utilizar lo que algunos lectores nos han dejado como testimonio sobre sus lecturas: algunos escritores han escrito sobre las lecturas que han contribuido a sus propias obras; hay aquí una primera fuente en las obras mismas de autores como lectores de obras anteriores.
+
+
+[1:19:21] Para los que no son autores, evidentemente podemos utilizar documentos de la esfera privada: cartas, diarios íntimos, memorias. Y finalmente, más recientemente, un acento puesto sobre lo que los lectores han escrito en los libros que han leído: un estudio sistemático de las anotaciones marginales en los libros de las bibliotecas.
+
+
+[1:19:53] Era un poco paradójico, porque durante mucho tiempo a los bibliófilos no les gustaba cuando un libro estaba con notas manuscritas; era como una profanación. La situación se ha invertido, tal vez gracias a la historia del libro: considerar que un libro que tiene anotaciones marginales es un ejemplar con un valor particular, porque podemos seguir a varios lectores con la pluma en la mano escribiendo en el libro mismo.
+
+
+[1:20:32] Pero son los tres recursos: lo que han escrito autores, lo que han escrito lectores que no son autores en documentos de la existencia personal, y lo que han escrito en los libros algunos lectores. Evidentemente es una fuente magnífica, pero muy desigual: más importante para los siglos XVIII y XIX que para el XVI o el XV; y en segundo lugar, más frecuente para los lectores de medios aristocráticos o eruditos que para los sectores más populares, que no han dejado este tipo de huellas.
+
+
+[1:21:20] Es la razón por la cual, una vez afirmado que el lector no está en el texto, intentamos leer los discursos en relación con su materialidad para imaginar los constreñimientos que imponían sobre la lectura la pertenencia a un género, la forma misma de la escritura o la modalidad de la inscripción. Esta tensión está dentro de una historia de las lecturas y de los lectores.
+
+
+[1:22:04] >> Marcela: Muchísimas gracias, doctor. Se nos está ya acabando el tiempo. Hablando de las bondades que nos da el mundo digital, gracias a él pudimos tenerlo de esta manera, que de ninguna forma sustituye la posibilidad de su presencia en vivo —que esperamos se pueda concretar en algún momento—.
+
+
+[1:22:30] También comentar que las ediciones de los siglos XVII y XVIII, así como el primer Quijote impreso en México en 1833, están disponibles de manera digital para quien los quiera consultar a la distancia, pero tampoco sustituye la visita a la Cervantina y el poder tocar, oler y ver la materialidad de estas ediciones.
+
+
+[1:22:56] >> Roger Chartier: Desplegar los mapas, porque como decía, en 1842 está el primer Don Quijote en México con un mapa, y en las ediciones de final del XVIII es una experiencia diferente hacer el gesto que hacían los lectores de ese tiempo de abrir el libro. Porque algunas veces los mapas no están siempre en el mismo volumen: pueden ser un objeto que viaja por sí mismo.
+
+
+[1:23:32] Y lo triste algunas veces es que en el XIX o XX las ilustraciones autónomas o mapas fueron vendidos separadamente del texto y ya no se encuentran en las ediciones contemporáneas. Pero lo que he leído de las descripciones bibliográficas de los libros de la colección de la Biblioteca Cervantina de Monterrey muestra que los mapas están aquí: se pueden ver en el primer volumen de 1780 y en el cuarto o quinto de 1797-1798.
+
+
+[1:24:18] >> Marcela: Es correcto. Así que los invitamos a venir a viajar con los mapas y esperamos tenerlo por acá en algún momento, doctor. Muchísimas gracias por este gran regalo en el aniversario de esta Cervantina y por detonar estas reflexiones importantísimas sobre el mundo fragmentado que vivimos y la necesidad de celebrar nuestras bibliotecas como los espacios para el encuentro con el sentido.
+
+
+[1:24:47] Ha sido un verdadero privilegio, un placer y un gozo escucharlo en estas tres sesiones, y seguimos en contacto.
+
+
+[1:24:54] >> Roger Chartier: Muy bien, muchas gracias a todos y todas durante estos tres días. Fue un placer para mí estar, de una cierta manera, presente en la ausencia en Monterrey. Muchas gracias.

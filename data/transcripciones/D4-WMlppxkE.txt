@@ -1,0 +1,343 @@
+﻿[00:05] >> Moderador/a (nombre desconocido): Muy buenos días a todas y a todos los que nos acompañan en esta segunda conferencia del doctor Roger Chartier.
+
+
+[00:10] Ayer tuvimos nuestra primera sesión sobre la materialidad de los textos, el caso de *El Quijote*, y ya por ahí algún apunte se vislumbraba de la relación con Shakespeare, por lo menos de las traducciones al inglés y al español de ambos autores. El día de hoy tendremos esta segunda conferencia magistral que lleva el título de «Historias textuales conectadas: El Inca Garcilaso de la Vega, Cervantes y Shakespeare».
+
+
+[00:42] Bienvenidos. Les pedimos, por favor, que mantengan sus micrófonos cerrados, de preferencia sus cámaras abiertas, y al final de la conferencia nuevamente tendremos minutos para una sesión de preguntas y respuestas en la que les pedimos que abran su cámara y levanten la mano; y aquí quienes nos acompañan en sala se acercarán a la silla donde estoy para hacer sus preguntas. Así es que, doctor Chartier, muchísimas gracias por estar con nosotros en esta fiesta de la Biblioteca Cervantina celebrando con nosotros; le cedo la palabra.
+
+
+[01:17] >> Roger Chartier: Muy bien, muchas gracias. Esta ponencia hoy es el resultado de un encuentro entre una fecha y un libro.
+
+
+[01:26] En 1995, la Conferencia General de la UNESCO decidió que el Día Mundial del Libro y del Derecho de Autor se celebraría cada año el 23 de abril. Como lo indicaba la UNESCO, cito: «El 23 de abril es una fecha simbólica para la literatura mundial. Es la fecha en la que murieron William Shakespeare, Miguel de Cervantes y el Inca Garcilaso de la Vega».
+
+
+[01:56] De hecho, no es tan cierto. Cervantes murió el 22 de abril de 1616 y fue enterrado el día siguiente.
+
+
+[02:08] Shakespeare vivió y murió en un país que seguía el calendario juliano y no el gregoriano, introducido en 1582 por el papa Gregorio XIII; en este calendario juliano, el 23 de abril de Cervantes era el 3 de mayo para Shakespeare. Parece que el Inca Garcilaso de la Vega murió realmente el 23 de abril de 1616, aunque su epitafio en la catedral indique el 22 como fecha de la muerte y los registros parroquiales mencionan que recibió la extremaunción el 24.
+
+
+[02:57] La fecha, sea cual sea, es un primer motivo para prestar atención a las posibles relaciones entre Garcilaso, Cervantes y Shakespeare.
+
+
+[03:12] Otro motivo fue para mí la adquisición reciente por la biblioteca de la Universidad de Pensilvania —en la cual soy profesor durante una parte del año— de un ejemplar de la primera edición de la primera parte de los *Comentarios reales* de Garcilaso de la Vega, un libro impreso en Lisboa en 1609. Empecemos con este libro y su portada: tres nombres la comparten.
+
+
+[03:45] El primer nombre es el nombre del autor: «Escrito por el Inca Garcilaso de la Vega, natural del Cuzco y capitán de Su Majestad». Garcilaso, nacido en Cuzco en 1539, era un mestizo, hijo del conquistador Sebastián Garcilaso de la Vega y de una princesa inca, Isabel Chimpu Ocllo, sobrina del inca Huayna Cápac, último emperador del Perú.
+
+
+[04:20] Sebastián nunca se casó con Isabel y su hijo, el Inca, fue ilegítimo. Su nombre de pila era Gómez Suárez de Figueroa, que era el nombre de uno de sus tíos; es solamente en 1563 que adoptó el nombre de su padre y se convirtió en Garcilaso de la Vega, cuatro años después de su llegada a España, donde vivió con su tío Alonso de Vargas en Montilla, en Andalucía.
+
+
+[04:55] Añadió «Inca» a su nombre español en los dos primeros libros que publicó: en 1590, *La traducción del indio de los tres Diálogos de amor de León Hebreo*, hecha de italiano en español por Garcilaso Inca de la Vega, natural de la gran ciudad de Cuzco, cabeza de los reinos y provincias del Perú; y en 1605, la historia de Hernando de Soto, conquistador de la Florida, publicada como *La Florida del Inca*, escrita por el Inca Garcilaso de la Vega, capitán de Su Majestad, natural de la gran ciudad de Cuzco, cabeza de los reinos y provincias del Perú. «Capitán de Su Majestad» era una referencia a las actividades militares de Garcilaso y a su participación en las guerras contra los moriscos que se sublevaron en 1568 en las montañas de las Alpujarras.
+
+
+[06:09] El segundo nombre sobre la portada es el nombre de la dedicataria: «La serenísima princesa doña Catalina, duquesa de Braganza». Garcilaso había dedicado su libro anterior, *La Florida del Inca*, al duque de Braganza, hijo de Catalina, mientras que su primer libro, la traducción de los tres *Diálogos de amor* de León Hebreo, estaba dedicado al rey Felipe II.
+
+
+[06:44] Catalina, que se había casado con el duque de Braganza en 1563, era nieta del rey don Manuel I. Por ello fue una de las pretendientes al trono de Portugal durante la crisis dinástica de 1580, finalmente resuelta, como sabemos, por la unión por Felipe II de las tres coronas de Castilla, Aragón y Portugal.
+
+
+[07:14] Con sus dos dedicatorias a los Braganza, Garcilaso buscaba el amparo de una poderosa familia aristocrática de ascendencia real cuya protección podía considerarse como una posible alternativa castellana en la monarquía compuesta española. En su dedicatoria, Garcilaso agradecía de antemano a la duquesa Catalina por su «real protección».
+
+
+[07:53] En la parte inferior de la portada aparecía el nombre del impresor y editor del libro, Pedro Crasbeeck, un refugiado flamenco que abrió una imprenta en Lisboa en 1590. En 1605 había publicado *La Florida del Inca*, que entraba en su política editorial dedicada por parte a los libros y publicaciones sobre las Indias Orientales y Occidentales.
+
+
+[08:28] Los preliminares de la edición de los *Comentarios reales* de Garcilaso en 1609 nos permiten seguir la historia de su publicación, meticulosamente reconstruida por Rachel Stein. El manuscrito de los *Comentarios* llegó a la tienda de Crasbeeck al mismo tiempo que el manuscrito de *La Florida*.
+
+
+[08:57] El manuscrito de los *Comentarios reales* fue aprobado por el censor de la Inquisición el 26 de noviembre de 1604 como una obra «muy curiosamente escrita», dice la aprobación, «que debía imprimirse por el poco conocimiento que tenemos de las cosas que contiene». La obra recibió la licencia del Consejo General de la Inquisición el 4 de diciembre de 1604 y la licencia del Desembargo do Paço, el tribunal real encargado de la censura de libros, el 15 de marzo de 1605.
+
+
+[09:42] Sin embargo, el libro no se publicó inmediatamente. Los representantes legales de Garcilaso en Lisboa necesitaron cuatro años para reunir los fondos necesarios para la publicación.
+
+
+[10:00] El colofón del libro indica que fue impreso por Crasbeeck en 1608 con licencia de la Inquisición, referencia a la licencia concedida en 1605. Finalmente, el libro recibió la licencia del ordinario, el arzobispo de Lisboa, el 2 de septiembre de 1609.
+
+
+[10:28] De ahí, en su portada, la mención de las tres censuras: con licencia de la Santa Inquisición, del ordinario —el arzobispo de Lisboa— y del tribunal real del Desembargo do Paço.
+
+
+[10:46] En la imprenta y en el catálogo de Crasbeeck, los libros de Garcilaso fueron vecinos de Cervantes. En 1605, el mismo Crasbeeck —en el año de la publicación de *La Florida del Inca*— publicó una de las cinco primeras ediciones del *Quijote*, impresa con licencia de la Santa Inquisición (que era necesaria en Lisboa) y presentando en la portada un grabado en madera de un caballero a caballo con un soldado que le sigue andando, pero que claramente era la reutilización de una imagen utilizada por otros libros anteriormente.
+
+
+[11:46] El libro de Garcilaso se presentaba por su título y por el proemio al lector solamente como comentarios de los historiadores españoles que habían dedicado libros anteriores al Perú. Cito el proemio al lector: «Mi intención no es contradecirles, sino servirles de comento y glosa».
+
+
+[12:18] Pero el título *Comentarios* sugería también una referencia a los comentarios de César presentes en la biblioteca de Garcilaso, y también podría sugerir un diseño más ambicioso. Cito el proemio: «Como natural de la ciudad del Cuzco, que fue otra Roma en aquel imperio, tengo más larga y clara noticia que la que hasta ahora los escritores han dado».
+
+
+[12:57] Definir los *Comentarios* como «reales» era una manera de atribuir al libro la dignidad de su materia: la historia de «los incas reyes que fueron del Perú». La autenticidad y la veracidad del libro quedaban autentificadas por la identidad de Garcilaso: «pues soy indio».
+
+
+[13:31] Oponía este conocimiento directo al género de la historia universal, tan importante en el Renacimiento y en los comienzos del siglo XVII. Cito: «Escribimos solamente del Imperio de los incas, sin entrar en otras monarquías, ¿por qué? No tengo la noticia de ellas que de esta».
+
+
+[14:00] Esta experiencia personal del autor invertía finalmente la relación del libro con los historiadores españoles. Como escribía Garcilaso, los libros de los españoles —historias, crónicas respetuosamente citadas— confirmaban sus propios conocimientos o eran corregidos por el conocimiento directo del Inca.
+
+
+[14:36] Cito: «De manera que no decimos cosas nuevas, sino que, como indio natural de aquella tierra, ampliamos y extendemos con la propia relación la que los historiadores españoles, como extranjeros, acortaron por no saber la propiedad de la lengua ni haber mamado en la leche aquestas fábulas y verdades como yo las mamé». Es una cita del capítulo diez de la segunda parte, cuyo título es: «Comprueba el autor lo que ha dicho con los historiadores españoles».
+
+
+[15:24] Garcilaso había adquirido este singular conocimiento escuchando a su tío y a sus parientes que vivieron en el Perú de antes de la conquista, recibiendo de sus antiguos compañeros de escuela cuentas y nudos —los quipus— sobre las conquistas de los incas y también por experiencia personal. Cito el capítulo 19 del primer libro, cuyo título es «Protestación del autor sobre la historia»: «Vi muchas cosas de las que hacían los indios en aquella su gentilidad, las cuales contaré diciendo que las vi», un testimonio fundado sobre la autopsia, la relación directa con lo que se narra.
+
+
+[16:31] El libro entrelaza, como sabemos, la cronología de los emperadores incas y capítulos temáticos cuyos tópicos son enumerados en la portada. La idolatría viene en primer lugar porque es una cuestión fundamental, situada entre su extirpación y las creencias precristianas de los incas.
+
+
+[17:02] Por un lado, cito a Garcilaso de la Vega: «Se dignó la eterna majestad de sacar del abismo de la idolatría tantas y tan grandes naciones y reducirlas al gremio de su Iglesia católica romana, madre y señora nuestra». Y por otro lado, las creencias precristianas de los incas según Garcilaso, que «rastrearon al verdadero Dios, nuestro Señor», que «tenían una cruz en lugar sagrado» o que «alcanzaron la inmortalidad del ánima y resurrección universal».
+
+
+[18:10] Esto en la primera parte de los *Comentarios reales*, no en la segunda parte que voy a mencionar más tarde, cuando Garcilaso va a escribir una continuación.
+
+
+[18:29] Enseguida, lo que decía la portada era: «leyes y gobierno en paz y en guerra». Lo que indicaba que el Perú era una república, una monarquía, un imperio similar a Roma o a las monarquías europeas, con instituciones políticas y administrativas comparables; en consecuencia, la conquista y la llegada de los españoles profetizada por varios emperadores incas podía entenderse como una *translatio imperii*.
+
+
+[19:15] «Las vidas y conquistas de los incas», otro elemento del título sobre la portada, podía entenderse como la oposición entre la civilización de los incas y la barbarie de los pueblos salvajes que ellos habían conquistado o colonizado. Los distintos capítulos del libro presentan así a la república de los incas como una sociedad organizada por reglas —por ejemplo, las normas para contraer matrimonio—, presentada como una economía racional basada en la propiedad y los tributos, y como una civilización caracterizada por el conocimiento científico y médico, la poesía y la filosofía.
+
+
+[20:18] La primera línea del título, *Primera parte de los Comentarios reales*, indicaba que en 1609 —y también antes— Garcilaso ya estaba componiendo una continuación dedicada a la conquista española: *El descubrimiento del Perú y cómo lo ganaron los españoles y a las guerras civiles que hubo entre Pizarros y Almagros*, que aparecen en la portada de la segunda parte publicada en 1616-1617, dedicada a la Virgen María y que salió de las prensas en Córdoba con dos portadas diferentes y dos fechas diferentes.
+
+
+[21:15] Es difícil medir la difusión de los *Comentarios reales* de Garcilaso. En abril de 1616, siete años después de la publicación del libro, el inventario de la biblioteca de Garcilaso de la Vega indica como primer ítem: «Quinientos libros, poco más o menos, en papel de la primera parte de los Comentarios reales», mientras que, por ejemplo, Garcilaso solo poseía cuatro ejemplares de su *Florida del Inca*.
+
+
+[22:00] Claramente, en la España del siglo XVII, si el libro fue leído por los cronistas, se encontraba escasamente en las bibliotecas privadas, como lo mostró Edward Dotson. En el Virreinato del Perú es solo durante el siglo XVIII que el libro del Inca Garcilaso de la Vega se convirtió en una referencia apropiada y utilizada tanto por las élites indias cuanto por los criollos para defender sus causas.
+
+
+[22:41] La primera traducción al inglés, parcial pero sustancial, apareció en 1625; la primera traducción al francés apareció en 1633. De ahí la pregunta de esta ponencia: ¿conocían Cervantes o Shakespeare el libro de Garcilaso, o más ampliamente conocían algo del Perú del Inca?
+
+
+[23:16] Para responder a esta pregunta es necesario conectar varias historias textuales, una modalidad particular de las *connected histories* que mencionaba ayer, en particular en referencia con el trabajo de Sanjay Subrahmanyam. Cervantes nunca fue a Perú, pero sí Don Quijote hizo el viaje transatlántico en 1607, solo dos años después de la publicación de su historia.
+
+
+[23:59] En la pequeña ciudad minera de Pausa, situada entre Lima y Cuzco, el corregidor Pedro de Salamanca organizó una fiesta de sortija, un torneo en el que los participantes debían introducir su lanza en un pequeño aro de metal mientras montaban a caballo a toda velocidad. Como ocurría a menudo en España, los competidores iban disfrazados de caballeros de las novelas de caballería.
+
+
+[24:43] Se presentaron al torneo como el Caballero de la Ardiente Espada, el fuerte Brandaleón, el Caballero Antártico —disfrazado de inca y, como indica la relación manuscrita que tenemos de esta fiesta de sortija de Pausa de 1607, con una compañía de más de cien indios vestidos de colores que le servían de guardia—; apareció también el Caballero de la Selva, precedido por cuatro salvajes de la tierra, y el Dudado Furibundo, en traje de moro con siete moras a caballo muy bien aderezadas, todas de máscara, que representaban otras tantas mujeres suyas.
+
+
+[25:46] Uno de los competidores, Luis de Córdoba —la relación dice que anda en este reino disfrazado con nombre de Luis de Gálvez, que no sabemos por qué esta doble identidad—, eligió un héroe más contemporáneo. Cito la relación: «Asomó por la plaza el Caballero de la Triste Figura, Don Quijote de la Mancha, tan al natural y propio de cómo le pintan en su libro, que dio grandísimo gusto verle».
+
+
+[26:32] Le acompañaban el cura y el barbero, la infanta Micomicona y su escudero Sancho Panza, graciosamente vestido sobre su asno. Al final del día, al caer de la noche en esta fiesta que había reunido a fabulosos caballeros, falsos moros, verdaderos indios y aventureros españoles, el premio fue otorgado al Caballero de la Triste Figura «por la propiedad con que hizo su invención y la risa que en todos causó verle».
+
+
+[27:26] Irving Leonard y más recientemente Víctor Infantes y Pedro Rueda Ramírez han reconstruido minuciosamente el viaje de los ejemplares de la primera edición del *Quijote*, impresa en 1604 y publicada con la fecha de 1605, que llegaron a Perú. En dos barcos de la flota que partió de Sevilla en 1605, el 23 de abril —de nuevo el 23 de abril—, un librero de Alcalá de Henares, Juan de Sarria, envió a su hijo y a Miguel Méndez, librero de Lima, sesenta y seis ejemplares del *Quijote* recién publicado en Madrid.
+
+
+[28:29] Los libros llegaron a Lima en mayo de 1606 y nueve ejemplares fueron llevados a Cuzco. Irving Leonard concluía: «Puede ser que uno de los nueve preciosos ejemplares de Juan de Sarria de la primera edición de *Don Quijote de la Mancha* haya desempeñado un papel en facilitar esta temprana personificación americana del inmortal caballero de Cervantes tan poco tiempo después de la aparición de este en la historia».
+
+
+[29:18] La afirmación de Irving Leonard de que cerca de la totalidad de la primera edición de *Don Quijote* fue enviada a América es seguramente exagerada, ya que solo doscientos dos ejemplares del libro cruzaron el Atlántico en dos barcos de la flota que salió de España el 23 de abril de 1605. Sin embargo, es cierto que un gran número de ejemplares del libro llegaron a América a partir de 1606, sea gracias al comercio entre libreros situados en ambos lados del Atlántico o bien porque numerosos viajeros llevaron el libro de Cervantes y lo leyeron tal vez durante su travesía del Atlántico.
+
+
+[30:30] Cervantes, a diferencia de Don Quijote, nunca viajó a América, pero deseaba hacerlo. En 1590 envió al Consejo de Indias un memorial recordando sus méritos y sus servicios, especialmente en Italia y durante la batalla de Lepanto en 1571, cuando perdió el uso de la mano izquierda.
+
+
+[31:03] Pedía un puesto en las Indias y uno de los cuatro cargos vacantes en América: la Contaduría del Nuevo Reino de Granada, la Gobernación de la provincia de Soconusco en México, la Contaduría de la galera de Cartagena de Indias o el Corregimiento de la ciudad de La Paz. Su pedido fue denegado con la abrupta respuesta: «Busque por acá en que se le haga merced».
+
+
+[31:47] En 1590, Cervantes solo había publicado *La Galatea*, que ayer hemos encontrado en la biblioteca de Don Quijote. Si su petición hubiera tenido éxito, seguramente no sería uno de los tres autores famosos que se celebran el 23 de abril.
+
+
+[32:15] Cervantes no conoció el Perú de Garcilaso de la Vega. Sin embargo, el Perú está presente en sus libros o, más exactamente, los peruleros, definidos en el *Tesoro* de Covarrubias en 1611 como «los que vinieron ricos de las Indias».
+
+
+[32:39] Los peruleros aparecen en varias *Novelas ejemplares* de Cervantes publicadas en 1613: *Rinconete y Cortadillo*, *La tía fingida* y particularmente *El celoso extremeño*. El héroe de esta novela es Felipo de Carrizales que, viéndose tan falto de dinero, «se acogió al remedio a que otros muchos perdidos en aquella ciudad [Sevilla] se acogen, que es el pasarse a las Indias, refugio y amparo de los desesperados de España, engaño común de muchos y remedio particular de pocos».
+
+
+[33:32] En Perú, Carrizales formó parte de esos pocos y amasó una gran fortuna. La novela cuenta la historia de su vuelta a Sevilla y de su matrimonio con una joven de trece o catorce años, Leonora; recluida en la mansión de Carrizales, Leonora se deja seducir por un joven soltero, Loaysa, que finalmente emigra a las Indias al final de la novela, pero a pesar de esta seducción es perdonada por su marido, Felipo de Carrizales.
+
+
+[34:19] El hogar del perulero Carrizales en Sevilla es como un microcosmos de historias conectadas. Carrizales eligió a un «negro viejo y eunuco» para que fuera el guardián de la casa y de la entrada de la calle; compró para Leonora, su mujer, «cuatro esclavas blancas y herradas en el rostro», como hacían los romanos según Covarrubias; y compró también para ella «otras dos negras bozales recién traídas de África», significando «bozales» la esclava que solo conocía su propia lengua.
+
+
+[35:15] Los peruleros, y más en general los indianos que regresaban a España de una u otra de las colonias, se convirtieron en personajes de numerosas comedias. Su fortuna se asociaba a menudo con los beneficios aportados por el comercio y por esta razón eran despreciados por los valores aristocráticos.
+
+
+[35:47] En *El premio del bien hablar*, una comedia publicada en la veintena parte de sus comedias en 1635, Lope de Vega atribuye tal desprecio a un noble opuesto al matrimonio de su hermana con un indiano: «Me han dicho que vendió en Indias su padre carbón o hierro, que agora se han convertido en diamantes». En *El servir a señor discreto*, comedia publicada en 1618 en la oncena parte de Lope, el padre de doña Leonor es un indiano mercader, un comerciante que hizo fortuna con el comercio transatlántico.
+
+
+[36:42] En la misma obra, otro personaje, la Fabia, canta y baila un guineo africano; su canto recuerda la codicia de los españoles en las Indias Occidentales: «Español de aquí para allí, en las Indias nace el oro; no le buscan ni le estiman: España sí». En un sentido más amplio, «perulero» designaba a todas las personas nacidas o residentes en Perú.
+
+
+[37:20] Así ocurría, por ejemplo, en un panfleto escrito en español e impreso en Ámsterdam en 1627 bajo el título de *Epístola a los peruleros*, en la cual está comprendido el *Catecismo de la verdadera religión cristiana* y una alianza de los muy poderosos señores estados de las Provincias Unidas de los Países Bajos; este texto exhortaba a los españoles de Perú a hacerse protestantes y aliarse con las Provincias Unidas. Peruleros eran también los mercaderes que cruzaban regularmente el Atlántico trayendo a la metrópoli preciosos objetos de plata y volviendo a Perú para vender mercancías españolas, entre ellas libros.
+
+
+[38:25] Más allá del Perú de los peruleros, Cervantes y sus lectores pudieron conocer el Perú de los incas gracias a los historiadores españoles. El inventario de la biblioteca de Garcilaso de la Vega indica que poseía varios libros dedicados al Imperio de los incas, a la conquista del Perú y a las guerras entre Pizarro y Almagro.
+
+
+[38:59] Los dos más antiguos eran el libro de Pedro Cieza de León, publicado en Sevilla en 1553 como *Parte primera de la Crónica del Perú*, y la *Historia general de las Indias* de López de Gómara, publicada en 1552 con ochenta y siete capítulos dedicados al Perú. El libro fue ampliado en 1553 con una segunda parte dedicada a la conquista de México por Cortés; Garcilaso de la Vega anotó y refutó algunos pasajes de esta obra de López de Gómara en el ejemplar de una edición de 1554 que él poseía.
+
+
+[39:55] Un tercer libro poseído por Garcilaso era la *Historia natural y moral de las Indias* de José de Acosta, publicada en 1590, que proponía una descripción de las realidades peruanas: minas del Potosí, fauna, creencias y fiestas. Garcilaso poseía también la primera y segunda parte de la *Historia del Perú* de Diego Fernández, un libro dedicado principalmente a los conflictos políticos y militares producidos por la conquista, pero lo citó muy poco.
+
+
+[40:35] En cambio, citó y utilizó a menudo un libro que no figura en el inventario de su biblioteca: la *Historia del descubrimiento y conquista de las provincias del Perú* de Agustín de Zárate, publicada en Amberes en 1555 y reeditada en 1577 en Sevilla, pero con la eliminación de tres capítulos dedicados a la cosmología de los incas, a los sacrificios humanos y a la creencia en la resurrección. Este libro de Zárate y la *Historia general del Perú* de Garcilaso fueron fuentes fundamentales para las comedias dedicadas a los Pizarro.
+
+
+[41:32] Tirso de Molina escribió tres obras sobre los cuatro hermanos Pizarro que se imprimieron en la cuarta parte de sus comedias en 1635; dos de estas comedias, *La lealtad contra la envidia* y *Amazonas en las Indias*, están ubicadas en Perú y siguen las narraciones de Garcilaso y de Zárate. Luis Vélez de Guevara hizo lo mismo con su obra *Las palabras a los reyes y gloria de los Pizarros*, compuesta entre 1625 y 1630.
+
+
+[42:18] Entonces, tanto sobre las tablas de las comedias como sobre las páginas de las crónicas, Perú fue para Cervantes y para sus contemporáneos una tierra para conquistar, una oportunidad para enriquecerse como el perulero de la novela ejemplar y un campo de batalla para guerras civiles. De ahí una segunda pregunta en relación con el 23 de abril: ¿qué podía saber Shakespeare sobre el Perú de los incas?
+
+
+[43:04] Los lectores ingleses de su tiempo que no sabían español no podían leer todos los libros que poseía Garcilaso y que estaban a disposición de Cervantes. La *Historia de las Indias* de López de Gómara fue traducida al inglés en 1578 y una segunda vez en 1596, pero el texto de las dos ediciones estaba dedicado únicamente a la conquista de México por Cortés, sin presencia del Perú de Pizarro y Almagro; la crónica de Pedro Cieza de León no se tradujo al inglés antes de 1709.
+
+
+[43:54] El corpus peruano para los lectores ingleses contemporáneos de Shakespeare estaba esencialmente constituido por tres libros. En primer lugar, la traducción parcial del libro de Agustín de Zárate, presentada en 1581 por su traductor y su editor como *The Strange and Delectable History of the Discovery and Conquest of the Provinces of Peru in the South Sea*.
+
+
+[44:32] A pesar del título, la deliciosa historia se anunciaba también como la historia de las sangrientas guerras civiles que ahí ocurrieron. La credibilidad del texto de Zárate era dada por el hecho de que su autor había sido «auditor for the Emperor» en estas provincias; el título anunciaba también la descripción de las ricas minas del Potosí, mostradas en un grabado en madera impreso en una primera portada antes de la portada con el título.
+
+
+[45:14] Las ricas minas de plata podían excitar la imaginación de los lectores ingleses, al igual que los tres capítulos dedicados a la cosmología, a los sacrificios humanos y a la creencia en la resurrección de los indios que habían sido suprimidos de la reedición española, pero que estaban presentes en la traducción inglesa.
+
+
+[45:43] Perú también estaba presente en un segundo libro: la traducción inglesa de la *Brevísima relación* de Las Casas, impresa en Londres por William Brome en 1583 con el título *The Spanish Colony*. Se trataba de una traducción al inglés de una traducción francesa hecha en 1579 por un protestante flamenco, Jacques de Miggrode.
+
+
+[46:20] El penúltimo capítulo del libro está dedicado a los grandes reinos y grandes provincias del Perú. Después de haber recordado las crueldades cometidas por el «gran tirano» que llegó a Perú en 1531 —Pizarro, nunca nombrado—, Las Casas cita el testimonio de un testigo ocular, el franciscano Marcos de Niza.
+
+
+[46:54] Para fray Marcos, Perú es una tierra de dolor, devastación y destrucción. Subraya que los indios del Perú eran la gente más benévola que entre indios se ha visto y amiga de los cristianos, pero los españoles, sin fe ni verdad, quemaron a sus señores y al emperador Atahualpa, cortaron manos, narices y orejas a indios e indias y despoblaron todo el país.
+
+
+[47:33] La insaciable codicia del oro y de la plata fue la primera razón de tales injusticias y crueldades. Para el lector inglés, el martirio del Perú era un ejemplo paroxístico de la amenaza que representaba el enemigo español y una advertencia para todas las naciones que podían transformarse en otras colonias españolas.
+
+
+[48:07] A principios del siglo XVII, la fuente más importante de conocimiento sobre el Perú en Inglaterra, antes y después de la conquista, era un tercer libro: la traducción del libro de Acosta. Fue publicado en 1604 como *The Natural and Moral History of the East and West Indies*, publicada por Edward Blount y William Aspley.
+
+
+[48:39] Era el tercer título que entraba en la política de traducciones de Blount, tras un libro de Garzoni y los *Ensayos* de Montaigne; *El Quijote*, traducido por Shelton, seguirá en este catálogo de Blount en 1612. El Perú estaba presente en todas las partes del libro de Acosta.
+
+
+[49:10] Su fauna y sus minas aparecían en los cuatro primeros libros de la obra dedicados a la historia natural, con especial énfasis en el Potosí: como en los libros de Zárate o de Las Casas, para lo mejor o lo peor, Perú era la tierra de los inagotables metales preciosos. El título del séptimo capítulo de la cuarta parte del libro de Acosta es: «Del tesoro que diariamente se saca de la roca o montaña del Potosí», y en el índice se encontraba la entrada: «El Perú abunda más en oro y plata que todas las otras partes de las Indias».
+
+
+[50:02] Las tres últimas partes del libro estaban dedicadas a las costumbres, ceremonias, leyes, gobiernos y guerras de los indios. La mayoría de estos capítulos se referían a México; sin embargo, doce estaban dedicados a los orígenes y gobierno de los señores incas del Perú y a las costumbres de los indios del Perú.
+
+
+[50:35] La paradoja destacada por Acosta y su traductor, quizás Edward Grimeston, era que los peruanos conservaron sus antigüedades sin el uso de las letras. El capítulo octavo de la sexta parte presentaba a los lectores ingleses la razón de esta singularidad: «Sus quipus sirven en lugar de libros de historia, de leyes, ceremonias y relatos de sus asuntos».
+
+
+[51:17] La traducción de largos fragmentos de los *Comentarios reales* de Garcilaso de la Vega añadió un cuarto texto a la biblioteca inglesa del tiempo de Shakespeare sobre el Perú a principios del siglo XVII. Constituían los capítulos trece y catorce del séptimo libro de la cuarta parte de la inmensa compilación publicada en 1625 como *Purchas His Pilgrimes*, también conocida como *Hakluytus Posthumus*.
+
+
+[52:05] Las treinta páginas in-folio del capítulo trece se presentaban como «observaciones de cosas muy notables recogidas en la primera parte de los *Comentarios reales* escritos por el Inca Garcilaso de la Vega, natural del Cuzco». El editor justificaba la extensión de los extractos por el hecho de que el lector «podría oír a un peruano hablar del Perú», y la credibilidad del texto estaba garantizada por el origen del autor: «de la sangre de los incas por parte de su madre».
+
+
+[52:52] Las traducciones de las obras españolas no fueron los únicos libros que excitaron la imaginación inglesa sobre el Perú. En 1596, el mito de El Dorado se difundió con la publicación del libro de Walter Raleigh, *The Discovery of the Large, Rich and Beautiful Empire of Guiana, with a Relation of the Great and Golden City of Manoa, which the Spaniards call El Dorado*.
+
+
+[53:31] La relación de la expedición de 1595 de Raleigh localizaba en Guayana el desplazamiento del Imperio inca. Cito: «Cuando Francisco Pizarro y Diego de Almagro conquistaron dicho Imperio del Perú, uno de los hijos menores de Huayna Cápac huyó del Perú y se llevó consigo a muchos miles de aquellos soldados del Imperio llamados orejones; y con ellos y muchos otros que le siguieron conquistó toda aquella extensión y valle de América que está situada entre el gran río Amazonas y Baraguán, también llamado Orinoco o Marañón».
+
+
+[54:25] Este nuevo Perú trasladado al norte del continente «tiene más abundancia de oro que cualquier otra parte del Perú y tantas o más grandes ciudades que nunca tuvo el Perú cuando más florecía». Para la soberana inglesa, la Guayana peruana era una tierra prometida: «un país que aún tiene su virginidad, nunca saqueado ni labrado; las tumbas no han sido abiertas en busca de oro, las minas no han sido explotadas, las imágenes no han sido arrancadas de sus templos; nunca ha sido penetrado por ningún ejército y nunca ha sido conquistado o poseído por ningún príncipe cristiano».
+
+
+[55:21] Su conquista por la reina inglesa sería fácil: el emperador inca de este nuevo imperio en Guayana no tiene armas de hierro y se alegrará de verse liberado de las crueldades y servidumbre españolas. Raleigh concluía su libro con una audaz comparación: «Y donde la frontera sur de Guayana llega hasta el dominio e imperio de las Amazonas, esas mujeres oirán aquí el nombre de una virgen, la reina Elizabeth, que no solo es capaz de defender sus propios territorios y los de sus vecinos, sino también de invadir y conquistar imperios tan grandes y tan lejanos».
+
+
+[56:15] Para responder a la devastadora sospecha sobre la realidad de su expedición y de la presencia del imperio en la Guayana, Raleigh desarrollaba varias estrategias de autentificación en su relación: la referencia a un tratado escrito por un testigo ocular, el soldado español Juan Martínez de Albújar, que afirmaba haber pasado siete meses en Manoa; la cita en su idioma original español de un pasaje tomado de López de Gómara; las copias de ciertas cartas españolas tomadas en el mar por el capitán Popham; o muestras de las rocas consideradas como la madre del oro por los indígenas.
+
+
+[57:12] Desgraciadamente para Raleigh, ninguno de estos intentos de demostrar la existencia de El Dorado o de Manoa parece haber convencido a sus lectores y la recepción de su libro fue, por lo menos, escéptica. Sin embargo, el mito de El Dorado sobrevivió.
+
+
+[57:37] En 1596, el año siguiente a la publicación de la relación de Raleigh, envió una nueva expedición dirigida por Lawrence Keymis para descubrir El Dorado. La *Relation of the Second Voyage to Guiana* de Keymis fue publicada este mismo año.
+
+
+[58:00] En su discurso dirigido a los partidarios del viaje a la Guayana, Keymis declaraba que los esfuerzos españoles demostraban evidentemente que existía El Dorado: «Este Dorado goza de indudable crédito en el juicio de los españoles; así nos señalan, mientras que nosotros, los ingleses, para entretenernos nos sentamos a escuchar las noticias de la Guayana e instantáneamente las olvidamos, como si no fuera nada más que el sueño placentero de una fantasía dorada».
+
+
+[58:39] El Dorado como sueño o como realidad que se debía descubrir y explotar sobrevivirá al fracaso de las expediciones de Raleigh y de Keymis. La última, en 1617, terminó trágicamente con la muerte del hijo de Raleigh.
+
+
+[59:01] En *Hakluytus Posthumus*, en una «Descripción de la isla de Trinidad, ricos países de Guayana y el poderoso río Orinoco» escrita por Francis Sparrey, el oro está por todas partes en Guayana: en las «minas de piedra blanca en las que hay mucho oro natural y fino» y también en «los pequeños granos que yacen en las arenas de los pequeños ríos y arroyos».
+
+
+[59:35] Pero el Perú y más ampliamente América no parecen haber inspirado a los dramaturgos ingleses. Es solo en 1658 que D'Avenant representó en el Cockpit de Drury Lane la mascarada *The Cruelty of the Spaniards in Peru*.
+
+
+[59:56] Anteriormente, en el tiempo de Shakespeare, el diario del empresario teatral Henslowe menciona solamente dos obras dedicadas a las Indias Occidentales: *The New World's Tragedy*, representada once veces en 1595-1596, y *The Conquest of the West Indies*, pagada a tres dramaturgos —John Day, William Haughton y Wentworth Smith— en 1601. No se sabe nada de la primera obra, que podría estar basada en las expediciones de Raleigh o de Drake; la segunda fue probablemente inspirada por la nueva edición de la traducción inglesa de la *Pleasant History of the Conquest of the West India* de López de Gómara, publicada en 1596 y dedicada únicamente a la conquista de México por Cortés.
+
+
+[1:00:58] Por desgracia para nuestro 23 de abril, no encontramos inca o Perú en Shakespeare. La única referencia a la tierra dorada aparece en *The Merry Wives of Windsor* (*Las alegres comadres de Windsor*), cuando Sir John Falstaff, en el texto del *First Folio* de 1623 pero no en el primer cuarto de la obra de 1602, compara a Mistress Page con la Guayana: «También ella maneja la bolsa; es una región de la Guayana, todo oro y liberalidad (*all golden bounty*)».
+
+
+[1:01:42] Falstaff añade que a la señora Page y a la señora Ford «las tendré como mis Indias Orientales y Occidentales, y comerciaré con ambas». Shakespeare y los espectadores o lectores de sus obras conocían el libro de Raleigh y tal vez compartían con certeza o con ironía la manía de la Guayana (*the Guiana craze*) de finales del siglo XVI.
+
+
+[1:02:19] Conclusión: empecé con el libro del Inca Garcilaso de la Vega y es con el que quiero concluir. En algunos ejemplares de la edición de 1609 de los *Comentarios reales* se añadió un escudo de armas diseñado por Garcilaso como emblema de su doble identidad.
+
+
+[1:02:45] En el lado izquierdo de la página, Garcilaso copió los escudos de armas de cuatro familias nobles españolas que constituían su linaje paterno: de arriba abajo los Vargas —rodeados por el castillo y el león del rey de Castilla y León—, los Figueroa —su nombre de pila—, los Sotomayor y los Mendoza con la inscripción «Ave María gratia plena». Todos habían participado en la Reconquista de España contra los moros.
+
+
+[1:03:24] Dos de las primeras comedias de Lope de Vega, *Los hechos de Garcilaso de la Vega y moro Tarfe* (que se quedó manuscrita) y *El cerco de Santa Fe e ilustre hazaña de Garcilaso de la Vega* (impresa en la primera parte de Lope en 1604), estaban dedicadas al papel de uno de los antepasados del Inca en la conquista de Granada.
+
+
+[1:03:57] En el lado derecho del escudo de armas, Garcilaso puso símbolos de los tres mundos de los incas, que eran los mundos de su madre: arriba, el sol y la luna; abajo, la diadema imperial, el llautu; y viniendo para el mundo bajo la tierra, dos serpientes que sostienen el arco iris donde se sujeta el llautu.
+
+
+[1:04:30] En el margen izquierdo, en el lado de los linajes nobiliarios españoles, el Inca Garcilaso inscribió las palabras «con la espada», aludiendo a la carrera militar de su padre y también quizá a su propio pasado militar como capitán de Su Majestad. En el margen derecho, en el lado de los emperadores incas, puso la inscripción «y con la pluma», celebrando así su propia pluma, que resucitaba para los lectores europeos la grandeza de una civilización que tenía ricas plumajerías, pero que carecía de pluma para escribir su historia. Muchas gracias.
+
+
+[1:05:32] >> Moderador/a (nombre desconocido): Muchas gracias, doctor Chartier. Vamos a ver si hay preguntas; pueden levantar la mano.
+
+
+[1:05:40] >> Participante 1: Buenas tardes, doctor, ¿qué tal? Ha sido excelente la conferencia y me ha enseñado mucho sobre una cosa de la que dudaba.
+
+
+[1:05:50] En esa fiesta de la que habla de 1607 en Perú, aquí siempre hemos leído por segunda fuente que se trataba de una mascarada donde desfilaban el Quijote y Sancho, pero lo que yo no sabía es que era un juego de sortija y que ganó el premio el disfraz del Caballero de la Triste Figura. Le quería preguntar la referencia de dónde podemos leer la relación de fiestas.
+
+
+[1:06:17] >> Roger Chartier: Pienso que lo más inmediato sería ir a la Biblioteca Virtual Miguel de Cervantes; me parece que puedo mandar la referencia. Sí, la tengo: Centro Virtual Cervantes, *Relación de las fiestas que se celebraron en la corte de Pausa*, y la va a encontrar.
+
+
+[1:06:42] Era un manuscrito, nunca fue impreso, a diferencia de la relación que mencionaba ayer de la mascarada de la platería real de México en la que había también una edición impresa. Es muy conocido el manuscrito y la descripción es muy detallada.
+
+
+[1:07:03] Tanto en 1621 en México como en 1607 en Pausa, la presencia de Don Quijote debe estar ubicada dentro de una construcción compleja: en el caso de Pausa no es solamente la referencia a caballeros de los libros de caballerías, sino a la identidad de los españoles, la identidad de los españoles disfrazados de moros y los indios. En la relación de 1621 para México es casi un texto de historias conectadas, porque aparecen todos los soberanos de Europa, el otomano, el chino, el del Preste Juan y finalmente los héroes de la antigüedad bíblica; se debe ubicar al Quijote dentro de estas dimensiones que lo desbordan. Pero lo interesante es ver en 1607 tan pronto la presencia de una figura que hace reír a la gente, lo que supone que unos habían leído o sabían del libro que había llegado hasta Pausa, siguiendo otros ejemplares su camino hasta Cuzco; en la Biblioteca Virtual Cervantes va a encontrar la relación misma.
+
+
+[1:09:11] >> Moderador/a (nombre desconocido): Gracias. Aquí tenemos otra pregunta de la doctora Manuela.
+
+
+[1:09:16] >> Participante 2: Un placer. Mi pregunta es sobre el padre José de Acosta que usted mencionó en el caso del Perú y la importancia que tiene la *Historia natural y moral de las Indias* concretamente en el imaginario de la leyenda negra.
+
+
+[1:09:38] Me refiero a la relación con los grabados de la familia De Bry y a las preguntas acerca del registro de escritura de los incas. En la carta que encontramos en el Manuscrito Tovar que está en Providence vemos que él hace esa pregunta a su informante de México, que es Tovar, y Tovar explica cómo es el registro de escritura en el caso de los mexicanos; me parece que hay una relación bien interesante con lo que usted nos expone sobre Acosta en el caso del Perú. Mi pregunta sería sobre la relación que usted ve de Acosta en los grabados de De Bry y en general en la leyenda negra de España en la Europa barroca del siglo XVII y posterior.
+
+
+[1:10:42] >> Roger Chartier: Sí, bien. En la obra de Acosta lo que me había interesado era en primer lugar que el libro fue traducido al inglés, que el saber sobre el Perú en Inglaterra estaba vinculado con esta traducción publicada en el marco de la política editorial de Blount, especializada en la traducción del italiano, del francés y del español.
+
+
+[1:11:20] La descripción de Acosta, tanto de las costumbres indias como de las minas del Potosí, fue una de las fuentes de información para los ingleses del tiempo; y al mismo tiempo el libro se encontraba en la biblioteca de Garcilaso y en muchas bibliotecas privadas. Respecto a la relación después entre De Bry y Acosta, no tengo necesariamente el saber para responder, porque las ilustraciones clásicas de De Bry son los diecisiete grabados como ilustraciones de Las Casas en 1598; ¿usted indica que se utilizan también para otros libros?
+
+
+[1:12:52] >> Participante 2: No, profesor, es así.
+
+
+[1:12:56] >> Roger Chartier: Me parece que hay una tensión, porque en el caso de las imágenes de De Bry aparecen en una edición del texto de Las Casas al servicio de una idea de dar una forma iconográfica que utiliza tres repertorios: la caza, el martirio antiguo y el pozo. Son las maneras para las ilustraciones de traducir iconográficamente un texto que hasta este momento nunca fue acompañado de imágenes.
+
+
+[1:14:12] La relación entre las imágenes y el texto de Las Casas es compleja, porque puede ser una recapitulación de elementos dispersados en el texto de Las Casas que aparecen juntos en la imagen para mostrar este paroxismo de la violencia, de la crueldad y de la tiranía utilizando un repertorio iconográfico disponible. Hay un excelente estudio en un libro de dos colegas argentinos, José Emilio Burucúa y Nicolás Kwiatkowski, sobre las representaciones de las matanzas y masacres en el Renacimiento y el siglo XVII que analiza estos repertorios: los seres humanos son transformados en animales que se deben cazar; la idea del pozo y del infierno al cual son precipitadas las víctimas; y la iconografía de los martirios de los santos, como la imagen de San Lorenzo y el indio en el lugar de los santos perseguidos durante la antigüedad cristiana.
+
+
+[1:16:02] Es una relación compleja que plantea la relación texto e imagen como equivalentes o como una imagen que es un suplemento con referencias cristianas que no aparecen necesariamente en el texto de Las Casas: la animalización de las víctimas y la idea de que los españoles han transformado América en el infierno, de ahí el pozo y la caída de las víctimas. No puedo responder si en la obra de Acosta se podría encontrar eco o prefiguración de este tipo de análisis porque no conozco suficientemente a Acosta para responder de manera cierta y definitiva, pero la idea de ponerlos en relación tiene pertinencia, porque en los pocos textos traducidos en Inglaterra sobre Perú estaba el capítulo de Las Casas y estaba la traducción de Acosta; de esta manera tiene relevancia su observación para la apropiación en Inglaterra de los textos sobre el Perú y sobre la presencia española en América.
+
+
+[1:17:58] >> Participante 2: Muchísimas gracias.
+
+
+[1:18:10] >> Moderador/a (nombre desconocido): Muchas gracias, doctor Chartier. Se nos acabó el tiempo de esta segunda sesión y mañana nos espera otro tema fascinante: *Los mapas del Quijote*. Nos vemos mañana nuevamente a las 10 de la mañana, misma liga (5 de la tarde por allá para el profesor Chartier en París) para nuestra tercera sesión.
+
+
+[1:18:37] >> Roger Chartier: Buen coloquio y conferencia hoy en Monterrey.
