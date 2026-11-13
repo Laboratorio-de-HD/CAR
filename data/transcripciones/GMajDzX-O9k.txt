@@ -271,13 +271,13 @@
 [22:15] >> Participante 1: Sí, la tengo. Le vas diciendo qué número quieres.
 
 
-[22:20] >> Valcárcel?: Ah, qué maravilla. Esa es ideal. La seis.
+[22:20] >> Valcárcel: Ah, qué maravilla. Esa es ideal. La seis.
 
 
 [22:25] >> Participante 1: La forma general de una función de verdad es pi si N menos si. En esa abrimos en la seis.
 
 
-[22:37] >> Valcárcel?: Perfecto. Y bajamos a la 64. Todas las proposiciones tienen igual valor.
+[22:37] >> Valcárcel: Perfecto. Y bajamos a la 64. Todas las proposiciones tienen igual valor.
 
 
 [22:49] Esa es la sentencia 64: todas las proposiciones tienen igual valor. ¿Qué quiere decir? Quiere decir que no existen proposiciones de valor.
@@ -841,7 +841,7 @@
 [1:11:31] >> Participante 3: Yo con... Bueno, yo le quiero preguntar, en relación con esta exposición que nos ha vertido aquí, cuando usted habla de tirar la escalera, o sea, cuando dice: "Bueno, estas ideas aquí están, pero cuando habla de tirar la escalera, es decir, este... que vienen otras, por eso esa escalera se tira."
 
 
-[1:12:04] >> Valcárcel?: Sí, no, que estamos en otra parte ya. Eso es lo que dice Wittgenstein. Wittgenstein dice: "Este libro es una escalera." Es Wittgenstein que lo dice. Este libro, una vez que se ha entendido bien, nos ha hecho subir un escalón. Pero no tenemos que seguir amarrados a este libro, porque este libro ha sido solo la escalera. Ya hemos llegado al siguiente lugar.
+[1:12:04] >> Valcárcel: Sí, no, que estamos en otra parte ya. Eso es lo que dice Wittgenstein. Wittgenstein dice: "Este libro es una escalera." Es Wittgenstein que lo dice. Este libro, una vez que se ha entendido bien, nos ha hecho subir un escalón. Pero no tenemos que seguir amarrados a este libro, porque este libro ha sido solo la escalera. Ya hemos llegado al siguiente lugar.
 
 
 [1:12:28] Ya no necesitamos la escalera. Le podemos hacer más o menos caso en esto. El Tractatus ha sido un libro estudiadísimo, o sea, que la gente no parecía querer tirar la escalera con tal facilidad.
@@ -853,13 +853,13 @@
 [1:13:00] >> Participante 3: Bueno, lo que yo... bueno, es que uno echa a volar la imaginación luego, luego cuando escucha estas grandes ideas. Yo decía: "Bueno, me imaginaba yo que aquí están estas ideas, ahora hay que tirar la escalera y hay que proyectar otras o imaginar otras, ¿no?" Eso, no sé si me explico, ¿no?
 
 
-[1:13:26] >> Valcárcel?: Perfectamente, y además comparto lo que dice. Es decir, cuando estamos ya en otro plano de la realidad, las ideas que necesitaremos serán las que encontremos allí, las que vayamos arrancando allí a lo que existe. Es decir, es así. ¿Alguna intervención había visto yo por aquí?
+[1:13:26] >> Valcárcel: Perfectamente, y además comparto lo que dice. Es decir, cuando estamos ya en otro plano de la realidad, las ideas que necesitaremos serán las que encontremos allí, las que vayamos arrancando allí a lo que existe. Es decir, es así. ¿Alguna intervención había visto yo por aquí?
 
 
 [1:13:45] >> Participante 4: Yo, sí, un recuerdo que está en el... también comenta de que alguien para entender o medio entender ese libro es porque ya se lo ha pensado antes. Y lo dice muy claro. Dice: "Quien logre entender o dar cuenta de lo que aquí pongo es porque ya se lo ha pensado antes." Entonces, yo creo que está hablando de lo simbólico, de lo humano.
 
 
-[1:14:10] >> Valcárcel?: No sé qué entienda usted por ello. Wittgenstein es un pensador muy lleno de registros. Por una parte es muy simple; es decir, lo asombroso de Wittgenstein era la incultura filosófica que arrastraba, que era muy grande. Wittgenstein había leído muy poco y además, dentro de lo muy poco, solo las cosas que a él le gustaban, pero cuando una cosa no le gustaba pues tenía un arte para quitarla.
+[1:14:10] >> Valcárcel: No sé qué entienda usted por ello. Wittgenstein es un pensador muy lleno de registros. Por una parte es muy simple; es decir, lo asombroso de Wittgenstein era la incultura filosófica que arrastraba, que era muy grande. Wittgenstein había leído muy poco y además, dentro de lo muy poco, solo las cosas que a él le gustaban, pero cuando una cosa no le gustaba pues tenía un arte para quitarla.
 
 
 [1:14:41] Pero, digamos, que se pone a pensar con tal radicalidad algunas cosas que en él es como un instrumento que, cuando está muy bien afinado, mucho vibra cuando otro suena.
