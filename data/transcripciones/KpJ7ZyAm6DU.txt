@@ -1,0 +1,883 @@
+﻿[00:25] >> Gioconda Belli: Bueno, en primer lugar yo quiero dar las gracias al Instituto Tecnológico de Monterrey por estar aquí, por haberme invitado, eh saludar a Carmen Junco, eh muchísimas gracias a Maricruz Castro, a Ana Laura Santamaría y todos ustedes que podrían estar haciendo otra cosa en vez de estar aquí.
+
+
+[00:47] Muchísimas gracias por estar aquí, por brindarme estos momentos de atención y para conocernos, vernos las caras.
+
+
+[00:56] Eh definitivamente todos ustedes están en mi corazón y en mi mente cuando estoy escribiendo.
+
+
+[01:02] Eh me siento muy acompañada en en la soledad de la escritura, que es muy grande y a veces angustiosa, pero uno después tiene la enorme alegría de saber que la palabra de uno ha tenido eco y que uno no ha estado sola, sino que al contrario uno ha estado como casi como una bruja, ¿no?
+
+
+[01:27] Canalizando a través del propio corazón los corazones y los sentimientos y las identidades de tantas otras personas, porque creo que uno llega a darse cuenta que todos nos parecemos tanto, ¿no?
+
+
+[01:44] Al final de cuentas, independientemente de nuestras historias, de nuestras eh de nuestras nacionalidades, de nuestro color, eh los corazones humanos somos todos parecidos, hemos vivido desde el principio de la historia los grandes conflictos, ¿no?
+
+
+[02:04] Entre el amor y el odio, entre la ambición y la humildad, entre la vida y la muerte, ¿no?
+
+
+[02:14] Y todos nos vamos a morir.
+
+
+[02:15] Y eso nos une a todos, de cierta manera es el saber que estamos aquí por un tiempo corto y que todos compartimos esa angustia de saber qué estamos haciendo aquí, para qué estamos aquí y cómo vivimos esto que nos ha tocado de la manera más intensa posible, cómo hacemos que nuestra presencia en el mundo deje huella, que nos permita quedarnos de alguna manera, ¿no?
+
+
+[02:44] Porque todos creo tenemos el la la ilusión de la inmortalidad, de quedarnos de alguna manera, por eso están tan de moda todas esas novelas de los vampiros y toda esa cosa porque la gente quiere vivir eternamente y la inmortalidad ha sido una una aspiración, pero claro, es mentira, pues no va a pasar.
+
+
+[03:08] Yo quería leerle un poema para empezar, porque este poema es un poema dedicado a todos nosotros, pero sobre todo a México.
+
+
+[03:23] Sobre todo porque se me lo la inspiración me vino aquí en en uno de mis viajes y y me vino a partir de leer cuando estaba escribiendo *La mujer habitada* eh de leer todos los textos sobre los antiguos mexicanos toda esa historia de la gran cultura que hubo aquí y el gran dolor de la desaparición de esa cultura.
+
+
+[03:56] Eh, y creo que todos compartimos eso, ¿no?
+
+
+[03:59] De una u otra manera, y este poema se llama *América en el idioma de la memoria*.
+
+
+[04:05] No lo voy a leer todo, porque es un poco largo, pero quería leer algunas partes, por lo menos.
+
+
+[04:12] “He oído la lengua de mis antepasados en sueños.
+
+
+[04:17] He visto sus figuras en habitaciones confusas que sólo puedo nombrar con el habla ajena de quienes para siempre los confinaron a la región de las sombras.
+
+
+[04:30] No entiendo sus palabras, pero en los sueños se alargan como palmeras, brillan como las plumas del quetzal.
+
+
+[04:40] ¿Cómo habrán sido los mercados en Tenochtitlán?
+
+
+[04:44] El pregón de los vendedores de penachos, de papagayos, la voz de la mujer ofreciendo quequisques o yuca, la sombría voz del vendedor de papas.
+
+
+[04:58] ¿Con qué palabra, sonando a río, aguacero, se declararían el amor el héroe del juego de pelota y la muchacha dulce con las cestas de jipijapa?
+
+
+[05:11] Las palabras de los pueblos se parecen a sus montañas y a sus lagos, se parecen a sus árboles, a sus animales.
+
+
+[05:20] ¿Cómo sería la lengua que hablaría de los ceibos y los jaguares, de la luna incandescente y ecuatorial, de los volcanes erectos?
+
+
+[05:31] He oído la lengua de mis antepasados en sueños, en habitaciones confusas que sólo puedo describir con la lengua del despojo.
+
+
+[05:43] Ocultamos nuestros dioses, nuestros mitos bajo la púrpura vestidura de sus santos, recreamos su idioma, lo rehicimos nuestro, le hicimos decir la lluvia torrencial y el dulce ulular de la quena, la altura de los Andes y la selva impenetrable del Amazonas.
+
+
+[06:07] Nos cambiamos los nombres para sobrevivir, pero el mundo lo nombramos con códigos y códices que aún ahora les son indescifrables.
+
+
+[06:18] Nos quisimos cambiar de piel, nos quisieron cambiar de piel, pero untamos de cacao sus genes para engendrar el chocolate claro y el chocolate quemado, hombres y mujeres de chocolate poblando de nuevo el continente del trueno y la desolación.
+
+
+[06:37] Reconstruimos nuestras ciudades magníficas, México, Buenos Aires, Lima, Río y guardamos en lo más hondo de nuestras memorias la sabiduría de nuestra memoria avasallada.
+
+
+[06:53] He oído la lengua de mis antepasados en sueños, en sueños he escuchado sus gritos, el crujir de los genitales, el dolor de los partos mestizos y de los de los hijos de las violaciones.
+
+
+[07:10] Ya no pudimos nombrar a los niños con nombres de flores, de cactus, de árboles, de constelaciones.
+
+
+[07:18] Aprendimos a contar el tiempo con su medida y llamamos a los días con sus nombres extraños.
+
+
+[07:25] ¿Quiénes somos?
+
+
+[07:27] ¿Quiénes son estos hombres, estas mujeres sin lengua, escarnecidos por su color, por sus pieles, sus plumas y sus adornos?
+
+
+[07:38] Para que no leyéramos más que sus códices, quemaron los nuestros en altas piras incendiarias, nuestra historia, nuestra poesía, los anales de nuestros pueblos, nos llenaron de humo los cuencos de los ojos, nos llenaron de lágrimas las entrañas.
+
+
+[07:58] Ardieron los amates pintados cuidadosamente por los escribas, ardieron las historias que nos hacían ser lo que éramos.
+
+
+[08:08] Cómo aullaban los viejos en las plazas viendo arder los nombres de sus padres en el fuego.
+
+
+[08:16] Ah, noche larga, noche triste de las cenizas, noche en que nos quedamos sin manos, sin lengua, desmemoriados.
+
+
+[08:27] He oído la lengua de mis antepasados en sueños, en sueños he escuchado sus risas, paciente la paciencia, la resistencia, siglos de silencio, de espera, el tiempo fluido haciendo espirales, subiendo de los dos desiertos de la Patagonia, cruzando los Andes, las cordilleras, el trópico húmedo, las praderas de los búfalos.
+
+
+[08:53] El hombre de las grandes ciudades destruye su mundo, el hambre, la violencia, cava túneles bajo sus pies, socava los cimientos de los ídolos forasteros.
+
+
+[09:05] Los ojos de América aguardan el retorno de Quetzalcóatl, la serpiente emplumada.
+
+
+[09:12] He oído la lengua de mis antepasados en sueños, sueños que nunca duermen.”
+
+
+[09:25] Gracias, gracias.
+
+
+[09:30] >> Moderador/a (nombre desconocido): Has escuchado la voz de tus antepasados y en esa voz de tus antepasados late México, pero también late Buenos Aires, late Río.
+
+
+[09:39] Y sin embargo, en prácticamente toda tu obra está Nicaragua, nunca deja de estar Nicaragua.
+
+
+[09:46] Y aunque uno no escoge el país en donde nace, insistes y te preguntas qué sos vos, Nicaragua.
+
+
+[09:55] ¿Qué te respondes, Gioconda, viajera?
+
+
+[09:57] Hace más de dos décadas que no estás físicamente, o sea, permanentemente en tu país y que de pronto te vas a Estados Unidos, el enemigo en ese momento.
+
+
+[10:10] ¿Qué te respondiste?
+
+
+[10:11] ¿Qué sos vos, Nicaragua?
+
+
+[10:13] ¿Cuál es tu idea de nación?
+
+
+[10:16] Porque creo que es algo que está muy presente, es una interrogante que está muy presente en toda tu obra.
+
+
+[10:22] >> Gioconda Belli: Bueno, mira, yo creo que los países duelen.
+
+
+[10:27] Hay hay amores y siempre los amores a veces nos causan dolor, pero el dolor de un país es también el gran amor que uno le tiene a un país y creo que nada sustituye esa relación como del árbol a la tierra que uno tiene con el país donde uno nace, donde uno se siente que es quien es, donde uno eh tiene toda la memoria de haber empezado a ser, ¿no?
+
+
+[11:01] De la primera luz que vio, la primera sonido que oyó, de jugar de niño, o sea, esa la identidad, la identificación que existe con los demás, con tu entorno, con tu sentido de tener un destino común con otra gente, que lo que te pase a ti le va a pasar a los demás, que tenés esa cordón de alguna manera que lo que nos une a todos, ¿no?
+
+
+[11:32] Entonces, esa relación con mi país creo que tuvo que ver también con la con la situación política, ¿no?
+
+
+[11:41] Que cuando yo cuando yo nací, ya la dictadura somocista tenía 13 años de estar en el poder.
+
+
+[11:51] Y cuando la Revolución Sandinista triunfó, yo tenía 29 años.
+
+
+[11:56] O sea, que fueron 40 y pico de años donde en mi país no hubo nada más que una dictadura.
+
+
+[12:03] Ese fue el comienzo de mi vida, de mi historia, de mi relación con mi país fue una relación de dolor, de de ver un país que por un lado tenía una belleza extraordinaria, porque Nicaragua es un país tropical lleno de volcanes, de lagos, con una gente extraordinariamente dulce, amable, divertida.
+
+
+[12:29] Hay una alegría muy especial en los nicaragüenses considerando toda esta tragedia que hemos vivido, esta vida trágica, en cierta manera acosada por terremotos, por erupciones volcánicas.
+
+
+[12:45] Y creo que esa esa vivencia en el filo de la vida, entre la vida y la muerte, en en esa en esa esa necesidad de vivir intensamente es lo que nos ha hecho eh desarrollar ese amor este superlativo, ¿no?
+
+
+[13:06] Por este pequeñito país perdido en la mitad del mundo.
+
+
+[13:12] Claro, también la noción de libertad.
+
+
+[13:16] Eh el amor a la libertad se aprende y nace.
+
+
+[13:23] Creo que cada uno de nosotros lo tiene casi como lo tenemos en el inconsciente colectivo, pero cuando vivís en una situación de opresión, el amor a la libertad se confunde con ese amor por el país y hay esa idealización también del país, o sea, como uno uno quiere verlo mejor de lo que está, uno quiere soñarlo más libre, más hermoso, más más desarrollar todo ese potencial.
+
+
+[13:58] Entonces, creo que eso también tiene que ver con la visión utópica que tengo yo en mi literatura, ¿no?
+
+
+[14:04] Y que tiene que ver, por supuesto, con mi experiencia personal de ese país en particular y yo creo que cada escritor tiene su lugar, ¿no?
+
+
+[14:14] Y a veces cuando cuando no lo tenemos lo inventamos, o sea, hay yo, por ejemplo, inventé un país que se llama Fagua, que es Nicaragua, pero como a veces por ejemplo, en *La mujer habitada* no quería ceñirme al a la al a la historia estrictamente, quería poder mezclar las fechas, las situaciones.
+
+
+[14:38] Entonces, para poderlo hacer, porque yo soy muy respetuosa de la historia, no quería hablar de Nicaragua y salir con una historia que no correspondía con la realidad.
+
+
+[14:50] Entonces, inventé ese país que que de alguna manera es Nicaragua, pero también es todos esos otros países que han dejado huella en mi corazón.
+
+
+[15:00] Por ejemplo, yo en México tuve cuando yo salí al exilio, yo salí al exilio de Nicaragua en 1975, en la al final de mi era era la casi Navidad de 1975, yo salí porque cayó preso el compañero con el que yo trabajaba más de cerca y había una una especie de medida dentro del Frente Sandinista de que cuando alguien caía preso, uno sabía que tenía una semana para moverse, porque el compañero tenía que estar eh en silencio, no hablar, pues, aún bajo tortura, durante una semana para darnos tiempo a todas las personas que él podía involucrar a que nos pusiéramos a salvo.
+
+
+[15:48] Entonces, yo salí el 23 de diciembre de mi casa con dos niñas chiquitas que las tuve que dejar, que fue horrible, porque había arbolito de Navidad y yo no podía explicarle a nadie por qué me tenía que ir, mucho menos a mis hijas.
+
+
+[16:05] Entonces, eh inventé que me habían invitado a un viaje, ah porque yo trabajaba en una agencia publicidad, entonces inventé eh una excusa extremadamente frívola y a todos me vieron como un monstruo que me tenía que ir de Nicaragua y dejar a mis hijas en Navidad, etcétera.
+
+
+[16:25] Pero bueno, la verdad es que me vine a México, me vine al DF y ahí pasé la noche de Navidad o el 24 de diciembre, tenía un amigo pintor y me llevó a un taller, al taller de gráfica popular, donde estaban trabajando los obreros haciendo tarjetas de Navidad y él les dijo, "Esta compañera viene de Nicaragua, se acaba de ir al exilio."
+
+
+[16:51] Yo estaba muerta, por supuesto.
+
+
+[16:54] Y entonces ellos fueron mandaron a comprar tequila y acabamos esa noche cantando rancheras alegirísimo en un en una buhardilla, me dieron una bienvenida eh de amor y de subirme la moral, no, me deben haber visto que yo estaba muy triste.
+
+
+[17:13] Y desde entonces, bueno, tuve una relación, pasé cinco meses aquí en México, en el exilio.
+
+
+[17:19] Y ahí conocí a a a muchísima gente, a Carlos Monsiváis, a ahora se me van a olvidar todos los nombres, por supuesto, Telma Narda, que era la Efraín Huerta, que fue trabajé con él durante un tiempo, eh le pasé a máquina *Circuito Interior*.
+
+
+[17:38] Entonces hay un montón de cosas de mi vida que me vinculan, ¿no? a México.
+
+
+[17:46] Y esto de vivir todo este tiempo que he estado viviendo en Estados Unidos ha sido una traición horrible a mis principios.
+
+
+[17:57] Pero bueno, el amor esa extraña palabra, como dice Julio Cortázar.
+
+
+[18:02] Yo conocí a mi esposo, que era era periodista, me llegó a entrevistar.
+
+
+[18:10] Yo era vocero del Frente Sandinista en 1984, vocero de la campaña electoral, y me llegó a entrevistar y me empezó a entrevistar y todavía me sigue entrevistando.
+
+
+[18:22] Entonces, realmente cuando las elecciones las perdimos en 1990, después de la guerra de la Contra y todo eso, él se quería regresar a los Estados Unidos y quedamos en un acuerdo de que íbamos a estar parte del tiempo en cada lugar.
+
+
+[18:41] Por supuesto que los hombres nunca hacen caso.
+
+
+[18:43] Y entonces a mí me ha tocado estar más tiempo en Estados Unidos, pero ha sido interesante.
+
+
+[18:49] Realmente he vivido mucho tiempo en Nicaragua, o sea, yo paso la mitad del año en Nicaragua.
+
+
+[18:55] Y esta capacidad de desarrollar una cierta distancia también es importante.
+
+
+[19:02] Hemos pasado muchas cosas difíciles en Nicaragua en los últimos años, ha sido bien desgarrador.
+
+
+[19:06] Eh y creo que me ha ayudado también a tener una visión más clara de los Estados Unidos que es tan importante para América Latina, ¿no?
+
+
+[19:17] Y me ha dado mucho lugar para escribir porque tengo mucho acceso a libros, a a facilidades de investigación.
+
+
+[19:26] Y el silencio, yo digo que yo escribo en los Estados Unidos y vivo en Nicaragua porque mi vida en Estados Unidos realmente es bastante de reclusa, de estar en mi casa, con mis hijos que ya se fueron todos en realidad ahora ya me quedé solita porque ya mi última hija se fue a la universidad ahorita en agosto.
+
+
+[19:45] Entonces, pero pues estoy con mucho espacio para escribir, ¿no?
+
+
+[19:51] Y eso es bueno.
+
+
+[19:52] En Nicaragua es bien difícil para mí, aunque escribo siempre, pero eh hay tanto que hacer, tanto en qué meterse, decimos nosotros, hay que meterse en todo lo que pasa así es que...
+
+
+[20:06] >> Moderador/a (nombre desconocido): En en este recorrido que nos has dado acerca de de tu vida y el vínculo con tu país, creo que también es perceptible en tu literatura de la visión que ofreces en *La mujer habitada* al *País de las mujeres*, vemos toda una serie de cambios y esa distancia, ¿no?
+
+
+[20:28] que estableces con el país, pero también esta o este otro cambio que acabas de esbozar de la madre y de las relaciones de las madres con las hijas o de lo que implica la ausencia de la madre a en *El país de las mujeres* Ahí está presente en los vínculos sanguíneos, pero hay otro tipo de vínculos que es casi igual de importante, que es el de las amigas, que es el de las personas que y con las que te unen objetivos comunes.
+
+
+[21:00] >> Gioconda Belli: Claro, porque el en *El país de las mujeres*, bueno, una de las… cuando hablamos de libertad eh es una de las de las de los grandes temas que me he planteado yo digamos en la literatura.
+
+
+[21:15] Cuando escribo y lo que me animó a escribir *La mujer habitada* y luego incluso *Sofía y los presagios*, que fue un ejercicio que yo hice porque *La mujer habitada* estaba basada en cierta forma en mi experiencia personal.
+
+
+[21:32] Pero *Sofía y los presagios* yo dije, quiero ver soy capaz de escribir una novela donde totalmente invente todo lo que pasa.
+
+
+[21:42] Y era como un desafío a mi propia capacidad de hacer ficción.
+
+
+[21:48] Y y creo que resultó más o menos en Nicaragua les encanta porque es muy nica la novela, ¿no?
+
+
+[21:52] Pero también quería yo eh un poco mostrar como aún cuando hay cambios enormes a niveles urbanos en lo que es el campo, a veces el tiempo pasa mucho más despacio.
+
+
+[22:08] Entonces también en esa novela hay un un contraste entre el tiempo en que se desarrolla la vida de la protagonista de Sofía y el tiempo en que está pasando en la ciudad, ¿no?
+
+
+[22:20] Eh entonces la libertad para mí se expresa sobre todo en en hablar, yo quería hablar de la de la visión de la mujer porque la visión de la mujer sobre la libertad empieza por ella misma porque la mujer, a ver, nosotros las mujeres tenemos el guinness récord de la opresión.
+
+
+[22:48] Porque por ejemplo ahí se sabemos que los negros oprimen los blancos oprimen a los negros, que los ricos oprimen a los pobres, pero las mujeres nos llevamos el récord porque no venimos oprimidas casi desde que empezó la historia.
+
+
+[23:04] Entonces, uno, yo pienso que es esa opresión es como la semilla del diablo y no lo digo por broma.
+
+
+[23:13] Realmente, si uno aprende desde a casa a la a dominar a otro ser humano, eh y tolera que otro ser humano que es tan capaz, tan amoroso, tan tan igual como cualquier otro sea dominado en la propia casa, uno está aprendiendo un esquema, un modelo de existir que luego reproduce en su vida.
+
+
+[23:44] O sea, que nosotros todas aprendemos un cierto modelo de dominación desde que estamos en la más tierna infancia, y lo aprendemos ¿por qué?
+
+
+[23:54] Porque existe un modelo de dominación donde la mujer tiene que pagar el precio que es absurdo eso, ¿verdad?
+
+
+[24:02] De ser la madre, de ser la que reproduce la vida.
+
+
+[24:05] En vez de tenernos en un altar, como nos deberían de tener, pagamos un precio, bueno, nos tienen solo el día de la madre, ¿verdad?
+
+
+[24:12] Pero pagamos un precio bien alto por hacer lo que lo más importante que se hace en el mundo, que es reproducir la especie, porque si no nos quedamos sin nadie.
+
+
+[24:25] Cómo va a pasar en Europa, que allá no se están reproduciendo prácticamente.
+
+
+[24:29] Entonces, eh eso fue lo que me motivó, en cierta manera, a escribir y me ha motivado a escribir sobre Juana de Castilla, la reina Juana, en *El pergamino de la seducción*, que es una historia tremenda de cómo haber agarrado a esta mujer por impulsiva, por por inteligente, por apasionada, y haberla tenido encerrada desde los 29 años hasta que se murió a los 70 y pico, tuvo una vida muy larga, después de haber sido madre de seis reyes y reinas de Europa.
+
+
+[25:11] Eh la madre de Carlos V nada menos.
+
+
+[25:14] Y Carlos V fue horroroso con su madre y la mantuvo también encerrada porque había una disposición que decía que si ella mejoraba, ella volvía al poder.
+
+
+[25:27] Y entonces él se aseguró que nadie se diera cuenta que ella estaba sana.
+
+
+[25:32] Y que realmente la locura era un invento.
+
+
+[25:35] Y la mantenían encerrada y o sea, ella fue la inventora de la huelga de hambre.
+
+
+[25:39] Juana la Loca fue la primera mujer que la única manera en que tuvo de demostrar su rebeldía fue dejando de comer, dejando de bañarse.
+
+
+[25:50] O sea, ella usaba su cuerpo para rebelarse contra toda esta iniquidad, pero fue inútil, pues la realmente la mantuvieron en ese estado de cautiverio.
+
+
+[26:06] Y eso yo quería darle voz a esa… Ese es un ejemplo tremendo, ¿no?
+
+
+[26:13] De cuánto sufrieron tantas mujeres, porque no es la la primera historia ni la última de de ese tipo de de de problemática que hemos pasado las mujeres.
+
+
+[26:25] En el país bajo mi pie que en el país de las mujeres...
+
+
+[26:31] En el país de las mujeres 
+
+
+[26:37] En el país de las mujeres yo partí de una experiencia real.
+
+
+[26:41] Nosotros en Nicaragua, cuando triunfó la revolución, éramos muchas mujeres que habíamos tenido papeles destacados dentro de la revolución.
+
+
+[26:51] Y como suele suceder en las revoluciones, una vez que terminó la guerra y que ya no había que, o sea, que todos ya íbamos al poder y a tomar los puestos de dirigencia, de dirección, las mujeres nos empezamos a ver que nos estaban poniendo a todas en en posiciones intermedias y tuvimos posiciones intermedias importantes y hubo un avance tremendo en el desarrollo de la mujer en Nicaragua.
+
+
+[27:21] Sin embargo, había, como tuvimos la guerra de la contrarrevolución muy seguido, o sea, muy al año más o menos de la revolución, entonces nos en a el el la consigna se volvió eh hay que levantar la producción y defender la revolución, entonces cada vez que nosotros pedíamos que se reivindicaran cosas que habían por las que habíamos luchado, nos decían, "No, eso para después, porque ahorita es que la guerra."
+
+
+[27:47] Entonces hicimos un partido de la izquierda erótica clandestino.
+
+
+[27:53] Un grupo de nosotras, éramos como 15, nos empezamos a juntar, todas teníamos posiciones importantes en el Estado y en el partido y decidimos eh empezar a conspirar para lograr que se cumplieran ciertas cosas, mover la agenda de la lucha femenina.
+
+
+[28:12] Entonces nos juntábamos en una casa de alguna de nosotras cada semana y coordinábamos estrategias comunes, porque cada una, digamos, yo estaba a cargo de la de la radio y televisión, había otra que era la editora del periódico, había otra que estaba en la Asamblea Nacional, otra trabajaba con los campesinos, había otra que trabajaba en la Central Sandinista de Trabajadores, entonces todas teníamos posiciones donde podíamos influir en lo que pasaba en el país.
+
+
+[28:42] Entonces nos coordinabamos, hacíamos e hicimos estrategias comunes, pero además nos divertíamos enormemente riéndonos y todo y exponiéndole al partido, el partido de la izquierda erótica, ¿verdad?
+
+
+[28:56] Eh y eh a partir de esa experiencia, yo quedé con la idea de escribir esta novela desde hace muchísimo tiempo y por fin se me dio escribirla, ¿no?
+
+
+[02:05] Por fin fue el día que tuve que pude combinar eh la historia de la Viviana que está que le han pegado un tiro y está en coma y entonces está viendo eh en un en una habitación donde encuentra todos los objetos que se le perdieron en la vida.
+
+
+[29:28] Se despierta ahí y de repente empieza a caminar y en los anaqueles va viendo paraguas, anteojos, llaves, esas cosas que se nos pierden a todos y a todas y entonces este cada vez que agarra un objeto tiene como una especie de visión del pasado, ¿no?
+
+
+[29:48] Eh y y va reconstruyendo la historia de cómo fue que estas mujeres llegaron a tomar el poder y se propusieron no ejercer el poder como hombres, porque lo que pasa es que hay muchas mujeres en el poder pero la mayoría eh tiene que seguir más o menos el modelo eh que está establecido, entonces ellas ellas lo que querían era dejar de ejercer el poder como hombres y para eso les ayudó un volcán que se llamaba el Mitre, el volcán Mitre explota hay una nube tóxica, perdonen caballeros lo que voy a decir, pero eh hay una nube tóxica que cubre el país y cuando la nube se levanta hay ha habido un un gas que ha causado que la testosterona de los hombres se baje sensiblemente.
+
+
+[30:37] Entonces todos de repente están dulces, mansos, amorosos.
+
+
+[30:42] Y entonces se dejan, dejan y ven la la no es que se dejan, sino que de repente tienen se iluminan la mente.
+
+
+[30:54] Y deciden permitir que las mujeres o sea votan por ellas y todo porque realmente tenían unos gobiernos horribles, corruptos y las mujeres dicen nosotros vamos a limpiar el país y usan todos términos este domésticos.
+
+
+[31:10] Vamos a sacarle brillo, lo vamos a dejar limpiecito, eh vamos a hacer un país que va a ser supernítido, va a oler rico, va a oler a ropa planchada.
+
+
+[31:20] Y entonces eh fascinan a la gente y son lindas, además son guapas, no son nada de esas ustedes saben que las feministas tienen fama de ser todas como feas, ¿verdad?
+
+
+[31:33] Y entonces ellas son todo lo contrario, se ponen son unas mujeres supersexy.
+
+
+[31:39] Porque eso es parte del del de lo que ellas quieren, exacto, de la estrategia, de decir el erotismo, la sexualidad es una fuerza que tenemos las mujeres, ¿por qué la vamos a negar?
+
+
+[31:52] ¿Por qué no la vamos a usar de una manera productiva, de una o sea para demostrar que somos las madres, no solo de la tierra, sino de todo lo que es bello, eh sabroso también?
+
+
+[32:09] Entonces eh ellas eh bueno, como lo que hacen es cambiar las reglas del juego del poder y como hay esa cuestión del volcán deciden mandar a descansar a todos los hombres a su casa.
+
+
+[32:28] Con sueldo pagado y todo, no son injustas.
+
+
+[32:31] Por durante seis meses los mandan a bueno, ustedes ya han trabajado muchísimo por nosotras todos estos años, ahora ustedes váyanse a tranquilos a su casita a descansar, hacerse cargo de la casa de la cosa de la casa, que además pues no son nada del otro mundo, ¿verdad?
+
+
+[32:47] Según nos dicen a nosotros.
+
+
+[32:49] No es ni siquiera trabajo.
+
+
+[32:53] Entonces se van a su casa y claro es bien divertido pues porque los hombres ellas deciden hacer un programa de televisión para los campeones domésticos.
+
+
+[33:05] Entonces hay una hay un concurso de cuál es los hombres que son mejores a cuidar su casa.
+
+
+[33:11] Y al final los hombres dicen tienen que aceptar que el problema no es hacer los trabajos de la casa, sino que hay que hacerlos todos los días.
+
+
+[33:21] Y que es la rutina, el aburrimiento lo que los está matando.
+
+
+[33:26] Eh entonces hay un cambio de cosas en el país y eso me pareció que el humor que la manera de escribir de estos no era de una manera hostil, o sea agresiva.
+
+
+[33:42] Porque también ese es otro de los grandes problemas, los hombres y las mujeres estamos aquí juntos en el mundo y nos queremos mutuamente.
+
+
+[33:51] Yo no soy para nada anti hombre, me parece que los hombres son lindos, pero eh pero también pienso que que tenemos que buscar una manera de de que seamos igualitarios entre nosotros.
+
+
+[34:06] Porque como les digo, yo sí creo que ese esquema de dominación que se genera desde la misma casa es el fermento sobre el que luego se desarrolla todo un esquema de dominación en la sociedad.
+
+
+[34:25] >> Moderador/a (nombre desconocido): Y bueno, creo que eh parte de de esto que estás diciendo también está se ve en *El infinito en la palma de la mano*, desde otro registro, un registro mucho más lírico, pero ahora desde la interpretación de la primera mujer y cómo tiene que empezar a tomar decisiones en las que ella se da cuenta que quisiera salir a cazar como Adán, disfrutar de la naturaleza como Adán, pero hay otros otros ingredientes que la retienen en casa.
+
+
+[35:03] Entonces esta visión nueva, fresca, o sea, tus temas y tus preocupaciones están presentes a lo largo de tu poesía y a lo largo de tu prosa.
+
+
+[35:12] Pero tú narras cómo surgió este deseo de comenzar a escribir sobre Eva, sin embargo, de qué cómo decidiste por una parte tratar de acudir a ciertas fuentes históricas, míticas, simbólicas y dejar intacto este pensamiento vinculado con los diferentes roles que pueden asumir los hombres y las mujeres, la descendencia, la importancia de la descendencia, el vínculo con la divinidad, la interrogación sobre la divinidad y si la divinidad es quien nos depara un destino o es uno quien construye su destino.
+
+
+[35:50] Entonces, ¿de qué manera comenzaste a jugar a la hora de de preparar eh y realizar tu rutina literaria para que cristalizara esta bellísima novela?
+
+
+[36:06] >> Gioconda Belli: Bueno, yo he tenido una relación muy de muchos años con Eva.
+
+
+[36:11] Porque me cae muy bien Eva.
+
+
+[36:13] Eh yo escribía, incluso tenía un nombre de pluma cuando estaba el somocismo, yo a veces escribía artículos en el periódico y mi seudónimo era Eva Salvatierra.
+
+
+[36:28] Entonces, eh realmente, de casualidad me encontré esos libros apócrifos, eh, en una biblioteca que hablaban, son libros del siglo séptimo, pero que no se incorporaron a la a la versión, digamos, aceptada de la Biblia, y hablaban de, hay un, eh, el libro de Adán, donde se habla de qué le pasó a Adán y Eva cuando lo fueron, los echaron del paraíso.
+
+
+[36:58] A mí me interesaba, eh, porque Adán y Eva solo tienen 40 líneas, eh, 40 versículos en el Génesis, y no se vuelve a hablar más de ellos.
+
+
+[37:09] Eh, a mí me interesaba, imaginar, ese momento, aunque yo no soy religiosa, desde el punto de vista mítico de la humanidad, es un mito, es una, es una es tan importante, porque además es importante para para para la la misma concepción del ser femenino.
+
+
+[37:32] O sea, yo quería reivindicar a Eva, ¿por qué Eva mordió la manzana?
+
+
+[37:37] O sea, ¿por qué? Que en este caso, en mi novela, es un higo, porque en realidad, eh, el el el lo que han analizado bien todos los los textos antiguos, no puede haber sido una manzana, porque estaban en en Irak, entre el Tigris y el Éufrates, y debe de haber sido, yo creo que los pintores, más adelante, la manzana era más bonita y empezaron a pintar una manzana.
+
+
+[38:03] Pero bueno, el asunto es que, eh, esa visión de la mujer y del hombre como abandonados, es digamos, esta son una pareja que está en un hotel de cinco estrellas, y por, no tienen hambre, no tienen frío, son inmortales, porque realmente la muerte entra hasta el momento en que empiezan hasta que comen del árbol del bien y del mal.
+
+
+[38:34] Entonces, eh, imagínense lo que sería, bueno, estar en esa situación, son como ángeles casi de repente, porque comen de un fruto, se les acaba todo eso.
+
+
+[38:47] Entonces, ¿qué pasa?
+
+
+[38:49] ¿Cómo es ese despertar a un mundo hostil, donde tienen que empezar a vérselas, a aprender a vivir, a saber lo que es tener sed, lo que es tener hambre, y tienen miedo?
+
+
+[39:06] Eva tiene horror de comer cualquier otra fruta, porque le parece que si morder el el higo le causó semejante problema, ya no quiere comer más, pero tiene hambre.
+
+
+[39:19] Entonces, bueno, es, es un libro, yo creo que para mí, como poeta, fue la oportunidad que tuve de realmente escribir una prosa poética, imaginar eh, ese mundo primigenio, eh, ese mundo, eh, intocado y el descubrimiento de todo.
+
+
+[39:39] ¿Cómo descubre alguien y cómo narrar lo que es descubrir el agua, la sensación de frío, la sensación de calor, el amor?
+
+
+[39:50] Todo eso empezarlo a narrar desde la, desde el no saber, desde la más pura inocencia.
+
+
+[39:58] Y la serpiente juega un papel muy interesante.
+
+
+[40:02] La serpiente en la novela no es mala, sino que es más bien como, ella dice que es como un chivo expiatorio.
+
+
+[40:07] No, no, ella es como, como el lado femenino de Dios.
+
+
+[40:13] Eh, el, Eva se pregunta si no será la la la esposa de Dios o algo, porque y Dios es como un ser ella lo ella dice que él se aburre él crea mundos los pueblos y después se va a hacer otra cosa porque vive muy ocupado solo a nosotros se nos ocurre que hay un Dios que nos está viendo todo el tiempo yo creo que y que nos está llevando la cuenta de que hacemos mal o que hacemos bien o sea es bien humano para mí esa esa manera de pensar.
+
+
+[40:39] Entonces eh este Dios es un artista el Dios que sale ahí es un artista que hace de estas maravillas estos mundos estos pero se va a hacer otra cosa porque pues ya saben ustedes que el universo es enorme entonces ahí anda haciendo otras cosas y nosotros estamos solos en este mundo.
+
+
+[45:57] Entonces la serpiente más o menos les ayuda a ellos a entender cómo es la cosa y les aparece de vez en cuando.
+
+
+[41:02] Y él dice es que él me convirtió en esto pues porque estaba bravo conmigo pero ya se le va a pasar en algún momento se le pasa.
+
+
+[41:11] Y realmente yo creo que ahí están todas las preguntas no del ser y también de la libertad de la libertad la Eva lo que hace es usar su libertad ella ella decide ella ve que si no come la manzana no va a existir la humanidad que si ella no muerde ese conocimiento que si no adquiere ese conocimiento va a seguir viviendo en ese jardín y van a pasar muchos bueno ahí van a estar en ese jardín y no va a pasar nada.
+
+
+[41:43] Entonces ella decide ve tiene como una visión de lo que va a hacer la humanidad y se fascina y decide conocer conocer la humanidad y saber.
+
+
+[41:57] Es bien interesante que el que es que que la mujer haya sido la que quiso el conocimiento no que es lo que está en el realmente al fondo de haber mordido la manzana no la famosa manzana.
+
+
+[42:11] Muy poética la manzana, el higo en este caso.
+
+
+[42:15] >> Moderador/a (nombre desconocido): Eh, nos han llegado varias preguntas de los diferentes campus del sistema y curiosamente todos tocan el tema de la mujer y de lo femenino.
+
+
+[42:25] Por ejemplo, nos plantean en tu obra también está amor, locura, la visión de la mujer como objeto erótico, suele ser parte de la temática eh cuando se refieren a las mujeres o en las obras escritas por mujeres.
+
+
+[42:43] ¿Piensas que hay también otros ejes, otros temas en la nueva narrativa que nos dé una visión diferente sobre la mujer?
+
+
+[42:57] De lo erótico, el amor, la locura y la muerte.
+
+
+[43:03] >> Gioconda Belli: Claro, por supuesto, pero es que hay temas sobre la mujer que trabaja, la mujer que lucha, ¿me entendés?
+
+
+[43:11] Eh, o sea, yo creo que hay una el hecho de que sean protagonistas femeninos que aman, que se mueren, que también los hombres si lo se analizan las novelas masculinas, también hay amor, todo eso que hay ahí, erotismo, todo eso que dicen que que que hay en las novelas de mujeres, hay una hay realmente un prejuicio contra las novelas de las mujeres.
+
+
+[43:36] Yo estoy convencida de que todavía no hay en la visión latinoamericana de la narrativa, todavía la mujer no tiene el lugar que le corresponde y todavía hay una miradita un poco un poco complaciente y un poco como ay, ¿por qué hablan de cosas de mujeres?
+
+
+[43:57] Y las cosas de mujeres son importantes porque la mujer no ha tenido voz.
+
+
+[44:02] O sea, desde el siglo XIX, la mujer empezó realmente en se introdujo en la narrativa mundial, el siglo XIX.
+
+
+[44:13] Eh, entonces, tanto hay que decir de lo que no ha dicho la mujer, porque las mujeres no hemos sido contadas por los hombres.
+
+
+[44:20] Entonces, yo creo que hay muchísimas novelas donde las mujeres Laura Restrepo, por ejemplo, tiene una novela sobre que se llama *Leopardo al sol*, sobre la cuestión de las drogas en Colombia, buenísima.
+
+
+[44:34] Hay montones de novelas de mujeres latinoamericanas que hablan de la mujer en muchísimas facetas de sus vidas.
+
+
+[44:43] Y claro, el amor es una parte fundamental de la vida, no solo de las mujeres, sino de todos.
+
+
+[44:50] Y yo creo que las mujeres somos especialmente importantes porque le damos al amor su lugar, porque no tenemos miedo de decir que el amor es importante y que el amor nos determina a todos, hombres y mujeres, porque es de alguna manera un un sentimiento que nos hace sentirnos menos solos, que es como el un eje en cierto momento de nuestra vida.
+
+
+[45:17] No es lo único, por supuesto, y yo creo que ninguna mujer escritora habla del amor solamente como que es lo único que está pasando, solo en las novelas rosas, pues, que para eso son, ¿no?
+
+
+[45:29] Pero realmente el lo el tema del erotismo a mí me parece importantísimo, porque nosotros el determinismo biológico y la es bien importante para para para salir, o sea, para que logremos romper esa idea de que la mujer, porque tiene los hijos, porque es madre, eh tiene que tener un rol dentro de la sociedad que la limita y que no le permite acceder a otro montón de cosas.
+
+
+[46:00] Hay que romper eso, porque no es verdad, lo que pasa es que la sociedad no está organizada para que la mujer trabaje.
+
+
+[46:08] La sociedad necesita otra organización, porque antes solo el hombre trabajaba.
+
+
+[46:14] Entonces, las horas de oficina, la manera en que están organizadas las oficinas, todo está organizado para gente que tiene una esposa.
+
+
+[46:24] No está organizado para la mujer que tiene que ir a su casa a ver a sus hijos y que el hombre tampoco también tendría que participar en ese en esa en esa función.
+
+
+[46:34] Entonces, hay un montón de temas que todavía son candentes y el erotismo es uno de ellos.
+
+
+[46:39] El erotismo todavía se ve como una cosa cuando tenemos tanto que salvar del erotismo, es el principio de la vida, ¿no?
+
+
+[46:49] Vemos tantas películas, por ejemplo, sobre muerte.
+
+
+[46:53] Es impresionante la cantidad de películas que matan gente como locos, o sea, uno va al cine a ver matar gente.
+
+
+[47:00] A ver, todas esas películas de acción son de matar gente.
+
+
+[47:06] Entonces, y los hombres nadie les dice, eh.
+
+
+[47:09] Y las mujeres hablamos de amor, de cuidar gente y nos ven como dunda.
+
+
+[47:16] >> Moderador/a (nombre desconocido): Que además esa es una de las temáticas que están uniendo eh la gran mayoría de tus novelas y para eso tú planteas el concepto de la familia ampliada.
+
+
+[47:29] La idea de que tenemos que pensar también otras formas de concebir lo familiar.
+
+
+[47:35] Por ejemplo, para en tu obra es muy importante la idea de los ancestros, los abuelos, aquellos que te heredan algo.
+
+
+[47:44] La idea del presente, de los que están construyendo, pero también la idea de los hijos a quienes les estás heredando algo.
+
+
+[47:52] Entonces, eh prácticamente en todas tus novelas hay algún tipo de herida porque o no se toma en cuenta la voz de los ancestros de los cuales hay tanto que aprender, le dedicas tus textos siempre algún poeta mayor o la figura del abuelo o la figura de la madre perdida o siempre hay esta idea de ese pasado que nos sustenta, pero también la responsabilidad social del presente porque siempre hay alguien que viene detrás.
+
+
+[48:23] >> Gioconda Belli: Claro, exactamente.
+
+
+[48:24] Sí, sí, porque uno tiene que tener un sentido de responsabilidad, porque la vida es una carrera de relevos para mí, ¿no?
+
+
+[48:30] Nosotros somos una… vivimos muy corta, el nuestra vida es sumamente corta y la historia es sumamente larga, entonces nosotros ese momentito que vivimos es como que tenemos que agarrar todo lo que ha venido detrás de nosotros, traerlo con nosotros y dar otro poquito más.
+
+
+[48:52] Eh y yo pienso que si todos cumpliéramos esa responsabilidad tendríamos un mundo mejor, ¿no?
+
+
+[48:58] Que pensemos que no estamos aquí nada más para nosotros, que también vienen otros después de nosotros y que para ellos hay que trabajar, para ellos hay que hacer algo, para ellos hay que dejar una huella de tu paso por el mundo, pues, porque la vida es un privilegio tan enorme pero realmente nosotros somos muy efímeros, ¿no?
+
+
+[49:21] En el tiempo.
+
+
+[49:21] >> Moderador/a (nombre desconocido): Pues tenemos una pregunta también aquí en la sala, entonces adelante.
+
+
+[49:31] Eh ¿Hay alguien que quiera tomar la palabra o bien me voy a alguna de las preguntas que nos llegó del de los campus?
+
+
+[49:40] Pregunten, pregunten sin miedo.
+
+
+[49:45] A ver, sí, por favor.
+
+
+[49:49] >> Participante 1: Gracias.
+
+
+[49:50] Yo con tal de entrar en la literatura, al abordarte como hija, como como novia, como amante, como esposa, como madre, has tenido distintas etapas.
+
+
+[50:02] Precisamente pensando en lo efímero y en el punto en el que andas rondando en en en la vida, eh ¿cómo te visualizas o cómo ejercerás el modo de ser suegra en tu literatura?
+
+
+[50:15] >> Gioconda Belli: Suegra.
+
+
+[50:20] Soy una suegra fantástica, ya soy suegra.
+
+
+[50:25] Eh no sé, pero estoy escribiendo, estoy empezando a escribir una novela sobre la madurez y la vejez, porque también es un tema que me interesa mucho y creo que se ha escrito poco eh y tengo en mi poesía he escrito bastante sobre ese tema, porque creo que a todos nos conflictúa, ¿no?
+
+
+[50:48] Toda la el el el esa parte de la vida donde ya uno va en descenso y en ascenso en lo que es intelec- en lo intelectual, ya pasó toda esa etapa de la juventud donde uno no sabía lo que era ni lo que quería, pero la vida es cruel, pues, entonces en el momento en que uno empieza a sentirse más en poder de todas sus facultades, ya sabe lo que quiere, le empiezan a fallar todos los motores.
+
+
+[51:19] Entonces, ese es el problema de la vida, ¿no?
+
+
+[51:22] Deberíamos yo siempre pienso que hay un problema que la naturaleza no es sabia, que nos debíamos nosotros debíamos haber durado como 300 años por lo menos, como los árboles, ¿no?
+
+
+[51:33] Irnos poniendo cada vez más bellos, porque no fuimos como los árboles, yo creo que por eso tanto me gustan los árboles en mi literatura.
+
+
+[51:42] Pero mira, yo hay tanto de qué hablar en la literatura, ¿no?
+
+
+[51:49] Y yo no siento que todas mis protagonistas soy yo tampoco.
+
+
+[51:56] Hay eh hay una tendencia a pensar que es uno, ¿no?
+
+
+[60:01] Pero yo he tratado de más bien de canalizar experiencias que he vivido muy de cerca.
+
+
+[52:10] Y claro, uno siempre decía Doris Lessing que toda novela es autobiográfica, ¿no?
+
+
+[52:14] Y yo creo que sí, siempre hay una parte de uno que se expresa en la escritura, porque esta es pues de todo pasado a través de la propia experiencia.
+
+
+[52:24] Pero vamos a ver cómo yo después en la vida real soy una buena suegra, es lo que te puedo decir.
+
+
+[52:32] >> Moderador/a (nombre desconocido): Bien, tenemos aquí otra pregunta.
+
+
+[52:37] >> Participante 2: Sí, siguiendo con esta idea que comentaba Maricruz de cómo eh pues vienes tú eh haciendo uso de las experiencias de tus ancestros y pues como decías tú también, buscar cómo capitalizar esa experiencia para los que vienen, ¿no?
+
+
+[52:58] Eh fue algo que a mí me me gustó mucho de tu novela *Sofía de los Presagios*.
+
+
+[53:02] Primero porque creo que como bien dijiste, no es totalmente autobiográfica.
+
+
+[53:06] Segundo porque la descripción que haces de los lugares de Nicaragua, soy paisana tuya, este me remontó y dije, este es mi Macondo.
+
+
+[53:14] Y porque también hay ahí un recurso, un elemento que usas precisamente que, bueno, así lo interpreté yo, es no quieres que la la hija de Sofía sufra la misma este pues el mismo devenir que ella tuvo, ¿no?
+
+
+[53:32] Y planteas de que es necesario o hay vidas que se viven de una manera circular y una manera en espiral, ¿no?
+
+
+[53:41] Entonces y que la búsqueda debería de ser de cómo vivir la vida en espiral.
+
+
+[53:48] Entonces, no sé si digo, me gustaría ahondar un poco sobre sobre eso, sobre ese recurso que me pareció sumamente delicioso.
+
+
+[53:58] Muchísimas gracias.
+
+
+[54:00] >> Gioconda Belli: No, eh realmente la espiral a mí me pareció sumamente importante, quizás precisamente porque estaba viviendo una especie de circularidad en la historia de Nicaragua, ¿no?
+
+
+[54:17] O sea, yo luché contra una dictadura, fui parte de un movimiento revolucionario y ahora estoy viendo eh a un compañero que fue Daniel Ortega eh de repente volviendo a aparecerse al origen del somocismo, o sea, es es una de esas cosas de la historia que uno no acaba de entender, cómo una persona que que empezó en un camino de revolución, de repente da la vuelta y cuando tiene el poder empieza a comportarse como como un dictador.
+
+
+[55:00] Todavía no es un dictador como Somoza, o sea, Daniel Ortega, por supuesto, hay una distancia.
+
+
+[55:04] Y mi esperanza es que el populismo latinoamericano que hay ahora derive en algo más democrático, porque yo creo que si vemos la historia también como un largo proceso, yo creo que la derecha y los gobiernos neoliberales que se dieron en los 90 y que crearon una aspiración de democracia en América Latina, no cumplieron esa aspiración de democracia, que al contrario, o sea, generaron una una cierta eh sensación de democracia, pero en a nivel puramente formal.
+
+
+[55:41] Y por el otro lado, a nivel de la distribución de la riqueza, de la justicia social, fueron años terribles donde se olvidó totalmente la mayoría de las personas.
+
+
+[55:53] De ahí que vinieron estos gobiernos y que pudieron elegirse todos estos gobiernos populistas que ahora tenemos, que eh ¿qué es lo que están haciendo?
+
+
+[56:02] Están bajando, o sea, está está circulando más dinero y están mejorando las condiciones de salud, de educación en lo en las clases más pobres y dando, es cierto, son progra- programas casi de beneficencia, son programas prevendarios para ganar votos, pero está circulando, o sea, se están acordando de lo que la derecha no se acordó.
+
+
+[56:31] Entonces, yo pienso que aunque no sea lo ideal, yo no me voy a poner contra esos gobiernos como que fueran de derecha porque eh pero sí voy a seguir luchando por la democracia, o sea, porque el problema ahí es que se está generando un sistema autoritario, están rompiendo con todas las instituciones, o sea, para poder decir esto es y esta es la manera de hacer las cosas y aquí nadie me va a discutir a mí que hay otra manera.
+
+
+[57:01] Y el que me lo discuta es un traidor y hay que hacerle un ostracismo, exiliarlo del pensamiento político y quitarle todo el derecho, o sea, es caer otra vez en lo que el socialismo cayó, que fue en eh atenazar la voz de sus intelectuales, impedir la comunicación, impedir la crítica, o sea, están cayendo en eso mismo.
+
+
+[57:30] Entonces, es un es es un problema serio, pero pues yo soy optimista y pienso que hay espacio ahora para que lo los intelectuales, para que mucha gente pelee y luche por esas eh ideas democráticas y con la idea de que la la las generaciones que vienen ahora puedan eh demandar otro tipo de de desarrollo.
+
+
+[57:57] Eso es lo que...
+
+
+[58:00] >> Moderador/a (nombre desconocido): Aquí tenemos otra pregunta.
+
+
+[58:02] >> Participante 3: Bueno, gracias por darme la palabra.
+
+
+[58:05] Este, a mí me gustaría preguntarte en en cuanto cuando hablas sobre el este libro que escribiste en donde mencionas eh de alguna manera este partido de izquierda erótico clandestino, ¿qué elementos influyeron en las mujeres que en ese momento tenían un espacio de toma de decisiones eh para actuar y de esta manera?
+
+
+[58:38] Y cómo este eh estas decisiones de ustedes influyeron dentro del pueblo de de Nicaragua.
+
+
+[58:49] Y por otro lado, pues también este me gustaría preguntarte cómo le haces para en todos tus poemas, a mí me encanta cómo de la forma tan natural que de se desarrollan y cómo en cada uno está la naturaleza eh que nos que nos gobierna y que nos domina.
+
+
+[59:12] Y que, por ejemplo, siempre hablas de mariposas, de las flores, del agua que fluye, de los ríos, los bosques.
+
+
+[59:21] Y y todo esto, bueno, pues a mí me gustaría preguntarte si realmente todo esto tú lo tú lo has visto eh y también pues es muy lamentable como hoy, verdad, en todos los los países del mundo, todos estos lugares tan hermosos que que que nos planteas en tus poemas, pues los están destruyendo, ¿verdad?
+
+
+[60:01] Y así como que a veces pienso como que para nuestras generaciones solamente es lo que esto es lo que les estamos dejando solamente escrito en ese poema que tú tan maravillosamente nos transmites y nos transmites a nos vamos a ese lugar que tú nos escribes y en el cual fluye tan interesantemente toda esta poesía que que afortunadamente hemos tenido el gusto de de disfrutar.
+
+
+[1:00:19] >> Gioconda Belli: Bueno, en realidad el partido clandestino es que nos unía, nos unía eh bueno, casi todas habíamos estado luchando en la revolución y veníamos de una generación, la generación del 70 fue una generación muy influida por la guerra de Vietnam, por la la liberación femenina, fueron los años más tremendos donde aparecieron todos los textos más importantes que realmente generaron una revolución.
+
+
+[1:01:03] Yo pienso que la revolución más importante del siglo XX fue la revolución de la mujer, la que más nos cambió la vida, o sea, comparado a como vivían nuestras abuelas y hasta nuestras madres, nuestra vida como mujeres hoy en día es muy diferente.
+
+
+[1:01:19] Incluso pienso que muchas de las muchachas jóvenes ya no piensan que ni el feminismo ni siquiera es necesario, porque ya no sienten ese mismo nivel de opresión que sentíamos nosotros.
+
+
+[1:01:31] Eh entonces eh veníamos de toda esa experiencia y de nuestra propia realización cuando empezaron los cambios de que no nos estaban dando el lugar indicado.
+
+
+[1:01:45] Por ejemplo, yo me acuerdo yo yo cuando estuve participando en la guerra, en la parte clandestina, la parte más peligrosa de llevar armas, de traer armas, de estar en lugares de combate, de ahí había un respeto tremendo por las mujeres, o sea, realmente nos dejaban yo yo no me acuerdo de haber sido digamos de que por ser mujer no me hayan dejado transportar armas o no me hayan dejado eh participar en entrenamientos militares, nada de eso.
+
+
+[1:02:25] Pero cuando se da el triunfo de la revolución, entonces ahí sí empieza a ver otro reordenamiento, porque ya hay un reordenamiento social que se inscribe dentro del esquema tradicional.
+
+
+[1:02:36] Yo creo que cuando hay una situación de guerra se rompen esos modelos de de relación y esos modelos jerárquicos que tenemos normalmente en la sociedad.
+
+
+[1:02:48] Entonces cuando se vuelve a ordenar la sociedad se vuelve se regresa a esos modelos jerárquicos, a esos modelos de dominación y todas nosotras estábamos un poco eh o sea, no un poco, estábamos claras de que si queríamos eh que la revolución avanzara efectivamente eh en en muchos campos, teníamos que seguir luchando por esa presencia de de mujer y logramos muchos éxitos, o sea, logramos el divorcio unilateral, por ejemplo, que no existía en Nicaragua.
+
+
+[1:03:29] Eh, logramos muchas cosas, hicimos una ley de padres, madres e hijos, donde se eh no se no se le puso un reglamento porque era imposible, pero sí se se se discutió mucho sobre la relación que debía existir, la obligación y la responsabilidad de los padres y las madres para con la la crianza de los hijos, que no era ya nada más una cosa de la madre, sino que también se incluía al padre.
+
+
+[1:03:54] Y logramos secretarías de la mujer en la Asociación de de Trabajadores del Campo, en la Central Sandinista de Trabajadores, o sea, eh fue bien interesante, porque cuando después que la Revolución salió del poder, cuando ganó Violeta Chamorro, en 1990, fue ahí fue la presidenta era mujer, la jefa de la policía fue mujer, la jefa del Consejo de Estado fue mujer, o sea, fue como que de repente todas las mujeres empezaron a tener los puestos más importantes.
+
+
+[1:04:31] Eh, entonces ha habido, hay en Nicaragua un un la Revolución dejó eh un respeto hacia el trabajo de la mujer, pero también hay muchísimo problema, o sea, en Nicaragua hay un casi un 70% de las mujeres son golpeadas, por ejemplo.
+
+
+[1:04:51] La violencia doméstica es una plaga, una epidemia que no solo en Nicaragua, pues, es tremendo.
+
+
+[1:04:59] Yo creo que tiene que ver con toda esta eh con la participación cada vez mayor de la mujer y los cambios que se están dando, que desafían los modelos a los que estamos acostumbrados y los hombres no han encontrado su identidad tampoco.
+
+
+[1:05:15] Eh hay que ver que así como la mujer ha tenido que hacer un giro en su propia identidad, el hombre tiene que encontrar una identidad donde pueda ser bien macho sin ser machista.
+
+
+[1:05:29] O sea, el es bien importante también que nos demos cuenta que no es no es una cosa que se va a hacer de un día para otro, que son mucho tiempo, pero las mujeres tenemos un papel bien importante que jugar en este porque no todo va a ser malo, o sea, la otra cosa es ponerse a hostilizar al hombre como que le le vamos a quitar el mando y no es eso, o sea, se trata de tener un mundo donde realmente existamos bajo un esquema de relaciones eh en la intimidad y a nivel social mucho más igualitarios, porque eso nos va a hacer bien a todos como seres humanos, y nos va a permitir desarrollar sociedades con mucho mayor respeto y con una cultura de de empatía, de cuidarnos mutuamente.
+
+
+[1:06:19] Por ejemplo, en *El país de las mujeres* se llaman cuidadanas.
+
+
+[1:06:24] Ellas se ponen cuidadanas y son la cuidadanía le dicen, no ciudadanía, sino cuidadanía.
