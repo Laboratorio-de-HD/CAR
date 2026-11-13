@@ -1,0 +1,205 @@
+﻿[00:24] >> Román Gubern: Buenos días a todo el mundo. Hoy continuamos y clausuramos, de hecho, el ciclo del seminario de conferencias.
+
+
+[00:32] Antes de empezar la conferencia, quiero decir que tengo algunas preguntas pendientes del último día. Las dejamos todas para el final; algunas muy interesantes, por cierto, retoman temas muy centrales de la conferencia de ayer, pero las postergamos para juntar todas las preguntas al final.
+
+
+[00:51] La charla de hoy, la clase de hoy, será un poco distinta a las anteriores porque deliberadamente es una lección y una reflexión que tiene un pie en la ciencia ficción. Hoy hablaremos un poco del mañana y del pasado mañana, de modo que habrá algunos temas un poco especulativos y prospectivos, lo cual pienso que los que nos dedicamos a las nuevas tecnologías debemos pensar: este hoy nos condiciona el mañana, y este mañana, ¿qué será?, y este pasado mañana, ¿qué será?
+
+
+[01:26] Dicho esto, también quiero hacer una advertencia: generalmente las predicciones científicas y novelescas fracasan con mucha frecuencia. Fracasan porque se hacen desde un paradigma actual y luego se produce un cambio de paradigma.
+
+
+[01:42] Voy a poner un ejemplo: en el siglo XIX un escritor francés, Robida, publicó un libro muy interesante explicando cómo sería el siglo XX. Iba muy ilustrado y, si lo podéis conseguir, es sumamente curioso.
+
+
+[02:00] Este hombre, desde la época de la máquina de vapor de las fábricas textiles con sus engranajes, sus correas y sus poleas, dejó volar su imaginación y describió lo que él creía que sería el siglo XX. Es simplemente un disparate, como una tienda de quincalla, porque es un mundo lleno de máquinas de vapor, de correas, de engranajes y de pistones.
+
+
+[02:28] Era el mundo que pudo imaginar desde la cultura del vapor. Pero luego vino la cultura de la electricidad pocos años después de que este hombre publicara este libro, la cual cambió absolutamente todo; y luego irrumpió, con la guerra mundial, la cultura de la informática.
+
+
+[02:46] Claro, las predicciones que podamos hacer del mañana las hacemos desde la era electrónica e informática, y quién sabe si saldrá luego una forma de energía distinta. Imaginaos, por ejemplo, que se generalice el uso de energías limpias (eólica, etcétera); solo este dato ya habrá modificado el paisaje.
+
+
+[03:17] Digo esto porque las predicciones con frecuencia fallan, y fallan por buenas razones; pero aun así me parece interesante pensar un poco en el mañana desde el hoy, con algunas cuestiones importantes para la especie humana.
+
+
+[03:33] La primera es hablar brevemente de la evolución biológica de las especies. La evolución tal como Darwin la diseñó se ha acabado hace muchos siglos, porque hoy no estamos en la etapa de la selección natural que Darwin diseñó, sino en la etapa de la selección técnica, que prácticamente algunos sitúan en el Neolítico.
+
+
+[04:00] Antes una persona llegaba a los cuarenta años, cogía una gripe o una infección cualquiera y se moría. La medicina ha trastocado la selección natural, y la prueba es que la gente vive noventa u ochenta y tantos años, y vive en sillas de ruedas o en asilos; en condiciones naturales en la caverna se habría muerto hacía treinta años porque no se valdría para caminar.
+
+
+[04:36] De modo que la evolución biológica de la selección natural ha sido reemplazada por la selección técnica y, sobre todo, por la medicina, que ha sido un factor central. Ahora estamos entrando en una etapa revolucionaria desde este año con la secuenciación del genoma humano, porque esto realmente marca un hito más importante que la energía atómica.
+
+
+[05:07] Me decía un primo mío que es médico hace pocos días en España: las predicciones para los que nacen ahora en el año 2000 en los países occidentales bien alimentados es una expectativa de vida de ciento veinte años. Otra cosa es preguntarse si vale la pena, si es interesante o aburrido; depende de la calidad, evidentemente.
+
+
+[05:38] Estamos viviendo una etapa de cambio acelerado, y lo del genoma humano no es ninguna broma: tardará más o menos en poderse manipular eficientemente, pero está claro que se curarán enfermedades ya en el embrión. Estamos entrando en la civilización tecnocientífica, y todo esto lo digo como preámbulo para un tema tan importante como el de la identidad y la performatividad corporal en la era cibernética.
+
+
+[06:17] Hoy vivimos en una cultura técnica que permite las prótesis corporales, y uno llega a preguntarse: «¿Yo soy yo todavía?». Empezamos con las lentillas y con el audífono, pero luego vinieron las prótesis óseas (la cadera de titanio), las prótesis mamarias de silicón artificial y el marcapasos.
+
+
+[06:54] El marcapasos es ya antiguo, pero permítanme darles una noticia de antes de ayer, del 28 de agosto, de las agencias de Londres: un jubilado británico se ha convertido en la primera persona del mundo a la que se le implanta un corazón eléctrico, un sistema de bombeo que funciona con baterías y permite la circulación de la sangre. La operación se produjo el pasado 20 de junio en Oxford y ha sido mantenida en secreto por el Ministerio de Sanidad por temor a que el paciente muriera; al parecer, el paciente lleva ya una vida absolutamente normal.
+
+
+[07:37] La máquina eléctrica implantada tiene el tamaño de un dedo pulgar y su misión es presurizar la arteria aorta. La versión del marcapasos es la prehistoria, porque ahora tenemos corazones eléctricos; vamos a ver si funcionan bien.
+
+
+[08:03] Recordamos el pulmón de acero, y hoy día el respirador ha reemplazado al pulmón de acero; tenemos el trasplante de hígado, de médula, los implantes de tejido nervioso, los implantes eréctiles para disfunciones, etcétera. Entonces uno se empieza a preguntar si siente su cuerpo como su cuerpo y por el tema de la identidad.
+
+
+[08:34] Sabéis que hay dos tipos de sensaciones: la propioceptiva y la exteroceptiva; la exteroceptiva es del mundo exterior y la propioceptiva es de nuestro propio cuerpo. La pregunta es: ¿mi vivencia propioceptiva me permite reconocerme como un sujeto identitario cuando empiezo a tener prótesis en los brazos, en el hígado y en otros órganos?
+
+
+[09:02] Se habla ya del hombre biónico en los cómics; pues bueno, vamos a ser el hombre biónico. Hace algunos meses un científico americano que estaba preparando un libro de encuestas me escribió para pedirme qué opinaba yo de cuál sería la mayor revolución científica del siglo XXI.
+
+
+[09:34] Sin ninguna duda, estoy convencido de que es la convergencia de las biotecnologías y la informática: biochips, replicantes... Vamos hacia eso, no digo que el replicante sea un chico guapo o una chica guapa con ojos azules, pero es el paso hacia el hombre biónico y la mujer biónica.
+
+
+[10:11] Además, se ha producido una inversión. Marshall McLuhan era un hombre muy receptivo y muy agudo; desarrolló una teoría en los años sesenta que a todos nos ayudó a entender el mundo de la comunicación: que los medios de comunicación eran prolongaciones o alargamientos del ser humano.
+
+
+[10:47] La rueda sustituye a las piernas, la radio y el teléfono alargan la oreja, y la televisión alarga la mirada: los medios como extensiones físicas y sensoriales del hombre. Eso era cierto en la era de McLuhan, que no era una era informática, aunque existieran computadoras.
+
+
+[11:16] Ahora ya no es que los medios sean prolongaciones del ser humano, sino que se está produciendo una delegación de facultades por parte del hombre en la máquina. Un ejemplo muy común: hemos delegado la visión.
+
+
+[11:40] No es que hayamos alargado el ojo como decía McLuhan de la televisión; lo que pasa cuando el ser humano delega la mirada en las máquinas de videovigilancia electrónica es que hay una visión sin sujeto. Por primera vez en la historia hemos delegado la facultad de mirar y observar y la hemos depositado en la máquina para que mire por nosotros.
+
+
+[12:28] La videovigilancia sugiere un poco al Gran Hermano del estado orwelliano, porque está en todas partes y es inquietante al haber miradas potenciales sobre mi intimidad. Estamos delegando también nuestra memoria personal en las computadoras.
+
+
+[12:59] Hay un autor americano un poco visionario que dice que antes de morir los hombres podremos delegar nuestra memoria e inteligencia personal en la máquina, de modo que cuando muramos y estemos enterrados, nuestra memoria personal nos sobrevivirá en un disco duro.
+
+
+[13:32] Y finalmente está la delegación de la inteligencia con el famoso tema de la inteligencia artificial. La famosa derrota de Garry Kasparov ante Deep Blue fue muy impresionante, pero tiene una explicación muy sencilla: Deep Blue tenía más memoria especializada que Kasparov y podía prever el doble de jugadas en ajedrez.
+
+
+[14:29] La inteligencia artificial tiene todavía problemas muy serios por resolver y está en una fase incipiente porque no tiene emociones. Marvin Minsky, que es un poco el padre de la inteligencia artificial, se pregunta si se puede ser inteligente sin emociones, porque las decisiones que toma el ser humano las toma, entre otras cosas, por motivaciones emocionales.
+
+
+[15:19] Se produjo un día el secuestro de una niña en Estados Unidos y se movilizaron el FBI y la policía. Una de las opciones a las que recurrieron fue consultar a un sistema de inteligencia artificial, suponiendo que era una máquina objetiva sin prejuicios humanos; la alimentaron con todos los datos del caso para que dijese cuál era la opción más razonable.
+
+
+[16:13] La máquina procesó la información y al cabo de un rato preguntó: «¿Quién estaría interesado en pagar por una hija?». En una máquina sin emociones, sin el concepto de amor filial, la respuesta en toda lógica fue esa: ¿por qué pagar por una hija?
+
+
+[16:58] Esto demuestra que para ser inteligente hay que tener emociones; sin emociones somos seres patológicos. Sabéis que la identidad personal nace de dos factores: por una parte, el capital genético hereditario con el que venimos al mundo, al que se sobreañade la educación, el ambiente y la cultura.
+
+
+[17:47] Hasta ahora el capital genético era algo intocable; hoy día el genoma humano se puede manipular y corregir. Y además tenemos los psicofármacos, que son manipuladores del carácter, de las facultades y del mundo emocional, y tenemos encima la cirugía cerebral.
+
+
+[18:31] Desde hace unos quince años las neurociencias están avanzando de forma clamorosa. La historia humana desde Sócrates y su «conócete a ti mismo» ha estado basada en la introspección; Descartes con el «pienso, luego existo» y Kant basaron sus sistemas en la introspección a manos desnudas, sin aparatos.
+
+
+[19:24] Pero cualquier biólogo nos dice con toda rotundidad que el cerebro es un órgano que no está diseñado ni ensamblado para comprenderse a sí mismo, sino para sobrevivir. Jamás el cerebro se podrá comprender a sí mismo desde dentro; solo se puede comprender su funcionamiento desde fuera, mediante técnicas sofisticadísimas de neurociencias como la tomografía por emisión de positrones.
+
+
+[20:19] De modo que la educación y lo genético van cambiando; el otro día leí un artículo sobre técnicas de aprendizaje durante el sueño, aunque no sé si es muy sano alterar la fisiología del descanso. En este discurso es menester contemplar otra cuestión: las nuevas relaciones hombre-máquina.
+
+
+[21:13] Alan Turing inventó en el año cincuenta el llamado test de Turing en un artículo famoso en la revista *Mind*. Turing, desde el conductismo más estricto, decía que una máquina es inteligente cuando una persona que está detrás de una cortina y formula preguntas es incapaz de distinguir si las respuestas proceden de un ser humano o de una máquina.
+
+
+[22:27] Lo que ocurrió es que el conductismo era la psicología hegemónica en los años cincuenta; pero cuando los científicos quisieron avanzar en la computación a través del tratamiento de símbolos y no solo de números, tuvieron que abrir la caja negra para ver cómo funcionaba el cerebro. Para imitar el funcionamiento del cerebro hubo que dejar de lado el conductismo y se abrió una nueva etapa en la psicología occidental: la psicología cognitiva, que intenta desvelar los mecanismos internos de asociación e inferencia.
+
+
+[24:13] Las máquinas no deben ser papagayos que se limiten a reproducir lo que ya está en su programa: la inteligencia es la facultad de modificar el ambiente, aprender de esa modificación y programar nuevas respuestas. La capacidad de aprender humaniza a la máquina, pero crea un fenómeno sin precedentes en el pasado: la inteligencia extracorporal.
+
+
+[25:02] No obstante, tenemos todavía retos muy importantes. Estamos lejos de poder formalizar con modelos matemáticos lo que llamamos la creatividad humana, tanto estética como científica.
+
+
+[25:49] Tenemos eso que Freud llamó el subconsciente y que conocemos mal. Voy a explicar un caso histórico real muy ilustrativo de cómo funcionan las intuiciones que vienen del fondo de nuestro subconsciente.
+
+
+[26:08] Un paleontólogo de Chicago estaba recomponiendo los huesos de un dinosaurio y tropezaba con un problema en la mandíbula que no conseguía encajar tras varios días de trabajo. Su vivienda estaba adosada al Museo de Historia Natural en el mismo edificio.
+
+
+[26:36] Una noche soñó que por fin encajaba la mandíbula. A la mañana siguiente se levantó corriendo, se precipitó a la sala y se encontró con que la mandíbula ya estaba encajada: se había levantado sonámbulo en sueños, la había colocado y se había vuelto a la cama.
+
+
+[27:01] El volumen de información acumulado durante días de pruebas se ordenó de pronto en el reposo del sueño. Del subconsciente emergió la solución técnica para encajar la mandíbula, y el impulso fue tan fuerte que actuó sonámbulo; esto demuestra lo poco que sabemos de la creatividad y de su componente subconsciente.
+
+
+[28:02] En los años sesenta se hablaba del «pensamiento productivo» (*productive thinking*), y hoy se habla de creatividad: la capacidad para producir algo que sea novedoso, original e inédito, y a la vez estimulante. En los años sesenta autores como Max Bense o Abraham Moles intentaron fundamentar una estética basada en la matemática identificando la originalidad con lo improbable según el cálculo de probabilidades.
+
+
+[29:47] Estos estudios hoy han sido olvidados porque no conducen muy lejos: una ecuación que mide la tasa de originalidad de una figura no nos sirve de mucho en la práctica. Otro reto que empieza ya a practicarse es la conexión directa del cerebro humano a computadoras para enviar señales, órdenes y modelos de raciocinio; algunos científicos estiman que esto será una realidad plena hacia el año 2020.
+
+
+[30:58] Todas estas cuestiones nos llevan de nuevo al tema de la identidad y de la alteridad a través del mito del robot, que no es más que la plasmación del viejo mito literario del doble. El robot se basa en dos componentes: un programa informático que proporciona su inteligencia y una mecánica que constituye el soporte físico para su acción.
+
+
+[31:40] En la literatura y el cine hemos visto muchos robots: en *Metrópolis* de Fritz Lang, en *Planeta prohibido* (donde el robot incluso se emborracha) o en *La guerra de las galaxias*, donde los personajes más populares eran los robots. En la ciencia ficción la imaginación humana siempre ha antropomorfizado al robot dibujándolo con cabeza, tronco, brazos y piernas.
+
+
+[32:25] Las funciones del robot son las que deberían marcar el diseño: en vez de piernas puede tener orugas como los robots enviados a Marte, o tubos de succión en lugar de brazos. Hace pocos días la NASA presentó su último robot para el espacio, el Robonaut, y para divulgar sus habilidades explicaban que era capaz de atarse los cordones de los zapatos o rascarse la espalda con sus sensores, cayendo en un antropomorfismo bastante grotesco.
+
+
+[34:58] El concepto de robot procede de la palabra checa que significa «trabajador», acuñada en la obra de teatro *R.U.R.* de Karel Čapek en 1921. El robot de Čapek no es metálico, sino que está hecho con tejidos vivos en laboratorio, como el monstruo de Frankenstein de Mary Shelley.
+
+
+[35:57] Como ocurre siempre con este mito, los robots acaban sublevándose contra los hombres. La sublevación se produce porque el científico decide elevar su nivel de sensibilidad y excitabilidad, lo que les produce irritabilidad; esta irritabilidad conduce a las emociones, y las emociones desembocan en sentimientos.
+
+
+[37:48] Es el mismo proceso de humanización de la máquina que vemos en HAL 9000 en *2001: Una odisea del espacio*, donde la computadora siente pánico y decide matar a los cosmonautas para proteger su misión. En el MIT, la profesora Rosalind Picard ha publicado un libro titulado *Los ordenadores emocionales* (*Affective Computing*), donde plantea varias etapas para dotar de emociones a las computadoras.
+
+
+[39:01] La primera etapa consiste en computadoras que reconocen las emociones del usuario mediante sensores de presión arterial, sudoración o dilatación pupilar, reaccionando para calmar su ansiedad. La segunda fase es el diseño de computadoras que expresan emociones; la tercera, computadoras que tienen emociones; y la cuarta, computadoras dotadas de inteligencia emocional.
+
+
+[41:01] Picard argumenta que un robot dotado de miedo sería muy útil porque se retiraría ante un campo de minas para no destruirse, protegiendo la inversión económica. Personalmente pienso que este proyecto de dotar de emociones reales a una máquina es utópico: una máquina puede simular emociones, pero no sentirlas, pues las emociones biológicas provienen de descargas hormonales.
+
+
+[42:36] Es más fácil programar a un sujeto pensante bajo normas lógicas que concebir a una máquina como sujeto deseante. Esto nos conduce al concepto de cíborg (*cybernetic organism*), término acuñado en los años sesenta para definir a tecnycuerpos basados en biochips que integran circuitos electrónicos y células vivas.
+
+
+[44:15] Ya se usan formas primitivas de esto mediante implantes cerebrales que ayudan a personas con parálisis a mover extremidades. En el cine esto enlaza con los replicantes de *Blade Runner* o con películas como *Desafío total* (*Total Recall*), donde a Arnold Schwarzenegger le implantan el recuerdo de unas vacaciones que nunca vivió.
+
+
+[45:15] La posibilidad de implantar falsas memorias plantea graves dilemas de identidad: en *Blade Runner* a los replicantes se les implanta una memoria biográfica para que edifiquen una vida emocional, hasta el punto de que el protagonista no sabe si es un ser humano o una copia.
+
+
+[46:36] Por último, la realidad virtual inmersiva nació como un desarrollo militar para entrenar a pilotos en ciberentornos reactivos sensoriales. Su clave estética radica en que destruye la convención del marco rectangular que inventó el Renacimiento para separar al sujeto observador del objeto observado.
+
+
+[47:46] Al suprimir el marco exterior, el usuario se introduce dentro del territorio virtual de la ficción. Sin embargo, presenta una anomalía fisiológica: en la realidad el cristalino del ojo se acomoda constantemente dilatándose o contrayéndose según la distancia, mientras que con el casco de realidad virtual el cristalino permanece inmóvil porque la distancia a las pantallas es fija.
+
+
+[49:44] En el ámbito del espectáculo, la realidad virtual rompe las tradiciones del cine y la televisión: el espectador deja de ser pasivo y pasa a ser actor interactivo dentro de una estructura hipertextual. Se quiebra el concepto de narración porque la vivencia sensorial reemplaza al relato objetivo.
+
+
+[51:15] Además, en el ciberespacio el espacio es artificial pero el tiempo vivido es auténtico y continuo. Por eso las elipsis y saltos espaciales propios del montaje cinematográfico entran en conflicto con la percepción temporal continua del sujeto que lleva puesto el casco.
+
+
+[52:35] Esto nos llevaría finalmente al llamado «sexo virtual» o «sexo frío», desarrollado en gran parte a raíz de la crisis del sida. Existen dispositivos experimentales con sensores y teledildónica para mantener relaciones a distancia a través de monitores, aunque sus resultados sigan siendo precarios.
+
+
+[53:53] Vamos a pasar a las preguntas pendientes, comenzando por una de Renata Chapa: «Si como usted afirma la imagen no puede dividirse en unidades simbólicas, ¿qué sucede con posturas como la de Donis A. Dondis que sostienen la presencia de una sintaxis de la imagen con la línea, la forma, la textura, el volumen y el color?».
+
+
+[54:41] Aclaro que sí existe una sintaxis visual, pero es de naturaleza distinta a la verbal. Rudolf Arnheim, desde la psicología de la Gestalt en *Arte y percepción visual*, analiza cuadros de Picasso o Matisse demostrando la existencia de formas perceptivas articuladas; y Fernande Saint-Martin en Canadá ha desarrollado ampliamente la gramática de la imagen.
+
+
+[55:47] Lo que ocurre es que no siempre es discernible el tamaño o contorno de lo que constituye una unidad mínima. Como señalaba Umberto Eco, la imagen funciona como una constelación de signos: es una masa luminosa compuesta por estrellas que percibimos como una totalidad continua donde resulta sumamente difícil aislar unidades mínimas discretas equivalentes a los fonemas.
+
+
+[57:30] La imagen es un sintagma complejo: en *La lechera* de Vermeer hay un sujeto, un verbo y un predicado («la lechera vierte leche en el cuenco»), pero resulta problemático fragmentar el rostro en unidades mínimas autónomas. El Grupo de Bélgica distingue con acierto entre el plano icónico (semántico) y el plano plástico (estético), lo que ayuda a entender esta complejidad.
+
+
+[58:56] Otra pregunta alude a Giovanni Sartori y su crítica al *Homo videns* como un ser que pierde capacidad cognitiva frente a la imagen. Debo decir que el lenguaje verbal y el lenguaje icónico tienen funciones específicas distintas: es imposible describir con palabras un primer plano del rostro de Nicole Kidman, y es igualmente imposible explicar con imágenes la *Crítica de la razón pura* de Kant.
+
+
+[1:00:08] Respecto a si las cámaras de videovigilancia pueden ver por nosotros pero no decidir, es verdad que podemos delegar decisiones programando una respuesta automática ante una señal roja. En cuanto a si la memoria delegada en la máquina equivale a la memoria en la literatura o la correspondencia, las memorias escritas son selectivas e intencionales, pero ambas constituyen formas de exteriorización de recuerdos.
+
+
+[1:01:11] Concluyen preguntando si la tecnología es neutral y ni ética ni moralmente censurable. No estoy de acuerdo con que la tecnología sea estrictamente neutral: todo artefacto nace con un diseño de optimización que lleva implícito un proyecto de uso, de costumbres y de formas de vida que condicionan la praxis humana. Muchas gracias.

@@ -1,0 +1,190 @@
+﻿[00:26] >> Román Gubern: Buenos días y muchas gracias por los elogios desmedidos. Efectivamente no soy un holograma: soy la persona viviente que está con ustedes; pero tal vez de aquí a unos años venga un holograma mío o envíe a mi clónico para que dé la conferencia y me quedaré yo descansando en la playa.
+
+
+[00:42] Para hablar de nuevas tecnologías, permítanme que empiece utilizando algunos conceptos que vienen del campo de la etología, del estudio del comportamiento animal.
+
+
+[00:53] Los etólogos distinguen entre la neofobia y la neofilia. Es decir, hay animales extremadamente conservadores que tienen comportamientos muy rutinarios y estancos; en cambio, hay especies como los primates —el chimpancé, el gorila— que son animales muy curiosos, exploratorios, inquietos y que se definen por la neofilia, por la exploración.
+
+
+[01:21] De estos primates hubo uno que era el más neofílico de todos, que se convirtió en homínido porque se adentró en la sabana. La sabana era un territorio desprotegido, más peligroso que la selva, que era más protectora; se adentró en la sabana y adquirió la estación vertical erecta por una cuestión exploratoria, para poder ver los peligros a distancia. Este homínido neofílico es el que nos precedió como nuestro tatarabuelo, metafóricamente hablando.
+
+
+[01:51] Venimos, por consiguiente, de una cultura neofílica, exploratoria, audaz, a veces temeraria, que además muy poco después inventó los primeros instrumentos: la tecnología, las máquinas. La primera máquina, como Kubrick nos contó muy bien en *2001*, fue el hueso como elemento de agresión. En una elipsis genial, Kubrick explica que el hueso es el antecedente de la astronave: el primer útil que el hombre utiliza como instrumento.
+
+
+[02:25] De modo que el *Homo sapiens* se convirtió en *Homo faber*, y ustedes que están en el Tecnológico supongo que saben lo que es el *Homo faber*. Después empezó a inventar otras máquinas y aparatos, que son los medios de comunicación de masas.
+
+
+[02:46] Cada medio nuevo que apareció en el paisaje provocó resistencias neofóbicas, o sea, nació bajo la sospecha. Cuando hoy leemos, por ejemplo, las críticas, las cautelas y las sospechas que acompañaron el nacimiento de la imprenta de Gutenberg, veremos que curiosamente los argumentos que se dieron en el siglo XV eran muy parecidos a los que luego han utilizado los críticos de la televisión en este siglo.
+
+
+[03:21] Se decía, por ejemplo, que el libro era peligroso porque segregaría al lector del cuerpo social, lo aislaría; y por consiguiente un personaje segregado es peligroso porque es desviante y tiene vida propia. Esa crítica era muy inteligente porque se cumplió: en el momento en que algunos cogieron la Biblia, se la llevaron a un rincón y la empezaron a leer e interpretar individualmente, nació el cisma protestante, que ha sido la mayor catástrofe que ha vivido la Iglesia cristiana por las ramas separadas. De modo que era una neofobia no privada de sentido.
+
+
+[04:03] Cuando se inventó la fotografía, algunas sectas protestantes, sobre todo alemanas, consideraron que la fotografía era una herejía blasfema porque infringía el mandato bíblico de no producir imágenes: la fotografía era un duplicado óptico del mundo creado por Dios. El hombre era tan arrogante que hacía duplicados ópticos perfectos del mundo creado por Dios y, por consiguiente, era un arte blasfemo.
+
+
+[04:33] Aparte de esta crítica teológica, otro ilustrísimo poeta francés como Charles Baudelaire criticó la fotografía bajo un ángulo estético y dijo: «La fotografía no puede ser arte; la fotografía es una mera copia, un calco de la realidad, y es homologable al telégrafo, que sirve para intercambiar noticias». Es un aparato mecánico que copia las cosas, pero eso no puede ser arte. Eso sería muy fecundo, porque efectivamente una parte de la fotografía del siglo XIX, para evitar ese estatuto de copia mimética, derivó hacia lo que se llama el pictorialismo, que es una foto con pretensiones estéticas y paisajísticas inspirada en parte en la pintura impresionista.
+
+
+[05:16] Cuando Edison inventó el fonógrafo o gramófono —que los jóvenes llaman tocadiscos, pero en mi época se llamaba fonógrafo o gramófono— surgió una crítica que todavía recuerdo en mi adolescencia: «El gramófono es devastador porque va a hacer desaparecer las orquestas vivas; la música enlatada acabará con ellas». Resulta que no: la música mecánica ha servido para dar mayor vida o impulso a las orquestas, que son la matriz en la que se basa la grabación posterior.
+
+
+[05:59] Cuando nació el teléfono como invento en Occidente, también nació con varias sospechas. En Francia, por ejemplo, la primera aplicación del teléfono apareció con un nombre hoy en día pintoresco: «teatrófono» le llamaban. El teatrófono es lo que hoy en día llamamos el hilo musical; o sea, que el teléfono en Francia nació como conducto monodireccional para enviar música a los hogares.
+
+
+[06:28] Nuestra sociedad se encargó de romper este modelo. En otros países, como Inglaterra y Estados Unidos, provocó alarma en las familias burguesas: a principios de siglo, las señoras burguesas vigilaban mucho con quién salían sus hijas y qué jóvenes las rondaban, y había un control y la carabina que acompañaba.
+
+
+[06:55] De pronto se encontraron con que un jovenzuelo, desde lejos, se colaba en casa por el teléfono y cortejaba a la hija dentro de casa sin estar presente. ¿Quién sabe qué propuestas y proposiciones hacía por teléfono sin que los papás pudiesen controlar este mensaje externo del jovenzuelo impertinente, cortejador de las hijas que había que preservar intactas hasta el matrimonio?
+
+
+[07:22] Por consiguiente, el teléfono también nació bajo el signo de la sospecha. Cuando apareció la radio que inventó Marconi, tuvo un primer uso radiotelegráfico; la radiofonía es muy posterior.
+
+
+[07:37] La radiotelegrafía era la forma natural de la radio antes de la Primera Guerra Mundial; si han visto hace poco *Titanic*, se acordarán. Tuvo un uso masivamente militar durante la Primera Guerra Mundial: sirvió para que el Estado Mayor tuviese contacto con el frente, con las trincheras.
+
+
+[08:00] Cuando acabó la guerra mundial, en noviembre del 18, se planteó el destino futuro de la radio y los poderes militares en muchos países querían que fuese un monopolio militar, pues la telegrafía era un instrumento útil de telecomunicación fundamental para el mando. Fue la presión de las compañías eléctricas la que rompió este monopolio de facto y permitió en los años veinte el nacimiento de la radiofonía comercial que hoy conocemos para transmitir música y noticias.
+
+
+[08:28] Cuando nació el cine a finales del siglo XIX, nació bajo el signo de la sospecha porque las proyecciones tenían lugar en salas oscuras ante un público de hombres y mujeres mezclados y revueltos en la penumbra. Y además contemplando conjuntamente imágenes de gran poder sugestivo: el chico besa a la chica y la sala oscura se estremece.
+
+
+[09:00] Esta sospecha fue tan grande que hubo un gobernador civil de Madrid que, en noviembre del año 20, emitió un edicto o reglamento en el que disponía obligatoriamente que en las salas de cine en un lado estuviesen las mujeres, en otro lado los hombres y detrás las parejas casadas, pero iluminadas con luz roja. Esto no se lo inventa el doctor Gubern: certifico que fue así.
+
+
+[09:30] Por fortuna se produjo un incumplimiento masivo de esta orden y hubo que derogarla, pero esto evidencia efectivamente hasta qué punto el cine era sospechoso. Seguramente esta sospecha moral hacia el cine fue responsable de la cantidad de versiones que se hicieron en el cine primitivo de episodios de la Biblia y de los evangelios, porque la Biblia no pagaba derechos de autor, no tenía copyright y además daba respetabilidad moral y social a este invento tan perverso que era el cine. Decían: «Miren la Pasión de Cristo, somos serios; no piensen ustedes que solo hacemos besos del joven con la joven».
+
+
+[10:12] Y así llegamos finalmente a la televisión, que es un invento anterior a la Segunda Guerra Mundial, pero cuya expansión y afianzamiento se produce a partir de los años cuarenta, tras el final de la guerra. A la televisión, siguiendo con la neofobia, se le llama «la caja tonta», que viene del inglés *idiot box*.
+
+
+[10:39] Gran parte de la nomenclatura que usamos al hablar de televisión es despectiva: hablamos de telebasura, contraprogramación, culebrón, telepantalla, teletonto. Pero también en este campo hay una doble moral.
+
+
+[11:06] Mi amigo Umberto Eco escribió una frase famosa, inteligente, ante la abundancia y la prodigalidad televisiva, donde todos tenemos cien o doscientos canales: «Hoy es un signo de distinción no salir en televisión». Pero cuando saca una nueva novela, se ocupa mucho de aparecer en Rai 1 con entrevistas para promocionarla; de modo que también hay una doble moral: es un signo de distinción, pero cuando saco la novela me interesa venderla y salgo en *prime time* en las mejores cadenas.
+
+
+[11:53] Una paradoja chocante es que la televisión, que tiene más de medio siglo de vida y está perfectamente arraigada, sigue figurando en la panoplia de las nuevas tecnologías. Cuando se habla de diseños mediáticos futuristas aparece de nuevo la televisión, no la radio ni la imprenta. En parte es debido a que la televisión se ha enriquecido con elementos periféricos como el satélite, la fibra óptica y el cable, que han hecho que la televisión hertziana sea el modelo arcaico y que estemos trabajando sobre nuevos modelos.
+
+
+[12:34] Muchas prospectivas señalan que vamos de cabeza hacia la convergencia de todas las pantallas en una sola. Los norteamericanos han creado la expresión *teleputer*, que nace de la convergencia del televisor y la computadora.
+
+
+[13:00] El *teleputer* nacería de la convergencia final de todas las pantallas, de modo que esa pantalla única en el hogar sería un terminal audiovisual polifuncional e interactivo que serviría para el teletrabajo, el telebanco, la teleescuela y el ocio. Como la familia se compone de varios miembros, tendríamos varios terminales: uno para el niño, otro para la niña y otro para papá.
+
+
+[13:34] No hace mucho, viviendo dos años en Italia dirigiendo el Instituto Cervantes, me sorprendió en casa de unos conocidos ver que en el lecho matrimonial tenían dos televisores al pie: «Cuando llega la noche yo me pongo los audífonos; él ve el fútbol, yo veo la película». Es una imagen pintoresca, pero tal vez vayamos hacia esta diversificación de canales y contenidos.
+
+
+[14:04] Esta época moderna o posmoderna nace del encuentro de la microelectrónica y la informática en los años setenta. Ahí sí hay una frontera: cuando se produce el matrimonio y la convergencia de la microelectrónica y la informática para crear una familia de industrias nuevas fundamentales.
+
+
+[14:30] En ese momento se detecta que el 60 % del mercado mundial de la electrónica de consumo corresponde al sector audiovisual. Cuando se desmorona el bloque soviético, en Estados Unidos la primera industria nacional era la aeroespacial, muy ligada a la defensa; al desaparecer el bloque soviético, la industria audiovisual pasa a ser la primera industria nacional en el ranking, desbordando el antiguo liderazgo de la industria aeroespacial.
+
+
+[15:12] Llegamos a ese nuevo paisaje audiovisual que ha conocido en los últimos años unas convulsiones tremendas, y probablemente las mayores están todavía por venir. En 1989, en vísperas de la caída del Muro de Berlín, se acuña el concepto de megacompañía de comunicación cuando se produce la fusión de Time Incorporated y Warner Communications.
+
+
+[15:43] Se unió una empresa del sector gutenbergiano —la revista *Time*, *Sports Illustrated*, *People*— con Warner Communications, del campo audiovisual y cinematográfico, naciendo el grupo Time Warner. Era un grupo valorado en dieciocho mil millones de dólares y apoyado en el sinergismo mutuo de lo audiovisual y lo escritural.
+
+
+[16:14] Este grupo siguió creciendo: en 1996 absorbe a CNN de Ted Turner, que es la imagen de la globalización que le persigue a uno en cualquier hotel de Hong Kong o Singapur. En el año 2000 se incorpora America Online, líder en el ciberespacio, sumando el desembarco de Time Warner y CNN en el ciberespacio con la compañía discográfica EMI, conformando una megacompañía de comunicación.
+
+
+[17:07] Se publicaron análisis miopes que predecían que en diez años el mapa final serían dos megacompañías en Norteamérica, dos en Europa y una en Japón. Pero la realidad tuvo más imaginación: la industria japonesa desembarcó en Estados Unidos y empezó a comprar industrias audiovisuales norteamericanas; los que habían perdido la guerra mundial pasaron a ser propietarios de la industria del cine estadounidense.
+
+
+[17:46] La casa Sony, líder de electrónica de consumo en Japón, decidió en el año 87 lanzar al mercado el DAT (*Digital Audio Tape*), la cinta de audio digital, en contra de la opinión de las discográficas occidentales que lo veían como una cantera para la piratería de clones musicales. Para lanzar el DAT con poder, Sony compró la mayor discográfica del mundo, CBS Records —donde estaban desde Michael Jackson y Plácido Domingo hasta Maria Callas, The Beatles y The Rolling Stones— para tener un catálogo con el cual apuntalar el nuevo soporte.
+
+
+[18:57] Siguiendo esta estrategia, Sony se dio cuenta en los años setenta de que había saturación en el mercado de televisores en color, donde Japón era prácticamente el único gran fabricante exportador (en Estados Unidos solo quedaba una marca, Zenith). Para producir un recambio y que la gente comprara otro aparato, decidieron lanzar la televisión de alta definición: en octubre del 81, Sony presentó a bombo y platillo su prototipo de televisión analógica de alta definición de 1125 líneas y pantalla apaisada de formato 16:9.
+
+
+[19:57] Para hacer viable la televisión de alta definición, el razonamiento fue el mismo: había que tener detrás un catálogo de películas atractivas. Fueron a Hollywood, intentaron comprar Metro-Goldwyn-Mayer, no lo consiguieron y acabaron comprando Columbia Pictures, que hoy día es japonesa. Rita Hayworth y las comedias de Frank Capra pasaron a ser japonesas, lo que provocó conmoción siendo el cine el arte americano por antonomasia.
+
+
+[20:44] En 1990, Matsushita, otra gran compañía japonesa, compró los estudios Universal, de modo que Bela Lugosi y Boris Karloff pasaron a ser japoneses. Esto se vivió en Estados Unidos como una expropiación del imaginario popular norteamericano por parte del país que había perdido la guerra mundial: la compra de la matriz de sus sueños.
+
+
+[21:30] Al expresidente Ronald Reagan le pilló en Japón esta compra de Universal; le pidieron declaraciones y dijo muy serio: «Pues yo estoy a favor, porque así Hollywood hará películas más decentes». Olvidaba que el cine más sádico y perverso del mundo se hace en Japón: mientras con el sexo hay cierto remilgo por la censura, la violencia samurái y la tortura tienen carta de naturaleza cultural.
+
+
+[22:29] La alianza entre el hardware electrónico japonés y el software audiovisual californiano ha creado el eje de poder audiovisual más importante del mundo en el Pacífico, que une Los Ángeles con Tokio. Europa es el jamón fino en medio del sándwich, y los mexicanos tienen una situación similar frente a este eje arrollador que pone en cuestión el futuro de la monocultura audiovisual.
+
+
+[23:31] El eje Los Ángeles-Tokio ha creado un nuevo esperanto figurativo transnacional, porque los japoneses compraron estudios para hacer películas de anglosajones rubios de ojos azules cabalgando por las praderas americanas. El concepto de monocultura en el campo audiovisual ya existía antes de la caída del bloque soviético y va asociado a la globalización.
+
+
+[24:13] Las grandes megacompañías diversifican su oferta por razones de rentabilidad comercial: saben que hay públicos para rockeros, para la jardinería o para los coches de carreras. Pero segmentan el mercado por conveniencia económica de la empresa y no de acuerdo con las necesidades sociales reales; de ahí que esta monocultura no siempre coincida con lo que de verdad hace falta pero que no resulta rentable a corto plazo.
+
+
+[25:21] Hoy se constata una inversión histórica: la economía gobierna la política. Siempre la economía tuvo peso con los grupos de presión, pero antes había mecanismos parlamentarios que permitían cierta domesticación; hoy esas reglas han desaparecido y la política está subordinada a la economía, lo que exige una reflexión profunda.
+
+
+[26:22] En los años sesenta, Marshall McLuhan acuñó la célebre expresión de la «aldea global». Recuerdo que cuando murió Diana de Gales, la prensa tituló: «Tragedia en la aldea global», planteando que todo el planeta lloraba su muerte.
+
+
+[27:15] El concepto de aldea global es equívoco y conviene desmitificarlo, con todo el respeto y cariño que tengo por McLuhan. En las aldeas la comunicación es multidireccional y todos hablan con todos sin jerarquías; en la mal llamada aldea global la comunicación fluye en sentido único del norte hacia el sur y hacia el este desde polos hegemónicos.
+
+
+[28:06] Esto tiene efectos económicos: se paraliza el desarrollo de las industrias culturales locales al resultar más barato importar el enlatado de Hollywood que producir en casa. Y produce efectos culturales: todos comemos la misma comida rápida audiovisual y vestimos o nos peinamos según dicte la moda impuesta.
+
+
+[28:55] Cuando Walt Disney lanzó la película animada *Aladdín*, el diseño del personaje copió las cejas de Tom Cruise porque era el símbolo sexual del momento y las cejas determinan la expresividad facial. Y cuando dibujaron a Pocahontas, su rostro fue un cruce intencional entre Demi Moore y Naomi Campbell. Este influjo genera un efecto estandarizador y homogeneizador en el que todos consumimos lo mismo.
+
+
+[30:10] Hace unos quince años, una universidad norteamericana hizo un sondeo en una treintena de países para averiguar quién era el personaje más conocido en el planeta. El resultado demostró que el personaje más conocido de nuestro planeta es Mickey Mouse: una figura que no existe y que son manchas de color sobre el papel. Es un dato para la reflexión sobre los referentes culturales de la humanidad.
+
+
+[31:30] Cuando se produjo la revuelta de Tiananmén, el diario más importante de Barcelona envió a su corresponsal a Pekín; al poco tiempo avisó por télex que se mudaba de hotel porque el nuevo tenía antena parabólica y CNN para ver lo que pasaba en la plaza estando a doscientos metros de distancia. Prefería recibir la información ya empaquetada y redactada por CNN antes que arriesgarse en la calle.
+
+
+[32:57] Algo similar y trágico ocurre en los conflictos bélicos del África subsahariana: las cadenas del norte envían corresponsales durante cuarenta y ocho horas y el sur termina viendo e interpretando sus propios problemas a través del filtro y la mirada del norte.
+
+
+[34:02] El planeta Tierra tiene un norte y un sur: en la isla de Manhattan hay más teléfonos y más conexiones a internet que en todo el continente africano. La aldea no es tan global; en cada país y en cada ciudad existe también un norte y un sur en cuanto al acceso tecnológico, incluso en Estados Unidos entre familias blancas y afroamericanas.
+
+
+[35:43] Una de las batallas que debemos dar en el plano político y cultural es luchar por lo que llamo la «cultura intersticial». En los años sesenta se puso de moda el concepto de marginación y contracultura subterránea mediante fanzines, fotocopias y cine en Super-8 para no contaminarse con el sistema.
+
+
+[37:08] Hoy nadie quiere estar fuera del banquete: desahuciada la contracultura marginal, el futuro pasa por la cultura intersticial. Los sistemas globales dominados por Hollywood dejan fisuras y brechas desocupadas que la cultura hegemónica no cubre.
+
+
+[38:45] Los nuevos sistemas globales permiten ocupar estos espacios vacíos para dirigirse a una inmensa minoría transnacional a la que le gustan cineastas como Éric Rohmer o Arturo Ripstein. Frente a la cultura hegemónica que, como decía Schiller, ofrece «una gran variedad de lo mismo», hay que proponer una auténtica diversificación a través de los intersticios de la red.
+
+
+[40:03] El modelo que nos ofrecen los ingenieros y empresarios es el paradigma cuantitativo de la sociedad de los quinientos canales, la opulencia comunicacional. Pero esta lógica ignora los factores cualitativos: ¿con qué contenidos vamos a alimentar quinientos canales? La respuesta son los enlatados de Hollywood.
+
+
+[41:37] En Europa vemos un 70 % de ficción audiovisual norteamericana porque no tenemos capacidad para abastecer nuestras propias pantallas; en cambio, en Estados Unidos la producción europea apenas ocupa el 2 %. Además, sobreinformación es igual a desinformación: tener quinientos canales satura al usuario y le impide encontrar lo que busca.
+
+
+[42:58] Se promueve la autoprogramación del usuario a través del DVD y los sistemas domésticos, pero la soberanía del consumidor en el hogar consolida la estratificación de la pirámide cultural: el espectador con mayor capital educativo elegirá a Visconti o a Kafka, mientras que quien carece de él elegirá contenidos precarios, perpetuando la sociedad dual.
+
+
+[44:38] Recientemente ha triunfado el formato de telerrealidad del *Gran Hermano*, originario de Holanda, que encierra a jóvenes en una casa vigilada por cámaras las veinticuatro horas. Este fenómeno nace del pacto entre el exhibicionismo interesado de los participantes y el *voyeurismo* o mironismo generalizado de la audiencia a través del ojo de la cerradura.
+
+
+[46:38] Tras el auge de las telenovelas con actores de ficción, los programas de telerrealidad impusieron pasiones supuestamente reales en directo. Como en *Gran Hermano* pasan muy pocas cosas a lo largo del día, bromeo diciendo que ha servido al menos para divulgar masivamente los tiempos muertos del cine de Michelangelo Antonioni.
+
+
+[48:23] Sobre internet, Umberto Eco dijo brillantemente: «Internet es una gran librería desordenada». En la sociedad del conocimiento el reto consiste en saber discriminar la información pertinente de entre la masa caótica; la hiperfragmentación en la red amenaza con una balcanización del conocimiento científico.
+
+
+[50:06] La sociedad de la información ha acentuado la brecha entre incluidos y excluidos (*insiders* y *outsiders*). Por otro lado, aunque presumimos de que el español es el segundo idioma de Occidente, en internet somos apenas la quinta lengua, por detrás del inglés, el alemán, el japonés y el francés; si no tomamos nota de esto, perderemos el tren de la modernidad tecnológica.
+
+
+[51:31] La red permite el efecto mariposa, donde pequeñas causas producen grandes transformaciones. Un ejemplo fue el caso de Monica Lewinsky y Bill Clinton: los grandes diarios conocían la historia pero no la publicaron, hasta que un pequeño portal digital, *The Drudge Report*, la filtró y obligó a toda la prensa internacional a cubrir el escándalo.
+
+
+[53:41] En las cumbres internacionales se reconoce que las nuevas tecnologías están ampliando la brecha entre inforricos e infopobres. Crear fondos millonarios para dotar de computadoras al tercer mundo es una medida necesaria pero insuficiente si no se resuelven antes el analfabetismo estructural, la desnutrición y la salud; sin atender esas bases, estas iniciativas terminan siendo una subvención encubierta para la industria electrónica.
+
+
+[56:07] Hoy disponemos de más información, pero tenemos menos comunicación humana. En una conversación cara a cara, cuatro quintas partes del intercambio corresponden al lenguaje no verbal (miradas, gestos, entonación, olores), que contextualiza la relación; al comunicarnos por la red mutilamos esa dimensión y transmitimos únicamente lo semántico.
+
+
+[57:30] Preocupa que los trabajadores pasen ocho horas ante la computadora laboral y luego varias horas más ante el televisor o el teléfono en casa, viviendo entre catorce y quince horas diarias frente a representaciones y simulacros, reemplazando la flor natural por la flor de plástico. La pantallización de la sociedad exige elementos de compensación humanizadora; de lo contrario, estaremos creando sujetos aislados y adictos a la red. Muchas gracias.

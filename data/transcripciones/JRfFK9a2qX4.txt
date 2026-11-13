@@ -1,0 +1,298 @@
+﻿[00:24] >> Román Gubern: Es para mí un honor y un placer estar con ustedes en esta institución a la cual, como se acaba de decir, he venido frecuentando periódicamente desde los años ochenta en un memorable congreso que hubo sobre comunicación de masas.
+
+
+[00:41] Y la invitación para hablarles de cine y literatura me complace porque son de los temas centrales, no ya de la historia del cine, sino de la cultura humana en general: el tema de la narratividad a través de la palabra y la narratividad a través de la imagen.
+
+
+[01:00] Ustedes saben que el ser humano narró historias mucho antes de saber escribir. En el Paleolítico, en las noches de invierno, se alzaba la voz de un narrador bien dotado que contaba aventuras imaginarias de héroes épicos que luchaban contra los osos o contra los mamuts.
+
+
+[01:25] Por tanto, la narratividad está en el origen mismo de la especie humana, mucho antes del invento de la escritura. Lo que ocurre es que en esa etapa de literaturas orales que precedieron a las lecturas escritas, los personajes de la narración eran meros *flatus vocis*, emisiones vocales.
+
+
+[01:50] Cuando se pasó de la narración oral, tras el invento de la escritura y luego de la imprenta, a la narración literaria propiamente dicha sobre un soporte, el personaje se convirtió en un ente tipográfico. Llámese Madame Bovary, llámese Don Quijote, llámese Raskólnikov.
+
+
+[02:19] Los semiólogos han tratado de definir qué es un personaje en literatura y hay muchas definiciones al respecto. Pero me gusta especialmente una que dice que el personaje literario es lo que se predica de un sujeto en una oración.
+
+
+[02:43] Y como de ese sujeto en la novela se predican muchas cosas a lo largo del libro, esos predicados han de ser coherentes entre sí para formar un haz de motivaciones coherente que permite entender la evolución del personaje a lo largo del relato. Por tanto, la definición minimalista de personaje literario en novela escrita es lo que se predica de un sujeto en el curso de una oración; y se predican muchas cosas a lo largo de las páginas que han de tener una coherencia para construir imaginariamente un arquetipo, un modelo de conducta y unas motivaciones coherentes.
+
+
+[03:26] Para construir este personaje —y estamos todavía en la etapa de la narrativa literaria, luego hablaremos de cine—, los novelistas y narradores recurren a seis atributos que sirven para definir a sus personajes.
+
+
+[03:51] El primer atributo definidor de un personaje es su nombre: se puede llamar Emma Bovary, se puede llamar Sancho Panza, se puede llamar Anna Karénina, se puede llamar Sherlock Holmes, se puede llamar Pinocho, se puede llamar Dr. Frankenstein, o se puede llamar Joseph K. (que es y no es apellido, es el invento de Kafka). Por tanto, primer atributo que define a un personaje: su nombre.
+
+
+[04:24] El segundo es el aspecto físico. No todos los narradores describen físicamente a sus personajes, pero es frecuente o habitual que muchos escritores nos expliquen, por ejemplo, cómo era Sherlock Holmes: nariz aguileña, alto, huesudo; o cómo era Sancho Panza: gordinflón, piernas cortas.
+
+
+[04:58] No siempre el novelista describe el personaje. Me he referido a Joseph K. de *El proceso*: en ningún momento Kafka describe cómo es Joseph K. Y si ustedes leen las aventuras policiales de Edgar Allan Poe sobre Auguste Dupin, en ningún momento el detective aparece descrito físicamente: cada uno se lo imagina como quiere.
+
+
+[05:24] Es interesante también señalar algunos casos como el capitán Ahab de *Moby Dick*, con su pata de palo, que sí está bien descrito. Hay algunos casos límites o singulares: por una parte, la aparición de la novela ilustrada en el siglo XIX.
+
+
+[05:44] *Alicia en el país de las maravillas* ha creado una imagen indeleble porque la edición original con los dibujos de John Tenniel se ha ido reproduciendo, y tenemos una Alicia canónica que es la que desde el siglo XIX se repite en las reproducciones. Pero, en cambio, de Pinocho, cuyas primeras ediciones tenían también su dibujante, nadie se acuerda, porque Walt Disney aplastó y eliminó el aspecto físico canónico y originario del Pinocho de Carlo Collodi en la primera edición italiana, y se ha impuesto finalmente el Pinocho de Walt Disney, que es el que todos tenemos en la cabeza.
+
+
+[06:27] Respecto a las ilustraciones hay algunos casos interesantes; les citaré dos que me parecen relevantes porque se apartan de la norma. En la novela de Stevenson sobre el Dr. Jekyll y Mr. Hyde es interesante ver que en ningún momento Stevenson describe al Dr. Jekyll, porque es como uno de nosotros: es un burgués victoriano y el lector ya tiene en la cabeza que es como los que conoce.
+
+
+[06:59] Pero la singularidad de Mr. Hyde hace que sí lo describan: no se describe al Dr. Jekyll, pero se describe en cambio la forma peculiar de caminar de Mr. Hyde, las muecas faciales que tiene y una voz estridente y desagradable. Por tanto, asimetría: no se describe al Dr. Jekyll, burgués victoriano que todos conocemos, y en cambio se describe la atipicidad o singularidad de su doble, que es Mr. Hyde.
+
+
+[07:36] Y luego hay otro caso también de sumo interés: la novela *El hombre invisible* de H. G. Wells. Hombre invisible: está todo dicho, invisible.
+
+
+[07:48] Sin embargo, si ustedes leen o recuerdan la novela, verán que en un cierto momento el hombre invisible —a quien todo le sale mal y ese invento, esa droga maravillosa, se convierte en un fracaso en su vida—, ya muy avanzado el relato, perseguido por la policía, se refugia en casa de un médico que fue compañero de estudios en la universidad. Le cuenta su drama y le dice: «Es que yo soy albino, tengo una piel blanca enfermiza y unos ojos rojizos; y como yo odiaba mi imagen, busqué una droga que me hiciese invisible».
+
+
+[08:29] Por tanto, la descripción de cómo es el protagonista de *El hombre invisible* la conocemos por el relato oral que hace a su colega: «Yo era albino, piel blanquecina enfermiza, ojos rojizos, las mujeres no me hacían ningún caso y por eso me hice invisible». Vemos que hay diferentes formas de contar la autoimagen.
+
+
+[08:58] El tercer aspecto, dicho el nombre y el aspecto físico: los diálogos. Los personajes se definen también por sus diálogos.
+
+
+[09:05] Es cierto que hay novelistas y personajes con diálogos hipertróficos: Raskólnikov en *Crimen y castigo* pasa el tiempo hablando y hablando; y hay novelas en donde prácticamente no hay diálogos en absoluto. El diálogo en principio —y subrayo lo de «en principio»— es la expresión del pensamiento.
+
+
+[09:37] Pero ahora mismo les voy a añadir la cuarta característica definidora de los personajes: sus pensamientos, que pueden estar en contradicción con los diálogos. Hay novelas introspectivas y hay novelas que no lo son: las novelas conductistas, que únicamente describen comportamientos físicos y no penetran en el yo del personaje; pero efectivamente hay novelas que penetran en el monólogo interior y en las reflexiones del personaje que pueden ser o no reflejo de su conducta.
+
+
+[10:17] El antropólogo Gregory Bateson, americano, en los años treinta formuló una teoría muy interesante al respecto: la teoría del *double bind*, del doble vínculo. ¿A qué se refirió Bateson, que es muy pertinente para este tema?
+
+
+[10:36] Bateson fue a las islas de la Polinesia con una cámara filmadora para registrar el comportamiento de los nativos, y descubrió un fenómeno que, bueno, lo descubrió en Polinesia pero que encontrarán también aquí en Monterrey, porque somos salvajes civilizados. Descubrió que las madres polinesias, cuando el niño se ponía a berrear y a dar la lata llorando, para calmarle le decían frases dulces: «Hijo mío, no llores», etcétera; pero a la vez, como estaban muy nerviosas, le pellizcaban.
+
+
+[11:21] Le estaban enviando dos mensajes contradictorios: un mensaje oral balsámico («Mi niño, no llores»), pero como estaba muy estresada le estaba pellizcando y apretando con fuerza involuntariamente como una forma de desahogar su energía agresiva acumulada por el llanto pesado del niño. Hubo un tiempo en que muchos psiquiatras decían que el origen de la esquizofrenia estaba en el *double bind*, en el mensaje contradictorio que recibe el bebé.
+
+
+[12:10] Hoy día sabemos que, por fortuna, las madres no tienen la culpa de la esquizofrenia: es un tema genético en el que la psiquiatría poco puede hacer en ese sentido, pero durante mucho tiempo se sostenía que las madres esquizógenas eran las que enviaban mensajes contradictorios al bebé. Por tanto, moraleja de la importancia del comportamiento para explicar al personaje: el personaje es lo que hace y no lo que dice.
+
+
+[12:50] El quinto atributo es el comportamiento, y el sexto y último atributo es el pasado. Hay personajes que tienen pasado: el capitán Ahab tiene un pasado que explica su comportamiento persiguiendo a la ballena que le comió la pierna; y hay personajes sin pasado, pero hay personajes con un pasado relevante que explica el comportamiento presente mediante una causalidad motivacional.
+
+
+[13:35] Podríamos encontrar otros ejemplos, como el Dr. Moreau de la novela de Wells, que es expulsado de Inglaterra por sus prácticas quirúrgicas malignas y en una isla se dedica a intentar convertir a las bestias en personas. Esos seis atributos que son el nombre, el aspecto físico, los diálogos, los pensamientos, el comportamiento y el pasado son los que definen la tipología y la singularidad de cada personaje.
+
+
+[14:08] En este *continuum* biográfico, el novelista manifiesta lo dicho y lo no dicho. No se nos cuenta todo de la vida de un personaje: se seleccionan mediante elipsis momentos fuertes y relevantes.
+
+
+[14:29] ¿Cuál es el criterio para discriminar lo dicho y lo no dicho de un personaje? Lo dicho es porque es relevante para la economía y la dinámica del relato; y en el caso de lo no dicho, se omite porque si hubiera que contar la vida de todos los personajes desde que nacen hasta que mueren serían novelas con miles de páginas que nunca acabaríamos de leer.
+
+
+[15:07] Lo no dicho puede ser por dos razones: o porque es banal, obvio, irrelevante y aburrido («se levantó por la mañana y se fue a lavar los dientes», omita usted lavarse los dientes y póngalo ya en la calle, elipsis de lo irrelevante); o también se omite para mantener la intriga y el misterio de la acción, es decir, porque es sumamente importante. Se omite lo importante que es la clave del misterio que explica por qué aquel personaje se comporta de aquella forma tan peculiar.
+
+
+[15:58] Esto en el cine de Hitchcock es muy relevante: Hitchcock siempre se guarda en sus guiones algunas cartas en la manga muy importantes porque son las que mantendrán el suspenso y el misterio. Por tanto, se omite lo obvio e irrelevante y se omite lo muy relevante que conviene mantener oculto para preservar la intriga del argumento.
+
+
+[16:29] Dicho esto sobre novelas, entramos ya en el campo del cine. Ustedes saben que el cine puede ser muchas cosas, entre otras un arte narrativo.
+
+
+[16:46] La imagen en movimiento puede narrar. La narratividad se basa en el cronologismo y la causalidad: una cosa va después de otra y una cosa provoca otra; de la combinación del cronologismo y la causalidad nace el concepto de narratividad.
+
+
+[17:30] Es verdad que un arte narrativo basado en la imagen no es lo mismo que un arte narrativo basado en la palabra. Umberto Eco, con gran acierto, en un cierto momento dice: «La imagen es una constelación sígnica».
+
+
+[18:03] Es interesante porque la constelación es una forma formada por muchas pequeñas unidades que son las estrellas, pero en cambio los signos son indiscernibles: es una mancha blanquecina en el cielo formada por muchas unidades que son indiscernibles. Si yo escribo «un paisaje melancólico», en el mundo verbal puedo discriminar «paisaje» (sustantivo) y «melancólico» (adjetivo); pero esa segmentación no la puedo hacer con una imagen en pintura o cine, pues el paisaje melancólico no es segmentable, es una constelación sígnica.
+
+
+[19:04] La película de cine, basada en la imagen en movimiento, es un texto audiovisual que fluye a lo largo del tiempo y que se basa en una serie de diferentes códigos: un código iconográfico, un código de vestuario, un código verbal de los diálogos y un código musical. El lenguaje audiovisual es pluricódigo, está basado en un punto de encuentro de diferentes códigos; de ahí viene la complejidad del análisis fílmico, debido a que son diferentes códigos que actúan simultáneamente en la producción de sentido de una escena.
+
+
+[20:01] Hasta ahora hemos hablado de narratividad, pero hay textos que tal vez no son narrativos. ¿Se puede decir que un tratado de biología, de botánica o de física, o un ensayo, es un texto narrativo?
+
+
+[20:28] En el caso del cine, un documental que describe la flora de un bosque, ¿es narrativo? Si ustedes contemplan el cuadro de Velázquez del *Cristo crucificado*, es una instantánea: no hay temporalidad, es Cristo muerto en la cruz; en cambio, en *Las meninas* sí hay narratividad potencial con el pintor, el reflejo en el espejo y toda una historia implícita.
+
+
+[21:18] La imagen puede ser narrativa o puede nacer con vocación no narrativa. Pero dicho esto, en la medida en que el pensamiento humano es secuencial y el flujo de imágenes de la pantalla es secuencial, somos rehenes de la narratividad.
+
+
+[21:52] Si ustedes ven una película tan singular como *Un perro andaluz* del hispanomexicano Luis Buñuel —que obedece a códigos no convencionales—, debo decirles que cuenta, de una forma atípica, extravagante y transgresora, una historia perfectamente entendible: un joven desea poseer a una mujer y esa mujer se le escapa, se hace evanescente y no la consigue. Es una historia elemental y vieja: el hombre que desea a la mujer y la mujer desaparece.
+
+
+[22:52] Lo que ocurre con *Un perro andaluz* es que no está sometido a los códigos canónicos tradicionales de lectura e interpretación de la imagen: obedece a códigos oníricos o surrealistas que son transgresores y no tienen nada que ver con los códigos narrativos, por ejemplo, de *Los olvidados* del mismo Buñuel, que sí tiene una estructura novelesca con una causalidad y una narratividad académicas que entendemos perfectamente.
+
+
+[23:40] En la medida en que el pensamiento humano es un pensamiento secuencial, todo está sometido a la narratividad. Decir que somos rehenes de la narratividad significa que una cosa va antes que la otra.
+
+
+[24:00] Permítanme hacer un inciso: hoy está muy de moda en el mundo de los negocios la expresión *multitasking*, hacer muchas cosas a la vez. Estuve viendo en televisión un programa donde salía un neurólogo que explicaba que el equipamiento neurológico humano no está dotado para el *multitasking* a partir de ciertos niveles de complejidad: usted puede manejar el coche y hablar por teléfono, pero a ciertos niveles de complejidad es un fracaso derivado de la filosofía productivista del mundo de los negocios.
+
+
+[25:19] Decía este experto neurólogo que no somos computadoras en paralelo que puedan hacer varias tareas simultáneamente: nuestros circuitos neuronales están sujetos a un pensamiento lineal y no podemos pensar más que en una cosa a la vez. Piensen en ello cuando les hablen de productividad y *multitasking*.
+
+
+[25:59] Cuando el cine empieza a narrar historias, toma prestada la herencia literaria de los muchos siglos de historia de la novela en Occidente. Hay una anécdota especialmente significativa que cuenta la viuda del director David Wark Griffith.
+
+
+[26:25] En 1908, Griffith —uno de los fundadores y codificadores del lenguaje del cine— dirigió una película para la compañía American Biograph que se llamaba *After Many Years*, adaptando un poema de Tennyson. La cinta narraba cómo un marinero naufragaba, iba a parar a una isla desierta y se le veía atribulado; y a continuación Griffith mostraba a la esposa que le esperaba en Londres, sin noticias del marido.
+
+
+[27:12] Cuando proyectó la película a los jefes de la American Biograph, se llevaron las manos a la cabeza: «Pero qué disparate, esto no se entiende; ¿cómo saltas desde Londres a una isla del Pacífico? Eso no tiene pies ni cabeza». Y Griffith contestó, según cuenta su viuda: «Pues tampoco es tan raro, también Dickens escribe así».
+
+
+[27:48] Dijo Dickens porque era hijo del siglo XIX, pero podía haber mencionado a Cervantes, a Tolstói, a Dostoievski o a Stendhal. Y efectivamente, el público vio la película y nadie protestó ni se extrañó de ese salto: es lo que llamamos hoy en día una acción paralela, que es un viejo invento de la novela.
+
+
+[28:27] En el origen de la literatura occidental, *La Odisea* es la historia de Ulises por el Mediterráneo mientras la pobre Penélope en Ítaca teje y desteje; está basada en una gran acción paralela entre las andanzas de Ulises y la abnegada esposa que aguarda con impaciencia su llegada. Pero es verdad que la acción paralela es una convención extremadamente sofisticada, porque lo posterior debe ser leído como simultáneo, lo cual no está en la lógica de la narratividad elemental.
+
+
+[29:28] Tuve la buena fortuna de conocer y tratar a Jean Mitry, uno de los padres fundadores de la historia del cine. Mitry me contaba que a principios de siglo, cuando él tenía cinco o seis años, iba con su abuela al cine y la abuela no entendía las películas porque estaba educada en la cultura del teatro, del espacio homogéneo y el tiempo homogéneo donde una cosa va después de otra; era el niño Jean Mitry quien le decía: «No, abuela, esto pasa antes porque lo está pensando».
+
+
+[30:28] La abuela de Jean Mitry era rehén de las convenciones del espectáculo teatral lineal de las tres unidades, mientras que el cine fragmenta y segmenta estas convenciones de la tradición narrativa teatral. Cualquier niño hoy día entiende la acción paralela, pero es una convención compleja porque lo posterior debe ser leído como simultáneo.
+
+
+[31:10] La observación de Griffith sobre Dickens se podía haber ampliado, porque de hecho el cine primitivo saqueó literalmente los recursos y las figuras retóricas que procedían de la literatura, comenzando por el primer plano. El primer plano es la traslación al mundo de la imagen de la sinécdoque, la *pars pro toto*, la parte por el todo.
+
+
+[31:38] Griffith es corresponsable de eso con una película de 1909 que se llama *The Medicine Bottle*. Es la historia de un matrimonio burgués que va a salir por la noche al teatro y le dicen a la niña pequeña: «A tal hora le das a la abuela la medicina»; cuando llega la hora, la niña va al botiquín, se equivoca y, en vez de tomar la botella de medicina, toma la que está al lado, que lleva enganchada una etiqueta con una calavera y unas tibias.
+
+
+[32:38] Primer plano: primer plano para que las cien personas de la platea vean lo que la niña no ve, que hay una etiqueta con una calavera y le va a dar un veneno a la abuela. Por tanto, el primer plano nace para hacer visibles y legibles detalles demasiado pequeños de la acción o del decorado que son amplificados.
+
+
+[33:28] Esta función semántica adquiere un salto cualitativo cuando se aplica al rostro humano por la misma razón de legibilidad: cuando la heroína deja caer una lágrima, en plano general nadie lo advierte, y hay que hacer un primer plano para que el público lo reconozca. En el momento en que la cámara focaliza el rostro humano se descubre un Himalaya de expresividad: la fotogenia y la microfisonomía que revela los pensamientos y sentimientos más íntimos de un personaje a través del rostro.
+
+
+[34:14] Eso el teatro no puede hacerlo, el teatro no tiene primeros planos; igual que en el teatro no existe el suspiro ni el gemido que existen en la radio y en el cine sonoro, tampoco tiene esa magia del primer plano que permite leer el pensamiento a través de la musculatura y de la microfisonomía del rostro.
+
+
+[34:46] Llega un momento en que la censura contribuyó a que se perfeccionara el primer plano en las escenas de sexo. Él y ella se abrazan en un beso apasionado en la medida en que lo permitía la censura, y la cámara se aleja de los amantes y encuadra una mano de la chica que crispadamente agarra la sábana: esa mano es la *pars pro toto*, la parte por el todo.
+
+
+[35:35] La permisividad del cine contemporáneo ha destruido esta poética, pero durante muchos años la cámara se alejaba y encuadraba el chisporroteo del fuego en la chimenea como metáfora de la pasión; o, en una película memorable como *De aquí a la eternidad*, tras el abrazo apasionado en la playa la cámara se aleja y vemos una ola que rompe contra las rocas. Reconozco que la censura obligaba a figuras retóricas bastante sofisticadas e ingeniosas, aunque el espectador quisiera ver a la pareja y no a la ola.
+
+
+[37:08] Todas las artes narrativas están basadas en convenciones. Hay convenciones que son muy convencionales y sujetas a códigos fuertes, y hay convenciones que son más livianas, como el fundido a negro para indicar que el personaje se duerme y sueña.
+
+
+[38:14] Muchas de estas convenciones ya estaban en la literatura. Cuando el novelista escribe «el sol se ocultó majestuosamente tras la cordillera», está haciendo un plano general; cuando describe la joya en el anillo de la protagonista, está haciendo un primer plano: la literatura tenía tendencialmente una segmentación de planos generales y primeros planos.
+
+
+[39:03] He traído un pequeño párrafo de *Salambó* de Flaubert para que vean cómo antes del invento del cine ya existía una narrativa visual implícita. Les leo la traducción de un fragmento del capítulo octavo, «La batalla del Macar»:
+
+
+[40:00] «Muchos hombres corrían en desbandada por el campo [plano general picado]. Pero cuando llegó la noticia de los armamentos, regresaron. Mâtho daba saltos de alegría: "¡Por fin, por fin!", gritó [del plano general pasamos a Mâtho en plano medio]. Al ponerse el sol, el ejército salió por la puerta occidental y avanzó por el borde del mar. Pronto alcanzaron la laguna y los charcos de agua se multiplicaban. El suelo poco a poco se hacía más húmedo y los pies se hundían [primer plano: los pies se hundían]. Pero Amílcar no se volvió [plano medio sobre su caballo]. Continuaba a la cabeza, y su caballo, cubierto de manchas amarillentas como un dragón lanzando espuma en torno suyo, avanzaba por el fango [primer plano de las pezuñas avanzando]».
+
+
+[41:18] Vean ustedes que incluso antes del cine había ya una segmentación de escalas narrativas ópticas virtuales que visualizaban un escenario en diferentes magnitudes.
+
+
+[41:36] Cuando comparamos el uso de la temporalidad en el cine y en la novela, vemos que hay seis formas coincidentes compartidas por ambos medios: primero, el tiempo consecutivo (el plano dos continúa exactamente la acción del plano uno); segundo, el tiempo posterior tras un lapso omitido mediante la elipsis («a la mañana siguiente» o dos horas más tarde); tercero, el tiempo simultáneo de las acciones paralelas; cuarto, el *flashback* o evocación del pasado; quinto, el *flash-forward* o anticipación del futuro; y sexto, el tiempo indeterminado de las metáforas y alegorías donde el tiempo no está anclado en la cronología.
+
+
+[43:03] A estas formas compartidas, el cine añade tres formas de temporalidad que la novela no tiene: el movimiento acelerado, el ralentí y la inversión de movimientos (como el bañista que salta de la piscina al trampolín). A los surrealistas, que veían el cine como una forma de sueño sobre la pantalla, les fascinaban estas formas de temporalidad. André Breton tiene una frase brillante cuando dice: «Pronto la expresión "a simple vista" carecerá de sentido», definiendo perfectamente esa ruptura entre percepción visual y hecho objetivo.
+
+
+[44:47] Si es verdad que los cineastas aprendieron a narrar a partir de la herencia literaria, también es cierto que ha habido muchos escritores que han aprendido a narrar o han sido influidos por el cine. La gran novela americana de los años veinte y treinta (Hemingway, Faulkner, Dos Passos) no se entiende sin recordar que fueron espectadores de cine en su infancia y aprendieron las rápidas elipsis y los efectos de montaje: en la trilogía de Dos Passos está la sección «La cámara ojo».
+
+
+[45:34] También el cine enseñó a narrar a algunos novelistas, dando pie a la novela conductista que solo se limita a la descripción de lo visible y renuncia a la vida interior de los personajes, como el *Nouveau Roman* francés o la llamada escuela de la mirada.
+
+
+[46:04] Esto nos lleva al tema de la narración en tercera y primera persona. La novela aprendió muy tempranamente a narrar en primera persona; el cine no pudo practicar la narración en primera persona con el pronombre «yo» hasta que apareció el cine sonoro.
+
+
+[46:27] En el cine mudo había películas con plano subjetivo donde se veía a través de una cerradura, pero eso es cámara subjetiva, no narración en primera persona. Un ejemplo canónico es *La dama del lago* (1947), un *thriller* de Robert Montgomery rodado íntegramente con la cámara subjetiva en primera persona.
+
+
+[47:24] La paradoja es que esta película tiene el beso más antierótico de la historia del cine: como solo vemos el mundo a través de los ojos del detective protagonista, cuando la chica se inclina tiernamente sobre la cama para besarle, tapa el objetivo y la pantalla se va a negro; es un beso invisible. Paradojas de los lenguajes visuales.
+
+
+[48:39] Literatura y cine comparten ciertas convenciones y tienen otras distintas. De las grandes obras maestras literarias (*Madame Bovary*, *Guerra y paz*, *Don Quijote de la Mancha*) que han alcanzado la excelencia estética en su propio medio, la película necesariamente será inferior al original literario adaptado.
+
+
+[49:17] En cambio, banales novelitas de quiosco pueden ser excelentes guiones en potencia y dar grandes películas. Lo demostró Orson Welles con *La dama de Shanghai*: Welles estaba sin dinero, llamó a un productor de Hollywood para pedirle financiación y, cuando el productor le preguntó en qué proyecto trabajaba, vio en un quiosco una novelita que se titulaba *La dama de Shanghai*, compró los derechos y reestructuró una historia banal para crear una obra maestra.
+
+
+[50:23] Moraleja: las grandes obras maestras de la literatura, cuando se llevan al cine, suelen descender de categoría porque su excelencia estaba en su materia prima verbal; mientras que banales novelitas de quiosco pueden dar obras maestras, como han demostrado Hitchcock o Welles.
+
+
+[50:47] En los años sesenta hubo un debate muy interesante publicado en revistas como *Cahiers du Cinéma* entre Pier Paolo Pasolini y Éric Rohmer en torno a lo que se llamó «cine de prosa» versus «cine de poesía». Pasolini —que no era solo cineasta, sino poeta y semiólogo— decía que el cine de prosa es el cine clásico de Hollywood con la cámara a la altura de los ojos y montaje invisible para que parezca que estás viendo la vida misma a través de un ventanal; mientras que el cine de poesía es aquel en el que la cámara se hace notar.
+
+
+[52:18] Este debate coincide con el nacimiento de los nuevos cines (Godard, Truffaut) que apuestan por romper la prosa narrativa convencional de Hollywood. ¿Dónde ha ido a parar a principios del siglo XXI ese caudal de propuestas estéticas donde la cámara se hace notar? En los videoclips musicales.
+
+
+[53:12] En los videoclips musicales la cámara se hace notar porque no son películas narrativas con una lógica discursiva de antes y después, sino piezas de lógica impresionista y emocional: hay saltos de eje y libertad total de la cámara. Lo que ocurre es que los videoclips han saqueado el capital de las vanguardias clásicas (sobreimpresiones, montaje rápido, cámara invertida); pero mientras la vanguardia utilizaba este capital transgresor para golpear al espectador —como el ojo cortado de Buñuel—, los videoclips lo hacen para seducir al espectador y fomentar la compra de la música.
+
+
+[54:41] E. Ann Kaplan, en su libro sobre el videoclip, sostiene que el videoclip musical comparte con el cine porno dos características: ser un género basado en movimientos físicos corporales y abrir el apetito y el deseo de adquirir el objeto de deseo. Ambos géneros generan una ansiedad expectante que solo se colma con la consecución de dicho objeto.
+
+
+[56:06] Para ir acabando y dar paso al coloquio: el cine, además de ser narración vinculada a la novela, es también espectáculo y eso lo vincula al teatro. El teatro es acción dialogada, y el diseño de la sala de cine no hace más que reproducir el diseño de la sala de teatro: filas de butacas paralelas confrontadas con un espacio escópico que reproduce virtualmente un espacio tridimensional.
+
+
+[57:22] Por eso Jean Jaurès bautizó al cine antes de la Primera Guerra Mundial como «el teatro del proletariado», porque era un teatro industrial, mecánico y barato que permitía la socialización y aculturación de las masas obreras, antes de que se construyeran las salas céntricas y lujosas de la burguesía.
+
+
+[58:30] Quedan vestigios de esta herencia teatral: en Italia, cuando se proyecta un largometraje, se interrumpe la proyección a la mitad con el cartel de *Primo tempo*, se encienden las luces para comprar caramelos o ir al baño, y luego empieza el *Secondo tempo*. Indagué en esa tradición y me explicaron que durante el fascismo los gremios de vendedores de caramelos se hicieron muy fuertes y mantuvieron esa costumbre teatral del intermedio.
+
+
+[59:55] Podemos concluir que la estética del cine nace de un sincretismo estético muy específico que combina la narratividad novelesca y la espectacularidad teatral; de esa combinación surge la originalidad propia del arte cinematográfico tal como lo conocemos hoy en día. Muchas gracias.
+
+
+[1:00:42] >> Moderador/a (nombre desconocido): Vamos a iniciar el diálogo. Si levantan su mano, vamos a tener aquí el micrófono; aquí adelante, por favor.
+
+
+[1:00:54] >> Participante 1: Maestro, su nuevo libro, *Metamorfosis de la lectura*, invita a preguntarle si está también pensando en analizar la metamorfosis de la lectura cinematográfica en términos del cine que tenemos hoy día, donde tenemos más etiquetas que argumentos (el cine contemplativo de Kiarostami, Guerín, etcétera). ¿Siguen los debates de los sesenta funcionando con las nuevas películas poéticas?
+
+
+[1:01:26] >> Román Gubern: Hoy en día ocurre que más que hablar de cine hablamos de cultura audiovisual, porque la imagen se manifiesta en muchos soportes y canales: desde la sala pública de cine tradicional hasta la pantalla de la computadora o el DVD casero. La forma de consumo es pluriforme y está contaminada por el videojuego, que recauda más dinero que las industrias del cine y de la música juntas; el videojuego es un cine interactivo y participativo cuya lógica contamina las películas de Hollywood de directores como Tarantino o Robert Rodriguez.
+
+
+[1:02:52] El panorama del cine contemporáneo ha dejado de ser monolítico y homogéneo como en la época de *Casablanca*. Hay un cine comercial convencional (*mainstream*), pero en los márgenes hay un cine *off* experimental e incluso festivales de cine hecho con teléfono celular.
+
+
+[1:04:25] En América Latina este cine de autor más personalizado despegó con fuerza con películas como *Amores perros* o *La ciénaga*, aunque existía el precedente de Arturo Ripstein. Hoy en día el paisaje audiovisual está extremadamente fragmentado: el David Lynch de *Mulholland Drive* mantiene cierto respeto a los cánones de género, pero en *Inland Empire* no hay argumento que se pueda seguir, es una especie de sueño con los ojos abiertos.
+
+
+[1:07:08] En internet, que es un medio multimedia, la gente descarga productos industriales como música y películas, y sube productos artesanales y fotos por narcisismo. Trabajé en el libro colectivo *A través del espejo* con Joan Fontcuberta analizando los autorretratos de personas en el espejo; internet está introduciendo una enorme variedad de dialectos audiovisuales en un cine contemporáneo multicanon y anticanon.
+
+
+[1:08:55] >> Moderador/a (nombre desconocido): Muchas gracias. ¿Una pregunta breve para alcanzar a hacer más? Gracias.
+
+
+[1:09:01] >> Participante 2: Buen día. Quisiera preguntarle, con respecto a las formas de temporalidad narrativa exclusivas del cine, qué opina de lo que ocurre en la película *Inception*, donde dos tiempos coexisten en el mismo espacio (por ejemplo, cuando los protagonistas toman un café y su entorno entra en otro tiempo mientras ellos siguen en el suyo). ¿No es esta otra característica nueva de la temporalidad narrativa del cine?
+
+
+[1:10:01] >> Román Gubern: La pregunta es muy pertinente. Me he limitado a establecer el canon clásico decimonónico, pero directores experimentales —desde *El año pasado en Marienbad* hasta David Lynch— juguetean con el tiempo más allá de la racionalidad de la novela decimonónica.
+
+
+[1:10:47] La imagen digital permite que ya no haya nada imposible, porque la imagen digital puede mentir ocultando que miente. En la naturaleza coexisten lo analógico y lo digital: la fisiología de la retina humana es digital porque es un fotomosaico de células fotosensibles que envía impulsos digitales al cerebro, pero el resultado cognitivo es un continuo analógico.
+
+
+[1:12:04] En la cultura estamos pasando de la Galaxia Gutenberg a la Galaxia Leibniz, el inventor del sistema binario. Los griegos distinguían entre mimesis (imitación) y fantasía (invención); lo que ocurre con la imagen digital es que puede ser una fantasía que cobra apariencia de mimesis mintiendo sin que se note.
+
+
+[1:13:06] >> Moderador/a (nombre desconocido): Tenemos tiempo para una o dos preguntas breves.
+
+
+[1:13:11] >> Participante 3: Contaban el chiste de que filmando *Lawrence de Arabia* en el desierto, un avestruz se comió unos recortes de película y el otro le preguntó: «¿Qué tal estaban?», a lo que respondió: «Estaba mejor el libro». Pero hoy las pantallas le ganan la carrera al papel impreso; ¿no cree usted que buscar buen cine es hoy el equivalente a leer buena literatura para que los jóvenes se culturicen?
+
+
+[1:13:32] >> Román Gubern: En la historia de la imagen en movimiento primero aparecieron las pantallas de reflexión que reflejan la luz incidente (hijas de la linterna mágica), y luego las pantallas de emisión que emiten luz propia (la televisión, la computadora o el teléfono). El cine en salas ha sobrevivido gracias al invento económico de los multicines, donde una sola taquillera y un proyeccionista atienden varias salas con ofertas simultáneas.
+
+
+[1:16:11] Los grandes palacios de cine con terciopelo y mármoles se extinguieron; las multisalas están bien para ver una película de Woody Allen o de Éric Rohmer, pero no para ver *2001: Odisea del espacio* o *Gladiator*, que requieren otra escala. El problema central es la diversificación de canales de consumo y la centralidad de internet en la cultura contemporánea.
+
+
+[1:17:49] >> Moderador/a (nombre desconocido): ¿Más preguntas? Sí, tenemos una última súper breve, por favor.
+
+
+[1:17:56] >> Participante 4: Sí, profesor. En el sentido del documental como género cinematográfico y su relación con la historia y la novela, ¿qué tan efectiva es la interpretación de la novela hacia el documental frente al cine de ficción?
+
+
+[1:18:28] >> Román Gubern: De entrada, la neta distinción que había antes entre ficción y documental ha desaparecido por el gradualismo y la aparición del falso documental o ficción que simula ser documental. Incluso el cine porno podría considerarse un documental fisiológico, porque una eyaculación no es un acto dramático, sino un reflejo biológico.
+
+
+[1:19:46] Estamos viviendo una mutación y un terremoto en las tecnologías de producción y consumo de imágenes, y en la hibridación de géneros. La cartografía del audiovisual se ha hecho muy compleja, los cánones clásicos se han derrumbado y estamos intentando inventar nuevos cánones para la imagen del futuro. Muchas gracias.
