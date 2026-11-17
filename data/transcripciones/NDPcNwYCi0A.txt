@@ -139,7 +139,7 @@
 [29:13] Muchísimas gracias.
 [29:32] >> Carlos Astengo: Okay, buenos días, buenos días a todos, muchísimas gracias por la invitación.
 [29:38] La idea de mi presentación, a ver si funciona, a ver si la tecnología funciona, es hablar un poquito de El Quijote, vamos a destazar la obra, vamos a meterle un poquito de números, vamos a romperla, luego la vamos a tratar de reconstruir a partir de ciertas preguntas en términos este un poquito más filosóficos y nos vamos a ir hacia el final hacia la parte artística.
-[29:10] Entonces, bueno, algunos datos este duros, desde tenemos por ahí un cuadro hasta las dos publicaciones: El ingenioso hidalgo Don Quijote de la Mancha en 1605 y la segunda parte del ingenioso caballero Don Quijote de la Mancha en 1615.
+[30:10] Entonces, bueno, algunos datos este duros, desde tenemos por ahí un cuadro hasta las dos publicaciones: El ingenioso hidalgo Don Quijote de la Mancha en 1605 y la segunda parte del ingenioso caballero Don Quijote de la Mancha en 1615.
 [30:26] Hay una obra intermedia por ahí, va a ser interesante después comentarlo.
 [30:33] Las aventuras toman 10 meses, hay quien dice que duran 2 años, hay algunos análisis que lo toman hasta 2 años de aventuras, hay quienes dicen son 10 meses.
 [30:48] Habría que tener un poquito de cuidado con con estos análisis, de hecho me dio un poquito de tristeza ver que la mayoría de los análisis son americanos, tenemos muy pocos latinoamericanos en términos de ciencia de datos con El Quijote.
