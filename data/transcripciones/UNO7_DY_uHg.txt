@@ -1,0 +1,667 @@
+﻿[00:24] >> Javier Serrano: Muy buenas tardes, bienvenidos a la segunda sesión del curso Frans de Bal y los fundamentos biológicos de la condición moral humana.
+[00:32] Espero que las ideas que estuvimos viendo durante el día de ayer pues quedaran más o menos eh pues más o menos claras y ojalá que hayan estado pensando que hayan realizado la tarea aunque sea mentalmente que les que les propuse.
+[00:43] Y es que pensáramos de qué manera podía estar relacionada la teoría de la evolución con la ética, con la moral.
+[00:49] Voy a empezar haciendo un pequeño repaso de algunas de las ideas principales que estuvimos viendo el día de ayer para poder continuar.
+[00:57] Si ustedes recuerdan, estuvimos viendo que el proyecto de Fran de Bal es ante todo y sobre todo pues una búsqueda de los fundamentos biológicos evolutivos últimos de la condición moral, de la de la de la condición humana.
+[01:09] Eso, ¿qué significaba?
+[01:11] Que se trataba, por lo tanto, de un proyecto ético basado, por un lado, en la tradición utilitarista y motivista anglosajona.
+[01:19] Y en segundo lugar, se trataba de un proyecto ético basado en la biología evolucionista.
+[01:24] Eso nos obligó a hacer un repaso de aquellas ideas principales más importantes de la obra de David Hun y de Adam Smith.
+[01:31] Y al final pues llegamos a la conclusión de que los fundamentos últimos de la moral para ambos autores eran los sentimientos morales.
+[01:40] Ahora bien, ¿qué sentimientos morales?
+[01:42] Pues para David Hun vendría a ser el sentimiento moral de la benevolencia y para Ad Smith el de la simpatía.
+[01:49] A continuación, pues empezamos a ver pues aquellos aquellos elementos fundamentales o principales de la biología de la biología evolucionista.
+[01:57] Y para ello empezamos a hacer un pequeño recorrido del proceso constitutivo de la biología evolucionista.
+[02:03] Como les comentaba, más a veces es más importante no la teoría final, eh las conclusiones a las que llegan los autores, sino hacer un recorrido por todo el por todo el recorrido que les lleva que les lleva la formulación de una teoría concreta.
+[02:17] En este caso, como les decía, era el proceso constitutivo de la biología evolucionista.
+[02:23] Y así poco a poco nos fuimos acercando a la obra de Charles Darwin, al que por supuesto pues daremos principal importancia durante el día de hoy.
+[02:32] Vayamos entonces para allá.
+[02:35] Veíamos que Charles Darwin cuando va a desarrollar su teoría lo que va a hacer es ante todo y sobre todo responder a dos grandes tipos de intereses o de problemas.
+[02:45] Por un lado, Darwin tenía que dar cuenta de aquellos problemas e intereses de orden político social.
+[02:51] Recuerdan que les preguntaba, bueno, ¿qué es lo que hacía un biólogo un naturalista como Charles Darwin en un barco de la reina de Inglaterra?
+[03:00] Y en segundo lugar, que es por lo que le por lo que le conocemos, Darwin tenía que dar respuesta a intereses y problemas del orden científico, concretamente a problemas de orden biológico.
+[03:13] Así nos vamos a al leer su obra, nos vamos a dar cuenta que Darwin tenía sobre todo que contestar a tres problemas fundamentales que van a ser, en primer lugar tenía que explicar por qué la existencia en el pasado de especies que en la actualidad no existen.
+[03:29] En segundo lugar tenía que explicar el origen de las especies actuales y en tercer lugar había que explicar el origen del ser humano.
+[03:37] Recordemos que el contexto en el que Darwin está llevando a cabo sus investigaciones es un contexto que está fuertemente marcado por las convicciones religiosas y que la más importante al respecto es, por supuesto, la concepción, la concepción creacionista.
+[03:53] Pues frente a esa, ¿cómo podíamos conjugar esa concepción creacionista con el hecho de que en el pasado existían especies que hoy en día no existen?
+[04:02] ¿Y cómo explicar que ahora mismo existan especies que en el pasado no existían?
+[04:06] Y claro, ante todo y sobre todo, si somos entes antropocéntricos, pues cuál era el origen del ser humano?
+[04:13] Pues bien, siendo estas las tres cuestiones principales ante las cuales Darwin tiene que dar una respuesta, ¿con qué va a contar?
+[04:20] ¿De dónde se va a sacar su famosa teoría?
+[04:22] pues desde luego que no se lo va a sacar de la manga, sino que va a tener varios elementos que le van a orillar al final a decidirse.
+[04:31] Porque si algo queda claro tras la lectura pues de los diarios y de la biografía de y las biografías de de Darwin, es que él tuvo una lucha interna extraordinario extraordinaria hasta que finalmente afectó la teoría de la evolución.
+[04:46] Casi que podríamos decir que a la persona que más le costó Darwin convencer del evolucionismo fue al propio Darwin
+[04:51] y no lo hizo hasta que tuvo constancia o hasta que puso sobre eh negro sobre blanco las siguientes evidencias.
+[05:00] En primer lugar, la secuencia de los tipos fósiles.
+[05:04] Recuerden ustedes que el día de ayer cuando estábamos hablando de dos grandes autores, el primero de ellos era George Cubier.
+[05:09] Oscubier como padre de la paleontología, pues había propuesto que era posible estudiar la zoología y la botánica del pasado, pero que la falta de fósiles que nos permitieran hablar de una linealidad nos obligaban a hablar de revoluciones y de catástrofes seguidas.
+[05:27] Dicho de otra forma, lo único de lo que teníamos evidencia era de que habían habido distintas etapas geológicas que con cada etapa geológica le correspondían pues unos animales y unas plantas sin que fuera posible una línea evolutiva en medio o por lo menos una relación lineal entre unas especies y otras.
+[05:45] Sin embargo, en el año 1830 nos encontramos con autores como Adam Setwiwich, que nos va a hablar de un ascenso gradual hacia un tipo superior de ser.
+[05:54] Las experiencias, perdón, las los eh fósiles que hemos encontrado ya sí que nos permiten los años 30 poder hablar o poder postular un ascenso gradual, una relación entre las especies de una de un episodio y las especies del episodio posterior.
+[06:13] Y es en 1845 cuando Robert Chamber va a señalar la existencia de la permanencia de especies como los tejones desde el mioceno.
+[06:21] Es decir, no solamente podemos hablar de que hay una linealidad, de que hay una posible relación entre las especies del pasado y las presentes, sino que incluso podemos encontrar restos fósiles de especies del pasado que se parecen enormemente a las especies actuales.
+[06:36] Eso el mismo Darwin lo va lo va a ver con los armadillos.
+[06:40] Con los armadillos va a encontrar Darwin como las especies del pasado eran prácticamente iguales a las especies actuales.
+[06:47] La única diferencia que había era de tamaño, que las especies del pasado eran bastante más grandes que las actuales, pero en cuanto a estructura prácticamente eran iguales.
+[06:57] Esa era una de las primeras eh pruebas que podríamos que se que se van a dar.
+[07:02] En segundo lugar, la existencia de órganos rudimentarios.
+[07:04] ¿Qué significa eso?
+[07:06] que si nosotros estudiamos la estructura de muchos animales, vamos a poder ver que tienen estructuras que ya no son funcionales.
+[07:14] Por ejemplo, en muchos insectos vamos a encontrar que tienen pequeñas salas, pero que no le sirven para volar.
+[07:21] ¿A qué se deben?
+[07:22] ¿A qué se deben que encontremos, por ejemplo, en las ballenas restos de los que podían haber sido patas traseras?
+[07:28] ¿De qué le puede servir una serpiente?
+[07:31] pues tener algo parecido, pues también a lo que en su momento pudieran haber sido patas traseras o por lo menos o por lo menos una cadera.
+[07:36] Entonces, la existencia de órganos rudimentarios se va a utilizar también en su momento como una prueba, pues ya todos lo saben, de la evolución.
+[07:45] En tercer lugar, la existencia de estructuras subyacentes comunes.
+[07:49] Aunque encontremos diferencias aparentes en los en muchos animales, en el fondo vamos a ver como estas diferencias tienen por detrás una estructura que son comunes.
+[07:58] Y en cuarto lugar, el desarrollo embrionario.
+[08:00] El desarrollo embrionario, ¿qué es lo que nos dice?
+[08:04] ¿Qué es lo que nos muestra?
+[08:05] Que a medida que los seres vivos se van desarrollando en la etapa embrionaria, se van atravesando fases similares a las formas adultas de los tipos más primitivos.
+[08:14] ¿Qué significa eso?
+[08:15] Es lo que luego Heiker más adelante va a hablar, que hay un paralelismo entre la filogénesis y la ontogénesis, que el desarrollo del sujeto del ente tiene es paralelo al desarrollo evolutivo de su de su especie.
+[08:29] Bien, entonces tenemos de momento cuatro cuatro pruebas, ¿no?
+[08:33] La secuencia de los tipos fósiles, la existencia de órganos rudimentarios, la existencia de estructuras subyacentes comunes y el desarrollo embrionario.
+[08:41] Hasta ahora.
+[08:41] Hasta ahora el método más interesante, más importante es el de la anatomía comparada, pero todavía Darwin va a contar con más con más pruebas.
+[08:50] La primera de ellas es la reproducción y la modificación de las especies en establos y granjas.
+[08:56] Este inciso nos puede ayudar tanto para para demostrar o utilizarlo como una como una demostración por parte de Darwin, pero también para responder una de las preguntas que dejamos ayer vacantes y es, ¿qué hacía una persona como Charles Darwin, un botánico, un historiador natural en un barco de la reina?
+[09:16] Y la y la respuesta es muy sencilla.
+[09:18] ¿Cuál es la primera obligación que que tiene todo gobierno?
+[09:21] pues dar de comer a la gente.
+[09:24] ¿Qué es lo que va a ocurrir en durante el siglo X siglo XVI y siglo XIX?
+[09:29] Que Europa y Inglaterra concretamente van a sufrir un gran desarrollo poblacional.
+[09:34] Y ante este desarrollo poblacional pues el campo no puede dar de comer a todos.
+[09:40] Se pueden producir grandes situaciones de hambruna.
+[09:43] Y ante esta dificultad pues hay que buscar nuevas formas de producción de alimentos.
+[09:47] Hay que buscar nuevas formas de producción.
+[09:50] Hay que buscar nuevas nuevos animales, nuevas plantas que nos podamos comer.
+[09:54] Y ante todo y todo, sobre todo, también hay que conocer cómo funciona la naturaleza.
+[09:57] Hay que arrancarle los secretos a la naturaleza para poder utilizarlos en nuestro beneficio.
+[10:03] Por supuesto que la cuestión es mucho más complicada, pero esos son algunos de los elementos fundamentales que vamos a encontrar ahí.
+[10:08] Pero además encontramos otra idea extraordinaria y es que los animales y las plantas que nos comemos son animales y plantas cuya forma no es natural, sino que ha sido resultado de una variación provocada por el ser humano.
+[10:23] Dicho de otra manera, no podemos considerar las formas biológicas como formas fijas.
+[10:30] Las formas van cambiando, se van transformando y las plantas y animales, insisto, que nos comemos son el resultado de ¿qué?
+[10:38] de la selección artificial
+[10:40] son el resultado de la selección artificial que los granjeros y los ganaderos han estado haciendo generación tras generación desde que el hombre se dedica a la agricultura y la ganadería.
+[10:52] Siguiente prueba, las nuevas exploraciones.
+[10:55] ¿Por qué va a ser importante este otro argumento?
+[10:59] Porque evidentemente los naturalistas contra quién están argumentando?
+[11:03] pues están argumentando contra el discurso religioso.
+[11:07] Y en el discurso religioso, en la en el Génesis, pues nada más se nos da la relación de unos cuantos animales y de unas cuantas plantas.
+[11:13] ¿Y qué es lo que pone de manifiesto las nuevas exploraciones?
+[11:18] Que el número de especies, animales y vegetales es enorme, supera con muchísimo la relación que nos vamos a encontrar en el Génesis.
+[11:28] Y en octavo lugar nos encontramos por la lucha, la lucha por las por la existencia.
+[11:35] Ya Buffón y Erasmus Darwin habían desarrollado esta idea desde el punto de vista biológico, pero quien va a tener en mente Darwin va a ser ante todo y sobre todo Thomas Maltus, un autor que estoy seguro que casi todos ustedes conocen, aunque no lo sepan.
+[11:50] Y sobre todo lo que van a conocer es una famosa frase.
+[11:54] ¿Y cuál es la famosa frase de Thomas Maltus?
+[11:58] La población de la Tierra tiende a crecer en proporción geométrica, mientras que los medios de subsistencia lo hacen solo en proporción aritmética.
+[12:07] Imagínense ustedes la situación en la que puede colocar esto a los utilitaristas.
+[12:13] Habíamos estado viendo el día de ayer que los utilitaristas tienen como principal objetivo, ¿cuál?
+[12:19] Pues intentar desarrollar modelos que tengan como fin último el mayor bien para el mayor número.
+[12:24] ¿En qué consiste el mayor bien para el mayor número?
+[12:26] Recordemos también que es una teoría emotivista hedonista.
+[12:31] El mayor bien para el mayor número significa el mayor placer y el menor dolor para el mayor número posible.
+[12:37] Y si estamos viendo que la población crece de manera geométrica, mientras que los alimentos en forma aritmética, antes o después, ¿qué es lo que va a ocurrir?
+[12:43] Escasez.
+[12:45] Y la escasez va a generar dolor o no va a generar dolor, mucho dolor.
+[12:51] Y antes de que eso ocurra, ¿qué es lo que deberemos de hacer?
+[12:54] Pues poner unas medidas.
+[12:56] Y Maltus pues va a proponerlo en 1789 y ante esta cuestión va a proponer tres respuestas diferentes.
+[13:03] Pero, ¿cuál es la primera de ellas?
+[13:05] ¿Cuál es la respuesta que va a dar Maltus?
+[13:08] Que es, insisto, la que va a llevar Darwin en el Beel.
+[13:13] Esto no sé si se conoce tanto la respuesta de de Maltus.
+[13:17] Quien nazca en un mundo que ya ha sido objeto de apropiación privada y no obtenga medios de subsistencia ni de sus padres ni de su trabajo, no tiene ningún derecho a que le mantengan los demás.
+[13:27] En realidad es un ser inútil en este mundo.
+[13:30] Ningún plato le está reservado en la gran mesa de la naturaleza.
+[13:33] La naturaleza decreta que debe irse y él no tarda en acatar esta orden.
+[13:39] ¿Qué les parece la respuesta de Maltus?
+[13:41] Encontramos aquí a un neodarwiniano predarwiniano, ¿no?
+[13:46] Perdón, un darwinista social predarwiniano.
+[13:49] Bueno, obviamente cuando dice Malus esto no lo dice solo amparándose en los trabajos biológicos de Erasmus Darwin o de Buffón, sino que a su vez está respondiendo a las cuestiones sociales que se están produciendo en su época.
+[14:06] En aquel momento en donde la sobrepoblación, porque se hay un momento de poco a poco se está viendo que va a crecer, va a crecer la población, las ciudades se están llenando de gente y al llenarse las ciudades de gente se va a producir la masificación, masificación de la población, masificación eh que se va a traducir en problemas de delincuencia, en problemas de de pues de comida y en problemas de sanidad.
+[14:32] Ante esa situación, ¿qué hacemos?
+[14:34] van a empezar lo que se llama las primeras políticas sociales o políticas de asistencia y van a haber numerosos grupos que van a decir que por qué a los vagos y a los gandules que están tirados en las calles se les tiene que mantener.
+[14:46] Era eh Maltus pues va a apoyar con esta primera respuesta aquellos autores más conservadores que dicen que no hay que hacer nada, hay que aprender de la naturaleza y los que no se puedan mantener por sí mismos, pues simplemente que se mueran.
+[15:00] Pero, ¿qué es lo que nos dice la realidad?
+[15:03] porque no se van a morir o por lo menos no se van a dejar morir.
+[15:07] Si un padre de familia o una mujer de familia pues tiene hijos que cuidar y no tiene trabajo con qué mantenerlos, ¿qué va a decir?
+[15:14] Ah, pues sí, pues somos unos inútiles y nos dice la naturaleza que nos tenemos que ir y con gusto nos vamos.
+[15:19] No se van a ir.
+[15:23] No se van a ir.
+[15:23] Y bueno, pues les invito a que hagan una relación con lo que está ocurriendo ahora mismo en en este país, ¿no?
+[15:28] ¿Qué es lo que hace falta?
+[15:30] Pues Maltus se va a dar cuenta de su error y poco tiempo después, en la segunda y en la tercera edición de este mismo libro va a proponer que hay que hacer política social.
+[15:38] ¿Qué política social?
+[15:40] Política asistencial, ¿no?
+[15:40] Política que aumente menos la población, campañas de natalidad, podríamos decir el día de hoy.
+[15:50] Pero en cualquier caso, esto es lo que va a llevar, es una de las ideas fundamentales que va a llevar Darwin en el bigel.
+[16:01] Y con todo esto en la cabeza, ¿cuál va a ser su propuesta?
+[16:03] Bueno, pues la que ya casi todos ustedes, por decir todos, conocen.
+[16:08] En 1859, Darwin va a publicar El origen de las especies y en los origen de las especies en el origen de las especies nos va a decir Darwin que eh el motor de la de la evolución es el principio de la selección natural.
+[16:27] Es decir, aquellos grupos cuyos individuos se encuentren mejor adaptados al entorno van a ser los que van a sobrevivir y aquellos que se encuentren menos adaptados van a desaparecer.
+[16:38] Pero no me he equivocado.
+[16:40] A lo mejor algunos dicen, "¿Por qué pone ahí un texto de Lena Cronin y no de Darwin?"
+[16:45] Bueno, porque esa es la primera respuesta de Charz Darwin.
+[16:49] La respuesta completa de Darwin a este problema biológico no se va a encontrar en el origen de las especies, sino que se encuentra en un libro posterior que es El origen del hombre.
+[16:58] En este segundo libro, Darwin da respuesta o va a completar su teoría biológica, pero a su vez va a contestar a la pregunta que todo el mundo teme, que es el origen del ser humano.
+[17:09] Aunque ya ha insinuado algo en el primer libro, va a ser en el segundo en el que va a responder de una forma directa y más o menos completa.
+[17:19] Por lo tanto, nos encontramos con que Darwin va eh va a responder a este problema biológico en dos grandes obras, que son la de 1859, el origen de las especies y la de 1871 en el origen del hombre.
+[17:35] Pero es que en la hora de 1871 en el origen del hombre no solamente va a responder a los problemas de la biología, sino que va a responder a otra serie de problemas.
+[17:44] ¿Qué problemas son?
+[17:47] morales.
+[17:49] En 1871 tenemos esta obra y en 1873 la expresión de las emociones en los animales y en el hombre.
+[17:56] En ambas obras lo que va a hacer Darwin es intentar resolver problemas de índole moral.
+[18:03] encontramos un texto en su primera obra que dice así: "Entre todas las diferencias existentes entre el hombre y los animales inferiores y su rayo inferiores, el sentido moral o conciencia es el más importante."
+[18:18] ¿Qué significa eso?
+[18:20] que para Darwin todos los argumentos, todas las razones que se han dado hasta la fecha de qué es lo que distingue el ser humano de otros animales como la inteligencia, la fabricación de utensilios, etcétera, son mínimos, son prácticamente despreciables.
+[18:34] La gran diferencia entre el ser humano y los animales inferiores es la conciencia moral.
+[18:40] Pero la pregunta aquí es, ¿por qué introduce la cuestión de la moral en sus trabajos de biología?
+[18:45] ¿Por qué Darwin si nos está hablando del origen del hombre y del origen de los animales, ¿por qué va a introducir la cuestión de la moral?
+[18:54] Al menos, al menos en una primera lectura podemos encontrar dos razones.
+[18:59] La primera de ellas tiene que ver con lo que explicamos el día de ayer.
+[19:03] Si ustedes recuerdan, antes de comenzar a explicar el darwinismo, les comenté que la ciencia o cuando hablamos de ciencia tenemos que distinguir dos cosas.
+[19:12] Uno, la pregunta del qué y la pregunta del por qué, ¿recuerdan?
+[19:18] Y les decía que toda sociedad, toda cultura y toda civilización, así como todo individuo, necesita siempre tener una cosmovisión, una imagen integral, general de la existencia
+[19:30] y que todos los descubrimientos científicos, todos los datos que nosotros tengamos, finalmente tienen que ser integrados dentro de un paradigma, dentro de una cosmovisión.
+[19:39] ¿Qué es lo que va a ocurrir con Darwin?
+[19:40] Pues Darwin es hijo de su tiempo y le va a pasar exactamente igual.
+[19:45] En el siglo XIX se va a hacer especialmente importante que toda obra científica
+[19:51] finalmente se va se va a considerar como completa cuando ha sido integrada dentro de una cosmovisión general.
+[19:58] Dicho de otra forma, ya fuera un trabajo de física, ya sea un trabajo de economía, ya sea un trabajo de biología, los resultados obtenidos finalmente se tienen que confrontar con una imagen total de la realidad.
+[20:11] Y eso es lo que va a hacer Darwin.
+[20:14] Darwin va a tener que identificar, va a tener que ver si es compatible su teoría de la evolución con la teoría con la teoría
+[20:22] de Adam Smith, perdón, con la teoría social, ética, económica y política.
+[20:28] de John Stuartmill.
+[20:30] Por eso, a la hora de integrar su obra dentro del contexto científico intelectual de su época, la pregunta que se va a hacer Charles Darwin es hasta qué punto es compatible su obra biológica con la ética de John Stuartmill.
+[20:43] Por otro lado, nos encontramos que la cuestión de la conducta era uno de los problemas más complicados de los cuales los biólogos debían de dar cuenta.
+[20:52] No solo va a sacar Darwin de la manga, sino que ya antes de Darwin ya era un problema ante los cual los biólogos tenían que responder.
+[21:01] La cuestión es, ¿podría podría resolver con su biología la pregunta planteada por Jean Batista Lamark?
+[21:08] Simplemente para que veamos un poquito la secuencia.
+[21:13] En 1859, Darwin publica El origen de las especies.
+[21:17] Tan solo dos años más tarde, John Stuartmill va a publicar su obra El utilitarismo, que como bien saben, es una obra integradora de la ética utilitarista.
+[21:24] Y Darwin, miembro de esa comunidad, miembro de esa sociedad, que se adscribe a esa teoría ética, lo hemos estado viendo desde el principio, para él el elemento fundamental definitorio de la moral son los sentimientos y concretamente es el sentimiento de simpatía.
+[21:41] lo que va a intentar hacer es ver si, insisto, su teoría biológica se puede corresponder o qué relación puede haber con la teoría de SM de de John Stuarm.
+[21:52] Para ello va a escribir, como les decía, el origen del hombre en 1871.
+[21:57] Por lo tanto, esa obra es por un lado un intento de completar su teoría biológica, lo que no había quedado completo en el origen eh en origen de las especies, pero ante todo y sobre todo es un intento de ver la compatibilidad de su teoría biológica con el modelo social, político y económico en el que se encontraba.
+[22:16] Pero decíamos que además la cuestión de la conducta, la cuestión del comportamiento no es algo que le sea ajeno a la biología, a la historia natural.
+[22:22] Ya autores anteriores como por ejemplo Buffón lo había lo había estado desarrollando, pero quien lo lleva hasta sus últimas consecuencias va a ser Javatislam.
+[22:33] Y Javatisla Mark lo va a desarrollar en dos obras fundamentales, las dos obras de biología tal vez más importantes hasta Darwin, que son historia natural de los animales sin vértebra y filosofía zoológica.
+[22:45] En ambas obras se va a preguntar la Mar lo siguiente, ¿cuál es el papel de la conducta en la evolución?
+[22:53] Pero cuidado, porque esta cuestión del papel de la conducta en la evolución es de ida y vuelta.
+[22:59] En primer lugar, ¿de qué manera la evolución condiciona la conducta?
+[23:05] Y dice la mar.
+[23:05] Eso lo podemos ver de una manera bastante sencilla.
+[23:09] De una manera bastante sencilla podemos ver cómo nuestros cuerpos, nuestras formas, nuestra fisiología condiciona la manera en la que nos comportamos.
+[23:17] Pero lo que hasta ahora nadie se ha preguntado, dice la mar, es al revés.
+[23:24] cómo nuestra conducta puede condicionar nuestro desarrollo biológico.
+[23:28] Concretamente, permítanme que lea a la marca.
+[23:33] En realidad, desde hace mucho tiempo se ha notado la influencia de los diferentes estados de nuestra organización sobre nuestro carácter, nuestras inclinaciones, nuestras acciones, incluso nuestras ideas.
+[23:43] Pero me parece que todavía no ha habido nadie que haya hecho conocer la de nuestras acciones y nuestras costumbres sobre nuestra misma organización.
+[23:52] La influencia de las circunstancias efectivamente actúa siempre y en todas partes sobre los cuerpos que gozan de la vida.
+[23:58] Pero lo que hace que esta influencia no se vea no sea difícil de captar es que sus efectos no se ven sensibles o reconocibles, sino después de mucho tiempo.
+[24:06] Dicho otra vez o dicho de otra forma.
+[24:09] Si hasta ahora nos hemos estado preguntando de qué manera nuestros cuerpos, nuestra fisiología condiciona nuestra conducta, lo que tendremos que ver ahora es de qué manera nuestra conducta condiciona nuestro desarrollo y nuestra evolución biológica.
+[24:24] Por consiguiente, nos encontramos que en 1871, en el origen de la en el origen del hombre, entre otras cosas, Darwin intenta responder a esta pregunta.
+[24:34] ¿De qué manera la evolución condiciona la conducta?
+[24:37] Y hablar de la conducta significa hablar de la moral.
+[24:42] Nuestra conducta finalmente está condicionada por el conjunto de valores, normas y principios que tiene una determinada sociedad, sea una sociedad civil, una sociedad religiosa, una sociedad económica, una sociedad deportiva, lo que sea.
+[24:53] Finalmente, nuestra conducta, viene a decir Darwin, está condicionada por ese conjunto de normas y de principios.
+[24:59] Ahora bien, si decimos que la conducta humana está condicionada por la moral, tenemos que tener en cuenta que los fundamentos de la moral, desde la perspectiva utilitarista a la que él pertenece, hay que buscarlos en ciertos en determinados sentimientos morales.
+[24:13] ¿Qué significa eso?
+[24:16] Que la pregunta a la que tenemos que responder es, ¿qué relación hay entre la evolución y los sentimientos morales?
+[24:22] Dicho de otra manera, los sentimientos morales son algo innato o adquirido.
+[24:30] Pues Darwin nos va a decir que los orígenes de la moral hay que buscarlos en la historia natural de la evolución.
+[24:39] Cito, todo animal, cualquiera que sea su naturaleza, si está dotado de instintos sociales bien definidos, incluyendo entre estos los efectos paternales y filiales, inevitablemente llegaría la adquisición del sentido moral o de la conciencia cuando sus facultades intelectuales llegasen o se aproximasen al desarrollo a que aquellas han llegado en el hombre.
+[25:59] Es decir, que nos está hablando de los sentimientos morales, pero desde qué sentido?
+[26:07] De capacidades, de facultades.
+[26:12] Para Darwin, lo importante no es el comportamiento real, sino las razones del mismo, las capacidades que las hacen posible y que se ponen en marcha.
+[26:21] Por ejemplo, nosotros podemos ver que las hormigas comparten la comida, pero eso también lo podemos ver con los chimpancés.
+[26:30] Sin embargo, los impulsos que llevan a las hormigas y a los chimpances a compartir la comida es muy diferente.
+[26:36] Lo que le interesa al biólogo no es tanto el hecho real, el comportamiento real, sino qué es lo que está qué es lo que está detrás, a qué responde la conducta, cuáles son los fundamentos o bases del comportamiento social,
+[26:50] qué es lo que se encuentra por detrás.
+[26:52] Si quisiéramos ir, si quisiéramos hacer una aproximación filosófica un poquito más
+[26:58] más profunda, lo que tendríamos que ver aquí es que Darwin lo que está reivindicando son dos formas de explicación que hasta ese momento habían sido desplazadas por el mecanicismo, que son la explicación histórica y la explicación teleológica,
+[27:11] la explicación con arreglo afines.
+[27:14] Darwin lo que va a decir es que ya no es posible explicar todos los fenómenos de la naturaleza atendiendo única y exclusivamente explicaciones materialistas mecanicistas.
+[27:24] Hay que incluir explicaciones de orden.
+[27:26] En primer lugar, teológico, teleológico, no teológico, teleológico.
+[27:31] Y a su vez explicaciones de tipo histórico.
+[27:34] Cuando definimos qué es un ser vivo, no lo podemos definir solamente en términos físicos y químicos, diríamos, el día de hoy, sino que también lo tenemos que explicar como un resultado de un proceso evolutivo, de un proceso histórico.
+[27:49] Pues aquí es donde encontramos la gran aportación darwiniana, algo que ya comentábamos el día el día de ayer.
+[27:55] ¿En dónde está su aportación?
+[27:58] En la relación que va a establecer entre capacidad, entre capacidades, facultades y la moral.
+[28:03] ¿Qué es lo que nos viene a decir?
+[28:05] Que la simpatía, la relucción de conflictos, la venganza, la reprocidad, la compasión
+[28:11] no son solamente sentimientos morales o no responden solamente a sentimientos morales, sino que son capacidades fruto de la evolución.
+[28:19] y son la condición de posibilidad de la moral.
+[28:23] Si no se dieran estas facultades o capacidades, sería imposible la capacidad moral, sea en el ser humano o sea en el animal que sea.
+[28:31] ¿Cuál es su punto de partida?
+[28:33] Pues su punto de partida, por un lado, tenemos el argumento de la selección natural, el argumento de la ascendencia común y todas ellas, mejor dicho, o las dos, van a dar lugar a una determinada concepción antropológica, una determinada concepción de lo que es el ser humano, una concepción que sobra decir que es radicalmente diferente a la concepción del ser humano que tendrían Adam Smith, John Stuarmill o David Hun.
+[28:56] Esta concepción antropológica
+[28:58] del ser humano o esta concepción antropológica estaría basada en los sentimientos morales y en las facultades mentales.
+[29:07] Por lo tanto, en el núcleo de la cuestión que está en juego, ¿qué es lo que encontraríamos?
+[29:14] Estos dos conceptos o estos dos términos que son el concepto de simpatía y de compasión.
+[29:19] Por un lado va a reconocer Darwin en ellos que es un sentimiento moral de la misma manera que ya habían hecho John Starmill, Adam Smith, etcétera.
+[29:28] Pero sobre todo lo que hay que destacar de la simpatía y la compasión, insisto, es que es una facultad mental, es un producto de de la evolución que permite a los individuos ser conscientes de sus acciones.
+[29:38] Y veamos la importancia que eso tiene.
+[29:41] De momento, señalemos que eso va a ser la condición de posibilidad de lo que llamamos el actuar propiamente humano y de la condición moral.
+[29:50] Simplemente un pequeño recuerdo.
+[29:52] Cuando decimos qué es la ética o cuál es el objeto de estudio de la ética, pues tendremos que decir que el objeto de estudio de la ética, el objeto material de estudio de la ética son las acciones humanas.
+[30:01] ¿Y qué entendemos por acciones propiamente humanas?
+[30:04] Pues las acciones que son voluntarias, libres y conscientes.
+[30:07] ¿Sí?
+[30:09] Bueno, pues ahí radica la importancia de estas condiciones de posibilidad.
+[30:13] Ahora bien, va a decir Darwin, ¿qué es lo que ha hecho posible que se desarrollen estas capacidades?
+[30:20] ¿Qué favoreció el desarrollo de estas capacidades?
+[30:23] Pues dice Darwin, la evolución favorece aquellos grupos en los que los individuos se ayudan entre sí.
+[30:32] No sé si os se han dado cuenta, porque a veces eh cometemos un error cuando hablamos de la selección natural y es que decimos que la selección natural actúa sobre los individuos y me he cuidado mucho de decir eso.
+[30:42] He dicho que la selección natural actúa sobre los grupos cuyos individuos se encuentran mejor adaptados.
+[30:48] La selección natural no actúa sobre individuos, sino que actúa sobre grupos.
+[30:52] ¿Y qué es lo que nos va a decir Darwin?
+[30:55] que aquellos grupos en donde los individuos tienden por naturaleza a cooperar tienen mayores posibilidades de sobrevivir que aquellos que no lo hacen.
+[31:04] Pues teniendo esto como punto de partida, Darwin o como punto de llegada, mejor dicho, Darwin va a decir que los animales son producto de las fuerzas evolutivas, pero de fuerzas evolutivas que promueven el interés propio, desde luego que sí, pero también aquellas tendencias altruistas y compasivas.
+[31:23] En cualquier caso, la evolución va a favorecer aquellas actitudes o aquellas acciones que que favorecen la sobrevivencia.
+[31:31] Y para que los individuos y los grupos sobrevivan, hacen falta compaginar tanto lo que hoy dirían antropólogos como German Hert, perdón, como Clifford Hir, tendencias altruistas como tendencias egoístas.
+[31:43] Hace falta las dos.
+[31:46] Por consiguiente, los orígenes de la moralidad en cuanto a la capacidad de hacer juicios de valor morales y hacer posible, por consiguiente, el conducirse moralmente, ¿dónde hay que buscarlos?
+[31:56] ¿Dónde los podemos encontrar?
+[31:58] Dentro de un proceso evolutivo.
+[32:01] Es decir, dentro de un proceso evolutivo donde se encuentra el propio ser humano.
+[32:05] ¿Qué significa eso?
+[32:07] que debemos de señalar una continuidad entre los animales y el ser humano.
+[32:10] Eso es algo en lo que va a insistir una y otra vez Franz de Bals.
+[32:15] Como todos aquellos ustedes que hayan leído ya la obra de France de Bals, la obra de France de Bal es ante todo y sobre todo una crítica a lo que se llama teoría de la capa o teoría del barniz.
+[32:25] Aquellos que suponen que la moralidad en el ser humano, que las conductas morales o las normas morales es algo que se superpone a una naturaleza egoísta por parte del ser humano, que lo que distingue el ser humano del resto de los animales es algo distinto que está por encima.
+[32:42] Darwin y Franz de Bals, que lo que dirían, no hay una continuidad entre los animales y el ser humano.
+[32:48] Más o menos.
+[32:50] Muy bien.
+[32:51] ¿Qué es lo que dice Darwin?
+[32:53] Muchos animales, sin duda, sienten compasión ante la aflicción o el peligro de otros.
+[32:57] Estas ideas la van a desarrollar tanto en las dos obras que hemos señalado, en el origen del hombre y los sentimientos de los animales y de los hombres.
+[33:09] ¿Qué es lo que nos dice Darwin?
+[33:11] Vayamos a la experiencia.
+[33:13] Y todos aquellos que hayan tenido animales de compañía, pues habrá habrán podido comprobar fácilmente si sus mascotas, si son por ejemplo perros, si son peces, pues es un poco más complicado, por supuesto, pero que por ejemplo los animales superiores como los perros sí tienen o no tienen compasión o por lo menos si tienen o no tienen sentimientos.
+[33:32] Alguien podría decir, "Bueno, una cosa son lo que vemos y otra cosa es lo que suponemos."
+[33:38] Pues muy interesante, muy interesante.
+[33:41] Pero tengamos en cuenta una cosa.
+[33:43] Aquellas razones que pongamos para negar que los animales tienen sentimientos son las mismas raciones razones que nos pueden llevar al final a caer en el problema de el solipsismo.
+[33:55] Si yo dudo de que las acciones que llevan a moverse a mis animales tienen por detrás un determinado sentimiento, las mismas razón tengo para decir que todo lo que está en frente de mí no tienen sentimientos.
+[34:09] Sí.
+[34:10] Bueno, el el problema del solisismo es bastante más complicado.
+[34:13] Simplemente quería hacer una llamada de atención.
+[34:15] El negar que los animales tienen sentimientos, los animales superiores tienen tienen sentimientos, está dentro de la literatura, se ha trabajado enormemente, pero simplemente tengamos cuidado porque podemos caer en el problema del solipsismo.
+[34:29] Continúo.
+[34:32] ¿Cuál es el objetivo inicial de Darwin?
+[34:34] El objetivo original inicial de Darwin en este sentido, ¿cuál va a ser?
+[34:39] demostrar que las facultades superiores del ser humano, por ejemplo, la conciencia moral, son compatibles con nuestra ascendencia animal.
+[34:47] Sin embargo, a la hora de plantearse la cuestión por por el origen de dichas facultades, va a ir mucho más allá.
+[34:54] Cuando Darwin se pregunta, ¿son estas eh estas facultades superiores algo que se añade a su dimensión natural biológica, es decir, por ejemplo, la conciencia moral es finalmente un producto cultural o tienen por el contrario un origen biológico?
+[35:09] Al hacer esas preguntas y en la forma en la que la responde, va a ir mucho más lejos de simplemente ver si su teoría biológica es compatible o no es compatible con John Stu.
+[35:16] ¿Y por qué?
+[35:21] Porque desde esta perspectiva biológica, desde esta perspectiva biológica compatible con la teoría de John Stuarmill, va a dar cuenta de las tres esferas o niveles de toda teoría ética.
+[35:32] Entonces, a todos aquellos que estemos o que estén estudiando ética, tengamos en cuenta que una teoría ética tiene siempre que responder por lo menos por lo menos a tres dimensiones.
+[35:42] ¿Qué son?
+[35:42] Tienen que explicar la condición moral humana, tiene que responder a cuáles son los motivos de los individuos para conducirse moralmente y tiene que intentar justificar el sistema normativo bajo el cual se encierran las reglas morales.
+[35:55] Hasta ahora hemos visto como Darwin responde a las dos primeras,
+[36:01] a la condición moral humana y los motivos que tiene el individuo para conducirse moralmente.
+[36:06] La que queda un poquito en el aire es la tercera, que es cómo podemos justificar el sistema normativo bajo el cual se encierran las reglas morales.
+[36:17] Pero eso se va a unir con otro problema.
+[36:19] ¿Y cuál es el problema?
+[36:20] El siguiente.
+[36:21] Si la moral tiene una base biológica evolutiva, ¿por qué la diversidad de códigos morales y de conductas?
+[36:27] Si tenemos un fundamento biológico, ¿no?
+[36:30] Natural, compartido por todos los seres humanos, porque al final encontramos que en cada cultura hay unos códigos morales y de conducta diferente?
+[36:39] La respuesta ya se la di ayer en forma de pregunta,
+[36:43] porque tenemos que hablar de dos tipos de evolución, la evolución biológica y la evolución cultural.
+[36:50] Darwin ya lo empieza a apuntar y esa es la tercera la tercera de las dimensiones, la justificación de los modelos imperantes.
+[36:58] Lo que va a empezar a insinuar Darwin, pero que no se atreve a decir del todo, es que hablamos de una evolución biológica y hablamos de una evolución cultural.
+[37:06] Y si queremos justificar finalmente los códigos de morales que encontramos en una cultura, estos, ¿dónde los vamos a encontrar?
+[37:13] En la historia de la cultura, en la historia social.
+[37:16] son finalmente la forma en la que se termina por expresar culturalmente una necesidad o una capacidad natural, una capacidad biológica.
+[37:26] ¿Quién sí lo va a exponer por primera vez?
+[37:28] Por primera vez quien lo va a exponer es Edward Wistermark, quien va a decir que las formas morales que observamos son el resultado del desarrollo biológico y cultural.
+[37:40] El problema es que
+[37:43] lo el problema son los problemas, los grandes problemas y las enormes críticas que va a obtener este autor y que de alguna forma va a animar a Darwin a callarse durante mucho tiempo, ¿no?
+[37:53] O por lo menos durante algún durante algún tiempo, pero no va a ser por lo tanto hasta el siglo XX cuando vamos a encontrar su forma más desarrollada.
+[38:01] Y la forma más desarrollada de explicar que las formas morales, la conducta finalmente es el resultado de la combinación entre entre la evolución biológica y la evolución cultural es el autor al que ha venido haciendo referencia, que es Clifford Gh.
+[38:17] ¿Qué nos dice Clifford Gliffth?
+[38:19] Pues nos dice que la cultura no aparece de forma ajena como algo extra que se añade a la naturaleza humana.
+[38:26] Es decir, la cultura desempeño, desempeño desempeña un papel central en la evolución de la especie.
+[38:31] Lo que nos viene a decir finalmente es que nosotros nosotros nuestro cuerpo nuestro cuerpo es el resultado de la retroalimentación
+[38:42] recíproca, positiva que se da entre la evolución biológica y la evolución cultural.
+[38:48] que si nuestros antepasados hubieran tenido otros códigos de conducta, otras formas de comportarse, nuestro cuerpo sería diferente y que cuando nuestro cuerpo se modificó como resultado de una determinada adopción cultural,
+[39:02] esa modificación biológica condicionó nuevas formas o de expresión en la conducta.
+[39:07] Y estas nuevas formas en la conducta a su vez condicionaron nuevas formas fisiológicas, biológicas.
+[39:17] Dicho de otra forma, para Clifford Gh, el hombre es el animal que más depende de los mecanismos de control extragéticos que están fuera de su piel, de esos programas culturales para ordenar su conducta.
+[39:29] La cultura, más que agregarse a un animal terminado, virtualmente terminado, fue un elemento constitutivo y un elemento central en la producción de este animal mismo.
+[39:38] Dicho de otra forma, cuando a veces decimos, "¿Cuándo surge la cultura en el ser humano?"
+[39:43] A veces creemos que primero surgió el ser humano, surgió el homo sapiens sapiens y luego sobre ese animal biológico completamente determinado apareció la cultura.
+[39:52] ¿Qué es lo que dice la paleantropología?
+[39:54] que eso no es cierto, que ya los omín anteriores a Lombon Sapiens ya tenían una cultura y que esas distintas culturas que tuvieron los homínidos anteriores e incluso podríamos hablar de animales sociales anteriores a los homínidos, fue las que fueron condicionando a su vez la forma en la que se fue desarrollando y evolucionando el ser humano biológicamente.
+[40:16] Por lo tanto, la cultura no es algo que se pone sobre un animal terminado, sino que los distintos modelos culturales o comportamentales o las distintas sociedades animales fueron condicionando lo que luego sería el desarrollo biológico.
+[40:31] Y ahí es precisamente donde está ahora el debate actual, cómo integrar estas dos naturalezas, cómo integrar, por un lado, nuestra naturaleza biológica y por otro lado la naturaleza cultural.
+[40:44] Cuando estamos intentando definir qué es el ser humano y cuando intentamos traducirlo en la constitución de nuevas formas de de conducta, ya sea individual o social, ¿qué es lo que debería de pesar más?
+[40:56] ¿La parte biológica, la parte cultural?
+[40:58] ¿Cómo las integramos?
+[41:01] Ahí está el debate.
+[41:03] Para ello, ¿qué es lo que nos va a hacer falta?
+[41:04] pues nos va a hacer falta estudiar pues todo lo que nos viene señalando eh Franz de Bals, pero también hay que estudiar antropología física y hay que estudiar antropología cultural y hay que estudiar antropología filosófica porque es precisamente ahí mismo donde hoy por hoy, insisto, no la jugamos.
+[41:22] Cómo las modelos social cómo los modelos y las normas de conducta individual y social deben de estar condicionadas o cómo deben de integrar nuestra naturaleza biológica y cultural a la vez.
+[41:35] Por lo tanto,
+[41:36] estamos viendo que la moral como resultado de la evolución nos deja en el aire dos grandes dudas a resolver, dos grandes preguntas, que son, en primer lugar, ¿hasta qué punto el comportamiento ético es resultado de la evolución biológica y hasta qué punto es resultado de la evolución cultural?
+[41:53] Y en segundo lugar, ¿en qué medida nuestra conducta, nuestras acciones y nuestras costumbres han podido influir sobre nuestra misma organización, nuestra evolución biológica?
+[42:05] Pues bien, y esto ya es siglo XX.
+[42:08] Hacemos un salto y nos venimos ya al siglo XX.
+[42:11] ¿Hasta qué punto el comportamiento ético es un resultado de la evolución biológica y hasta qué punto es resultado de la evolución cultural?
+[42:18] Y este es uno de los enfrentamientos que más me gustan.
+[42:22] ¿Por qué?
+[42:22] Porque los biólogos van a decir que la ética es el resultado de la evolución biológica, de la enorme inteligencia de la que estamos dotados.
+[42:30] Sin embargo, los filósofos, ¿qué es lo que dicen?
+[42:34] que la ética es un producto de la evolución cultural.
+[42:37] Pues ya por lo menos tenemos tema de discusión, pero si nosotros analizamos cuáles son las metodologías, cuáles son los objetivos, cuáles son los intereses y cuáles son los resultados de los biólogos y de los filósofos, nos vamos a dar cuenta que al final están hablando de cosas diferentes.
+[42:54] Ambos van a compartir la pelea por la ética.
+[42:57] Ambos lo que están intentando responder a la pregunta por los fundamentos últimos de la moral.
+[43:03] Sin embargo, la forma en la que lo van a hacer es completamente diferente.
+[43:07] Están hablando en el fondo, de cosas distintas.
+[43:12] ¿De qué nos hablan los biólogos?
+[43:14] O los biólogos nos hablan de los juicios morales, de la capacidad de juzgar acciones como buenas o como malas.
+[43:20] Y ello ciertamente es una consecuencia de la evolución biológica.
+[43:24] Sin embargo, los filósofos van a estar más preocupados y ocupados con las normas de moralidad, con la elaboración, fundamentación y el estudio de los códigos morales, es decir, las normas con arreglo a las cuales decidimos qué es lo que qué es lo que consideramos bueno y qué malo.
+[43:40] Por lo tanto, mientras que los biólogos nos hablan de la capacidad de hacer juicios, que es fruto de la evolución biológica, los filósofos nos hablan de las normas con arreglo a las cuales llevamos a cabo dichos juicios, que es un resultado de la evolución cultural.
+[43:55] Pongamos un ejemplo.
+[43:57] El lenguaje simbólico.
+[43:59] Los seres humanos tenemos la capacidad para expresarnos a través del lenguaje simbólico, ya sea oral o escrito.
+[44:06] Pero una cosa es la capacidad de lenguaje y otra es el lenguaje en el que damos resolución de ello.
+[44:10] Una cosa son los lenguajes que se hablan.
+[44:13] No hay nada en nuestra naturaleza que nos obligue a hablar hablar español, inglés, chino, mandarín, brasileño, perdón, portugués o lo que fuera.
+[44:22] Pues de la misma forma nosotros tenemos que hablar de que una cosa es la capacidad de llevar a cabo juicios morales y otra son los códigos morales con arreglo a los cuales llevamos a cabo esos juicios.
+[44:34] Pues bien, tenemos entonces, vuelvo un poquito para atrás, tenemos dos cosas.
+[44:38] Uno, el trabajo, tenemos por un por un lado la cuestión cultural y por otro por un lado la cuestión cultural y por otro lado la cuestión biológica.
+[44:49] hablamos de una evolución biológica y hablamos de una evolución, una evolución eh cultural.
+[44:56] La biológica nos obliga a hablar de capacidades de hacer juicios.
+[44:59] Pues muy bien, ¿cuáles son las condiciones biológicas para poder llevar a cabo juicios de valor o juicios morales?
+[45:05] Tres.
+[45:07] En primer lugar, la capacidad de anticipar las consecuencias de las acciones propias.
+[45:12] Dos, la capacidad de hacer juicios de valor.
+[45:14] Y tres, el libre albedrío.
+[45:16] Si no hablamos de estas tres capacidades, no podemos llevar a cabo juicios de valor moral.
+[45:23] ¿En qué consiste cada una de ellas?
+[45:25] La primera nos dice la capacidad de anticipar las consecuencias de las acciones propias.
+[45:30] Apretar, por ejemplo, un gatillo de una pistola en sí mismo no es una acción moral, lo es tan solo cuando yo sé que el hacerlo puedo herir o matar a quien tengo delante.
+[45:39] Por lo tanto, para que podamos hablar de una auténtica acción moral, lo primero que tenemos que suponer en el sujeto, en el en el sí, en el sujeto es que tiene la capacidad de anticipar las consecuencias que eso vaya a tener.
+[45:51] En segundo lugar, la capacidad de hacer juicios de valor.
+[45:55] Es decir, para poder anticipar las consecuencias de mis acciones fundamentales, en primer lugar, he de tener la capacidad de abstracción y de formar categorías generales sobre las las que luego se hacen juicios de valor, algo que tan solo se puede hacer gracias a un gran desarrollo intelectual.
+[46:11] Por consiguiente, tengo que uno poder hacer, tengo que poder anticipar las consecuencias de mis acciones y luego tengo que saber llevar a cabo abstracciones y categorizaciones.
+[46:29] Y en tercer lugar nos encontramos con la cuestión del libre albedrío.
+[46:33] ¿Por qué?
+[46:34] Porque, bueno, este es uno de los grandes problemas o de los problemas más complejos que se presentan ahora a la hora de hablar de la ética.
+[46:39] Si por ejemplo fuéramos unos reduccionistas y tuviéramos que explicarle a alguien que es la libertad, le podríamos decir, "Bueno, pues la libertad es hacer lo que uno le dé la gana."
+[46:49] ¿Vale?
+[46:49] Pero la cuestión es bueno, ¿y por qué queremos lo que queremos?
+[46:54] Si incluso si reducimos que la libertad es hacer lo que uno quiera, ¿por qué queremos lo que queremos?
+[46:58] ¿Somos libres a la hora de elegir aquello que queremos querer?
+[47:04] Ellos nos obliga a hacer una a distinguir, hacer una tipologización de distintos tipos de libertad y tendríamos que hablar así pues de una libertad psicológica, una libertad metafísica y una libertad moral.
+[47:16] En cualquier caso, independientemente de que exista o no un genuino libre albedrío, una acción tan solo se puede considerar moral.
+[47:22] Sí, como les aparece ahora mismo en pantalla, tengo la posibilidad de decidir si las llevo a cabo o no y tengo la capacidad de comparar entidades diferentes y verlas como miembros de clases generales.
+[47:33] Dicho de otra forma, lo que decíamos antes de poder hacer una abstracción, generalización y organización.
+[47:41] En cualquier caso, la razón biológica, y este es un este es el título de una obra eh relativamente reciente, nos dice que lejos de constreñirnos a dar un par de opciones, la razón biológica, es decir, la razón fruto de la evolución, nos permite explorar distintas alternativas en aquellas situaciones en las que tenemos que decidir.
+[48:02] dicho de otra forma, cuando decimos que actuamos de una determinada manera porque no nos queda otra forma de actuar, nos dicen, "No nos engañemos."
+[48:13] La biología, la evolución nos ha dotado de un aparato intelectual lo suficientemente inteligente de crear siempre distintas alternativas y por lo tanto la libertad se va a dar en la medida en la que nuestro sistema cognitivo nos permite pues desarrollar, explorar aunque sea mentalmente distintas opciones.
+[48:35] En cualquier caso, lo que tendremos que tener en cuenta es que hoy día en el siglo XX nos viene a decir que el comportamiento moral es posible gracias, en primer lugar a tres capacidades resultados de la evolución biológica, las que veíamos antes.
+[48:48] está relacionado con el desarrollo del razonamiento moral, con la maduración biológica en términos de Payet.
+[48:54] Y en tercer lugar también está relacionada al igual que la capacidad para la fabricación de utensilios con el aumento del tamaño del cerebro, con una capacidad biológica alcanzada por medio de la evolución.
+[49:09] Hemos estado entonces hablando hasta ahora de los fundamentos de la moral desde una perspectiva de la evolución biológica en cuanto a capacidades.
+[49:18] Pero, ¿qué es lo que ocurre con respecto a los códigos?
+[49:21] ¿Qué es lo que ocurre?
+[49:23] ¿Qué es lo que queremos decir que los códigos morales debemos verlo como resultado de la evolución cultural?
+[49:29] Para poder dar cuenta de ello, necesitamos lo siguiente.
+[49:32] En primer lugar, ver que esta segunda dimensión es resultado de la evolución cultural, de la historia, de la experiencia humana.
+[49:39] En segundo lugar, es para que podamos hablar de una verdadera evolución cultural, una de las primeras condiciones que se han de dar es que existan variaciones culturales.
+[49:49] Si no aparecen, si no somos capaces de hacer un paralelismo entre los distintos tipos de variaciones que encontramos en el mundo biológico y en la cultura, pues entonces simplemente estamos forzando la situación.
+[50:02] Tenemos que ver si en el mundo de la cultura podemos encontrar tres niveles de diferenciación como los que encontramos en el orden de lo biológico.
+[50:09] ¿Cuáles serían estos tres niveles?
+[50:11] Variaciones entre individuos, variación entre distintos grupos y variaciones históricas.
+[50:17] Aquellos que sepan algo más de biología, pues verán que eso es a lo que intenta responder Darwin y es exactamente lo mismo que vamos a encontrar en el mundo de la cultura.
+[50:27] en un grupo tan pequeño como el que aquí estamos, si planteamos cuestiones relativas, por ejemplo, al aborto, la eutanasia, pues van a haber diferencias, ¿verdad?
+[50:34] Y entonces ahí podríamos ver, como decíamos, las diferencias individuales.
+[50:39] Pero por muy diferentes que sean nuestras respuestas, es muy probable que encontremos elementos comunes, que hayan elementos a los cuales todos los que estemos aquí no estemos dispuestos a renunciar, probablemente, pero que si los comparamos con otros grupos encontremos mayores diferencias.
+[50:57] Dicho de otra forma, aunque ante esas situaciones tengamos diferentes maneras de pensar y tengamos distintas posiciones, es muy probable que finalmente nuestras perspectivas se parezcan mucho más a los que se van a parecer a individuos que pertenezcan a otros grupos.
+[51:16] Es los famosos problemas interculturales.
+[51:20] Y en tercer lugar, ¿con qué nos vamos a encontrar?
+[51:21] Con las variaciones históricas.
+[51:24] Dentro incluso de una misma comunidad, dentro de una misma sociedad.
+[51:26] vamos a encontrar diferencias históricas.
+[51:29] Este es un ejemplo que que propone el mismo eh Francisco Ayala.
+[51:35] Nos viene a decir que incluso entre aquellos creyentes o entre muchos creyentes, un mandato, perdón, bíblico como crecer y multiplicados y ocupar la tierra, que originalmente era un mandato bíblico, pero se terminó convirtiendo en un mandato, en una obligación moral, muchos hoy en día no lo seguirían.
+[51:51] Es decir, pues sí, ahí estará el mandato bíblico, pero teniendo en cuenta cómo están las circunstancias, sobre todo económicas, ¿verdad?, pues nos vamos a pensar mucho eso de multiplicad y ocupad crecer, multiplicar y ocupar la tierra.
+[52:06] Insisto, eso no se va a dar en todos los grupos, pero una parte importante de la población, aunque sea creyente, va a considerar que ese mandato bíblico ya no tiene ninguna validez desde el punto de vista moral.
+[52:18] Eso, ¿de qué nos habla?
+[52:18] de una variación dentro de una determinada cultura o una determinada sociedad.
+[52:25] En cualquier caso, vemos que hay ciertos paralelismos, hay grandes parecidos entre la evolución cultural y la evolución biológica, pero lo que no podemos negar es que también hay importantes diferencias.
+[52:38] En primer lugar, tenemos que en la evolución biológica esta se puede transmitir solamente de padres a hijos, es decir, hay una linealidad, hay una lógica y es que pues se va transmitiendo, ¿sí?
+[52:50] Como les decía, de padres a hijos y en segundo lugar que las variaciones se van produciendo al azar.
+[52:57] Tenemos que hablar en términos única y exclusivamente darwinianos.
+[53:00] Sin embargo, cuando hablamos de evolución cultural, podemos hablar en primer lugar de una transmisión horizontal.
+[53:06] ¿Qué significa eso?
+[53:09] Que los valores, las ideas y las costumbres no se transmiten solamente de los padres a los hijos, sino que también se pueden transmitir de forma horizontal.
+[53:19] Con lo que eso con lo que eso significa.
+[53:21] Eso significa que no queda solamente ligado a los hijos, sino que también podemos enseñar a los otros.
+[53:26] Y esa es la razón de las escuelas, de las instituciones educativas y de los medios de comunicación.
+[53:32] Y a su vez también significa de que podemos introducir una explicación de tipo o de orden lamarquiano y no solamente darwiniano.
+[53:40] ¿Por qué de orden lamarquiano?
+[53:42] Porque todas aquellas todos aqu todos aquellos caracteres adquiridos que en términos culturales son ideas, conocimientos, costumbres y hábitos se pueden transmitir a la siguiente generación.
+[53:56] Sí, eso va a tener importantísimas consecuencias, como decíamos, y es que no tenemos que esperar a que sea la propia naturaleza generación tras generación, poco a poco, poco a poco, y además que sean variaciones azarosas, los que hagan que al final resolvamos problemas o conflictos de orden social, político, económico o moral, sino que en una sola generación se pueden provocar o se pueden producir grandes transformaciones en el orden del comportamiento de la conducta.
+[54:21] Pongamos por caso los celulares.
+[54:24] En tan solo 10, 15 años se ha tenido que producir una transformación extraordinaria en torno a los usos y costumbres del manejo de los celulares.
+[54:32] Si los tenemos que tener apagados, si los tenemos que tener en vibrador, cuando se tienen que cuándo tienen que funcionar, cuándo no tienen que funcionar.
+[54:39] Hemos tenido que esperar muchas generaciones para establecer nuevos valores, nuevos criterios y nuevas normas, ¿no?
+[54:46] La enseñanza ha sido vertical o horizontal.
+[54:50] es tan horizontal que hasta nuestros hijos nos enseñan, ¿no?
+[54:54] Rompemos además esta rompemos además esta línea filopaternal, ¿no?
+[54:59] De los padres a los hijos.
+[55:01] Los mismos hijos hoy en día, por ejemplo, le enseñan a los padres de que hay que cerrar los grifos.
+[55:07] Cuestiones de educación ambiental, cuestiones del agua.
+[55:09] Bueno, pues ahí tenemos una importante diferencia entre la evolución biológica y la evolución cultural.
+[55:19] diferencias que son importantes y que además son importantes, que nos abren importantes posibilidades de intervención.
+[55:26] En cualquier caso, ¿qué es lo que nos van a decir biólogos, filósofos y sociólogos cercanos a la sociología y la psicología evolutiva?
+[55:34] Que tanto el comportamiento moral de las normas, tanto el comportamiento moral como las normas tienen un componente genético evolutivo.
+[55:40] Es decir, es necesario hacer más permeable y menos rígida la separación entre la evolución biológica y la evolución cultural.
+[55:49] Y eso, ¿cómo lo podemos demostrar?
+[55:51] Bueno, pues recordemos simplemente lo que había dicho eh Gir, ¿no?
+[55:55] Teniendo presente la retroalimentación positiva existente entre la evolución biológica y la evolución cultural.
+[56:01] Nuestra conducta, nuestro comportamiento social individual está condicionado en buena medida por nuestro cuerpo, nuestra fisiología
+[56:08] y nuestro cuerpo está condicionado en buena medida por nuestra conducta, por la evolución cultural.
+[56:15] Pensemos en el segundo de los mecanismos propuestos por Darwin, que es el de la selección sexual.
+[56:21] Y aquí les recuerdo la imagen del libro que había puesto inicialmente, que no había puesto ni el origen de las especies ni el origen del hombre, sino que había puesto pues la portada del libro de Elena Cronin, que es era la la hormiga y el pavo real, porque es un ejemplo en la actualidad de que de muchos como muchos autores están sosteniendo que en animales superiores como en el ser humano, el motor más importante de evolución no es tanto la selección natural, sino la selección sexual.
+[56:50] Porque la sección natural, decíamos antes, actúa sobre ¿qué?
+[56:52] Sobre los grupos, no sobre los individuos.
+[56:55] Pero además tenemos que tener en cuenta una cosa.
+[56:58] Al final los grupos están compuestos por individuos, pero la selección natural funciona ante todo y sobre todo durante los primeros etapas de la vida.
+[57:06] Los que se van a quedar fuera van a ser aquellos individuos que no tienen la capacidad de llegar a la edad adulta.
+[57:14] Pero la pregunta es, ¿y todos aquellos individuos que llegan a la edad adulta, a la edad reproductiva, se reproducen?
+[57:23] No.
+[57:26] ¿Quiénes se van a reproducir?
+[57:26] Los elegidos.
+[57:28] Los seleccionados.
+[57:30] Y esos elegidos o seleccionados van a van a depender pues de cuáles sean entre comillas la cultura, ¿no?
+[57:37] Los criterios de selección sexual que tenga cada grupo o que tenga cada una de las especies.
+[57:42] Pues bien, lo que nos viene a decir Darwin es que si queremos tener en cuenta que la evolución cultural y la evolución biológica están estrechamente unidas, pensemos en el caso del ser humano en la selección sexual.
+[57:53] Esta selección sexual se hace mucho más evidente si pensamos en términos biológicos, culturales y morales.
+[58:02] De hecho, otra forma, si intentamos relacionar cómo en cada momento están estrechamente vinculados elementos biológicos, culturales y morales.
+[58:11] No me voy a detener aquí explicar este ejemplo, pero simplemente intenten pensar qué relación puede haber entre la aparición de la evolución encriptada
+[58:18] en el género humano,
+[58:21] cómo eso va a dar lugar al cambio de la poligamia, la monogamia por una cuestión de economía.
+[58:29] Y finalmente, ¿cómo eso se va a traducir en expresiones culturales, concretamente en la estética?
+[58:35] Por muy distintas que podrían llegar a aparecer en principio las distintas leyes morales que encontramos en unas sociedades y en otras, podemos ver como todas estas tienen como fin último la sobrevivencia de la comunidad y cómo finalmente dependen de nuestra naturaleza biológica.
+[58:50] Es decir, por muchas diferencias que encontremos entre una cultura otra cultura, entre sus modelos, entre sus entre sus normas morales u otras, al final todas tienen como finalidad última la sobrevivencia de la cultura, perdón, de la comunidad.
+[59:07] Ahora bien, y ya vamos llegando al final al final de mi presentación, ¿cómo fueron recogidas estas ideas durante los siglos XIX y XX 20?
+[59:17] ¿Cómo están siendo desarrolladas en la actualidad?
+[59:20] Pues durante el siglo XIX y el siglo XX van a ser desarrolladas ante todo bajo la interpretación que llevaron a cabo Husley y Spencer, una concepción del Darwinismo que si Darwin les viera, pues a lo mejor les diría de todo menos bonitos.
+[59:37] pues una concepción que daría lugar al darwinismo social, pero un darwinismo social basado en una concepción jopsiana del ser humano con un compromiso ideológico extraordinario y que sería desplazado de cara al público durante o después de la Segunda Guerra Mundial.
+[59:55] Insisto de cara al público porque en ningún momento se dejó de utilizar y desarrollar estas ideas, pero estas ideas, el dargunismo social, si el daronismo social junto a las ideas de Eugenesia se siguieron desarrollando antes, durante y después de la Segunda Guerra Mundial.
+[1:00:14] Pero el punto clave va a ser la obra de Wilson de 1975, Sociobiología, la nueva síntesis.
+[1:00:22] Con esta obra, Wilson lo que va a hacer es revitalizar y poner y hacer transparente muchas de las investigaciones que se veían haciendo desde hace tiempo.
+[1:00:31] Es decir, con su obra Wilson no va a inventar absolutamente nada, ni siquiera el término.
+[1:00:36] Algunos autores sostienen que eso ya pues está haciendo antes, pero sea el término, sea el término, va a hacer referencia a obras que ya estas estaban haciendo.
+[1:00:46] Insisto, lo que va a hacer es transparentar, revitalizar todas aquellas investigaciones que tenían como principal objetivo responder a estas dos preguntas.
+[1:00:54] Uno, ¿en qué medida las políticas públicas y formas de organización social deben tener en cuenta la teoría evolutiva?
+[1:01:01] dicho de otra forma, cuando nuestros gobiernos, nuestros gobernantes, nuestros políticos, incluso los los empresarios intentan llevar a cabo políticas públicas o intentan pues crear las normas de una determinada empresa, ¿hasta qué punto deberían de tener presente la teoría evolutiva?
+[1:01:18] Dos, ¿en qué medida los actuales códigos morales, modelos políticos y económicos responden a exigencias evolutivas culturales y biológicas?
+[1:01:27] En síntesis, podríamos decir que estas son las dos grandes interrogantes a los que intenta responder.
+[1:01:33] ¿Qué posturas vamos a encontrar?
+[1:01:35] Bueno, pues la verdad es que es bastante complicado agrupar las distintas posturas, ¿no?
+[1:01:42] Porque si bien podríamos decir que van a reivindicar, van a seguir este modelo de autores como Richard Dawkins, Robert River o Willen Hamilton, por cierto, estos dos últimos sus obras las publican antes de Wilson, pero luego pues van a quedar ahí, van a quedar ahí asumidos como Lena Cronin o incluso como el mismo James Wabson, pues podemos decir que van a responder van a responder a esa eh pues esa línea que abre Wilson.
+[1:02:10] A su vez van a surgir todo un grupo que van a ser muy muy críticos con eh con esta postura.
+[1:02:16] Van a ser autores como Stephen J. Gulh, Richard Levontin, Stephen Rose, Leon Camin, Mar Sins y Alfred Con.
+[1:02:25] Para que se hagan ustedes una idea, estos autores van a criticar principalmente dos cosas.
+[1:02:30] uno, la utilización de la metodología y dos, las implicaciones ideológicas que se mueven detrás de estos autores.
+[1:02:38] Y si me permiten un segundo, voy a sacar un libro porque va a reflejar perfectamente lo que quiero lo que quiero decirles.
+[1:02:47] Los primeros tres autores, los primeros, no, los segundo, tercero y cuarto, tanto Levonski,
+[1:02:55] perdón, Elevonting Rose como Camin, van a publicar un libro que se titula No está en los genes, crítica al racismo biológico, que es una respuesta principalmente a la obra de Wilson y a la obra de Richard Awkins.
+[1:03:10] Y para que se fijen si hay ideología o no ideología por detrás, permítanme que les lea el título del primer capítulo y el primer párrafo del primer capítulo.
+[1:03:23] Dice así, capítulo 1,
+[1:03:25] la nueva derecha y el viejo determinismo.
+[1:03:29] El principio de la década de los 80 estuvo marcado en Gran Bretaña y Estados Unidos por la llegada al poder de nuevos gobiernos conservadores.
+[1:03:36] El conservadurismo de Margaret Toucher y Ronald Rean significan de muy diferentes maneras una ruptura decisiva con el consenso político del conservadurismo liberal que ha caracterizado los gobiernos de ambos países durante los 20 años previos o más.
+[1:03:51] Es la expresión de una ideología conservadora reciente, coherente y explícita, frecuentemente descrita como la de como la nueva derecha.
+[1:03:59] La pregunta creo que es evidente, ¿no?
+[1:04:02] ¿Qué hace un artículo que se titule como se titula en una obra que supuestamente habla sobre biología?
+[1:04:11] Nosotros, ¿qué es lo que deberíamos de preguntarnos?
+[1:04:13] Lo que debíamos de preguntarnos es, ¿cuál es la ideología que está detrás de la obra de Richard Dawkins, de la obra de Wilson, pero también cuál es la ideología que está detrás de la obra de Lemon de Rose y de Camin?
+[1:04:27] Es decir, ante ante las tendríamos que preguntarnos ante estos libros en qué forma y medida estos planteamientos responden a exigencias ideológicas previas.
+[1:04:36] Hay, por lo tanto, un claro enfrentamiento ideológico entre estos autores, un debate producido entre las distintas obras.
+[1:04:44] Y podemos ver entonces cómo primero publica Wilson y simplemente un año después Dokin saca su obra y después le va a contestar estos autores.
+[1:04:51] Luego Dawkin va a sacar otras obras.
+[1:04:53] Estos autores sacan otro y si es finalmente como una telenovela, ¿no?
+[1:05:01] Una telenovela para los que para intelectuales, pongámoslo entre comillas.
+[1:05:07] Y tenemos la versión internacional y tenemos la versión doméstica.
+[1:05:10] La versión doméstica es la que se produce entre autores en español.
+[1:05:13] Entonces tenemos a Jesús Monsterín, a Carlos Castroeza, que unos y otros se van respondiendo y es sumamente interesante pues hacer una colección de libros en el que veamos como uno van respondiendo a los otros y aparece un tercero por ahí que casi parece el amante del primero, ¿no?
+[1:05:29] A veces a veces es mucho más interesante la historia de los libros que lo que dicen los libros mismos.
+[1:05:38] Afortunadamente, afortunadamente entre estas dos posturas un poco antagónicas en los últimos años han salido posturas intermedias,
+[1:05:46] posturas eh que por un lado van a criticar desde luego este esta la ideología que hay de transfondo.
+[1:05:55] Lo que van a hacer es releer a Darwin.
+[1:05:58] Como les decía el día pasado, autores como el mismo Franz de Bal que va a hacer es leer a Darwin y ver como estos otros autores como Richard Dawkin han leído a Darwin y dican, "No hay ni punto de comparación entre lo que quiere decir Darwin y lo que dice este autor sobre lo que dice Darwin."
+[1:06:14] Entonces, después de leer a Darwin, van a rechazar estas posturas por dos razones.
+[1:06:18] Uno, por la forma en la que han leído a Darwin.
+[1:06:20] Dos, por la ideología que hay de transasfondo.
+[1:06:23] Y tres, por el uso comercial que se está haciendo del darwinismo de de Spencer.
+[1:06:28] ¿Por qué?
+[1:06:28] Pues porque estos autores, estos autores han hecho una enorme fortuna a partir de este tipo de literatura.
+[1:06:37] El mismo Franz de Bal señala cómo cómo Richard Dowkin se atreve a decir lo que dice y en el último momento, en la última línea, dice que bueno, todo lo que ha dicho antes, pues a lo mejor no tiene ningún sentido.
+[1:06:50] ¿Cuál es el verdadero finalidad que tiene Dawkins?
+[1:06:52] Pues dice Fran de Bals, pregúntele ustedes mañana si considera que piensa lo mismo.
+[1:06:58] Lo que voy a decir es que lo único que quiere hacer es crear una polémica, crear un nombre para poder tener negocio.
+[1:07:06] Dejémoslo así.
+[1:07:07] Claro.
+[1:07:08] ¿Quién sale quién sale beneficiado de todo esto?
+[1:07:10] Pues las editoriales, ¿verdad?
+[1:07:13] Pero por otro lado, ¿qué es lo que van a hacer estos autores?
+[1:07:16] Van a decir, "Miren, tampoco tenemos que que rechazar la sociobiología.
+[1:07:21] Durante mucho tiempo la sociología ha sido denostada, criticada y diciendo que era un problema de segundo orden.
+[1:07:27] Pero afortunadamente hay muchos autores que dicen que hay que criticar estos tres niveles, pero hay que recuperar lo que hay que recuperar.
+[1:07:35] ¿Y qué es lo que hay que recuperar?
+[1:07:37] La metodología.
+[1:07:39] Una metodología que ya había sido comprobada y contrastada mucho antes por los estudios lingüísticos de Nuan Chomski y por los estudios anarquistas de Kropotkin.
+[1:07:48] Así pues con esto ya termino y doy pie a sus preguntas, sus comentarios.
+[1:07:54] Tendremos que ver que en la actualidad nos encontramos con una nueva, podríamos decir sociología o más que sociobiología, una nueva manera de leer a Richard Dawkins, que encontramos en estos autores y muchos otros que lo que intentan es acercarnos pues la explicación biológica junto con la explicación, la explicación filosófica, pues a muchos de los problemas que tenemos en la actualidad.
+[1:08:16] Por mi parte, pues es todo por ahora y esperar sus preguntas y comentarios.
+[1:08:22] Muchas gracias.
+[1:08:36] >> Participante 1: Javier,
+[1:08:38] sí,
+[1:08:39] Javier, a mí me quedó una pregunta cuando hablabas de la compasión en los animales y la cita que ponías.
+[1:08:45] Eh, no dudo de la compasión en los animales, pero encuentro problemático y más bien lo quiero comparar con los grupos humanos,
+[1:08:53] porque finalmente en una cadena alimenticia este pues a lo mejor sentimos compasión por otros miembros del grupo, pero los que están fuera de mi grupo no les voy a tener el mismo sentimiento de compasión porque si no no como no.
+[1:09:07] >> Ponente: Claro, ahí tendremos que, perdón, sí, ahí tendremos que definir en primer lugar que entendemos por compasión.
+[1:09:15] ¿no?
+[1:09:15] Y en términos darwinianos o en términos incluso del mismo Franz de Bals nos va a decir que la experiencia nos dice que hay compasión no solamente dentro de un grupo, sino dentro de una especie y entre distintas especies.
+[1:09:29] En sus libros podemos comprobar o nos va a dar muchos ejemplos de esa compasión que se ha dado entre otras especies.
+[1:09:36] va a poner ejemplos con chimpancés en donde nos habla no solamente de la simpatía, de la empatía, sino también de la compasión.
+[1:09:45] Eh, pues la simpatía, cuando habla de la empatía, pues siempre pone el ejemplo de una chimpancé cuando pues vio a un pequeño pájaro que se había caído, que se había golpeado.
+[1:09:56] Ahí podríamos hablar solamente de empatía o también hay una suerte de compasión.
+[1:10:00] Vamos a encontrar también ejemplos, no de Darwin, sino también de otros naturalistas que nos hablan, por ejemplo, incluso de leonas,
+[1:10:08] ¿no?
+[1:10:08] Podemos hablar ejemplos con leones, perdón, con elefantes, ejemplos con eh con delfines.
+[1:10:14] Yo aquí lo que remitiría es que nos fuéramos a los casos que los mismos naturalistas nos están ofreciendo y ver si están manejando bien el concepto de compasión por el de empatía.
+[1:10:29] A mí lo que más me interesa de estos autores es que finalmente nos remiten a casos concretos, a la experiencia.
+[1:10:36] Nosotros ahí pues lo único que yo creo que podemos hacer es hacer un análisis de si están utilizando los conceptos correctos o no.
+[1:10:44] Lo poco que yo he leído al respecto, los ejemplos que han dado, sí que me parece que podemos hablar de una empatía, de una compasión, no solamente dentro de la misma especie, sino entre distintas especies.
+[1:10:55] Me parece.
+[1:10:55] Muchas gracias.
+[1:11:00] >> Participante 2: Eh, me parece esa pregunta fabulosa porque
+[1:11:04] desde la biología hay también como una categorización de las relaciones entre las especies
+[1:11:10] y está comensalismo, amensalismo, simbiosis y son categorías que definen relaciones
+[1:11:20] de acompañamiento entre organismos de distintas especies y solo hay una categoría que hace referencia a relaciones de competencia o de de peredación.
+[1:11:31] Eso me parece que incluso la biología a veces
+[1:11:33] eh eh desde estas lecturas que hacía Javier no nos han quedado muy no quedan muy claras.
+[1:11:37] Y hay un libro que eh ha citado también Javier de Cropotkin que se llama El apoyo mutuo.
+[1:11:45] El apoyo mutuo es hermoso en el sentido en que y es un libro pues no no sé de cuándo, pero entiendo que es algo debe ser de la primera mitad del siglo XX, muy al principio.
+[1:11:56] Ajá.
+[1:11:57] ahorita se encuentra ya en internet, tú lo descargas en PDF y es hermoso porque tiene una lista impresionante de ejemplos concretos de relaciones eh de comensalismo o de acompañamiento entre especies, entre organismos de diferentes especies.
+[1:13:13] En ese sentido, me parece que sí hay un montón de ejemplos, ¿no?
+[1:13:18] La otra cosa que te quería comentar también, Javier, es, bueno, e soy biólogo y soy ecólogo humano, entonces me es complicadísimo ver ahora las cosas desde una u otra perspectiva
+[1:13:32] y justamente desde eh áreas como la ecología cultural, la ecología humana misma, justamente hay este intento de hacer esta síntesis eh entre estas dos vertientes y desde donde prácticamente no puedes mirar, ¿no?, desde una u otra evisión.
+[1:13:51] Eh, de alguna manera eh tienes que entender como estos procesos
+[1:13:55] eh evolutivos eh como parte de un mismo proceso.
+[1:14:00] Mm este como ahí como apunte.
+[1:14:04] Y ah un una tercera cosa que también quería comentar, la cuestión de de pronto
+[1:14:10] seguir pensando a la especie humana como como única, como como
+[1:14:17] fruto de eh un proceso evolutivo que se detuvo cuando apareció Lucy y se ha quedado ahí detenido, ¿no?
+[1:14:26] En este momento, la diversidad biológica genética comprobada este los humanos es más amplia que en cualquier otro momento de la historia.
+[1:14:34] Entonces, creo que también vale la pena, así como hablamos de diversidad cultural, también hablar de diversidad biológica y eso está también ya reflejado en los genes.
+[1:14:48] >> Ponente: Muchísimas muchísimas gracias con todos los comentarios que has hecho, incluso y si quisiera profundizar un poquito más en la pregunta que has hecho, tendríamos para otra para otro curso, ¿no?
+[1:14:00] Ni siquiera una sesión.
+[1:14:00] ¿Por qué?
+[1:14:01] porque han tocado elementos fundamentales muy muy importantes.
+[1:14:05] Eh, no podemos obviar el papel que ha representado los medios de comunicación para la transmisión de una determinada concepción del ser humano.
+[1:14:14] Eh, la concepción hopsiana de Spencer ha triunfado porque es sumamente atractiva y provocativa y los medios de comunicación han sabido han sabido verlo eh hasta hace relativamente poco tiempo.
+[1:14:27] Casi todos los documentales a los que la población en general tenía acceso era ver a la naturaleza
+[1:14:35] pues como un ente cuyo principio fundamental de actuación era el de la violencia, era el de la competencia.
+[1:14:40] Y como muy bien señalas, ese es uno.
+[1:14:43] Ese es simplemente uno.
+[1:14:45] Pero los medios de comunicación han estado insistiendo, insistiendo, insistiendo.
+[1:14:51] ¿Por qué?
+[1:14:51] pues cuestiones ideológicas probablemente, pero también porque eso vende, o sea, porque es mucho más interesante ver a unos animales depredándose y haciendo pues actividades violentas que simplemente ver acciones de cooperación.
+[1:15:05] Además, eso va muy ligado con la ideología dominante, aunque haya mucha gente que no le guste que se relacione la ciencia con la ideología.
+[1:15:14] Y me alegra muchísimo que volvieras a traer a a colación a la obra de Kropotkin, porque hay otro prejuicio y hay otro desconocimiento enorme y es la historia de la ciencia rusa.
+[1:15:29] Los rusos leyeron muchísimo mejor a Darwin que el otro occidente y leyeron mejor a Darwin, por supuesto, que los mismos ingleses.
+[1:15:37] Entonces, algo que deberíamos de hacer es intentar recuperar y aprender un poquito más de la historia de la ciencia de la ciencia rusa.
+[1:15:47] Hablas luego de de la síntesis.
+[1:15:51] Bueno, en esta síntesis que se está produciendo aquí también tenemos que tener mucho cuidado.
+[1:15:55] Qué bueno por los biólogos, pero los que nos dedicamos a las humanidades y a la filosofía y la ciencia tenemos que encender ahí nuestras alarmas porque tendríamos que ver si esta simbiosis que se está produciendo es porque no puede ser de otra manera, entre comillas, ¿sí?
+[1:16:08] Porque el desarrollo lógico del pensamiento va por ahí o por el contrario es una situación forzada.
+[1:16:15] ¿A qué me refiero?
+[1:16:16] Si en el siglo XX el paradigma de lo que era una ciencia, siglo XIX y siglo XX, el paradigma de lo que es la ciencia era la física, en el siglo XXI es la biología.
+[1:16:25] Y desde hace ya un par de décadas estamos viendo como la biología ha ido pasando de ser una disciplina eh provincial, podríamos decir, dependiente de la física.
+[1:16:38] Cuando la biología nace en el siglo XX o el nacimiento de la biología molecular tiene que ver con esa consideración de que una verdadera ciencia es la ciencia que se parece a la física y a la química, de ahí el reduccionismo biológico,
+[1:16:49] pasamos de ahí a todos los esfuerzos que se llevan a cabo en el siglo XX por defender su autonomía.
+[1:16:56] La biología va a decir que es autónoma y si bien necesita de la física y la química en determinados aspectos, por otro lado, por otro lado tiene cierta autonomía.
+[1:17:07] Hoy, al contrario, lo que ha ocurrido con la biología es que se ha convertido en una disciplina imperialista.
+[1:17:12] Intenta imponer su lógica, intenta imponer su lenguaje en todos los aspectos, desde el empresarial, el político, el económico, el educativo, donde queramos.
+[1:17:20] Qué bien que nos juntemos, pero mucho cuidado.
+[1:17:24] ¿Cuáles son las intenciones últimas?
+[1:17:27] Creo que quedan 2 minutos.
+[1:17:29] >> Participante 1: Ah, era nada más para comentar que más bien la la pregunta era este,
+[1:17:34] perdón,
+[1:17:34] por el lado de si la compasión existe en los animales y está comprobado, pero bueno, tal vez lo respondes con esta visión que decías jovesiana de los animales.
+[1:17:44] ¿Por qué en el ser humano entonces la compasión entre los grupos a veces resulta tan complicada?
+[1:17:49] ¿Por qué deshumanizamos al otro?
+[1:17:51] >> Ponente: ¿Por qué?
+[1:17:52] Pues tiene que ver con la cuestión cultural.
+[1:17:54] Es la cuestión cultural.
+[1:17:54] ¿Está la capacidad o no está la capacidad?
+[1:17:58] La capacidad biológicamente, a no ser que haya un trastorno, dirían los psicólogos, la tenemos.
+[1:18:04] Ahora, no todas las capacidades se se van a potencializar.
+[1:18:09] Las tenemos en potencia, no se actualizan.
+[1:18:11] La actualización de unas capacidades y otras capacidades van a depender del contexto finalmente cultural, social, a veces familiar en el que uno se encuentre.
+[1:18:19] Sí, veamos otras culturas.
+[1:18:24] Pues por mi parte creo que es todo.
+[1:18:25] Ya no nos da tiempo a mucho más.
+[1:18:28] Si tienen, por supuesto, preguntas y comentarios, pues pueden hacérmelo llegar.
+[1:18:32] Para mí ha sido un placer estar con todos ustedes presencialmente o de manera virtual.
+[1:18:37] Espero que les guste eh la conferencia magistral, que es lo verdaderamente importante, la conferencia del día mañana a las 6 de la tarde en la rectoría, en la sala mayor de rectoría y espero que de alguna forma algunos de los elementos que hemos estado viendo pues en estas escasas 3 horas nos sirvan uno para entender mejor la plática de Franz de Bals y ante todo y sobre todo pues que nos acerquemos un poquito más a este mundo tan maravilloso como es el de la filosofía de la biología.
+[1:19:07] que a veces poco conocido.
+[1:19:09] Bueno, pues muchísimas gracias a todos.

@@ -1,0 +1,421 @@
+﻿[00:36] >> Participante 1: Doctor Balaz, bienvenido. Opción múltiple y gracias por aceptar la invitación a charlar.
+[00:40] >> François Vallaeys: No, de nada.
+[00:40] Es un placer para mí esta esta mañana.
+[00:41] Bueno, el tema el tema que que le ha ocupado usted en su visita a Monterrey y en la la conferencia que tuvo la oportunidad de de de tuvimos la oportunidad de compartir con usted sobre la ética y la sociedad del riesgo.
+[00:56] Yo quisiera empezar por definir para nuestra audiencia qué es, cómo se entiende esto de la sociedad del riesgo.
+[01:03] Bueno, es algo que todo el mundo notamos, desgraciadamente.
+[01:09] Ah, nuestra sociedad se hizo mundial.
+[01:12] No, la globalización ahora es un es un hecho y eh es problemático porque eso hace que las acciones particulares de alguien en algún lugar tiene repercusiones en en todo el planeta, ¿no es cierto?
+[01:26] No, si vemos la cosa de esta sala, deben venir de cuatro continentes, haber viajado miles de kilómetros antes de llegar hasta acá, lo que hace que los problemas sociales eh dejan cada vez más de ser solamente locales y se vuelven globales, ¿no?
+[01:43] Entonces, ¿por qué sociedad de riesgo?
+[01:45] es porque la sociedad industrial era una sociedad basada finalmente sobre el problema de la producción y distribución de riquezas, ¿no?
+[01:53] Cómo producir más riquezas y cómo hacer para distribuirlos de de buen modo.
+[02:01] Entonces, era una sociedad basada más que bien en la en la lucha de clases para saber quién se iba a llevar la mayor parte de la torta, ¿no?
+[02:08] Y hoy en día, sin haber resuelto para nada el problema de la redistribución de riquezas, hoy día nos damos cuenta que la las ciencias y las tecnologías no solamente traen riquezas, sino también traen problemas.
+[02:22] Problemas porque desencadenamos unos procesos que no sabemos cómo pararlos después, ¿no?
+[02:28] Y entonces entramos en una sociedad que no solamente produce riqueza, sino que produce riesgos.
+[02:35] Y los riesgos que produce a veces son tan grandes que ya no vale la pena seguir produciendo la riquezas que van con los riesgos, ¿no es cierto?
+[02:43] Pero de un riesgo todo el mundo padece, ¿no?
+[02:45] Por ejemplo, una nube radioactiva, ya que es es un tema desgraciadamente de mucha actualidad.
+[02:52] Una nube radioactiva pasa por todos los países, ¿no?
+[02:55] Y alcanza tanto al pobre como al rico, ¿no es cierto?
+[02:59] ¿No?
+[02:59] Entonces, los nuevos riesgos de esa sociedad global están ligados a la tecnociencia, h que a la vez produce los problemas y también está ahí para la solución, porque le vamos a pedir a la misma tecnociencia las soluciones para mitigar o eliminar esos esos riesgos, pero eso redistribuye las cartas, ¿no?
+[03:20] Y hace que la sociedad de riesgo debe ser mucho más preventiva, ¿no?
+[03:28] En lugar de creer ciegamente en el crecimiento y en el empuje económico, debe este ver cuáles son los efectos colaterales de nuestras acciones.
+[03:39] Ciertas acciones con efectos colaterales potencialmente muy dañinos deben ser sencillamente abandonados, aunque podríamos sacar algún provecho de de eso, pero no debemos arriesgar la vida de nuestro bisnieto, ¿no?
+[03:51] Así de simple.
+[03:54] >> Participante 1: Ahí ahí aparece el otro componente de la de de su charla, el tema de la ética ligado a a la sociedad del riesgo.
+[04:02] Eh, y se lo voy a preguntar de esta manera.
+[04:04] Eh, entre 1986, que fue el accidente Chernobyl y eh la eh bueno, hace unas cuantas semanas eh después de Fukishima en en Japón, tenemos un un gran arco en donde debimos haber reflexionado sobre el tema.
+[04:19] Eh, se se debió de haber ponderado, por lo menos en esta sociedad global, eh ya no somos sociedades, una sola sociedad, eh por las repercusiones y por los vínculos que hemos establecido.
+[04:31] Debimos haber ponderado eso.
+[04:33] No lo hicimos.
+[04:34] Eh, y parece que no solamente no lo hicimos, sino que eh hicimos cosas todavía más adelante de lo que en aquel entonces había se había producido como un riesgo.
+[04:43] Y luego Chernobyl no solamente produjo se produjo como accidente, sino además como las repercusiones derivadas de la ignorancia eh de quienes estaban en el entorno y a veces también de la mala fe que era el gobierno de de en aquel entonces, ¿no?
+[04:57] Yo yo le quiero preguntar cómo por qué no primero por qué no por qué en estos vein tantos años este no logramos reflexionar y ponderar adecuadamente para ver el futuro y cómo eh cómo es que estamos ahora, hacia dónde vamos.
+[04:14] >> François Vallaeys: Correcto.
+[04:18] Bueno, e es un tema muy interesante y muy complejo.
+[04:21] Yo diría que en relación a Chernobyl hemos avanzado y al mismo tiempo seguimos haciendo lo mismo, lo que es típico.
+[04:30] Ha avanzado la contestación este antinuclear, ha avanzado este los partidos ecologistas en el mundo.
+[04:38] Estos partidos ecologistas ya hace buen tiempo que no se dedican a salvar las flores o solamente las ballenas, sino a los temas esenciales de cuáles son nuestras elecciones energéticas, cuáles son nuestras elecciones de sociales, de salud, etcétera, etcétera.
+[05:55] Es decir, son partidos hechos y y derechos con programa.
+[06:00] En eso hemos avanzado mucho, ¿no es cierto?
+[06:03] Pero la bueno no conozco el el sistema en Japón.
+[06:07] Si sé que la opción nuclear en Japón depende del poder central y de unas cuantas industrias y que es algo muy cerrado y muy poco democrático, ¿no es cierto?
+[06:19] Pero yo conozco el caso francés, es igualito, ¿no?
+[06:24] Eh, en Francia se puede discutir de todo menos del tema del nuclear, ¿no?
+[06:29] Porque el tema nuclear en Francia es 85% de la producción de electricidad.
+[06:36] Se acabó con el 15%.
+[06:39] Ahí pueden ver lo que si quieren hacer energía eólica, este, solar, etcétera, pero 85% es nuclear.
+[06:46] Y es un tema que no es democrático, es un tema que no se dice en la plaza pública y es ahí donde nosotros desde la universidad eh estamos este llamados a a reflexionar porque es un tema donde el poder político, el poder económico y el poder de la ciencia, de los expertos, trabajan juntos contra la ciudadanía, ¿no?
+[07:12] sin pasar información o diciéndoles cada vez no se preocupen, vemos todo el problema, ¿no?
+[07:17] Un un gran físico francés que él decía hace años antes de Fukushima, él decía, "A mí las centrales nucleares me dan miedo porque yo sé, yo sé porque soy científico que nadie sabe cómo funcionan, porque el ingeniero conoce muy bien su tema, qué sé yo, de de de tubos de enfriamiento, ¿no?
+[07:41] El físico conoce muy bien cómo se va a comportar el urao, ¿no?
+[07:46] En el estado de fisión, el electrónico como no será muy bien qué s el sistema, ¿no?
+[07:49] Pero nadie conoce la central nuclear, ¿no?
+[07:53] Entonces, entre esas diversas disciplinas que que tratan de armonizar, la verdad es que siempre hay un bricolage, como decimos en en francés, y esta misma parte hace que debemos reflexionar, ¿no?
+[08:11] Ahorita, bueno, he leído en el mundo por por internet que ya han encontrado plutonio en los alrededores de la de la central, pues el plutonio no sale así y es el producto más letal de que que que el hombre ha podido inventar, ¿no?
+[08:28] De ahí una sociedad de riesgos, ¿no?
+[08:32] donde para producir electricidad, cosa que es buena y que todo el mundo necesita en esta sala, necesitamos en este momento, nos metemos en un desarrollo científico que trae buena fortuna por un lado, pero que también trae una serie de riesgos.
+[08:47] Y la sociedad de riesgos es una sociedad que debe poner en el tapete del espacio público, ¿no?, esta evaluación entre las riquezas que podemos producir y los riesgos que debemos padecer por tener esas riquezas.
+[09:03] >> Participante 1: Pero a ver, aparece en esta en esta en este debate eh que los riesgos son, digamos, la parte no necesariamente mala eh de la ecuación.
+[09:16] Es decir, la discusión parece centrarse en mira todos los beneficios que te produce la electricidad, mira los riesgos que tiene producirla con con centrales nucleares.
+[09:25] Y a la hora de ponderarlo, resulta que los riesgos no son matizados y no son tan malos, porque inmediatamente saldrán quienes digan, "Bueno, mira, eso le pasó a Japón, pero mira Francia qué bien le va con su 85% de energía eléctrica producida por centrales nucleares hasta el momento, ¿no es cierto?
+[09:47] Y a los alemanes que les dijeron que no.
+[09:49] >> François Vallaeys: Así es.
+[09:50] Y los alemanes, los ecologistas, acaban de ganar el Bad Btenberg, ¿no?
+[09:53] Que es un un estado este central, una región central de de de Alemania, ¿no?
+[09:59] Entonces, hay una respuesta popular.
+[10:01] Por eso te digo, avanzamos y al mismo tiempo hay un bloqueo.
+[10:05] Pero, ¿cuál es ese bloqueo?
+[10:07] Si lo analizamos, es un bloqueo finalmente de los poderes institucionales, ¿no?
+[10:14] Para transparenciar los asuntos públicos.
+[10:18] Porque si todos nosotros somos alcanzados por los beneficios, pero también por los riesgos, todos nosotros tenemos voz y voto en las grandes elecciones del país, ¿no?
+[10:31] Y a cada vez se nos dice, "No, no, eso que el pueblo no va a entender, es un asunto de especialistas, de expertos.
+[10:38] No se metan, ¿no?
+[10:40] Bueno, la sociedad de riesgo y es Ulrichbeck, el sociólogo alemán que que ha popularizado esta esta noción.
+[10:47] La sociedad de riesgo es una sociedad donde los asuntos tecnocientíficos se vuelven asuntos políticos centrales que deben de ser discutidos, ¿no?, por todos del modo tan democrático como discutimos de cuántos hospitales vamos a implementar en el país, cuál va a ser la política de salud, etcétera, etcétera.
+[11:09] >> Participante 1: Eh, vamos a tener que hacer un corte y cuando cuando regresemos eh le vamos a preguntar al Dr. Franço Ávala es eh por la razón de esta división, es decir, por qué eh el pueblo no puede intervenir en la toma de decisiones que son de decisiones que son de naturaleza técnica, eh ya sea en materia de energía nuclear, por ejemplo, en el caso de Japón o en el caso de Francia o en el caso de Alemania o en decisiones que tienen que ver con la construcción, por decir algo, de pasos a desnivel, pasos elevados, segundos pisos.
+[11:45] Aquí en Monterrey acabamos de pasar por eso.
+[11:47] Vamos a preguntarle a este filósofo especialista en el análisis de la sociedad del riesgo, esta sociedad que se produce por los daños los daños no esperados del proceso de modernización.
+[11:58] Permítame, es un corte muy breve.
+[12:01] Estamos de regreso esta mañana en la opción múltiple platicando con François Balaés, filósofo y especialista en la sociedad del riesgo.
+[12:08] Esta sociedad que es la sociedad en la que vivimos actualmente, la sociedad global que se enfrenta a las consecuencias no deseadas de la ciencia.
+[12:17] Es decir, la ciencia produce muchos beneficios, todos los disfrutamos, eh, pero también nos produce enormes y muy especiales riesgos, porque son riesgos que además se generan en la conjunción, doctor Bala, de las decisiones que tomamos eh políticamente, pero sin tener el respaldo científico o científicamente, sin tener la legitimidad que produce la democracia.
+[12:43] Y ahí es donde eh eh se se da este choque.
+[12:47] Le le hacía la pregunta otro sociólogo alemán, mencionado Beck, pero le menciono la explicación de Nicholas Luman sobre esto, en donde él lo que nos dice es vivimos en una sociedad funcionalmente diferenciada, en donde la ciencia hace ciencia, la religión religión y eh la política política y el arte arte.
+[13:04] Y no tiene nada que ver.
+[13:06] Cada uno funciona con sus reglas porque son sistemas independientes.
+[13:07] ¿Cómo eh hacer?
+[13:11] Es decir, a partir de esta definición, cómo eh enlazar, por ejemplo, a lo político con lo científico, técnico y las decisiones eh pues que deberían beneficiar a la sociedad.
+[13:23] >> François Vallaeys: Así es.
+[13:24] Bueno, magnífica pregunta.
+[13:25] Es la pregunta para el siglo XXI, si me permites reformularla, ¿cómo volvernos inteligentes?
+[13:33] Porque lo que denuncia finalmente Lumán y analiza muy bien que esos sistemas se sistematizan reduciendo la complejidad de su entorno y se dedican solamente a lo suyo.
+[13:47] Eso es un fenómeno normal, ¿no?
+[13:49] Pero nosotros somos seres humanos pensantes.
+[13:52] Nosotros no somos el sistema.
+[13:54] Nosotros operamos el sistema, pero también lo debemos pensar.
+[13:57] Y hay otro este gran pensador, sociólogo y filósofo que es Edgar Morin.
+[14:02] Ajá.
+[14:02] No, bien conocido en América Latina, ¿no?
+[14:06] Morín, ¿no?
+[14:07] Como como como decimos y pronunciamos en la del modo castellano, que habla de la inteligencia ciega, porque el hecho de especializarse en una especialización especializada no hace que terminamos muy inteligente en un punto y extremadamente ciego en todos los efectos colaterales de de este punto.
+[14:27] Pero el problema social, los problemas sociales nunca son disciplinarios, nunca son meramente problemas de un sistema que lo puede tratar con sus propias herramientas.
+[14:36] Siempre son problemas inter, multi y transdisciplinarios, es decir, van más allá de las barreras disciplinarias.
+[14:43] Entonces, si nosotros nos decimos, "Uy, yo hago solamente lo que sea hacer y el resto no me importa.
+[14:52] Eso no me compete que lo vea la la oficina al frente, ¿no?
+[14:56] Obviamente los problemas terminan siendo cayendo en lo que los economistas llaman las externalidades, ¿no es cierto?
+[15:03] Es decir, nosotros internamente contamos lo que queremos contar y el resto pues que se encargue este el mercado, la mano de Dios uera, ¿no?
+[15:11] Y y es la acumulación de todas esas irresponsabilidades finalmente que crea esa situación antiética que es la que es la nuestra, ¿no?
+[15:24] >> Participante 1: Eso es América Latina.
+[15:28] Eh, América Latina eh hoy por hoy nos muestra eh rostros eh a veces muy polarizados en materia económica.
+[15:35] Por ejemplo, acabamos de recibir los datos de de el Banco Interamericano de Desarrollo y también del del de la OCDE, en donde se ven claramente dos modelos, uno encabezado por Brasil, otro encabezado por México.
+[15:53] México mirando hacia las potencias industrialmente desarrolladas tradicionales, Brasil orientado a la explotación de su mercado interno y de la exportación de materias primas.
+[16:02] Esto ha producido además diferentes visiones políticas en el continente y vemos claramente que el caso de Mercosur, Brasil, Argentina, Chile, eh son economías que están moviéndose a gran velocidad, eh dejando más o menos en su entorno y jalando a economías como como Perú y Colombia, eh, y que y que van más o menos siguiendo su camino.
+[16:26] ¿Qué está pasando en la en la conjunción de esta reflexión que usted hace sobre la sociedad del riesgo en donde en el núcleo está la investigación científica y en donde estos países han privilegiado la investigación y el el modelo mexicano no lo ha hecho.
+[16:39] Es decir, nosotros nos hemos quedado comprando eh tecnología que viene del exterior, etcétera, y sin reflexionar sobre lo que esto significa para nuestra vida social, cotidiana, normal.
+[16:51] >> François Vallaeys: Claro, la hoy en día efectivamente nuestra sociedad de riesgo es a la vez una sociedad del conocimiento, ¿no?
+[17:02] Y ese conocimiento gracias a la revolución internet que recién estamos empezando a ver las consecuencias hace que el conocimiento fluye, ¿no?
+[17:14] fuera de los de los ríos de antaño, donde o más bien de las lagunitas de antaño, donde uno podía aislar el conocimiento de los demás, ¿no?
+[17:22] Volvemos a lo nuclear, es lo mismo.
+[17:25] Cada vez que tú quieres aislar, ¿no?, un proceso que se da mundialmente, te va a ir mal.
+[17:34] te va a ir mal y además vas a hacer algo antiético porque el conocimiento en realidad es de todos, ¿no?
+[17:43] Entonces, ¿cómo proceder para este que la ciencia y la tecnología que que son imprescindibles para generar crear valor, no?
+[17:52] en este en este momento eh eh sea una creación de valor, ¿no?, que sirva el interés del público y no eh se confisque, ¿no?, eh en ámbitos eh para este desde la rareza de la información, ¿no?
+[18:08] Adquirir el poder, ¿no?
+[18:12] Eso eh va con la ciencia porque mira, la ciencia tiene que ser una actividad pública.
+[18:17] Si yo hago ciencia por mi cuenta, en mi pequeño laboratorio, en mi casa secretamente y que no difundo mis resultados ni los procedimientos, yo no he hecho ciencia.
+[18:29] Aunque yo sea el mejor físico del mundo, yo no he hecho nada porque la comunidad científica no no está al tanto ni de mis procedimientos ni de mis resultados, ¿no es cierto?
+[18:40] La ciencia es una actividad pública por definición.
+[18:46] Privatizar lo público siempre nos va mal, siempre nos va mal porque a fin de cuentas este disminuimos las capacidades de eso, ¿no?
+[18:55] Mira, yo tengo un sueño, ah lo voy a a decir acá en plena televisión.
+[19:00] La, por ejemplo, el tema de los medicamentos, ¿no?
+[19:03] Me parece un escándalo ético que un medicamento que pueda curar una persona enferma no esté a disposición de esa persona porque hay un brevete, porque hay un derecho de autor y y porque el medicamento es demasiado caro, ¿no?
+[19:19] Entonces, ¿qué podíamos hacer?
+[19:21] Podemos decir, "Uy, pero si damos este brevetes libres a los medicamentos, ya no va a haber investigación científica porque no va a haber este interés por parte de la industria farmacéutica." ¿Correcto?
+[19:35] Entonces, ¿qué deberíamos hacer?
+[19:36] Debíamos crear un fondo mundial que todos los países invertirían, obviamente en prorrata de sus de sus capacidades.
+[19:44] Y este Fundo Mundial dirigido por la Organización Mundial de la Salud diría, "Bueno, señores, yo compro los medicamentos que son útiles, ¿no?
+[19:56] Para curar las enfermedades, ¿no?
+[20:00] Las más dramáticas de la de la humanidad, ¿no?
+[20:02] Entonces, una las industrias concursarían, ¿no?, para ese fondo y la industria que llega al fondo y que le dice, "Mire, he hecho ese medicamento."
+[20:12] Le diría el costo de todo la de toda la investigación, ¿no?
+[20:16] Se le pagaría el costo de toda su investigación más un 30%.
+[20:21] Entonces, la industria estaría asegurada de de de sus ganancias, ¿no?
+[20:28] Y el medicamento pasaría inmediatamente a ser dominio público y cualquier país lo podía hacer como medicamento genérico, ¿no?
+[20:36] >> Participante 1: Pero entonces, ¿qué pasó con el mercado?
+[20:38] >> François Vallaeys: Pero con un fondo así, ¿qué hacemos?
+[20:41] hacemos que la la OMS podía decir, "A mí no me interesa un medicamento que va a curar la enfermedad de 20 personas en el en el mundo."
+[20:51] Lo que está pasando, los las compañías curan más las enfermedades de los viejos ricos de los países ricos, ¿no?, que las enfermedades de los pobres en los países pobres, pero que matan mucho más personas, ¿no?
+[21:07] El paludismo.
+[21:07] No interesa a nadie sacar un medicamento sobre el paludismo porque nadie te va a comprar el medicamento porque el paludismo es una enfermedad de de países pobres, ¿no?
+[21:19] Entonces la la Organización Mundial de la Salud podría dirigir la investigación hacia el el interés común y no acabamos con el mercado, sino que dirigimos el mercado hacia realmente medicamentos que se podrían eh se podrían dar a todos.
+[21:38] Una vez que mi industria logró meter un medicamento en el OMS, con todas sus ganancias más sus costos pagados, puede seguir investigando y hacer otros medicamentos.
+[21:48] Es decir, no paramos para nada la investigación, pero no paramos tampoco de dar a la persona que lo necesita, que tenga plata o no, el medicamento que necesita.
+[21:58] ¿Te das cuenta?
+[22:01] ¿no?
+[22:01] Y obviamente habría medicamentos que entrarían en ese fondo y medicamentos que no y que seguiríamos con el mismo mercado de hoy.
+[22:07] >> Participante 1: Y no sería eh reducir la utilidad del sistema eh económico, en este caso de las compañías que se dedican a la producción de de fármacos.
+[22:18] Decirles, bueno, y fíjate que ya no vas a ganar 100%, pero nada más vas a ganar 30.
+[22:22] >> François Vallaeys: Bueno, la yo digo yo digo 30 es una es una cifra a lo que me refiero es que siempre quieren más.
+[22:30] Hay que calcular esto.
+[22:32] Hay que calcular esto.
+[22:32] Sí, pero laboratorios que tendrían eh en su proyecto de investigación una ganancia asegurada una vez que fue convalidada por el fondo, ¿no?, de la OMS, este producto tampoco estaría mal porque las compañías farmacéuticas están en este momento en una tremenda competencia, tanto así que se tienen que sacar medicamentos todo el tiempo, ¿no?
+[22:56] Y justo escuchaba en Francia una especialista médica y decía que ahora muchas veces en los laboratorios no se produce un medicamento me to.
+[23:13] No, yo también, ¿no?
+[23:14] Ah, y es un pequeño cambio en la molécula que ya existe hace 30 años para poder producir rápidamente un medicamento.
+[23:22] Mientras que con el sistema que te que te digo podríamos dedicar más tiempo a realmente buscar lo que hay que buscar, ¿no?
+[23:30] Y y sacar nuevos medicamentos sabiendo que este fondo, si me traes un medicamento que ya existe en el mercado o que es casi parecido, pues no te lo voy a comprar.
+[23:39] ponlo en el mercado, tú vas a ver si si lo vendes, ¿entiendes?
+[23:44] No, claro, esa es la bueno, esa es una idea que que surgió en mi pequeña mente, pero yo quisiera que se que se vea esa capacidad de que hoy día tenemos grandes necesidades públicas que son mundiales, no hay capacidades también, ¿no?
+[24:03] Porque nuestro mundo es un mundo tecnocientífico muy desarrollado y hay un bache, bache se dice, ¿no?
+[24:09] entre las necesidades y la manera de solventar esas necesidades.
+[24:14] Este bache lo tenemos que cubrir, ¿no?
+[24:18] El mercado es una estupenda herramienta, pero no es la única herramienta.
+[24:23] No hay hay cosas que sabe hacer muy bien el mercado, hay cosas que no sabe hacer, ¿no?
+[24:27] Debemos dejar absolutamente en esa nueva sociedad de riesgo de alabar o creer en una en un solo modo de funcionamiento.
+[24:35] Sabemos que el puro etatismo está mal.
+[24:38] Sabemos que el puro mercado también está mal, ¿no?
+[24:43] Sabemos que la el nacionalismo está mal, sabemos que un cosmopolitismo total está mal también.
+[24:48] ¿Por qué no empezamos a tener un poco más de lucidez y de articulación de todas las herramientas que tenemos?
+[24:56] >> Participante 1: Permítame el corte, es muy breve.
+[24:57] Estamos hablando con François Balaés, el Dr. François Balaés, especialista en la sociedad del riesgo eh esta mañana en opción múltiple y cuando regresemos le vamos a preguntar por los nuevos riesgos de la sociedad del riesgo.
+[25:07] ¿Qué pasa con los nacionalismos?
+[25:10] ¿Qué pasa con América Latina?
+[25:12] ¿Qué pasa con un país como México?
+[25:14] Que empieza a ver hacia sí mismo y se encuentra con que no era lo que nos habían dicho que era permítanos un corte.
+[25:21] Es muy breve y volvemos esta mañana en opción múltiple con el Dr.
+[25:25] François Bala hablando de la sociedad del riesgo.
+[25:29] Doctor Balaés y el tema decíamos de los nuevos riesgos de la sociedad del riesgo.
+[25:35] Están pasando muchas cosas en las sociedades latinoamericanas, particularmente ya han pasado por esos por esas fases en las sociedades europeas y hoy la gran sociedad global se nos presenta llena de de de problemas que ahí estuvieron siempre, pero que la modernidad pretendió eh como matizar.
+[25:55] Eh, estoy pensando en los nacionalismos, estoy pensando en las minorías, estoy pensando en en en la confrontación entre lo que antes era la igualdad y ahora lo que se presenta como la exigencia por el derecho a la diferencia.
+[26:12] Eh, y esto nos ha traído el riesgo de la confrontación, entre otras cosas.
+[26:17] Por favor.
+[26:17] >> François Vallaeys: Sí, hay muchos nuevos riesgos, ¿no?
+[26:22] Eh, hay estos riesgos efectivamente de que cada sociedad se encierre sobre sí misma en su particularismo.
+[26:31] Ah, personalmente yo no lo veo como un gran riesgo.
+[26:34] Yo creo que se habla demasiado de este riesgo.
+[26:37] más bien la yo creo que si llevas bien tu propia particularidad te vuelves universal, entonces reencuentras fácilmente ese cosmopolitismo que debemos instituir.
+[26:52] Lo que sí veo como un riesgo real es una separación en dos de la sociedad.
+[26:59] Por un lado, una pequeña parte extremadamente privilegiada, ¿no?, mundial, la Jet Society, ¿no?, que pasa su tiempo en en los aviones hiperconectada, beneficiando de todos los alcances de la ciencia y por otro lado, estados ingobernables, ¿no?, de sociedades ingobernables eh donde empecemos a regresionar eh mucho esa fractura social sí se se puede dar y eh puede darse incluso ya en Francia es un tema, varios este investigadores que lo ven el tema de la fractura genética.
+[27:41] Entonces, debemos cuidar esa autonomía y para eso hay que empezar a hacer algo que que nunca le gustó a la modernidad, aceptar lo dado, ¿no?
+[27:50] La modernidad tiene un odio hacia lo dado, ¿no?
+[27:53] Todo tiene que cambiar, todo tiene que mejorar.
+[27:57] lo dado nunca está bien, hay que mejorarlo, ¿no?
+[27:59] Bueno, momento hay que hay que saber decirme basta, hay que saber decir, bueno, lo dado no es perfecto, pero fíjate, eh, es lo que tenemos, ¿no?
+[28:11] Y no está tan mal, ¿no?
+[28:13] Entonces, esta capacidad de autolimitarse para mí es el problema humano actual, ¿no?
+[28:21] El problema humano actual.
+[28:23] No sabemos autolimitarnos, no estamos vertidos en un proceso eh de crecimiento permanente, ¿no?
+[28:31] Y eh debemos aprender a autolimitar.
+[28:33] >> Participante 1: Los filósofos de la posmodernidad, entre ellos eh algunos franceses, y pienso en Jean Franzotar específicamente, hablaba de los grandes relatos y de la crisis de los grandes relatos.
+[28:44] Eh, uno de ellos fue o es el de la el de la democracia.
+[28:47] eh qué está pasando en la sociedad del riesgo en relación con la democracia y una democracia que trata de imponerse eh pero que finalmente no logra o no ha logrado eh los objetivos que se había planteado.
+[29:00] ¿Hacia dónde vamos?
+[29:03] >> François Vallaeys: Ahí también yo creo que estamos avanzando y al mismo tiempo quedándonos en lo en lo mismo.
+[29:10] Bueno, primero no estoy para nada de acuerdo con John Fueliot y el fin de los grandes relatos.
+[29:15] Creo que ese también era un gran relato y que más bien eh la el nivel que alcanza las tecnociencias no permite hoy en día sintetizar los pequeños relatos, ¿no?
+[29:31] Eh, para crear eh relatos mucho más narrativos y sintéticos y que nos ubican y necesitamos ubicarnos, ¿no?
+[29:38] Pero para volver sobre el tema de la democracia, yo creo que ah hay muchos avances.
+[29:44] Miremos lo que está pasando en los países árabes.
+[29:47] Dios mío, hace 4 meses todo el mundo nos decía que eran unos barbudos, islamistas, retrógradas, ¿no?
+[29:56] Y que vemos levantarse pueblos enteros, ¿no?
+[30:00] Por ninguna razón religiosa, ¿no es cierto?
+[30:02] ¿Por qué quieren democracia?
+[30:04] Porque quieren que el dictador que está a cargo desde hace 30 años se vaya.
+[30:08] ¿Por qué quieren transparencia?
+[30:10] Porque quieren formar parte de su país y sus reivindicaciones eh son democráticas, ¿no?
+[30:17] Entonces, países que no tenían, digamos, una tradición democrática de tipo occidental, se levantan como países que reclaman más democracia.
+[30:28] Por otra parte, yo creo que la democracia, tal como la entendemos, ha fracasado en un tema central que es la educación ciudadana, ¿no?
+[30:38] Hemos este desarrollado la capacidad de tener derechos, pero no hemos desarrollado la capacidad de tener capacidad de e acudir hacia esos derechos y de poder en forma culta y en forma racional utilizar nuestra libertad.
+[30:56] Entonces, por un lado, los medios de comunicación, me permitirán criticarlos, ¿no?
+[31:05] Este, nos divierten, ¿no?
+[31:07] Más que nos nos enseñan.
+[31:09] Y y por otro lado, quisiéramos que los ciudadanos eh sean conscientes, voten bien, etcétera, etcétera.
+[31:17] Acá hay una dicotomía, ¿no?
+[31:19] Acá hay una dicotomía y yo pienso, como soy universitario, que la universidad debe autocriticarse mucho en eso, ¿no?
+[31:24] Y participar es lo que estamos haciendo hoy, ¿no?
+[31:33] De una un mejoramiento del espacio público, ¿no?
+[31:35] mejoramiento de la calidad del conocimiento que compartimos entre nos, entre todos nosotros en el espacio público, porque es de la elevación de la cultura general que podemos esperar realmente un tratamiento de esos problemas de de riesgos mundiales, ¿no?
+[31:56] >> Participante 1: Ahora le pregunto por la ética particularmente, ¿qué tipo de ética es la que necesitamos en esta sociedad del riesgo?
+[32:03] Cuando en esa en esta sociedad del riesgo vemos cotidianamente la confrontación entre los principios religiosos que en algún momento se apropiaron de la ética eh volviéndola una volviendo la moral y una ética que se plantea eh desde un punto de vista totalmente racional y que apela a eh procedimientos, por ejemplo, el de la democracia, que vemos que por lo menos en la en lo que se refiere a la formación de ciudadanos, pues no ha funcionado.
+[32:31] >> François Vallaeys: Sí, la Correcto.
+[32:34] Yo creo que la la ética que necesitamos hoy es una ética de tres dimensiones, ¿no?
+[32:42] Es una ética cuya primera dimensión es la dimensión de la virtud personal, de la bondad.
+[32:47] O sea, esa dimensión que conoce bien todo el mundo desde su religión o desde su ética laica del ama a tu prójimo como a ti mismo.
+[32:57] No hagas daño a los demás.
+[33:00] Este, cuando das tu palabra, trata de cumplir, etcétera, etcétera, ¿no?
+[33:04] Esa es la primera dimensión de la ética que obviamente siempre vamos a necesitar.
+[33:09] La segunda dimensión de la ética es la ética pública, la ética de la justicia, de la equidad, de los derechos humanos, la ética de la democracia, que dice el mejor sistema político, para hablar como Luman es el sistema político que incluye la oposición dentro del sistema, ¿no?
+[33:27] ¿Qué cosa es una democracia?
+[33:29] Es muy simple.
+[33:31] Una democracia es un sistema político en el cual cuando la oposición le gana a la mayoría, pues no hay guerra civil, sino hay un cambio de gobierno y entonces la mayoría se vuelve oposición, pero sigue teniendo voz y voto y la vez próxima puede volverse mayoría, etcétera, etcétera.
+[33:48] Y eso no es dramático.
+[33:51] Podemos ver como en costa de Marfil, por ejemplo, este proceso todavía no se da porque no hay modo de aceptar para la mayoría que la oposición se vuelva mayoría, ¿no es cierto?
+[34:06] Entonces, esta es la segunda dimensión de la ética y la tercera dimensión de la ética es la dimensión de la sostenibilidad.
+[34:12] Lo que hacemos hoy no puede de ninguna manera impedir que se haga también mañana, ¿no?
+[34:20] Y no podemos de ninguna manera condenar el futuro de la humanidad porque debe haber un futuro para que lo que estamos compartiendo hoy tenga sentido.
+[34:31] Necesitamos absolutamente pensar que hay gente que lo va a escuchar, hay gente que lo va a entender, hay gente que lo va a aplicar, que lo va a retrabajar, que lo va a meditar.
+[34:41] Entonces, necesitamos absolutamente pensar que va a haber un futuro.
+[34:45] Si el mundo se acabaría en 2 segundos, todo lo que hemos dicho no servirá de nada, ¿no es cierto?
+[34:50] Entonces, la la condición de posibilidad de que la humanidad tenga sentido es que la humanidad tenga futuro, ¿no?
+[34:59] Pues la ética que les corresponde a eso es la ética de la sustainability, ¿no?
+[35:04] Ese ese término inventado en los años 70 o 80.
+[35:09] El el informe Brutland, ¿no es cierto?
+[35:11] Le dio una buena definición.
+[35:13] Las necesidades de hoy no deben impedir, ¿no?, que las generaciones futuras también puedan este vivir y acudir a sus a sus necesidades.
+[35:24] Estamos haciendo al revés hoy día, ¿no?
+[35:27] Hoy día la para cubrir nuestras necesidades no le quitamos a las generaciones futuras, mientras que todo el tiempo el mundo había sido al revés.
+[35:36] las generaciones trabajaban para el futuro, ¿no?
+[35:39] Y muchas veces en forma dura, ¿no?
+[35:41] Por ejemplo, la democracia.
+[35:43] La democracia no surgió así, esa golpe de muertes que y de sacrificios que surgió la la democracia.
+[35:50] Entonces, nuestros antepasados trabajaban para nosotros.
+[35:54] Nosotros nos ponemos a trabajar contra nuestra nuestros descendientes.
+[35:59] Eso es inmoral.
+[36:00] Entonces, la ética que debemos trabajar es una ética compleja de bondad y virtud.
+[36:04] personal, de justicia y derechos humanos a nivel social y de sostenibilidad a nivel global.
+[36:12] >> Participante 1: Y eso se nos pone verdaderamente eh delante de todos los mexicanos un un se supone un verdadero problema porque en las tres dimensiones que nos acaba de eh presentar el Dr. Francois Balaz, tenemos problemas.
+[36:27] Cuando regresemos eh ¿qué pasa?
+[36:29] ¿Qué pasa con el futuro?
+[36:32] eh este futuro que bueno ya está hipotecado, por lo menos en materia medioambiental, por lo menos en materia económica para muchos países y yo no sé si en materia personal también por la por el descrevamos estas preguntas para el drctor Fran Bala que nos acompaña esta mañana en opción múltiple hablando de la sociedad del riesgo y lo que viene.
+[36:58] Los medios de comunicación siempre suponen una limitación de tiempo, doctor Bala.
+[37:03] Eh, pero finalmente nos dan la oportunidad también de llegar y de reflexionar con con un amplias capas de nuestra población acerca de temas que creemos son importantes.
+[37:14] Es el caso de opción múltiple.
+[37:16] Eh, usted nos mencionaba tres dimensiones de la ética necesaria para esta sociedad del riesgo.
+[37:20] Nos hablaba de la virtud personal, nos hablaba usted acerca de la ética pública en donde los derechos humanos juegan un papel determinante y nos hablaba también de la sostenibilidad como un factor central para no hipotecar el futuro de las generaciones que nos que nos siguen.
+[37:37] Sin embargo, ya lo tenemos hipotecado en materia medioambiental, tenemos hipotecado en materia económica también y tenemos un en el caso, por lo menos estoy hablando de México, en el caso de la vida pública, una hipoteca sobre la credibilidad del sistema político, de la democracia.
+[37:53] Eh, vamos caminando hacia procesos electorales, nacionales y y vemos en las encuestas de opinión que la gente no cree ya en lo que está pasando en en la vida en la vida pública.
+[38:01] Y bueno, el tema de la virtud personal se nos ve se nos viene a la a la a la en la cara como un golpe seco eh, cuando vemos todo lo que está ocurriendo con el narcotráfico, con la violencia extrema, con, en fin, no entro en detalles, ya lo sabemos todos.
+[38:15] Eh, ¿qué es qué viene?
+[38:18] ¿Qué viene para nosotros?
+[38:19] O sea, ¿cómo podemos atajar estas, es decir, entrarle estas tres dimensiones de la ética con acciones concretas?
+[38:24] Es decir, cómo empezar a actuar aquí.
+[38:30] >> François Vallaeys: Correcto.
+[38:31] Primero, debemos ser optimistas.
+[38:36] He dicho, debemos ser optimistas.
+[38:39] El optimismo no es una creencia mía porque quiero ser este feliz, ¿no?
+[38:48] El optimismo es un deber.
+[38:50] Si somos pesimistas, pues se va a realizar el objeto de nuestro pesimismo, porque no vamos a hacer nada, ¿no?
+[38:57] Entonces, efectivamente, eh el mundo va a ir cada vez peor.
+[39:02] Debemos ser optimistas porque debemos actuar para un mundo mejor, ¿no?
+[39:08] Ah, y si no podemos, ¿no?
+[39:12] Uno se puede preguntar, la respuesta de la ética es, pues cállate, hazlo porque debes hacerlo.
+[39:18] Veremos después si lo pudiste hacer, pero no es el problema, ¿no?
+[39:23] Ah, te doy un ejemplo así.
+[39:25] Si hubiera un niño en esta sala donde hay un montón de cables, de enchufes eléctricos, ¿no?
+[39:30] Pequeño bebé, y el pequeño bebé se acerca al el enchufe eléctrico, ¿no?
+[39:36] ¿Qué hacemos?
+[39:36] Pues nos precipitamos para salvarlo de electrocutarse, ¿no?
+[39:41] ¿Vamos a poder llegar antes?
+[39:44] Eso no es una pregunta que te haces, no lo haces, ¿no?
+[39:50] Si lo lograrás, eh, eso eso se verá, pero lo que debes hacer lo debes hacer y punto, ¿no?
+[39:56] Entonces, primero diría que no hay que ser pesimistas porque debemos ser optimistas.
+[40:01] Ese es el punto de vista ético, ¿no?
+[40:03] Segunda cosa, debemos ver la cosa eh también eh para ser optimistas, ¿no?
+[40:11] Y para tener buenas razones de ser optimistas, también debemos ver la las cosas en en el largo plazo, ¿no?
+[40:17] Si no estamos en la actualidad, oh, todo sale mal, ¿no?
+[40:21] Porque la actualidad obviamente todo sale mal, ¿no?
+[40:23] Si para no hablar de de de México, pero te puedo hablar de de Francia, todo va mal en Francia, ¿no?
+[40:27] y ese presidente todo el mundo se queja, etcétera, etcétera.
+[40:33] Entonces, si nos focalizamos en el corto tiempo, en general, el pesimismo gana siempre, ¿no?
+[40:38] Pero si vemos en el largo tiempo, ¿no?
+[40:42] Tú y yo vivimos mejor que el rey Luis XIV, que no podía comunicarse por teléfono con sus primos en otros países, que no podía viajar a más de 20 km porh, que no tenía ni un médico para curarle su enfermedad, impedir que él sufra dolores horribles todos los días, etcétera.
+[41:04] Nosotros vivimos mejor que Luis XIV y mira que era el rey sol, ¿no?
+[41:10] Y en cuántas generaciones hemos hecho eso?
+[41:12] En dos siglos.
+[41:14] en tres siglos, ¿no?
+[41:14] Entonces, si vemos el largo tiempo eh hoy en día ningún candidato en un en un país democrático podía venir con un programa racista.
+[41:25] ¿Te das cuenta?
+[41:25] Yo no estoy diciendo que no hay políticos racistas, pero por lo menos no lo pueden decir.
+[41:30] No pueden decir, "Nuestro programa va a instituir un racismo estatal, no duraría ni ni 5 minutos, ¿no es cierto?"
+[41:39] Entonces hemos avanzado en muchos puntos.
+[41:42] No, y siempre cada vez que nos desesperamos hay que ver el lado en que hemos avanzado, lo que no significa ser un optimista beato y que y que no hace nada, ¿no?
+[41:56] Y que dice que todo va bien, ¿no?
+[41:58] Porque eso es otro cuento eh que también no podemos este eh conservarlo, pero hay que trabajar desde la la fuerza y el convencimiento que la humanidad sí puede mejorar, ¿no?
+[42:13] Y después hay que ser astutos, hay que ser astutos con los sistemas, ¿no?
+[42:18] No vamos a esperar que este el narcotraficante se vuelva un ángel, ¿no?
+[42:25] No, pero podemos crear condiciones socioeconómicas, ¿no?
+[42:28] que impiden o dificultan cada vez más los actos de violencia, los actos de corrupción, etcétera.
+[42:36] En realidad hay una gran técnica, ¿no?
+[42:40] En realidad alguien que quiere hacer algo mal necesita del secreto, ¿no?
+[42:46] Para poder cometer su acto.
+[42:48] No puede decir en la plaza pública, voy a cometer un acto malo.
+[42:52] Porque obviamente le van a impedir, ¿no?
+[42:55] Y una persona que quiere hacer el bien, al contrario, necesita decir en la plaza pública, oye, tengo ese proyecto, es muy bueno, pero necesito que me ayuden, etcétera, etcétera.
+[43:07] Entonces, hagamos que la sociedad funcione cada vez más de modo transparente, donde las cosas se sepan y se difundan públicamente y te lo juro que va a disminuir los actos malos y van a aumentar los actos buenos, ¿no?
+[43:23] es una sociedad más comunicada, más transparente, donde es cada vez más difícil esconder lo que uno quiere esconder porque va en contra sus pequeños intereses.
+[43:36] Es una sociedad que progresa, pero esta técnica no te hace progresar en 5 minutos ni en 5 años, ¿no?
+[43:42] Te hace progresar en décadas y y y en siglos, ¿no?
+[43:48] >> Participante 1: Yo creo que ese es un tema importante, pero sí hay quiebres importantes también.
+[43:52] Eh, y estoy pensando a propósito de lo que dice en el caso de Wikileaks, ¿sí?
+[43:57] este y Wikileaks y la el modo en el que ha transformado la el ejercicio del periodismo eh por lo menos en algunas en algunas partes del mundo y vemos los resultados en países como México donde bueno, se nos acaba de ir simplemente el embajador de los Estados Unidos porque se le perdió la confianza o en en fin, o sea, los los eh los casos se multiplican a medida que van saliendo estas estas estos relatos distintos del modo tradicional.
+[43:29] de ser del periodismo y en el contexto de lo global ya no es posible.
+[43:31] Si se publica en Alemania, bueno, pues se va a conocer en México, o sea, no no hay forma de ocultarlo.
+[43:37] >> François Vallaeys: Exactly.
+[43:40] Entonces, la transparencia no es ah necesariamente siempre buena, pero yo te digo, para manejar un sistema necesitas ser astuto, ¿no?
+[43:51] Hay algo mucho peor que el exceso de transparencia, como podemos este argumentar en contra de Wikileaks.
+[44:59] Es la demasiado poca transparencia.
+[45:02] No es cierto, porque si Wikileaks es un caso extremo que podemos discutir, si está bien o está mal, hay defensores de Wikileaks y hay hay gente detractores.
+[45:12] Ah, yo yo no tengo opinión sobre eso, o sea, como filósofo yo trato de de analizar el fenómeno que es interesante, ¿no?
+[45:18] Pero de lo que estoy seguro es que una sociedad con poca transparencia nunca es una sociedad ética, ¿no?
+[45:26] Entonces, entre riesgo Wikileaks, ¿no?
+[45:30] Digamos que es demasiado, ¿no?
+[45:33] y el riesgo este de la opacidad de la opacidad, el totalitarismo, los estados donde se cierra absolutamente toda información, la información cerrada sobre el caso de Fukushima, sobre el nuclear francés para volver al inicio, pues yo prefiero el riesgo de Wikileaks porque no es un riesgo letal, mientras que el riesgo de encerrar una sociedad y hacer que tres o cuatro personas manejen todo un país, eso sí es un riesgo
+[46:03] >> Participante 1: Y cuando hablamos de la violencia, eh ya para eh enfocarnos hacia el final de nuestro programa, doctor Bala es eh la esta violencia que estamos experimentando en México ahora, pero que ya se experimentó en en Colombia, que se ha experimentado en Perú, eh eh cómo reaccionar, es decir, eh eh obviamente el las personas de bien tendemos a reaccionar con con asco, con con es es repugnante.
+[46:33] Y sin embargo empezamos a acostumbrarnos, o sea, irremediablemente los medios de comunicación colaboran a ello y en México se acaba de firmar un acuerdo por una especie de acuerdo para la confidencialidad, no confidencialidad, pero sí para la prudencia en el manejo de de la de la violencia.
+[46:53] Eh, ¿cómo enfocarlo desde el punto de vista ético y en esta lógica que usted nos acaba de plantear de decir, "Bueno, necesitamos más transparencia, necesitamos que se sepa?"
+[47:00] >> François Vallaeys: Sí.
+[47:02] Sí, pero transparencia no quiere decir crueldad.
+[47:07] Ah, yo creo que es acertado una reflexión de responsabilidad social de los medios de comunicación sobre lo que dan eh enseñan a ver, ¿no?
+[47:19] Ah, para hablar de los problemas de tránsito, para tomar un tema un poquito menos este difícil de tratar, ¿no?
+[47:27] No necesitamos enseñar un carro revolcado con un brazo ensangrentado ahí tirado en el piso.
+[47:34] Así es.
+[47:35] cosa que se hace en Perú igual, ¿no?
+[47:39] Lo que sí necesitamos son periodistas capaces de hacer un buen reportaje sobre qué pasa con el tránsito, los porcentajes de accidentes, cómo hacer educación ciudadana para que haya menos y las medidas que tomar, ¿no?
+[47:54] Entonces ahí hay una hay una necesidad de responsabilidad social de la de los medios de de comunicación.
+[48:03] La imagen, fíjate, ah, puede dañar mucho, ¿no?
+[48:07] Yo soy narrador de cuentos.
+[48:11] Yo narro cuentos populares, siempre a adultos, ¿no?
+[48:15] No para niños, sino para adultos.
+[48:18] Eh, es una estupenda herramienta.
+[48:20] ¿Y qué hace el cuento popular?
+[48:23] ¿Cómo es dicho, no?
+[48:23] La persona que lo escucha eh prende su pantalla interna y se produce sus imágenes, ¿no?
+[48:31] Entonces, obviamente son imágenes curativas, ¿no?
+[48:37] Daininas, este, eh, que educan, que forman, etcétera.
+[48:40] Mientras que meter una imagen desde el televisor apaga tu pantalla mental a ti, ¿no?
+[48:47] Y y estás ahí como drogadicto, ¿no?
+[48:52] finalmente frente a esa esas imágenes, ¿no?
+[48:54] Una sociedad de puras pantallas es una sociedad que no deja ese espacio interno de creación de imágenes propias.
+[49:02] Es una sociedad donde la innovación propia, la capacidad creativa del individuo disminuye.
+[49:09] Es una sociedad donde la el poder de negación también disminuye.
+[49:14] Porque fíjate, si yo te digo una frase, me puedes negar la frase.
+[49:18] Si te enseño una imagen, no me puedes negar la imagen, me puedes producir otra, pero la la la imagen es innegable, ¿no?
+[49:26] Y y necesitamos poder negar para poder criticar, para poder mejorar, ¿no es cierto?
+[49:31] Entonces debemos resistir a unas pura sociedad de imágenes, sobre todo donde no hay filtros sobre qué imágenes vale la pena enseñar y y qué no y cuáles no.
+[49:43] Entonces, bueno, no me parece este, o sea, si sin conocer bien el el asunto, eh, no me parece mala idea de de de empezar a reflexionar sobre la responsabilidad social de los medios en general frente a los problemas de la de la de de la población, ¿no?
+[50:01] que sean de violencia o o que sean de discriminación o o u otros, porque efectivamente una imagen no cambia el mundo, pero 100,000 imágenes este crean una rutina.
+[50:13] Si tenemos una rutina de ver solamente blanquitos en la televisión, ¿no?
+[50:18] Porque yo, por ejemplo, que he vivido 18 años en el Perú, yo he hecho cuatro comerciales.
+[50:24] Claro, yo tengo la cara perfecta del peruano, ¿no es cierto?
+[50:28] O sea, la se se prefieren meter a gente blanca, ¿no?
+[50:35] Ah, en los comerciales peruanos muchas veces que a gente peruana, pues con sus con sus rasgos típicos de cuales sean, ¿no?
+[50:45] Entonces da finalmente en la mente de las personas que ah el buen color de piel es el color blanco, ¿no?
+[50:49] Y si tú no tienes ese color, cosa que no depende de ti, pues está mal, ¿no?
+[50:54] Etca, etcétera.
+[50:57] Bueno, son detalles, pero que al final no son detalles porque crean cultura, ¿no?
+[51:01] >> Participante 1: Y crean una narración sobre la propia sociedad.
+[51:03] >> François Vallaeys: Exactly, ¿no?
+[51:06] Porque una sociedad que no se sabe aceptar a sí misma para trabajar sobre sí misma es duro, ¿no?
+[51:13] La Bueno, hace poco tiempo estado en un restaurant y eh vino uno de los empleados del restaurant, hombre, con su bebé en brazos y él con sus dos colegas hombres estaban con el bebito así, qué lindo.
+[51:26] Y estaban con la la actitud más tierna, tres varones, ¿no?
+[51:32] con con con un bebé en brazos.
+[51:34] ¿Quién dice que México is solamente un país machista donde donde todos los hombres este golpean a sus esposas, etcétera, etcétera, y no tienen capacidad de vínculo afectivo con la ternura, con la vulnerabilidad, con la belleza, etcétera?
+[51:47] ¿No te das cuenta?
+[51:50] Yo yo creo que no, pero ah vivimos nosotros de nuestras narraciones.
+[51:55] Entonces, otra vez vuelvo al optimismo.
+[51:58] Si nos narramos que estamos mal, pues estamos mal.
+[52:01] Si nos narramos que estamos bien y que podemos estar bien y que somos sagrados, ah, pues algo puede cambiar.

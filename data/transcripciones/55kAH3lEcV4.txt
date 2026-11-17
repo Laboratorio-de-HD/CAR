@@ -1,0 +1,637 @@
+﻿[00:25] >> Dr. Francisco Javier Serrano Bosquet: Muy buenas tardes, bienvenidos al curso seminario eh Frans de Waal y los fundamentos biológicos de la condición humana.
+[00:32] Ante todo, pues quiero dar las gracias a la cátedra por su invitación, por su confianza.
+[00:37] Por supuesto a todos los que hacen posible este evento, Universidad Virtual, y por supuesto, muchísimas gracias a todos ustedes que pues que nos siguen tanto presencialmente como a través de la Universidad Virtual.
+[00:49] Muchísimas, muchísimas gracias.
+[00:52] Lo primero ante un curso como como el que hoy nos reúne, creo que lo más importante es tener claro cuál es el objetivo que se persigue con dicho curso y sobre todo qué es lo que vamos a hacer en la sesión de hoy y en la sesión de mañana.
+[01:07] Acercarse a la obra de un autor como Frans de Waal es sumamente complicado, muy arriesgado, y bueno, pues vamos a ver cómo cómo resulta.
+[01:18] Si pueden, muchísimas gracias.
+[01:19] El objetivo del día de hoy, tal vez es excesivo, pero veremos a ver qué nos da tiempo, es que hagamos una pequeña introducción al curso, veamos qué es el curso, en qué consiste y en qué no consiste, cuáles son sus objetivos.
+[01:32] Vamos a ver un esquema general para que no nos eh no nos perdamos, y después veremos algunos elementos centrales del del pensamiento de Frans de Waal, pero les anticipo que son elementos muy eh superficiales, muy generales.
+[01:47] Luego entenderán un poquito más por qué no quiero entrar a fondo en los mismos.
+[01:51] Y luego, que es lo que más me interesa, unos primeros intentos de contextualización.
+[01:56] Vamos a ver Eh, las dificultades que existen a la hora de contextualizar, de situar la obra de Franz de Waal dentro de una corriente filosófica o histórica propiamente dicha.
+[02:09] Eso nos va a llevar en primer lugar a ver, pues, la ética como filosofía de la moral.
+[02:13] Espero y supongo que habrán controversias y digo que supongo y espero porque es muy probable que en la el momento de las preguntas y de los comentarios pues ahí surga surja alguna pregunta al respecto.
+[02:26] Y después, pues, vamos a ver algunos referentes histórico-filosóficos en torno al pensamiento de su obra.
+[02:33] La parte más importante de la sesión del día de hoy va a ser al encuentro eh que se produce entre la ética y la biología.
+[02:40] A quienes estamos, pues, más o menos eh familiarizados con la temática, pues, nos parece obvio las relaciones que hay entre la ética y la biología, pero supongo que para aquellos que no están tan eh no han profundizado tanto en el estudio de la ética, pues, a lo mejor les podría parecer un tanto curioso que intentemos relacionar la ética con la biología, aparentemente dos disciplinas pues, muy diferentes, ¿no?
+[03:03] Uno del campo de la ciencia y el otro del campo de las humanidades o de las ciencias sociales.
+[03:08] Pues, bien, veremos ese encuentro entre la ética y la biología, primero haciendo un pequeñísimo repaso histórico eh viendo cómo esa relación ya se encuentra presente en el mundo pre-darwiniano y luego, pues, nos acercaremos no solamente a la figura de Charles Darwin, sino a todo el proceso constitutivo de la biología evolutiva.
+[03:28] Más o menos eh ese es el esquema, como les decía, que vamos a seguir el día de hoy.
+[03:33] Vayamos para allá.
+[03:36] El objetivo del curso, como tendrán en pantalla, es precisa preci precisamente señalar y analizar algunos elementos contextuales, disciplinarios, paradigmáticos y, tal vez, personales que, tanto desde el punto de vista científico como académico, nos permitan eh el próximo miércoles comprender con mayor profundidad y pertinencia la conferencia que impartirá el mismo doctor de Waal dentro del ciclo de conferencias 2011 organizado por la cátedra Alfonso Reyes del Tecnológico de Monterrey.
+[04:04] Dicho de otra forma, no se trata aquí de que expliquemos con gran profundidad el pensamiento de Frans de Waal, sino simplemente que el próximo miércoles, cuando esté la conferencia magistral, que es lo verdaderamente importante, pues tengamos algunos elementos que nos permitan entenderlo un poco mejor.
+[04:22] Dicho esto, ¿cómo vamos a hacerlo?
+[04:24] Pues lo que vamos a hacer es el durante el día de hoy, como les decía, recordaremos algunos elementos centrales del pensamiento de Frans de Waal, y para ello llevaremos a cabo una revisión histórico-filosófica.
+[04:35] Eso nos conducirá a su vez, pues a un encuentro, a ver el encuentro existente entre la biología y la ética.
+[04:43] El próximo día, es decir, mañana, ya llevaremos una aproximación un poquito más cercana al contexto actual.
+[04:50] Cómo algunos de los autores más importantes en la actualidad pues están revisando las teorías darwinianas, cómo a su vez están revisando las teorías clásicas de la ética y junto con las nuevas teorías biológicas, intentar dar una solución a la cuestión del fundamento de la moral.
+[05:08] Comencemos con elementos centrales del pensamiento de Frans de Frans de Waal.
+[05:14] El punto de partida de Frans de Waal, su objetivo principal, ¿cuál es?
+[05:17] Pues encontrar, como les decía, los fundamentos eh evolutivos de la moralidad humana.
+[05:22] Simplemente eso ya nos tiene que permite colocar la obra de Frans de Waal en un contexto un tanto eh no sé si decir problemático, pero por lo menos sí eh sugerente.
+[05:36] ¿Qué quiero decir con eso?
+[05:38] Frans de Waal, al proponer que su objetivo principal es encontrar los fundamentos evolutivos de la moralidad humana, lo que nos está diciendo es que tenemos que hacer primero un re- una revisión en el orden de lo moral y en segundo lugar, en el orden biológico.
+[05:51] Veamos un poquito Entender su obra o para entender su obra lo que tendremos que hacer es primero, ver que cuando habla de ética no habla de cualquier tipo de ética, sino que es de una concepción moralista de la ética, es decir, la ética como filosofía de la moral.
+[06:07] Y en segundo lugar, lo que tenemos que hablar es de biología, pero no de una biología cualquiera, sino que tenemos que hablar de la perdón es decir, no de una no no de una biología cualquiera, sino de una ética evolucionista, de una biología mejor dicho evolucionista.
+[06:22] Y nos vamos al primera al primero de estos capítulos, es decir, si vemos que su propuesta ética parte de una concepción de la filosofía como, perdón, de la ética como filosofía de la moral, eso significa que su obra no es una obra de carácter normativista, de ontológica o racionalista, sino que por el contrario se trata de una ética descriptiva, explicativa y emotivista.
+[06:43] El fundamento último de la moral en donde lo vamos a encontrar, en los sentimientos morales.
+[06:48] Pero por otro lado lo que nos vamos a encontrar es que se trata también de una ética evolucionista.
+[06:53] Y cuando hablamos de una ética evolucionista estamos hablando en el fondo de un naturalismo ético.
+[06:58] Pero es un naturalismo ético tanto desde una perspectiva ontológica como epistemológica.
+[07:03] ¿Qué queremos decir con una ética naturalista desde el punto de vista ontológico?
+[07:09] Que el objeto de estudio último es el ser humano como ente biológico.
+[07:12] Y desde el punto de vista epistemológico, que la forma a la que nos vamos a acercar a este objeto es a través del empirismo, a través de la experiencia.
+[07:22] Tengan en cuenta que es una suerte de reacción contra qué otro tipo de ética, principalmente con la racionalista eh eh kantiana.
+[07:30] Muy bien.
+[07:32] El segundo objetivo de Frans de Waal ¿cuál va a ser?
+[07:35] Pues intentar desmo- desmontar la concepción hobsiana del ser humano.
+[07:38] Poniendo al descubierto las inconsistencias del modelo a la luz tanto del mismo darwinismo como de las ideologías desde las que fueron constituidos.
+[07:45] Es decir, Frans de Waal, una de las cosas que va a intentar hacer es eh echar fuera o intentar desmontar todos los intentos que se han se han hecho a cabo, se han llevado a cabo durante gran parte del siglo XIX, finales del siglo XIX y gran parte del siglo XX, en donde los modelos sociales y éticos han estado basados en una concepción hobbesiana, es decir, en una concepción del ser del ser humano como malo por naturaleza.
+[08:12] Frans de Waal, fijándose en Darwin, como intentaremos ver, va a suponer que no, su punto de partida es que el hombre, si es algo por naturaleza, es bueno.
+[08:21] Tampoco es que va a decir que tampoco es un buenista en el sentido estricto de la palabra, pero si tendríamos que entrar en el debate entre si el ser humano es bueno o malo por naturaleza, se decantaría más por una concepción buenista que por una concepción eh malista.
+[08:35] Entonces, ¿cómo lo va a hacer?
+[08:36] Pues lo va a hacer a la luz, insisto, de la propia teoría darwiniana y sobre todo poniendo de manifiesto que aquellos que defienden que el ser humano es el ser humano es malo por naturaleza, lo hacen desde una determinada predisposición de carácter ideológico.
+[08:50] Pero insisto, eso lo veremos el día de mañana.
+[08:55] Y en esta primera, si vamos a partir de una síntesis preliminar de su pensamiento, de su objetivo, tendríamos que decir lo siguiente.
+[09:04] En primer lugar, para Frans de Waal, la explica va a dar una explicación científica de la evolución biológica basado en la selección natural arbitraria.
+[09:11] Como decíamos anteriormente, su modelo ético es un modelo de carácter evolutivo, de carácter biológico, pero va a tener una concepción evolutiva de orden arbitrario.
+[09:23] Es decir, la evolución no va siguiendo unas determinadas líneas, unas determinadas pautas, no está escrita la historia de la evolución, sino que los eh sino que los eh seres vivos que están en la actualidad son como resultado de una selección artificial, perdón, una selección natural resultado de modificaciones aleatorias.
+[10:41] En segundo lugar, los seres humanos son, en su esencia metafísica, al igual que el resto de animales.
+[10:47] No considera que haya una diferencia en el orden ontológico distinto entre el ser humano y cualquier otro animal.
+[10:55] En tercer lugar, los seres humanos no son únicos por contar con un alma trascendente.
+[11:02] Va a poner en entredicho si existe o no existe un alma trascendente, pero en caso de que existiera, eso sería algo común entre los seres humanos y el resto de animales o por lo menos los animales superiores.
+[11:13] Y en cuarto lugar, la bondad moral es algo real sobre lo que se puede establecer premisas ciertas.
+[11:18] Esta puede ser una de las grandes originalidades de la obra de Frans de Waal.
+[11:23] Que lejos de suponer que la que la que la bondad moral es un supuesto de carácter metafísico, va a suponer que la bondad moral es algo que se puede comprobar de forma empírica.
+[11:35] Y es algo que podemos comprobar no solamente en el actuar humano, sino que podemos comprobar en el actuar, en el comportamiento de muchas especies superiores.
+[11:42] ¿Principalmente cuáles?
+[11:45] Principalmente eh primates superiores, como podrían ser chimpancés, bonobos, etcétera.
+[11:51] Y que podríamos incluso ver en otras eh mamíferos superiores como delfines o elefantes.
+[11:57] Por lo tanto, dice que la bondad moral, insisto, es algo real, no es no es un supuesto que podemos comprobar a partir de la experiencia.
+[12:06] ¿Qué es lo que significa eso?
+[12:08] Eso significa que van a quedar fuera del debate como tales, en primer lugar, aquellos creyentes religiosos comprometidos con la idea de que el ser humano es un ser especial.
+[12:19] No quiere decir que en el debate no puedan entrar creyentes religiosos, claro que pueden entrar, pero siempre y cuando dejen todos los presupuestos y condiciones fuera.
+[12:28] Vamos a establecer un diálogo de verdad y el presupuesto son los que les comentaban anteriormente.
+[12:34] ¿Por qué?
+[12:34] Porque va a considerar, como les decía antes, que eh el sentido moral, por ejemplo, no es algo que es único y exclusivo de los seres humanos, sino que es algo que compartimos con otros animales.
+[12:46] En segundo lugar, quienes van a quedar fuera van a ser aquellos científicos sociales cuyos estudios, cuyas investigaciones tienen como punto de partida una concepción del ser humano como agente racional y egoísta.
+[13:00] Esta ha sido una de las tesis fundamentales en las que se han basado, pues no solamente la ética, sino también la sociología, la política del siglo XX.
+[13:08] La concepción o la identificación del ser humano como ser racional, principalmente egoísta.
+[13:15] Y en tercer lugar, nos vamos a encontrar con que va a quedar fuera todo tipo de relativismo moral.
+[13:22] Un relativismo moral, tanto desde el punto de vista ontológico como desde el punto de vista epistemológico.
+[13:27] Para Frans de Waal, desde luego que hay una realidad moral, va a creer en el hecho moral y en segundo lugar, se puede conocer.
+[13:35] ¿Y cuál es la forma de conocer el hecho moral?
+[13:37] ¿Cómo es posible conocer los fundamentos últimos de la moralidad?
+[13:42] Pues creo que ya lo hemos comentado de alguna forma, es a través de la experiencia, a través del método científico.
+[13:50] Creo, y espero que nadie se lleve las manos a la cabeza, creo que sería oportuno recordar aquí algunas palabras de David Hume, unas palabras que encontramos en el inicio de las investigaciones sobre los principios de la moral y no es por casualidad que me remito a ellas, sino que me remito a ellas por dos por dos cuestiones.
+[13:11] Una, porque al final vamos a poder observar, o por lo al menos esa es mi tesis, de que muchos de los fundamentos de la teoría de Frans de Waal lo encontramos en David Hume, y en segundo lugar, porque la obra de Frans de Waal puede traer las mismas controversias y las mismas reacciones, a veces dogmáticas, que las que en su momento pudo mover tanto David Hume como Charles Darwin.
+[13:36] ¿Qué es lo que nos decía David Hume?
+[13:38] Permítanme que lea la cita.
+[13:41] Las Las disputas con hombres que se obstinan en mantener sus principios a toda costa son las más molestas de todas.
+[13:48] Quizá con la excepción de aquellas que se tienen con individuos enteramente insinceros, que en realidad no creen en las opiniones que están defendiendo y que se enzarzan con la controversia por afección, por espíritu de contradicción y por el deseo de dar muestras de poseer una agudeza y un ingenio superior al del resto de la humanidad.
+[14:04] Permítanme que haga aquí un paréntesis.
+[14:08] Creo que esta ha sido una de las razones por las cuales la filosofía en general, la filosofía de la ciencia en particular, pues ha sufrido de una mala de una mala reputación en este en esta ciudad y en este país en concreto.
+[14:21] ¿Por qué?
+[14:21] Porque lamentablemente, en muchas ocasiones hemos visto cómo los filósofos, lejos de intentar mantener un diálogo sincero, un intento de construir un verdadero conocimiento, pues parecía que lo que han intentado es imponer su grandilocuencia por encima de cualquier otra cosa.
+[14:39] Y tenemos que hacer aquí pues un voto, un mea culpa, y ver que en muchas ocasiones hemos eh pecado de soberbios.
+[14:48] Y bueno, ante esta actitud, insisto, que ha caracterizado a algunas escuelas de esta de este de esta ciudad y de este país, sobre todo en lo referente a la filosofía, bueno, pues les pido que no caigamos en el mismo error.
+[15:01] Que tengamos una mentalidad algo más abierta, que dejemos algunos principios, algunos dogmatismos fuera y que sobre todo intentemos mantener un diálogo sincero.
+[15:11] Y que no por el afán de querer llevar la razón, pues nos tapemos nos tapemos los oídos.
+[15:16] Entonces, disculpen, vuelvo al texto de David Hume.
+[15:20] En ambos casos, ambos tipos de personas, tanto los que no están dispuestos a ceder un ápice, como los que independientemente de la verdad, siempre quieren tener la razón, pues frente a estos, ambos tipos de personas, debe esperarse la misma adherencia a sus argumentos, el mismo desprecio por sus antagonistas y la misma apasionada vehemencia en su desempeño por hacer que imperen la sofistería y la falsedad.
+[15:43] Y como el razonamiento no es la fuente de donde ninguno de estos dos tipos de disputantes saca sus argumentos, es inútil esperar que nunca, que, perdón, que alguna vez lleguen a adoptar principios más sólidos guiándose por la lógica que no hable a sus efectos.
+[15:57] Con ello, como les decía, lo que quiero hacerles es una verdadera invitación a que pensemos juntos, que dialoguemos juntos y que independientemente de nuestros principios personales, intentemos entender qué es lo que nos quiere decir Frans de Waal, qué es lo que nos quieren decir de visión y qué nos quiere decir Charles Darwin.
+[16:14] Más adelante, después de haber hecho ese esfuerzo, si nos convencen o no nos convencen, si creemos que tienen razón o que no la tienen, eso es lo de menos, por lo menos hagamos el intento de entender qué es lo que nos quieren decir.
+[16:27] Si hacemos eso, pues vamos a intentar a llevar a cabo esos primeros intentos de contextualización.
+[16:32] Es decir, ¿dentro de qué contexto académico, científico e intelectual podemos colocar la obra de Frans Frans de Waal?
+[16:40] Podemos hacer dos cosas, o bien aproximarnos a ese contexto más inmediato, más cercano, o lo que podemos intentar hacer es ir un poquito más allá, buscar los fundamentos últimos de su teoría.
+[16:51] Y buscar los fundamentos últimos de su teoría nos ha de llevar a la historia.
+[16:56] ¿Pero qué historia?
+[17:00] Pues a la historia de la ética y a la historia de la biología.
+[17:05] Concretamente, como les decía anterior, anteriormente, tendremos que intentar situar su obra dentro de la historia de la ética, dentro de la historia de la biología y sobre todo ver cómo se dio ese encuentro entre la ética y la biología.
+[17:19] Ahora bien, a la hora de buscar estos fundamentos últimos de su teoría en, por ejemplo, la historia y filosofía de la ética o en la historia y filosofía de la biología, nos vamos a encontrar con que tenemos que hacerlo, en primer lugar, en una ética como historia de la moral.
+[17:35] Dicho de otra forma, intentamos buscar los fundamentos últimos de la teoría de Frans de Waal en la historia y en la filosofía de la ética, lo vamos a tener que llevar a cabo dentro de la ética como filosofía de la moral.
+[17:47] Cuando intentemos buscar esos fundamentos dentro de la historia y la filosofía de la biología, tendremos que irnos a la historia de la biología evolucionista.
+[17:57] Finalmente, como les decía, nuestro principal objetivo cuál es, intentar entender a Charles Darwin, que son el verdadero fundamento último, el lugar en donde se produce el encuentro entre la ética y la biología tal y como hoy en día lo vamos a comprobar.
+[18:12] ¿Significa eso que antes no hubiera un encuentro entre ética y biología?
+[18:15] Por supuesto que lo hubo.
+[18:18] ¿No lo hay ahora?
+[18:20] Por supuesto que lo hay, pero insisto, el gran parteaguas va a ser Charles Darwin.
+[18:26] Pero vayamos con el primero, con el primero de ellos, la ética como filosofía de la moral.
+[18:34] La identificación de la ética con la filosofía de la moral puede ser objeto, y realmente lo es, de grandes contro- de grandes controversias.
+[18:43] Grandes controversias porque ante la misma, ante una afirmación de este tipo, pues pueden caber tres posturas.
+[18:49] La primera es aquellos que nos digan, ¿cómo cómo poner en duda que la ética y la filosofía son lo mismo?
+[18:57] Segundo lugar, ¿cómo cómo se atreve uno a identificar la ética y la filosofía moral?
+[19:01] Y en tercer lugar, pues, como en todas las escue- encue- encuestas, o no sabe no contesta o le da lo mismo.
+[19:08] Es algo que no se había pensado o ante lo cual se puede ser indiferente.
+[19:13] A nosotros, por supuesto, pues no nos es indiferente, pero vamos a tener que leer el ejercicio como si lo fuera.
+[19:19] ¿Por qué?
+[19:20] Porque es precisamente aquí, en esta en esta vamos a considerar que vamos a considerar la ética como filosofía de la moral.
+[19:29] Vamos a suponer que la ética y la filosofía de la moral son lo mismo.
+[19:35] ¿Por qué eso?
+[19:37] Pues porque los orígenes de este debate se van a encontrar en la inexistencia de un consenso en torno a la definición de ética y la distinción entre ética y moral.
+[19:45] Nos podemos pasar horas y horas, cursos y seminarios, como probablemente se hayan pasado muchos de ustedes, en primer lugar viendo cuál es qué entendemos por ética.
+[19:54] Prácticamente si agarramos un manual de ética vamos a encontrar una definición distinta.
+[19:59] En muchas ocasiones van a comenzar haciendo una definición de carácter etimológico, pero al final, a medida que nos vamos adentrando, pues vamos a ver que nos es insuficiente.
+[20:08] Que no es completamente satisfactoria.
+[20:11] Algunos autores, como diría Gustavo Bueno, cuando ya terminan desesperando dicen, miren, la ética es de lo que habla Aristóteles en la ética a Nicómaco.
+[20:19] Es una definición que es decimos, bueno, ¿qué es la física?
+[20:23] Bueno, pues la física es lo que aparece en los manuales de física.
+[20:26] Pues sí, pero no es no es suficiente.
+[20:28] Entonces, simplemente la cuestión de la definición de lo que es la ética ya es problemático de sí.
+[20:34] Pero mucho más o al mismo nivel tendríamos que poner la distinción entre ética y moral.
+[20:42] Lo mismo que decía antes, muchos autores dirán, ¿cómo te atreves simplemente a decir que no hay diferencia entre la ética y la moral?
+[20:49] Y a otros, ¿cómo te atreves a dudarlo?
+[20:51] En cualquier caso, ahí está, tenemos uno de los grandes grandes debates.
+[20:55] Pero como les decía, este no es el problema que tenemos ahora.
+[20:58] El problema que nos ocupa ahora es el de intentar situar la obra de Frans de Waal dentro de la historia de la ética.
+[21:07] Pues bien, vamos a ese segundo paso.
+[21:10] Los referentes histórico-filosóficos del pensamiento de Frans de Waal.
+[21:16] Cuando nos ponemos a leer desde la ética las obras de Frans de Waal, lo primero que nos llama la atención es que es un autor distinto a cuanto otros, a cua- a cualquier otro autor que hayamos leído antes.
+[21:27] Es completamente distinto por muchísimas por muchísimas razones.
+[21:32] En primer lugar, porque apreciamos uno de sus principales obje- objetivos, ¿cuál es?
+[21:36] Pues intentar desmontar los mitos y leyendas sobre los cuales los occidentales hemos construido nuestra imagen de lo que es el hombre y de lo que es la naturaleza en los últimos o dicho, en los últimos dos siglos, siglo y medio.
+[21:50] ¿Y cómo se va a llevar a cabo esta deconstrucción, esta ruptura con los mitos sobre los cuales hemos construido hemos construido nuestra imagen del ser humano y la naturaleza?
+[22:00] Pues ha sido a base de prueba empírica, de investigación de campo.
+[22:03] Eso es lo que más le puede sorprender a un filósofo.
+[22:07] Cómo en Frans de Waal encontramos, no por primera vez, pero sí de una manera bastante clara, un intento de construir una ética a partir de ejemplos, a partir de experiencias.
+[22:18] En cada frase, en cada párrafo, en cada texto, en cada ejemplo, encontramos su experiencia, encontramos un lenguaje repleto de experiencia, de observaciones, de años y de años de observación.
+[22:34] Por lo tanto, no se trata de un trabajo resultado de la pura especulación, sino que es un trabajo que va a partir de la experiencia.
+[22:44] Y su formación como académica y su experiencia profesional como zoólogo y primatólico y primatólogo, como les decía, se percibe en cualquier en cualquiera de sus frases, ¿no?
+[22:54] En cada párrafo y en cada en cada ejemplo.
+[22:57] ¿Eso a qué le obliga?
+[22:59] Eso le va a obligar a irse sobre lo empírico, sobre el dato, sobre lo concreto.
+[23:04] ¿Y qué es lo que le impide?
+[23:05] Pues lo que le va a impedir es proponer modelos morales concretos, últimos, establecer decálogos, imperativos categóricos.
+[23:12] Si nosotros nos acercamos a cualquiera de sus obras, ¿no?
+[23:14] Primates y filósofos, El mono que llevamos dentro, La era de la empatía o La edad de la empatía, no vamos a ver ahí una suerte de decálogo, no nos vamos a encontrar unos principios, unos imperativos que nos digan qué es lo que debemos de hacer o qué es lo que tenemos que dejar de hacer.
+[23:31] ¿Por qué?
+[23:31] Porque su experiencia, su trabajo de campo le impide, le impide hacer eso.
+[23:36] Eso qué va a significar, pues que su obra al final se va a traducir en un rechazo a cualquier tipo de normativización y sobre todo a la búsqueda de los fundamentos, de las razones biológicas que pueden estar detrás de las normas y pautas de conducta moralmente existentes.
+[23:52] Es decir, ahí hay unas normas, ahí hay unas pautas de comportamiento.
+[23:56] Pues vamos a ver cuáles son los fundamentos de o de orden biológico que se esconden por detrás, sin llegar a hacer ningún tipo de mor de normativización a posteriori.
+[24:07] Eso qué significa, que su obra no es una obra sobre el deber ser, sino que es una obra sobre lo que es.
+[24:14] Esto nuevamente, lo que intenta buscar son las razones últimas que impulsan a los seres humanos, independientemente de la cultura a la que se encuentren, a comportarse moralmente.
+[24:27] Pero claro, ¿qué es lo que significa eso?
+[24:29] Yo creo que esa puede ser de las únicas aportaciones que podemos hacer los filósofos, el intentar descubrir cuáles son las suposiciones desde las cuales está partiendo su teoría.
+[24:38] Y la primera suposición que encontramos en la obra de Frans de Waal es que él está suponiendo el hecho moral.
+[24:45] La condición humal, eh perdón, la condición humana lleva consigo siempre pareja la condición moral, el hecho moral.
+[24:52] Ahora bien, tenemos que distinguir muy bien la concepción del hecho moral que está manejando Frans de Waals de las que están utilizando antropológico antropólogos culturales como por ejemplo Clifford Geertz.
+[25:03] Franz de Waals, aunque en algún momento algún hace alguna referencia a la cuestión cultural, siempre es de manera secundaria, siempre refiriéndose refiriéndose a otros autores, pero es muy difícil que en su propia boca, de su propio puño y letra, haga una una afirmación de orden cultural.
+[25:20] No lo niega, pero tampoco lo afirma.
+[25:24] Entonces, como os decía, su punto de partida a la hora de hablar o de dar por sentado el hecho moral es que va a hablar del hecho moral como una perspectiva biológica y como algo que compartimos con otros animales.
+[25:38] Sin embargo, autores como eh Clifford Geertz va a decir que esta condición moral, el hecho moral del ser humano, se debe a que es un ser huma a que es un animal diferente, distinto.
+[25:51] ¿Qué es lo que distingue al ser humano de cualquier otro animal?
+[25:54] El hecho de que es un animal inacabado.
+[25:56] De que su biología no le determina, no le condiciona absolutamente cómo se tiene que comportar.
+[26:02] Y como tenemos algo que llamaban los clásicos el libre albedrío, la libertad, la posibilidad de elegir entre distintas opciones, ante las posibilidades de opción que nos da la biología, finalmente las elecciones se harán en el orden de lo cultural.
+[26:16] Ejemplo, el ser humano tiene la necesidad de comer, tiene la necesidad de alimentarse, pero la forma en la que comemos, la forma en la que damos cuenta de esa necesidad, está condicionada por el contexto cultural en el que nos encontramos.
+[26:29] El ser humano necesita relacionarse con otros seres humanos, es una necesidad biológica, pero la forma en la que nos relacionamos con otros seres humanos viene condicionado ¿por qué?
+[26:38] Pues por las formas culturales dentro de la cual se ha desarrollado.
+[26:42] Por consiguiente, nos dice eh Clifford Clifford Geertz, el ser humano es un ser que debe ponerse normas, ya sean morales, políticas y jurídicas.
+[26:52] Es un animal moral, pero la razón de su animalidad, disculpen el concepto, su animalidad moral se debe a una peculiaridad en su propia naturaleza, y es que se trata de un animal, insisto, inacabado, y se termina por completar dentro de un contexto cultural.
+[27:12] Pero volvemos, estamos con Frans de Waal y no con y no con con que ojalá tengamos la oportunidad de verlo en otra ocasión.
+[27:19] Como decíamos, Frans de Waal lo que va a intentar es buscar el fundamento último de la moralidad humana en su misma naturaleza.
+[27:28] Es decir, él va a creer la existencia de una disposición natural hacia la vida moral.
+[27:33] Eso que nos eso que nos permite.
+[27:36] En primer lugar, pues nos permitiría situarle en con inicialmente la misma línea de pensamiento que Epicuro, Cicerón, Tomás de Aquino, Jean-Jacques Rousseau, pero si estudiamos un poquito más su obra, vamos a poder apreciar encontramos una relación bastante más estrecha con el pensamiento utilitarista y emotivista anglosajón.
+[27:56] Es decir, sus referentes más importantes los podríamos encontrar en la obra de David Hume, Hutcheson, Adam Smith y John Stuart Mill.
+[28:07] De forma clara, explícita, él va a hacer referencia a David Hume y a Adam Smith.
+[28:14] Esos son claros, evidentes, pero como su punto de partida va a ser Darwin, ahí tendremos que incluir a John Stuart Mill, y veremos luego por qué digo por qué digo eso.
+[28:27] Los principios, por lo tanto, los principios generales de la moral, al ser seguidor de estos autores, hay que buscarlos en el orden de la natural de lo natural, pero no en el ámbito de la razón, sino en el ámbito de los sentimientos morales.
+[28:41] Es decir, a la diferencia existente entre la virtud y y vicio no se llega por medio de la razón, sino del sentimiento que en nosotros produce.
+[28:54] Esto ¿en dónde lo vamos a encontrar?
+[28:56] ¿De dónde lo va a tomar finalmente?
+[28:58] Pues de Ada de David Hume.
+[29:00] ¿Qué es lo que nos dice David Hume?
+[29:02] Extinguir los sentimientos y predisposiciones entrañables a favor de la virtud, así como todo disgusto y aversión con respecto al vicio, hacer que los hombres se sientan indiferentes acerca de estas distinciones y la moral no será ya una disciplina práctica, ni tendrá ninguna influencia en la regulación de nuestras vidas y emo y acciones.
+[29:21] David Hume lo vamos a encontrar en la sección 1, en el cuarto párrafo.
+[29:26] ¿Qué nos está diciendo con esto David Hume?
+[29:29] Muy sencillo.
+[29:31] Por mucho ejercicio racional que que intentemos llevar a cabo, finalmente, nuestras acciones, nuestra voluntad va a estar nos va a poner va a estar condicionada por los sentimientos.
+[29:42] Podremos hacer el el mayor argumento racional que nosotros queramos, pero si no hay un sentimiento, si no una pasión que nos ponga en marcha, nos vamos a quedar en la pura reflexión y no nos vamos a ir a la acción.
+[29:55] La conducta finalmente es resultado de la fuerza que sobre nosotros ejerce los sentimientos y no tanto de las razones que tengamos para hacer las cosas.
+[30:05] Aunque la razón, continúo leyendo a David Hume, aunque la razón, cuando se ve cumplidamente asistida y mejorada, sea suficiente para instruirnos acerca de si las tendencias de las cualidades y de las acciones son perniciosas o útiles, no es por sí sola suficiente para producir ninguna censura o aprobación moral.
+[30:23] La utilidad es solo una tendencia hacia un cierto fin y si el fin nos resulta totalmente indiferente, habríamos de sentir la misma diferencia hacia los medios.
+[30:32] Se requiere, pues, que un sentimiento se manifieste a fin de dar preferencia a las tendencias útiles sobre las perniciosas.
+[30:40] Dicho de otra forma, a través de la razón, nosotros podemos empezar a pensar, a definir cuál es el fin último de la humanidad.
+[30:48] ¿Qué sentido tiene la vida humana?
+[30:50] ¿Qué fin último tiene nuestra existencia?
+[30:52] Y al final, pues la misma razón nos va a decir, en términos de David Hume, que el fin último, el mayor bien al que podemos aspirar es el de la felicidad.
+[31:01] Lo podemos tomar de los clásicos.
+[31:03] Pero ¿qué debemos de entender por felicidad?
+[31:05] ¿Solamente la felicidad de un individuo o la felicidad de la humanidad en su conjunto?
+[31:11] Al final nos van a decir que es el mayor bien para el mayor número.
+[31:15] La razón nos va a decir que la mayor, el principal fin que existe, el el fin absoluto es el de la felicidad universal.
+[31:24] Pero se va a preguntar David Hume, ¿por qué?
+[31:27] ¿Y por qué la razón nos debería de llevar a aplaudir todas las acciones que tengan como finalidad última el bien común?
+[31:36] Y dirá, ¿por qué cuando nosotros vemos acciones que están ligadas con el bien común se produce en nosotros un sentimiento de benevolencia?
+[31:46] Un sentimiento agradable.
+[31:49] El motor último de la moral, lo que nos pone en marcha, va a decir, son los sentimientos.
+[31:55] José Luis Tasset describía la tesis crucial de la ética de David Hume en los siguientes términos, la razón, en su sentido estricto, significando el discernimiento de la verdad y la falsedad, no puede ser por sí misma un motivo para la voluntad y no puede tener influencia alguna, sino en cuanto que afecte alguna pasión o afección.
+[32:14] Viene a redundar en la misma en la misma idea.
+[32:20] Pero hablar de moralidad significa hablar de enunciados, de normas o de leyes.
+[32:27] ¿Por qué traje a colación esta esta filmina?
+[32:30] Porque a lo mejor nos podemos nos hemos podido quedar un poco eh perdidos.
+[32:36] Normalmente cuando hablamos de ética, sobre todo en el contexto académico, pues hablamos de imperativos, hablamos de leyes, hablamos de enunciados, hablamos de normas.
+[32:44] Pero tenemos que tener en cuenta que cuando hablamos de ética o de moralidad, mejor dicho, tenemos también que hablar de aquello que finalmente hace que los individuos se comporten de una forma o de otra.
+[32:54] Lo importante no es tanto las normas, no son tanto las leyes, sino qué es lo que hace que al final los individuos se comporten de una manera, se comporten de otra.
+[33:05] Eso es lo que realmente nos interesa Lo que nos interesa ver no son tanto las leyes y los imperativos que están escritos en un papel, sino cuáles son las razones o los motivos por los cuales nos comportamos como comportamos.
+[33:16] Y qué es lo que va a decir David Hume, qué es lo que nos va a decir Adam Smith, qué es lo que nos va a decir John Stuart Mill, la razón última que nos lleva a comportarnos como comportamos son sentimientos.
+[33:29] Por muchas razones que tengamos, por mucha racionaliza- racia- racionalización que hayamos de llevado a cabo, lo que finalmente nos impulsa a hacer una cosa u otra son los sentimientos, como diría David Hume, los sentimientos que anidan en el fondo de nuestro corazón.
+[33:47] Pero la pregunta sigue en el aire.
+[33:50] ¿Y qué sentimiento moral es el que finalmente nos lleva a conducirnos moralmente?
+[33:55] ¿Qué cualidades conforman el el mérito personal?
+[33:59] Cuando decimos que una persona es meritoria, que una persona es excelente, que una persona es virtuosa, ¿a qué tipo de cualidades nos estamos refiriendo?
+[33:06] Por otro lado, ¿qué atributos o hábitos del alma hacen que un ser humano sea objeto de afecto o de desprecio?
+[33:12] Cuando decimos, comentaba antes, que una persona es virtuosa, o cuando decimos que una persona es despreciable, ¿a qué tipo de activo de de hábitos o de atributos nos estamos refiriendo?
+[33:23] David Hume dirá finalmente que va a ser aquel sentimiento que esté a favor de la felicidad del género humano.
+[33:30] Y esto es común tanto para David Hume como entre comillas Frans de Waal.
+[33:36] Y pongo entre comillas de Frans de Waal porque para Frans de Waal lo va a compartir pero no es suficiente.
+[33:42] Para Frans de Waal una buena acción o una acción virtuosa no es solamente la que está a favor de la felicidad del género humano sino que además tiene que estar a favor de otras especies.
+[33:53] En cualquier caso, la cuestión ahora es, ¿cómo podemos llegar a conocer Aquí nos encontramos con un problema de orden ontológico y epistemológico.
+[34:01] Uno, ¿cuáles serían esos sentimientos y en segundo lugar, ¿cómo podemos llegar a conocer esos sentimientos?
+[34:08] La cuestión de fondo entonces es, su conocimiento nos dirá David Hume que ha de alcanzar por medio de la observación de la naturaleza, del método experimental.
+[34:17] Es da por supuesto de que existen porque de hecho hay comportamiento moral.
+[34:24] Nos guste o no nos gusten las leyes morales cumplamos o no cumplamos con ellas existen las leyes morales.
+[34:30] Y al final, nosotros las cumplamos o no, la gran mayoría de la ciudadanía termina cumpliéndolos en mayor o menor grado.
+[34:39] La cuestión es, ¿son auténticas leyes morales?
+[34:43] ¿Cómo las conocemos?
+[34:44] ¿Cómo las legitimamos?
+[34:46] Y David Hume va a decir que el camino para el conocimiento de las leyes morales es el de la experiencia.
+[34:51] El de la observación.
+[34:55] Ahora si estamos partiendo de los sentimientos morales ¿no nos puede conducir eso a la al relativismo o al subjetivismo?
+[34:04] ¿No ha de llevar el carácter sen- sentimental al relativismo?
+[34:09] La respuesta tanto para Frans de Waal como para David Hume es No, ¿por qué?
+[34:16] Porque los sentimientos a los que se apuntan han de ser comunes a todos los seres humanos.
+[34:20] No son sentimientos que se compartan en una determinada proporción o no, al final todos los seres humanos, si no hay una patología, van a compartir unos sentimientos morales que se pueden considerar comunes.
+[34:32] ¿Y por qué?
+[34:34] Porque hay una naturaleza, hay una naturaleza humana.
+[34:38] Los sentimientos y actitudes que nos permiten seguir las acciones virtuosas de las que no son, sean comunes e intercambiables.
+[34:45] Dicho de otra forma, hay una naturaleza humana y a partir de esa naturaleza humana es posible que todos compartamos ciertos sentimientos morales, sentimientos morales que se pueden intercambiar y que además lo son, como decíamos, comunes.
+[37:00] Pero ¿qué debemos de entender por virtuoso?
+[37:03] Aquí es donde está ah, donde a veces nos llaman un poco pedantes a los filósofos, pero esto ya no es pedantería, es metodología, ¿verdad?
+[37:11] Tenemos que ir analizando cada uno de los conceptos de los que vamos haciendo los que vamos haciendo mención.
+[37:17] Hemos estado hablando de la virtud y la virtud, pero la pregunta es, bueno, ¿y qué podemos considerar o debemos considerar por virtuoso?
+[37:23] Pues David Hume nos va a decir que aquello que produce en los espectadores un sentimiento de alabanza moral.
+[37:30] Virtuoso van a ser aquellas acciones o aquellas características, aquellas propiedades que hacen que se produzcan en los espectadores un sentimiento de alabanza moral.
+[37:41] La pregunta entonces es, ¿qué produce en nosotros dicho sentimiento?
+[37:45] Y dirá, las acciones o cualidades que sean útiles.
+[37:49] Por lo tanto, solamente aquellas acciones o cualidades que sean útiles van a poder ser eh, objeto de alabanza.
+[37:58] Ahora, no todas las acciones o cualidades útiles producen en nosotros un sentimiento de alabanza moral.
+[38:05] ¿Cómo es posible, por consiguiente, distinguir, definir o interpretar las ideas de utilidad y benevolencia?
+[38:12] Aquellas que se producen a través del sentimiento humanitario, humanitario y no de la razón.
+[38:19] La razón nos puede decir qué acciones o qué propiedades son útiles, pero no es la razón la que nos dice que esa que esa acción o propiedad, por muy útil que sea, merezca el calificativo de eh alabanza moral.
+[38:37] Lo que nos va a decir que merece el calificativo de de alabanza moral, insisto, no es la razón, sino es el sentimiento humanitario.
+[38:45] Por lo tanto, nos encontramos que a través de la razón podemos inferir los fines, la utilidad o inutilidad, y al final podríamos llegar a establecer que el mayor fin al que se puede aspirar es la felicidad del género humano.
+[39:00] Pero es a través del sentimiento cómo podemos distinguir las útiles y eh distinguir las tendencias que son útiles y benéficas de aquellas que son perniciosas.
+[39:10] Y es ahí donde vamos a encontrar el fundamento último de la moral.
+[39:14] ¿Cuál va a ser este sentimiento?
+[39:15] Pues va a ser el sentimiento moral de la benevolencia.
+[39:19] Es el sentimiento moral de la benevolencia el que nos va a permitir distinguir aquellas propiedades o acciones que son eh moralmente o que son objeto de alabanza de alabanza moral.
+[39:33] ¿Pero qué significa eso?
+[39:35] Eso va a significar, no solamente para de edición, para todo el utilitarismo anglosajón, va a significar que el sentido el sentimiento de aprobación moral no se encuentra en el orden de solo lo que es útil a la persona que las posee, o que vayan exclusivamente en su interés, sino aquellas que también tienen consecuencias útiles o agradables para los otros.
+[39:57] Se trata, por consiguiente, de un sentimiento aprobatorio que, con un carácter altruista, identifica la bondad moral con el bienestar de los demás.
+[40:05] Dicho de otra forma, decíamos anteriormente, para que una acción o una cualidad pueda ser considerada moralmente, pueda ser moral, tiene que producir un sentimiento.
+[40:17] En primer lugar, tiene que ser una acción, o propiedad útil, de eso se encarga la razón, pero por otro lado tiene que crear o tiene que producir en nosotros un sentimiento.
+[40:25] ¿Qué sentimiento?
+[40:27] El de la benevolencia.
+[40:27] ¿Y qué significa eso?
+[40:30] Que ese fin último, que esa utilidad, no es una utilidad única y exclusiva para el sujeto que la posee o que lo hace, sino que es para el resto, es para los demás.
+[40:41] Eso no quita que tampoco lo sea para el sujeto.
+[40:46] ¿Qué va a significar, qué va a significar eso?
+[40:48] Bien.
+[40:50] Significa que te podemos situar a Francis Hutcheson originalmente al lado de al lado de David Hume, pero no es con David Hume, sino que va a ser con Adam con Adam Smith con quien realmente lo vamos a tener que identificar.
+[41:05] ¿Qué señalaba Adam Smith?
+[41:07] Pues señalaba que la moral no puede ser no puede fundamentarse en el egoísmo.
+[41:12] Bien.
+[41:13] Igual que David Hume, para Adam Smith la moral no puede fundamentarse en el egoísmo.
+[41:19] Adam Smith lo podemos considerar entonces como uno de los principales representantes del sentimentalismo anglosajón.
+[41:26] No si llegan a apreciar que donde pongo, donde aparece representante, hay un asterisco.
+[41:31] ¿Por qué?
+[41:32] Porque estamos acostumbrados a considerar a Adam Smith como un representante del sentimentalismo anglosajón.
+[41:37] Sin embargo, no podemos ignorar que en los últimos años está hay toda una serie de investigaciones, de trabajos, en donde sitúan a Adam Smith en otro lugar.
+[41:48] Más cercano de la racionalidad práctica que con una que con la línea del sentimentalismo anglosajón.
+[41:57] ¿Qué nos viene a decir Adam Smith?
+[41:59] Leo su cita.
+[42:02] "Por más egoísta que quiera suponerse al hombre, evidentemente hay algunos elementos de su naturaleza que lo hacen interesarse en la suerte de de otros, de tal modo que la felicidad de estos le es innecesaria, aunque de ello nada obtenga, a no ser el placer de presenciarla.
+[42:18] De esta naturaleza es la lástima o compasión, emoción que experimentamos ante la miseria ajena, ya sea cuando la vemos o cuando se nos obliga a imaginarla de modo particularmente vivido.
+[42:29] El que con frecuencia el dolor ajeno nos haga padecer es un hecho demasiado obvio que no requiere comprobación, porque este sentimiento, al igual que todas las demás pasiones de la naturaleza humana, en modo alguno se limita a los virtuosos y humanos, aunque posiblemente sean estos los que lo experimentan con más exquisita sensibilidad.
+[42:47] El mayor malhechor, el más endurecido transgresor de las leyes de la sociedad, no carece del todo de ese sentimiento.
+[42:54] Es punto de partida de Adam Smith es que la moral la moral no puede ser, pues, egoísta, sino que tiene que partir de un sentimiento, y que se encuentra en la base natural de la moralidad es la simpatía.
+[43:08] Encontramos exactamente igual que con David Hume, el fundamento último de la moral es un sentimiento.
+[43:14] El sentimiento moral es el de la ya no el de la benevolencia, sino el de la simpatía.
+[43:21] Por lo demás, encontramos un gran paralelismo.
+[43:25] Ahora bien, sigo otra cita de Adam Smith, que es, de algún modo, preciso la simpatía.
+[43:33] Simpatizamos con el dolor y el placer ajenos, no por una comunión con los afectos del otro, sino porque nos damos cuenta de la situación en que se encuentra y juzgamos sus sentimientos y emociones adecuados a la situación.
+[43:44] Así, pues, la simpatía no surge de la percepción de los sentimientos ajenos, sino de la percepción de una situación y, al percibirla, nos ponemos en el lugar del otro y compartimos con él su placer o su dolor.
+[43:56] ¿Qué es lo que me interesa en este punto?
+[43:58] No se trata tanto de hacer una descripción o definición exhaustiva ni de la ni de la ética de Adam Smith ni de de ética de David ni por supuesto del eh del emotivismo anglosajón.
+[43:12] De lo que se trata es única y exclusivamente de ver cómo para estos autores existe leyes morales y estas leyes morales se pueden conocer.
+[43:21] ¿Y cómo se pueden conocer?
+[43:22] A través de la experiencia.
+[43:24] ¿Por qué insisto una y otra vez en esto?
+[43:26] Porque durante el siglo XX se ha insistido mucho en hacer una crítica a estos autores que se les llama con un poco de regocijo, para decir palabras mayores, como los buenistas.
+[43:38] Esos pobres ilusos, ingenuos que hablan de una supuesta bondad y moralidad.
+[43:44] ¿Qué es lo que nos vamos a encontrar?
+[43:45] Pues nos vamos a encontrar que frente a aquellos que consideran que el ser humano y todos los seres vivos son malos por naturaleza y que la única forma de comportarse es atendiendo a los principios egoístas, vamos a poder observar conductas en los individuos, a lo mejor no todas, pero por lo menos vamos a encontrar cuatro o cinco, cuyo fundamento último es sentimientos.
+[45:07] Y para algunos van a ser los sentimientos de la benevolencia y para otros va a ser la simpatía.
+[45:12] Pero en cualquier caso podemos encontrar que por lo menos el motor de acción, la voluntad que mueve a muchas personas, son sentimientos morales.
+[45:22] Eso, aunque no afirma la universalidad, por lo menos falsa la otra teoría como una universal.
+[45:29] En términos en términos popperianos.
+[45:33] Casi dos siglos después, Frans de Waal, lo que va a hacer es sustituir el concepto de simpatía por el concepto de empatía.
+[45:41] Y este cambio no es menor.
+[45:43] Importantísimo que veamos en Frans de Waal los orígenes en esta corriente, pero que veamos que el sustituir simpatía por empatía no es un cambio no es un cambio menor.
+[45:53] ¿Por qué?
+[45:55] Porque mientras que la simpatía, tal y como es interpretada y definida por estos autores, se refieren única y exclusivamente a un sentimiento moral, un sentimiento de participación afectiva de una persona en la realidad que afecta a la otra, con el concepto de empatía se refiere tanto al sentimiento moral como una capacidad a la a la capacidad cognitiva de percibir en un contexto común lo que otro individuo puede sentir.
+[46:22] Y eso es sumamente interesante.
+[46:25] ¿Por qué?
+[46:26] Veamos.
+[46:28] Decimos entonces la empatía la va a entender Frans de Waal por un lado como un sentimiento moral, que es lo que le liga a los autores anteriores, pero por otro lado como una capacidad cognitiva.
+[46:39] Esto supone dar un giro extraordinario.
+[46:42] No es original en el sentido de utilizar el en el sentido de que sea una capacidad cognitiva, porque eso ya lo eso lo va a tomar de de Darwin, pero sí en la utilización del concepto de empatía, porque Darwin va a utilizar el de simpatía.
+[46:57] Entonces tenemos que se trata por lo tanto de un giro extraordinario y original en cierta forma a la forma de acercarse al problema de la moral.
+[47:06] ¿Qué va a significar eso?
+[47:08] Frans de Waal y todos los autores con los que mantienen un diálogo lo que nos invitan es que volvamos a replantearnos las preguntas clásicas de la ética.
+[47:16] Son ¿cuáles son los fundamentos últimos de la moral?
+[47:21] ¿Por qué las razones morales son las que son y no otras?
+[47:23] ¿Por qué deben de considerarse como auténticas virtudes morales aquellas acciones o cualidades que benefician a todos y no solamente a uno?
+[47:31] Porque claro, alguien todavía podría seguir diciendo ¿y por qué la benevolencia?
+[47:37] ¿Por qué no podemos considerar que es moral aquellas acciones útiles que benefician única y exclusivamente al individuo?
+[47:44] ¿Por qué tenemos que considerar como acciones o cualidades morales aquellas que benefician a toda la humanidad?
+[47:52] Frans de Waal que nos dice, pensemos en términos de sentimientos, pero pensemos también en términos de capacidad.
+[48:03] La respuesta nos habían dicho pues los moralistas anglosajones, había que buscarla pues en la naturaleza, en la naturaleza humana.
+[48:11] De Vicio, Adam Smith, John Stuart Mill, todos una y otra vez nos dicen la experiencia.
+[48:19] Y esa experiencia ¿de qué?
+[48:21] Pues la experiencia lo que es el ser humano y de lo que es la conducta humana.
+[48:24] Y finalmente lo que tendremos que ver es que las respuestas las tendremos que hallar en el descubrimiento de esa naturaleza humana.
+[48:30] Sin embargo, ¿cuál es el problema?
+[48:33] con el que se van a enfrentar estos autores.
+[48:35] Pues cuál es la concepción del ser humano que tienen.
+[48:38] Y la concepción antropológica, la concepción del ser humano que tienen es una concepción que está lejos, bastante lejos, de lo que en ese momento le están aportando las ciencias naturales.
+[48:48] ¿Por qué?
+[48:50] Porque tengamos en cuenta que a finales del siglo XVIII y principios del siglo XIX Inglaterra desde el punto de vista científico está entre comillas aislada del mundo, del resto del mundo.
+[49:01] ¿Y por qué está aislada?
+[49:02] Pues está aislada principalmente porque las grandes instituciones educativas las grandes instituciones educativas, uno, están en manos de las autoridades eclesiásticas y en segundo lugar sus principales preocupaciones están en el orden de lo económico.
+[49:19] Cuando pensamos en autores como por ejemplo Adam Smith ¿en qué pensamos en primer lugar?
+[49:23] ¿En ética o en economía?
+[49:27] En economía.
+[49:29] Y pensamos por ejemplo en Malthus, ¿qué pensamos?
+[49:33] Pues en geología, es perdón, en geografía, pero al final siempre aparece una frase que vamos a ver dentro de dentro dentro de un ratito, ¿no?
+[49:41] Pensamos en términos económicos.
+[49:44] Y si empezamos a hacer referencia a los grandes autores o a muchos de los grandes autores de finales del siglo XVIII y principios del siglo XIX anglosajón, principalmente pensamos en términos económicos y en algún caso de en términos políticos.
+[50:00] En cualquier caso, ¿de qué nos vamos a dar cuenta?
+[50:01] De que hay un aislamiento científico de Inglaterra que le lleva a estos pensadores a que sus propuestas, por ejemplo, éticas, por muy por mucho que insistan que tienen que estar basadas en la concepción del ser humano, su concepción del ser humano está lejos de lo que la nueva biología está ofreciendo.
+[50:20] ¿Sí?
+[50:21] Por lo tanto, decíamos, la concepción del ser humano muy alejada de la ciencia.
+[50:26] Por lo tanto, tendríamos que esperar al nacimiento de la el nacimiento formal de la biología como disciplina científica y de Charles Darwin para empezar a hacernos una idea apropiada de lo que es y significa la naturaleza humana.
+[50:43] Vamos a ver si no me paso.
+[50:47] ¿Significa eso que antes de Darwin no se hubieran llevado a cabo intentos serios e importantes de construir una ética desde la biología?
+[50:53] Dicho, vuelvo un pasito para un pasito para atrás.
+[50:57] El hecho de que hasta el siglo XIX no surgiera una auténtica biología como disciplina científica no significa que no hubieran habido, se hubieran dado verdaderos intentos por construir una ética desde la biología existente?
+[51:13] Por supuesto, por supuesto que no.
+[51:15] Claro que lo había habido.
+[51:17] Pero es necesario eh hablar, como he insistido, de un antes, un durante y un después, no solamente de Darwin, sino del proceso constitutivo de la biología evolutiva.
+[51:27] Vamos para Vamos a ver ese encuentro, como decíamos, entre la ética y la biología.
+[51:35] En principio, mi tentación era, pues, hablar de este encuentro entre la ética y la biología distinguiendo entre el mundo predarwiniano, tras Darwin y el proceso constitutivo de la biología evolucionista o evolutiva y los siglos XIX, eh XX y XXI.
+[51:50] Sin embargo, he puesto en rojo XX y XXI porque eso es algo que vamos a ver el día de mañana.
+[51:57] El día de hoy nos vamos a fijar en el mundo predarwiniano.
+[52:01] Me voy a detener un momen- un momentito aquí.
+[52:03] ¿Por qué?
+[52:05] Porque es probable que a alguien, tal vez, pues le pueda chocar de que ponga aquí a Pitágoras.
+[52:09] ¿No nos vas a hablar de biología?
+[52:12] ¿Por qué poner a Pitágoras como un antecedente de una ética biologicista?
+[52:19] ¿Por qué poner eh a este autor?
+[52:21] Por el siguiente razo- por el siguiente motivo.
+[52:24] El nacimiento de la filosofía y de la ciencia está estrechamente vinculado con la construcción de los primeros modelos de comportamiento individual Es decir, cuando nace la filosofía y cuando nacen la ciencia, no es solamente con la con la finalidad de describir eh la estructura del universo, qué es el ser y qué no es el ser, sino que hay ante todo y sobre todo un intento por construir los primeros modelos, como les decía, de comportamiento, tanto individual como social.
+[52:54] Es decir, modelos éticos y políticos.
+[52:58] El propósito inicial de la filosofía cuál va a ser, pues dar respuesta definitiva a la explicación última y no evidente de la realidad.
+[53:06] Y a la hora de intentar descubrir esta explicación última y evidente de la realidad, el filósofo ¿qué es lo que va a intentar hacer?
+[53:14] Buscar la escondida arjé del cosmos.
+[53:17] Dicho de otra forma, el mundo griego, la filosofía griega va a nacer cuando los griegos se dan cuenta que el mundo no es un caos, sino que el mundo es un cosmos.
+[53:27] Es decir, todo cuanto ocurre en la naturaleza no es el resultado del capricho de los dioses, sino que cuanto ocurre en la naturaleza es por alguna causa, por alguna razón.
+[53:36] Y esa razón, esa causa, van a decir, un orden, una proporción, una simetría.
+[53:42] El fin de la filosofía y el fin de la ciencia cuál es, pues encontrar esas regularidades, esas proporciones y esas simetrías que hacen que las cosas, las cosas sean lo que son y no de otra forma.
+[53:51] Aquel primer principio único, van a, perdón, lo que van a intentar hacer es buscar por lo tanto aquel primer principio único, profundo y sustancial de la naturaleza que se esconde bajo las apariencias múltiples y fugaces que nos brindan los sentidos.
+[54:07] Forma, sentidos, ponen en contacto con una realidad siempre cambiante, en movimiento.
+[54:13] Sin embargo, suponemos que detrás de todo ese cambio, de todo esa superficie, superficialidad, hay algo que permanece constante.
+[54:21] El fin de la ciencia y de la filosofía es encontrar eso.
+[54:27] Siempre permanece.
+[54:27] La cuestión es, ¿cómo llegar a encontrar eso que siempre permanece?
+[54:33] Pues a través de la razón y de la lógica.
+[54:36] ¿Y por qué no de los sentidos?
+[54:37] Pues porque los sentidos, una vez más, lo que nos pone en contacto es con lo que cambia, con lo que muta.
+[54:43] Estamos buscando es la por detrás.
+[54:46] Eso que es lo que nos lleva a buscar explicaciones de la naturaleza y la estructura del mundo.
+[54:49] La naturaleza, el lugar que debía ocupar y el comportamiento que debía esperarse del ser humano.
+[54:56] Dicho de otra forma.
+[54:58] Si la naturaleza, todo cuanto encontramos en la naturaleza tiene una razón de ser y las cosas ocurren por alguna razón, lo que también tendremos que ver es qué relación existe entre el comportamiento humano y lo que hay a nuestro alrededor, es decir, el ser humano no se debería de comportar de cualquier Ser humano tendría que organizar su vida individual y su vida social de una forma paralela a la estructura con la que está constituido De una forma, perdón por la forma poética, el corazón de un ser humano tendría que tener la estructura del orden que encontramos en las es Eso significa entonces que hay un estrecho paralelismo entre las leyes que regulan el comportamiento de los astros y demás seres naturales y las leyes que deberían gobernar la condición humana.
+[55:50] Tanto tendríamos que descubrir la estructura del universo para construir leyes sociales y de comportamiento individual que fueran paralelas a las formas en las que está el universo.
+[56:02] La ética y la política, la economía, las tres ciencias prácticas tendrían que estar en completa consonancia con las leyes de la naturaleza.
+[56:10] ¿Quiénes van a llevar Eso qué significa, perdón?
+[56:14] Pues la necesidad de encontrar y explicar las relaciones existentes entre el orden del universo, su estructura y el orden del humano.
+[56:23] ¿Dónde encontramos las primeras propuestas?
+[56:25] Pues las primeras propuestas lo vamos a encontrar entre los matemáticos y astrónomos, ejemplo, Tales de Mileto o Pitágoras.
+[56:31] En la herencia, en la filosofía helénica, por ejemplo, y entre comillas por podríamos aquí a Aristóteles.
+[56:36] O en la filosofía helenística de Epicuro o de los cirenaicos.
+[56:40] ¿Ven que pongo ahí una flechita, no?
+[56:43] Con los epicúreos, con Epicuro, porque es en don quienes nos vamos a fijar, porque es probablemente el más sencillo de Epicuro de Samos, siglo pues es cuarto, tercero antes de Cristo y va a tener una concepción naturalista de lo que es la realidad, sobre todo la realidad humana, que se va a ver tanto en su dimensión física como en su dimensión Es decir, es decir, el ser humano vendría a ser el resultado de la simple reunión de átomos bajo una determinada forma y además no sería algo muy distinto de cualquier otro ser vivo.
+[57:19] Dicho de otra forma, el punto de partida de Epicuro va a ser Demócrito.
+[57:24] Cuando Demócrito señalaba que todo cuanto existe está conformado de átomos.
+[57:29] Por lo tanto, las mesas, las sillas y nosotros mismos no somos más que la reunión de átomos.
+[57:36] Y por otro lado, que si nosotros somos la mera reunión de átomos como lo es cualquier otro animal, pues somos como cualquier otro animal y por lo tanto no deberíamos de intentar explicar cualquier fenómeno humano de manera distinta a la que explicamos el comportamiento de cualquier otro de cualquier otro animal.
+[57:53] Esto va a tener importantes consecuencias éticas.
+[57:57] ¿Por qué?
+[57:57] Porque si nosotros tenemos que explicar el comportamiento humano a partir de lo que observamos en los animales, pues observemos a los animales y observemos a los seres humanos.
+[58:06] ¿Y qué es lo que vemos en uno y otro caso?
+[58:09] Que todos los seres humanos y todos los animales tienden siempre, en primer lugar, a huir del dolor y en segundo lugar a buscar placer.
+[58:18] Por lo tanto, el fin último de la vida humana ¿cuál va a ser?
+[58:20] El tener una vida placentera.
+[58:24] El conseguir una vida donde tengamos el menor dolor posible y el mayor placer positivo posible.
+[58:30] Por consiguiente, lo que tenemos que hacer es construir modelos de vi- de vivir y de convivir, tanto individuales como sociales, de orden racional.
+[58:40] Lo que tendremos que hacer es orga- organizar nuestra vida de tal manera que obtengamos el máximo placer y el mínimo de dolor.
+[58:48] ¿Qué significa eso?
+[58:49] Que se trata de una razón calculadora, de que buscar un máximo.
+[58:53] Dicho en otros términos, tenemos que ser ingenieros del placer.
+[58:58] Tenemos que ingeniárnoslas para tener el máximo placer y el mínimo dolor.
+[59:03] ¿Y cómo alcanzar ese máximo placer y el mínimo de dolor?
+[59:08] Pues lo primero es evitando las grandes fuentes de temor.
+[59:11] ¿Y cuáles son las grandes fuentes de temor del ser humano?
+[59:14] Pues la muerte, los dioses y el dolor.
+[59:21] Estas ideas hedonistas fueron per- permeando y adquiriendo distintas formas a lo largo de la historia hasta llegar al siglo XIX.
+[59:29] ¿Quiénes podemos ver?
+[59:30] Pues por ejemplo, entre los estoicos, Zenón de Citio, Cleantes de Asos y ya en el mundo mundo griego, en el mundo romano, pues Marco Aurelio, Séneca y vamos a encontrar personajes en la Ilustración como Montesquieu o Buffon.
+[59:45] Estas ideas, sobre todo las de la Ilustración, van a ser las que van a condicionar que vamos a encontrar presentes en la nueva historia natural y en la nueva taxonomía.
+[59:55] Es sumamente interesante, sumamente interesante, si queremos estudiar algo de ética Ilustración, que lo hagamos de forma paralela al desarrollo de la biología y de la taxonomía.
+[1:00:07] Podemos llevar gratísimas gratísimas sorpresas.
+[1:00:12] Y ahí vamos a tener, por ejemplo, a Buffon.
+[1:00:19] Saltamos entonces saltamos entonces, todo es todas estas ideas, insisto, van a llegar hasta siglos XVII, XVIII.
+[1:00:27] Van a empezar a cuajar y ya es en el siglo, sobre todo, XIX cuando se produce la aparición de proceso constitutivo de la biología evolutiva.
+[1:00:38] Creo que sobra decir que la teoría de la evolución no es una obra de Charles Darwin que Dar Charles Darwin no es el que inventa la teoría de la evolución, sino que Darwin es uno entre los muchísimos otros autores que nos va a hablar de evolución, una historia sumamente rica y sumamente interesante.
+[1:05:56] Y yo creo que lo más interesante de la teoría evolutiva es que nos enseña qué es y qué no es la ciencia.
+[1:01:06] Independientemente de si somos evolucionistas o no somos evolucionistas, estudiar la teoría de la evolución nos permite, de alguna manera, acercarnos a distinguir lo que es la ciencia de lo que no es la ciencia.
+[1:01:15] ¿Qué quiero decir con eso?
+[1:01:17] La historia de la ciencia si no es algo, es una historia de héroes y de villanos.
+[1:01:23] Por regla general o de ma- de ma- de forma excesivamente repetitiva, solemos leer la historia de la ciencia como una historia de héroes y de villanos.
+[1:01:33] Y en función de cuál sea el paradigma en el que hemos estudiado o de qué lado nos ponemos, pues podríamos ver, por ejemplo, a Charles Lyell o podríamos ver a otros autores como los grandes héroes o como los grandes o como los grandes villanos.
+[1:01:49] Y si es algo la historia de la ciencia, es la historia de una actividad colectiva humana y como toda acción humana, sea colectiva o sea individual, es una acción imperfecta, marcada por la pluralidad de axiomas, de intereses, de prejuicios y que al final, como toda acción humana, pues se tiene que dar dentro de un determinado contexto.
+[1:02:10] Dicho de otra forma, los datos, los resultados que obtenían los científicos, los investigadores, los historiadores naturales, al final al final se tenían que organizar dentro de una cosmovisión y un paradigma, que es el que había.
+[1:02:22] Es el que les tocaba vivir.
+[1:02:24] Eso significa que las revoluciones al final no son tan revolucionarias.
+[1:02:28] Lo que es eso que nosotros llamamos ahora grandes revoluciones científicas, son el resultado de la acumulación, el esfuerzo y a veces el sufrimiento de muchos autores.
+[1:02:40] Así, por ejemplo, la teoría de la evolución, decíamos, es una teoría biológica cuyo punto de partida la vamos a encontrar en la geología y que tan solo fue posible tras un largo y costoso proceso constitutivo.
+[1:02:54] Ahí aparecerán, pues, los nombres de George Cuvier, Erasmus Darwin, Jean-Baptiste Lamarck, Charles Lyell, Charles Darwin y la lista sería interminable.
+[1:03:05] Interminable.
+[1:03:07] Entonces, vemos que la teoría de la evolución fue posible, comienza en la geología y tan solo va a ser posible tras un largo y costoso proceso constitutivo.
+[1:03:15] ¿Qué fue necesario para que se produjera finalmente la teoría de la de la evolución como una teoría casi casi terminada, es decir, porque todavía ni siquiera hoy en día podemos decir que está terminada.
+[1:03:27] Pero para que se constituyera como una teoría formal, bueno, pues en primer lugar fue necesaria la combinación de evidencias geológicas y de evidencias biológicas.
+[1:03:35] Desde el punto de vista geológico, pues fue necesario evidencias geológicas de la transformación de la superficie de la Tierra y de que la Tierra la edad de la Tierra era de millones de años y no solamente de 6,000 años.
+[1:03:47] Desde el punto de vista eh de evidencias biológicas, pues la evidencia de que en el pasado existieron especies que en la actualidad no existen y de que las especies actuales y de que en la actualidad existen especies que no existían en el pasado.
+[1:04:06] Vamos a recordar brevemente cuatro notas fundamentales para poder entender esto.
+[1:04:10] Y es que si no, permítanme, mmm creo que no podemos entender perfectamente la obra de Frans de Waal.
+[1:04:18] Decía, no vamos a hablar de Frans de Waal, sino que está por detrás.
+[1:04:20] Y para ello yo creo que tenemos que tener claro un par de cositas.
+[1:04:23] Lo primero, la distinción entre describir y explicar.
+[1:04:27] La diferencia que hay en ciencia entre decir explicar, describir, responder a la pregunta qué y responder a la cuestión del porqué.
+[1:04:35] Y tal vez, tal vez, la clave nos la podrían dar, aunque sea de una manera muy superficial, la astronomía y la cosmología.
+[1:04:43] O la distinción entre astronomía y cosmología.
+[1:04:46] Discúlpenme los físicos, pero voy a hablar en términos históricos.
+[1:04:51] Históricamente en el mundo antiguo había una gran diferencia entre la astronomía y la cosmología.
+[1:04:56] La astronomía era aquella disciplina que tenía como finalidad describir el movimiento de los astros, es decir, a través de las matemáticas, de la a través de la construcción de modelos geométricos, de modelos matemáticos, poder hacer predicciones de cuál iba a ser la posición de un determinado planeta con respecto al fondo de estrellas fijas.
+[1:05:16] Por lo tanto, pues podríamos construir modelos instrumentalistas, como por ejemplo Ptolomeo, en donde nos sirve pues para saber en dónde se encuentra un determinado planeta.
+[1:05:26] Nada más.
+[1:05:29] Entonces, permite describir matemáticas.
+[1:05:31] Sin embargo, tenemos la cosmología.
+[1:05:33] Y la cosmología es la cosmología es el resultado de dar cuenta de una necesidad de orden psicológico.
+[1:05:39] ¿Qué me refiero con ello?
+[1:05:41] Todos los seres humanos, vivamos en el contexto en el que vivamos, vivamos en la cultura en la que vivamos, necesitamos tener una idea general, una de lo que es el mundo, de lo que es la realidad.
+[1:05:52] Necesitamos tener una suerte de referencia o marco de referencia dentro del cual situar cada cada aspecto de nuestra vida.
+[1:06:00] Y por ejemplo, podemos encontrarnos a los egipcios, que podrían tener observaciones astronómicas excelentes, maravillosas, un registro sistemático de las observaciones, una capacidad predictiva de envidiar, y sin embargo, su cosmología admitían explicaciones mitológicas.
+[1:06:21] Es su cosmovisión, su estructura del mundo permitía que al final la construcción entraran por los Dios los distintos Dios.
+[1:06:30] Por lo tanto, tenemos que distinguir entre la descripción y la explicación.
+[1:06:34] Llegamos entonces al siglo al siglo XVIII y siglo XIX.
+[1:06:39] Y en el siglo XVIII y en el siglo XIX nos vamos a encontrar con unas cuantas evidencias, cuántas evidencias que no se consiguen explicar, de las cuales las explicaciones se van a intentar dar tanto en el orden de lo biológico y físico como en el orden de lo mitológico religioso.
+[1:07:01] Vamos a ver en qué consiste.
+[1:07:06] Eso por un lado.
+[1:07:07] En segundo lugar, la historia de la tierra va ligada con la historia de la vida.
+[1:07:10] Hoy por hoy podemos suponer que tal vez, tal vez haya vida fuera del fuera del planeta tierra, pero de momento que yo sepa no tenemos hasta a mí no me han llegado evidencias de que haya vida en otros planetas.
+[1:07:22] Entonces, suponemos que hay vida en otros planetas, pero hoy por hoy, por lo menos, este filósofo de la biología concreto no sabe que en otros planetas haya vida.
+[1:07:32] Y en el siglo XVIII, en el siglo XIX, supongo que mucho menos.
+[1:07:36] Entonces, si queremos ceñirnos a lo que sabemos, a lo que tenemos eh lo que tenemos lo que tenemos evidencia empírica, pues tenemos que decir que la historia de la vida va ligada con la historia de la tierra y que por lo tanto no podemos suponer que la historia de la vida sea mayor que la historia de la tierra.
+[1:07:54] Historia de la vida queda ceñida a la historia de la tierra.
+[1:07:58] ¿Y por qué es esto importante?
+[1:08:00] Porque no es lo mismo pensar en una historia de la vida si tenemos un si nos han prestado este teatro que es la tierra durante 6,000 años que si nos lo han prestado durante se durante miles de millones de años.
+[1:08:14] Yo una pregunta.
+[1:08:16] ¿Desde cuándo tenemos evidencia de transformaciones de la corteza terrestre y de la existencia de fósiles?
+[1:08:22] Dicho de otra forma, ¿desde cuándo el ser humano ha tenido fósiles en sus manos y se ha estado preguntando qué cosa tan rara era esa y cuáles eran las causas de la existencia de formas tan diferentes?
+[1:08:35] ¿Desde cuándo?
+[1:08:39] Si no nos hacen la pregunta, probablemente hubiéramos pensado que el siglo XVIII o el siglo XIX.
+[1:08:45] Pero si nos hacen la pregunta, pues a lo mejor sospechamos y decimos, la pregunta tiene trampa.
+[1:08:50] Tiene que haber sido en otro momento.
+[1:08:52] Claro que tiene trampa la pregunta.
+[1:08:54] Tenemos evidencia ¿desde cuándo?
+[1:08:57] Pues desde antes.
+[1:08:59] Porque eh los fósiles están sobre la tierra antes o después que los seres humanos.
+[1:09:06] Desde antes.
+[1:09:07] Pero significa que ya los primeros homínidos, aunque no supieran lo que era, aunque no lo vieran, pero ya tenían delante de sí fósiles.
+[1:09:15] ¿Y quiénes son los primeros que empiezan a investigar, de quiénes tenemos evidencia que estuvieron investigando qué eran los fósiles?
+[1:09:22] Los egipcios.
+[1:09:24] Los egipcios ya tuvieron entre sus manos restos fósiles y se estuvieron preguntando qué eran esas cosas tan extrañas, esas formas tan diferentes.
+[1:09:33] Los pitagóricos también lo tuvieron, Empédocles, Aristóteles.
+[1:09:37] Aristóteles dijo, bueno, pues es que la naturaleza es caprichosa y ha dado la casualidad de que las rocas han adquirido esas formas, pero son simplemente formas.
+[1:09:45] Son rocas.
+[1:09:47] El loco de Empédocles se atrevió a decir que esos restos fósiles eran restos de formas biológicas que habían existido antes y que las especies actuales son el resultado de la transformación de especies que habían existido en el pasado y que las primeras especies a partir de las cuales había surgido todo eran especies de origen acuático.
+[1:10:08] Menuda locura la de Empédocles, ¿no?
+[1:10:11] Tampoco podemos hacer un anacronismo.
+[1:10:13] Las razones por las cuales llegó a esas conclusiones son muy distintas a las que podemos llegar en la actualidad.
+[1:10:19] En la Edad Media, en la Edad Media ¿hubo constancia de los restos fósiles?
+[1:10:23] Claro que sí.
+[1:10:26] Y en la Edad Media incluso se van a utilizar la existencia de los restos fósiles para demostrar en una prueba física del diluvio universal.
+[1:10:33] Porque si nosotros queremos estudiar restos fósiles y simplemente somos principiantes o amateur, ¿cuáles son los lugares donde podemos encontrar con mayor facilidad restos fósiles?
+[1:10:44] En lo alto de las montañas.
+[1:10:46] Y en lo alto de las montañas los restos fósiles que vamos a encontrar son restos fósiles de especies casualmente acuáticas.
+[1:10:53] Entonces, ¿qué es lo que se va a decir en la Edad Media?
+[1:10:57] Bueno, si encontramos restos fósiles en lo alto de las montañas y estos restos fósiles responden a animales acuáticos, eso es una prueba física y evidente del diluvio universal.
+[1:11:11] Pero ¿qué es lo que ocurría?
+[1:11:12] Todo eso había que meterlo dentro de una escala temporal, como decía antes.
+[1:11:15] No podemos darle a la historia de la vida una historia que vaya más allá de la historia de la Tierra.
+[1:11:21] ¿Y cuál va a ser la historia de la Tierra?
+[1:11:23] 4.004 años.
+[1:11:25] De hecho, 6.000 años.
+[1:11:27] ¿De dónde nos viene eso?
+[1:11:29] Pues nos viene de James Ussher.
+[1:11:30] James Ussher, haciendo una serie de estimaciones sobre el número de generaciones, duración duración media de la vida humana y las principales figuras bíblicas, pues nos va a decir que la Tierra fue creada en la noche del 22 de octubre del año 4.004 antes de Cristo.
+[1:11:47] Que Adán y Eva fueron expulsados del paraíso el día de noviembre del año 4.004 antes de Cristo y que el final del diluvio universal, el del arca de Noé, porque en algunas ocasiones se habla de que hubieron varios diluvios universales, fue el 5 de mayo del 2.348 antes de Cristo.
+[1:12:05] Y no nos lo tenemos que tomar, se sea creyente o no se sea creyente, no tenemos que tomárnoslo como una cosa menor, ¿por qué?
+[1:12:12] Porque esto condicionó la vida de millones de personas y condicionó el desarrollo de la ciencia durante siglos.
+[1:12:22] ¿Repercutieron las las expediciones científicas que se llevaron a cabo durante los siglos XVI, XVII y XVIII, en la que aparecían nuevos restos fósiles, en las que aparecían nuevas formas vivas?
+[1:12:35] ¿Repercutió esto en los en la extensión de la escala temporal?
+[1:12:39] Pues no.
+[1:12:41] Por muchas evidencias que haga que haya, el ser humano nos cuesta muchísimo el cambiar nuestras cosmovisiones.
+[1:12:47] Necesitamos sentirnos seguros y nos sentimos seguros a ¿A de qué, a través de estas cosmovisiones.
+[1:12:53] Y cuando hay pruebas empíricas de que alguna manera contradicen lo que vamos a desmerecer, no va a ser la cosmovisión, sino que va a ser la prueba empírica.
+[1:13:03] Hay algo más en la algo más en la experiencia que hace que no se ajuste con la cosmovisión general.
+[1:13:10] Pero lo que no podían de reconocer es que cada vez era mayor la presión de secuencias y de distintos episodios.
+[1:13:19] Las experiencias, los datos físicos eran tan fuertes que había una enorme presión sobre esta escala temporal.
+[1:13:26] ¿Cuáles fueron las dos grandes corrientes que surgieron entonces?
+[1:13:30] Pues el catastrofismo de Georges Cuvier y el gradualismo geológico de de Charles Lyell.
+[1:13:37] Ahí es a lo que me refería antes, sobre todo a lo de los héroes y de los villanos.
+[1:13:41] Porque según el tipo de científico que uno sea, pues se podrá considerar a Cuvier como un héroe o como un villano, o a Cuvier, perdón, o a Lyell como un héroe o como un villano.
+[1:13:52] Pues ninguna de las dos, porque los dos contribuyeron y los dos se equivocaron.
+[1:13:56] Pero los dos sembraron las semillas que hicieron posible pues la teoría evolutiva actual.
+[1:14:02] ¿Qué es lo que hizo Georges Cuvier?
+[1:14:04] Pues Georges Cuvier fue, podríamos decir, el padre de la paleontología.
+[1:14:09] A partir de Cuvier, pues se hace posible el el estudio científico de faunas y de la botánica del pasado.
+[1:14:18] ¿Qué es lo que no puede ignorar ya nadie en el siglo XVIII?
+[1:14:22] Cualquier intelectual de la época, cualquier científico de la época, lo que no puede ignorar es que uno, la Tierra tiene una historia, que la superficie de la Tierra tal y como le vemos está ahora, pero que en el pasado era completamente distinta de como era, que la superficie de la Tierra ha pasado por distintos episodios.
+[1:14:39] Y si nosotros hacemos un corte transversal, pues vamos a ver que las distintas capas se corresponden con distintas etapas geológicas.
+[1:14:47] Y que si empezamos a observar en cada una de estas etapas encontramos restos de seres que no vivos, pero vivos en su momento, de restos fósiles animales y vegetales diferentes.
+[1:14:58] Dicho de otra forma, en el siglo XVIII ya casi nadie puede dudar de que en la Tierra han habido distintas especies animales y vegetales y cada una en una época concreta.
+[1:15:10] El problema que había era, ¿cuánto duró cada una de estas episodios?
+[1:15:14] ¿Qué qué es lo que pasó cada una de estas etapas?
+[1:15:18] ¿Y cómo podemos encontrar en el pasado cómo en el pasado hubo especies animales y vegetales que ahora no existen y en la actualidad hay especies especies animales y vegetales que antes no existían?
+[1:15:31] Y ante todo y sobre todo lo que va a preocupar es ¿cuál es el origen del ser humano?
+[1:15:37] Esas son las preguntas en común que tienen todos.
+[1:15:40] Ahora bien, ¿la respuesta de qué va a depender?
+[1:15:43] Del tiempo.
+[1:15:43] No solamente del tiempo que ya no nos queda casi nada hoy, sino del tiempo que le demos a la Tierra.
+[1:15:48] Y ahí es donde va a aparecer Charles Cuvier.
+[1:15:50] Bueno, perdón, ¿por qué a Cuvier van a decir algunos autores que es un villano aunque sea el padre de la paleontología?
+[1:15:58] Porque él va a tener a mantener un tiempo va a mantener un tiempo eh un tiempo religioso, va a seguir diciendo que la historia de la Tierra es una historia de 6,000 años y que por lo tanto en esos 6,000 años lo que se han producido han sido distintas etapas de catástrofes y de creación nuevamente.
+[1:16:17] Es decir, tenemos una primera etapa con una superficie de la Tierra con una determinada forma eh ah eh con una serie de animales y de plantas, se van a producir grandes catástrofes naturales y a partir de estas catástrofes naturales, desaparición de todas las especies y la aparición de nueva una nueva vida, nuevas formas vivas.
+[1:16:39] Tengamos también en cuenta una cosa y es que los pocos restos fósiles que se han encontrado hasta ese momento eran restos fósiles de especies muy diferentes.
+[1:16:49] Muy distintas.
+[1:16:50] Es prácticamente imposible con los restos fósiles que tenía Cuvier que se pudiera pasar pensar en una suerte de continuidad y degradación.
+[1:16:58] Esto no se va a alcanzar hasta mediados del siglo XIX.
+[1:17:02] Sí, pero había que esperar todavía un poquito.
+[1:17:04] Entonces, pongámonos en el en los papeles de Georges Cuvier.
+[1:17:08] Nos encontramos con animales muy distintos en una etapa y en otra, pues lo más lógico es pensar que han desaparecido todos y que han vuelto a aparecer de nuevo.
+[1:17:17] Y además eso se ajustaba con la cosmovisión que había, de las grandes catástrofes y todo 6,000 añitos y no nos metemos con nadie.
+[1:17:25] ¿Qué es lo que nos va a decir Charles Lyell?
+[1:17:27] Pues si estamos dispuestos a no inventarnos nada, lo que tampoco podemos hacer es inventarnos las grandes catástrofes.
+[1:17:34] Tenemos ejemplos de grandes catástrofes de extinción absoluta, no digo masiva, como diríamos hoy, sino absoluta.
+[1:17:41] Pues no.
+[1:17:42] Entonces, lo único que tenemos experiencia es de que la superficie de la Tierra en la actualidad, pues se va va cambiando.
+[1:17:50] Y va cambiando gracias a volcanes, terremotos, huracanes, el agua, el aire, etcétera.
+[1:17:54] Pues los mismos principios que están modificando la superficie de la Tierra ahora son los que han funcionado siempre.
+[1:17:59] Y por lo tanto, las grandes transformaciones que se han producido en la superficie de la Tierra son exactamente las mismas que lo han hecho en el pasado.
+[1:18:08] Por lo tanto, esas modificaciones no se han podido dar en 6,000 años, sino que se han tenido que dar en miles de millones.
+[1:18:15] ¿Eso qué es lo que nos ha qué es lo que nos hace Charles Lyell?
+[1:18:19] Nos presta el escenario terrestre durante miles de millones de años.
+[1:18:22] Y por lo tanto, podemos pensar ya en la aparición, desaparición y más adelante transformación de las especies en un escenario de miles de millones de años y no solo de miles de años.
+[1:18:37] Pero además hay otra hay otro problema y ya prácticamente lo tenemos que dejar aquí porque me quedo sin tiempo.
+[1:18:43] Y es que los científicos no solamente tienen que responder a problemas científicos, sino que su trabajo está relacionado con problemas políticos sociales.
+[1:18:52] Dejemos aquí una pregunta en el aire.
+[1:18:55] ¿Qué hacía Charles Darwin en un barco de la Real Armada Británica como es el Beagle?
+[1:19:01] ¿Por qué la reina de Inglaterra y por qué la Armada inglesa se van a gastar la cantidad enorme de dinero que se van a gastar para llevar a cabo expediciones científicas?
+[1:19:12] Es decir, los científicos de la época van a tener que intentar solucionar problemas de orden científico como es de las existencia en el pasado de especies que ahora mismo no existen, la existencia en la actualidad de especies que antes no pasaban y el origen del ser humano, pero a su vez también tenían que responder a intereses y problemas de orden político, económico y social.
+[1:19:36] Decimos entonces, cuando Darwin decide finalmente publicar El origen de las especies, tenía que dar en cuenta tres graves problemas desde el punto de vista biológico.
+[1:19:46] La existencia de evidencia de distintas especies, digamos, el origen de las especies en la actualidad y el origen del ser humano.
+[1:19:54] Se me ha acabado el tiempo por hoy.
+[1:19:57] Llega el momento de las preguntas, de sus comentarios, pero les quiero dejar, como se supone que se trata de un curso y de un seminario, con una tarea.
+[1:20:05] Y la tarea es que intenten pensar qué tiene que ver la evolución con la moral.
+[1:20:13] ¿Qué tiene que ver todo este rollo biológico de la evolución y de los orígenes de la evolución con la cuestión de los fundamentos de la moral?
+[1:20:22] Bueno, pues vayan pensando en ello y mañana les daré la respuesta que les dará Darwin y que que dará Frans de Waal.
+[1:20:32] Y ahora por mi parte, pues esperar a sus preguntas y comentarios.
+[1:20:35] Muchas gracias.
