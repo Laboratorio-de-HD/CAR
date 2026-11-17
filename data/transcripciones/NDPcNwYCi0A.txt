@@ -1,389 +1,1165 @@
 ﻿[00:05] >> Moderador/a (Laura Santa María): Qué tal, qué tal, cómo están, muy buenos días, bienvenidas, bienvenidos a esta, a esta mesa sobre El Quijote, el posthumanismo y la tecnología.
+
+
 [00:15] Soy Laura Santa María, soy la directora de la Cátedra Alfonso Reyes y del programa Pasión por la Lectura, y me da muchísimo gusto darles la bienvenida a este evento, que es una conversación entre las ingenierías, la ciencia, la filosofía y la literatura.
+
+
 [00:31] Y hemos convocado para para este evento, bueno, primero que nada, a la doctora Francesca Ferrando, que es una gran especialista, filósofa, ella especialista en posthumanismo, quien lamentablemente tuvo un problema de salud, no pudo tomar el vuelo que la traería de Nueva York a Monterrey.
+
+
 [00:57] Estará con nosotros en el Tecnológico de Monterrey en mayo, pero amablemente nos grabó un video con sus saludos, por supuesto, pero también con su reflexión de la relación entre el posthumanismo y El Quijote, será lo primero que escuchemos.
+
+
 [01:16] Y con mucho gusto le doy la bienvenida y desde luego mi agradecimiento de todo corazón a quienes están en esta mesa, que son el doctor Rodrigo Esparza Parga.
+
+
 [01:29] Rodrigo es licenciado en filosofía e ingeniero civil, tiene la maestría y el doctorado en estudios humanísticos, y es profesor del campus Puebla y ha hecho el viaje desde Puebla para estar hoy con nosotros.
+
+
 [01:41] Gracias, Rodrigo.
+
+
 [01:48] Nos acompaña también el doctor Carlos Astengo; Carlos es matemático, con licenciatura y maestría en matemáticas y doctorado en inteligencia artificial.
+
+
 [02:04] Carlos es profesor de ciencia y de ciencias computacionales aquí en el Tecnológico de Monterrey y es un gran aliado de las humanidades y un gran lector.
+
+
 [02:12] Muchísimas gracias, Carlos.
+
+
 [02:19] Y nos acompaña también nuestro querido amigo Carlos García.
+
+
 [02:24] Carlos es licenciado en física, tiene una maestría en metodología de la ciencia, es profesor emérito del Tecnológico de Monterrey y fue profesor durante mucho tiempo en la carrera de ingeniería industrial, y tiene también una maestría en aprendizaje gerencial y organizacional y un doctorado en administración de empresas.
+
+
 [02:50] Muchísimas gracias, Carlos.
+
+
 [02:54] Y Carlos también, además de ser un... es un gran comentarista de lecturas y, entre otras cosas muy atractivas que realiza, tiene un círculo de lectura en este momento sobre el Ulises de Joyce y nos avisará —al cual están invitados— y nos avisará de nuevos círculos de lectura.
+
+
 [03:15] Entonces, como ven, los perfiles de nuestros invitados son perfiles que, como dijo Carlos Fuentes cuando fundó la Cátedra Alfonso Reyes, las ciencias y las humanidades tienen que ser indispensables aliadas, indispensables formas de pensar para poder enfrentar y vivir en el mundo que queremos imaginar.
+
+
 [03:41] Así es que muchas gracias, muchas gracias a los tres y bienvenidos.
+
+
 [03:44] Vamos a comenzar, entonces, primero escuchando y viendo el video de la doctora Francesca Ferrando.
+
+
 [03:49] >> Francesca Ferrando: Queridísimos, queridísimas, muy buenos días.
+
+
 [03:53] Mi nombre es Francesca Ferrando, soy profesora de filosofía en la Universidad de Nueva York y soy filósofa del poshumanismo.
+
+
 [04:04] Ahora muestro libros que he escrito sobre el poshumanismo, comenzando con el último, El arte de ser humano, que ahora va a salir en español, El poshumanismo filosófico, que salió en español ya como poshumanismo filosófico.
+
+
 [04:27] Y claro, por eso me encanta la idea de hablar de poshumanismo en relación con El Quijote.
+
+
 [04:33] ¿Y a dónde está esta conexión?
+
+
 [04:38] Esa conexión es una conexión muy fuerte, es una conexión existencial de hecho.
+
+
 [04:48] Y estoy aquí, ahora le muestro dónde estoy y normalmente hoy estaría enseñando, pero eso es un periodo un poquito diferente de mi vida.
+
+
 [05:04] En julio tuve una emergencia médica, esa emergencia fue la describieron aquí como de critical life condition, una condición que me puso entre la vida y la muerte, y suena muy muy dramático, pero no fue.
+
+
 [05:24] Fue una experiencia muy fuerte, muy intensa que de verdad me dio, me dio la fuerza, la visión, la energía para entender que muchas veces nosotros y nosotras somos quijotes en nuestra vida.
+
+
 [05:41] Estamos en un juego, en un juego existencial que en el hinduismo se llama Lila, el juego cósmico de Lila, pero nos hemos olvidado.
+
+
 [05:55] Estamos como Quijote tan tan tan de caballero en una era en la que la caballería ya se fue.
+
+
 [06:08] Estamos en la ilusión, en el sueño, en la proyección de nuestra cabeza, de nuestra mente, no estamos en la realidad, estamos en cualquiera otro sitio.
+
+
 [06:20] Tal vez estamos comiendo, pero estamos pensando en el trabajo; tal vez estamos trabajando, pero estamos pensando, "uh, ¿qué voy a comer?".
+
+
 [06:31] Es siempre afuera, estamos en otro, estamos en un sueño muchas veces de nuestra vida.
+
+
 [06:37] Entonces las experiencias como esa, por ejemplo, que tuve te llevan con fuerza en el momento y en el momento entendemos que siempre somos dos, somos el cambio.
+
+
 [07:00] Miren las hojas de esa flor, miren esas hojitas que ya se van a caer.
+
+
 [07:18] Y nosotros pensamos con la tecnología del ser humano, ¿es la tecnología una ilusión humana?
+
+
 [07:26] Y eso quiero hablar con ustedes.
+
+
 [07:31] Cuando estamos en los social media y estamos mirando, por ejemplo, a los likes de un video, por ejemplo, si yo voy a poner ese video en Facebook, por ejemplo, después va a salir esa adrenalina, a ver cuánta gente vio este video, a ver los comentarios.
+
+
 [08:00] Por ejemplo, cuando estamos en un momento y hay algo muy lindo, por ejemplo, hay un pájaro que está pasando, yo me estoy perdiendo porque quiero tomar, sacar una foto de eso, yo ya no estoy mirando al pájaro, pero estoy mirando aquí, justo aquí en esa camarita.
+
+
 [08:21] Y cuando tomo la foto ya el pájaro se fue.
+
+
 [08:24] Y entonces yo creo que El Quijote, la tecnología y el poshumanismo son un argumento muy importante y son uno, porque por un lado El Quijote es la ilusión, la ilusión de vivir algo que no es.
+
+
 [08:43] Yo estoy comiendo la comida, pero no estoy comiendo mi comida, estoy comiendo mi pensamiento, estoy afuera de mí como El Quijote que está tratando de hacer su batalla contra los molinos a viento.
+
+
 [08:59] Por el otro lado, El Quijote lo podemos ver como a un grande maestro, porque El Quijote decidió de hacer de su vida su espectáculo, sociedad del espectáculo.
+
+
 [09:16] Yo sé que muchos de ustedes ya han entendido la conexión aquí de filosofía de la tecnología.
+
+
 [09:23] Y entonces cuando nos entendemos que la vida es nuestro juego cósmico y que de verdad podemos hacer lo que queremos en nuestra vida porque es nuestro arte —y de eso hablo en el libro El arte de ser humano, de ser posthumanista, aunque no sean muy diferentes el arte de ser humano y el arte de ser posthumanista—.
+
+
 [09:53] Entonces cuando vamos entendiendo, entendiendo que nuestra vida es nuestro juego cósmico, también vamos a ver al Quijote como un grande maestro, porque El Quijote cuando ya se pone con su... cuando ya se pone muy muy casi casi que se muera al final de la del viaje de su vida, no está muy claro si él estaba loco o no, tal vez él siempre había sabido que era un juego y se lo había vivido al 100%.
+
+
 [10:35] Había batallado contra ese molino viento, pero sabiendo que era un molino viento.
+
+
 [10:42] Quiero decir todo eso por dos razones: la primera es esta, que vive en su vida al 100% como ustedes la ven, como ustedes la pueden imaginar, aunque sea su propio viaje, pero siempre nunca se olviden que es un juego.
+
+
 [11:05] ¿Cómo pueden no olvidar que es un juego?
+
+
 [11:09] Quedándose en el momento, parando.
+
+
 [11:14] Yo sé que eso es muy difícil porque es una sociedad de prisa, andando más más más rápido, más cosas, más trabajos, más riquezas, más más de todo.
+
+
 [11:26] Pero al final, ¿cuánto es bastante?
+
+
 [11:29] ¿Cuánto es bastante para usted?
+
+
 [11:31] ¿Cuánto es bastante para de verdad llegar al equilibrio de la vida?
+
+
 [11:36] A mí me gusta mucho este símbolo, que es el símbolo del dao, dos partes, pero hay una... no hay una división rígida y las dos no son puras, tienen una la otra, el micro es el Macro, el grande es lo pequeño.
+
+
 [12:12] Es una reflexión completa y con eso quiero acabar con una pequeña enseñanza del poshumanismo para que lo entiendan muy clarito.
+
+
 [12:26] El poshumanismo es una filosofía del siglo XX y que nos deja la posibilidad de entender qué significa ser humano hoy, no ayer y no mañana, ahora.
+
+
 [12:42] Y utiliza tres niveles.
+
+
 [12:49] El primero es un poshumanismo que significa que de verdad, para entender yo quién yo soy como ser humano, tengo que entender que todos los seres humanos somos múltiples.
+
+
 [13:00] Es una especie, para tener una especie necesita diversidad, pero también somos unos.
+
+
 [13:09] Segundo nivel es postantropocentrismo, la idea que ya no tenemos que ser los mejores, los más evolucionados, lo más más más, ya vamos a entender que somos parte de este planeta, estamos aquí y nos iremos, somos parte de esa tierra, somos fruto de esa tierra.
+
+
 [13:36] Miren, yo le mostré la florcita, pero aquí le muestro una flor un poquito diferente, es una flor tecnológica y aquí me siento para meditar.
+
+
 [13:52] Es muy lindo y no es muy iluminado, no el buda con el... y aquí con la pompa de agua de que me fuerza, que está conmigo.
+
+
 [14:15] Y también es una flor que está, que llega de la tierra y que se fue, otra flor somos nosotros y nosotras, somos frutos de la tierra, no estamos solo viviendo aquí.
+
+
 [14:26] Somos fruto de verdad, salimos de la tierra como esas plantas, como las raíces de esas plantas.
+
+
 [14:31] Así nosotros somos, miren, miren cómo están adentro de la tierra con sus raíces adentro de la tierra.
+
+
 [14:41] Y por el otro, ese posdualismo, que es la tercera parte del poshumanismo.
+
+
 [14:48] Hemos hablado de poshumanismo, postantropocentrismo, es postdualismo.
+
+
 [14:52] El postdualismo tengo otro enseñante aquí, miren qué maravilla.
+
+
 [15:05] Ahora migración, esas tal vez se van a ir a México, una migración.
+
+
 [15:10] Yo vivo en Nueva York, en estado Nueva York, cerca de Canadá, y esas se van a sur porque aquí va a ser muy frío entre poquito.
+
+
 [15:19] Entonces el posdualismo es de verdad entender que no hay nunca una separación rígida entre una parte y otra, entre el bien y el mal, entre nosotras y nosotros y los demás, porque sin lo demás nosotros y nosotras notaremos aquí, sin esta aire tan buena que estoy respirando yo no estaría aquí.
+
+
 [15:46] Como el dao, es siempre una conjunción.
+
+
 [15:49] Entonces yo voy a saludar a ustedes con una imagen, la del Quijote tecnológico.
+
+
 [16:06] La imagen de Quijote que se encanta hacer los video games sentadito en su cuarto, que le encanta sus videos, que le ponen el social media a ver los likes que recibe y que después cierra su computadora y se va andando y llega aquí y se sienta y se sienta aquí en el lugar natural tecnológico, nature culture, así como se dice en el campo de los estudios poshumanos, natura cultura, natura cultura, una palabra única.
+
+
 [16:48] Y se sienta, se queda en silencio y en el silencio encuentra el vacío y en el vacío encuentra a sí mismo.
+
+
 [17:06] Y así ya no tiene miedo de nada, ya vive su vida, ya vive su muerte sin miedo, el juego cósmico ya paró.
+
+
 [17:24] Yo le quiero muchísimo, que tengan una discusión maravillosa y nos vemos en mayo.
+
+
 [17:33] Muchas gracias, querido Rodrigo, querida Ana Laura, querido Tecnológico de Monterrey, querido México que quiero muchísimo.
+
+
 [17:48] >> Rodrigo Esparza Parga: Bien, buen, pues buen día, muchísimas gracias por acompañarnos.
+
+
 [17:53] Muchísimas gracias, Ana Laura, por la invitación, muchísimas gracias al equipo de la Cátedra Alfonso Reyes y pues muchísimas gracias a los dos Carlos, Carlos y Carlos.
+
+
 [18:03] Bien, me gustaría en primera instancia hacer una acotación porque quizá en ocasiones esto se presta a confusión, procurar ser muy breve para hacer este distingo entre el poshumanismo como lo entendemos desde el poshumanismo filosófico y el posthumanismo como se suele entender desde el transhumanismo.
+
+
 [18:29] Desde el transhumanismo, que es esta corriente de pensamiento que señala que a partir del uso de la aplicación de la ciencia y la tecnología en el ser humano podremos mejorar las condiciones de este y superar esos límites, esos... pues sí, limitantes inherentes digamos en términos físicos, en términos cognitivos y tal tal tal.
+
+
 [18:53] Y para el transhumanista, el posthumanismo sería este punto álgido, el colofón del transhumanismo, es decir, echamos mano de la tecnología, de la ciencia aplicada al ser humano y con ello canalizamos o direccionamos de forma voluntaria el proceso evolutivo y entonces con ello dejamos atrás esta condición de humanos y devenimos en algo que es postumano.
+
+
 [19:26] Entonces, hacer esa declaración porque el cómo se concibe el poshumanismo desde el planteamiento, por ejemplo, de Francesca Ferrando, de Rosi Braidotti, pues es distinto, evidentemente no hacen de lado la cuestión tecnológica, pero no sería esta suerte de panacea a la cual se recurre para solucionar todas las problemáticas humanas.
+
+
 [19:50] Permítanme, pero necesito hacer esto y tomar tiempo.
+
+
 [19:57] Okay, bien, hecha esa aclaración, pues vamos a empezar este ejercicio reflexivo, tenemos poco tiempo, tenemos 15 minutos más menos.
+
+
 [20:06] Entonces, más que una suerte de monólogo y de que yo venga a leer mi hojita y tal, me gustaría que hiciéramos un ejercicio reflexivo y pues vayamos, como decía un profesor en la facultad, filosofando en vivo.
+
+
 [20:23] Entonces, vamos a hablar de tres conceptos, como el título lo señala, El Quijote, la tecnología y el posthumanismo.
+
+
 [20:34] Yo pensé en tres conceptos fundamentales: el primero es el de la realidad, el segundo es el de la imaginación y el tercero es el de lo postumano.
+
+
 [20:47] Y cómo se vinculan estos tres conceptos a partir de una obra como lo es El Quijote y, por otra parte, una corriente filosófica que, posiblemente en una primera aproximación, podríamos decir, una cosa pues no tiene que ver con la otra.
+
+
 [21:03] La pregunta forzosa inicialmente pues es qué es la realidad.
+
+
 [21:07] Entonces, si nos preguntamos qué es la realidad, qué nos podríamos responder.
+
+
 [21:13] >> Participante (Emilio): Bueno, yo considero que es todo lo que podemos, bueno, o sea, me refiero a los sentidos, ¿no?
+
+
 [21:18] O sea, lo que podemos observar, lo que podemos, bueno, tocar, sí, básicamente.
+
+
 [21:23] Bueno, sería más bien como lo sensorial.
+
+
 [21:26] >> Rodrigo Esparza Parga: Muy bien, muchas gracias.
+
+
 [21:28] Tu nombre es, perdón...
+
+
 [21:29] >> Participante (Emilio): Emilio.
+
+
 [21:30] >> Rodrigo Esparza Parga: Gracias, Emilio.
+
+
 [21:31] Perdón, omití saludar también a la gente de los palcos que nos acompaña, muchas gracias por estar aquí.
+
+
 [21:38] Bien, la pregunta es qué es la realidad, señaló Emilio que lo percibimos con los sentidos.
+
+
 [21:45] Y entonces, cuando uno lee El Quijote, yo creo que inevitablemente cuando uno lo ha leído llega la pregunta, ¿esto es real o no?
+
+
 [22:03] ¿Por qué él ve molinos... perdón, esto, gigantes y Sancho ve molinos?
+
+
 [22:11] ¿Por qué él ve moros y el maestro maese Pedro pues ve sus marionetas, sus títeres?
+
+
 [22:23] Los sentidos.
+
+
 [22:25] Por acá nos compartieron... una de las cosas en las que me parece que Descartes pues no se equivocó fue cuando señalaba que los sentidos en ocasiones nos engañan.
+
+
 [22:41] Entonces, bueno, eso es nada más para que lo piensen, no vamos a llegar evidentemente a una conclusión y no se trata de eso, creo que en la filosofía lo último que buscamos son conclusiones.
+
+
 [22:53] Por otra parte, el posthumanismo, si se pregunta, como lo señaló Francesca Ferrando, qué es el ser humano y concretamente qué es el ser humano en el siglo XXI y asumimos que el ser humano está en la realidad, entonces de alguna forma estamos preguntando por esto.
+
+
 [23:12] Entonces ahí encontramos en primera instancia los primeros cruces, las preguntas sobre lo real, sobre lo que es el humano, o sea, una antropología filosófica.
+
+
 [23:30] Cuál sería ese, si lo hay, distingo particular que nos hace humanos.
+
+
 [23:37] Respuestas podemos encontrar muchos, hay quienes dicen que es el alma, la razón, el egoísmo, ser hijos de Dios, etcétera.
+
+
 [23:54] Y si dijéramos que fuese esto, la imaginación, capacidad de imaginar, porque a partir de la imaginación es que creamos mundos.
+
+
 [24:09] Ustedes están ocupando una silla, ¿cierto?
+
+
 [24:13] Sentados o sentadas en una silla, alguien imaginó esa silla, alguien imaginó este espacio.
+
+
 [24:24] Cuando saludamos a la gente que está en el en los palcos, voltearon a ver.
+
+
 [24:33] ¿Cuál es la conclusión de ello?
+
+
 [24:37] Bueno, creo que se entiende, a veces las palabras sobran.
+
+
 [24:42] Y finalmente, no vamos bien de tiempo, entonces esto también quisiera tocar la cuestión de la tecnología.
+
+
 [24:51] ¿Qué es la tecnología?
+
+
 [24:55] >> Participante (Gina): Pues yo considero que mejor como las creaciones humanas que conforme avanza, pues sí, el tiempo adquieren diferentes herramientas para crear nuevas cosas.
+
+
 [25:08] >> Rodrigo Esparza Parga: Muy bien, ¿tu nombre es?
+
+
 [25:11] >> Participante (Gina): Gina.
+
+
 [25:12] >> Rodrigo Esparza Parga: Gracias, Gina, muy bien.
+
+
 [25:16] Cuando suelo hacer esta pregunta en el aula, usualmente las respuestas van por el lado de son herramientas, es aquello que facilita nuestra vida y tal.
+
+
 [25:28] Rara vez he recibido respuesta, por ejemplo, en el sentido de son los libros.
+
+
 [25:35] Los libros serían tecnología, ¿no?
+
+
 [25:42] Bueno, esto son preguntas para que se las lleven, para que cuando lleguen a clase se las planteen a sus profesores —por allá hay otro profesor atrás—.
+
+
 [25:57] Entonces, podemos identificar varios puntos de encuentro entre el posthumanismo y la lectura del Quijote.
+
+
 [26:10] Finalmente, El Quijote también pues echa mano de sus herramientas, de su lanza, de su vestidura.
+
+
 [26:18] Al inicio, Quijote pasa días enteros leyendo, leyendo, leyendo, leyendo.
+
+
 [26:38] Libros, finalmente decide pues emprender este viaje y pues a lo largo de este ya saben la historia.
+
+
 [26:51] Creo que la lectura que podemos hacer del Quijote, de la tecnología y de lo postumano tiene muchos canales de encuentro, muchos puntos de encuentro más bien, y que inevitablemente pues nos invitan a reflexionar.
+
+
 [27:09] Y vuelvo a la pregunta inicial, a cuestionarnos qué es lo real.
+
+
 [27:14] ¿Qué es la realidad?
+
+
 [27:16] Es eso que está ahí, nosotros como seres humanos estamos ahí y desde esa realidad, echando mano de la imaginación, es que desarrollamos, construimos tecnología y con esa tecnología modificamos a su vez la realidad.
+
+
 [27:43] Y así cerramos el círculo de lo humano.
+
+
 [27:52] Finalmente, me gustaría hacer una suerte de distinción también entre esta realidad que podríamos llamar objetiva, que sería esto que es tangible, como podrían ser los molinos de viento, como podrían ser los títeres, como podría ser esa servidumbre que eventualmente El Quijote confunde con los enemigos, y la realidad subjetiva, que es la que cada quien experimenta en su interior.
+
+
 [28:30] Entonces cerramos la cuestión de la antropología filosófica o la cuestión de el eje central de la pregunta que nos compartía Francesca sobre el qué es el ser humano en el siglo XXI.
+
+
 [29:01] Y pues con esto me gustaría concluir, que nos quedemos con estas preguntas fundamentales: qué es la realidad, la imaginación y la tecnología.
+
+
 [29:13] Muchísimas gracias.
+
+
 [29:32] >> Carlos Astengo: Okay, buenos días, buenos días a todos, muchísimas gracias por la invitación.
+
+
 [29:38] La idea de mi presentación, a ver si funciona, a ver si la tecnología funciona, es hablar un poquito de El Quijote, vamos a destazar la obra, vamos a meterle un poquito de números, vamos a romperla, luego la vamos a tratar de reconstruir a partir de ciertas preguntas en términos este un poquito más filosóficos y nos vamos a ir hacia el final hacia la parte artística.
+
+
 [30:10] Entonces, bueno, algunos datos este duros, desde tenemos por ahí un cuadro hasta las dos publicaciones: El ingenioso hidalgo Don Quijote de la Mancha en 1605 y la segunda parte del ingenioso caballero Don Quijote de la Mancha en 1615.
+
+
 [30:26] Hay una obra intermedia por ahí, va a ser interesante después comentarlo.
+
+
 [30:33] Las aventuras toman 10 meses, hay quien dice que duran 2 años, hay algunos análisis que lo toman hasta 2 años de aventuras, hay quienes dicen son 10 meses.
+
+
 [30:48] Habría que tener un poquito de cuidado con con estos análisis, de hecho me dio un poquito de tristeza ver que la mayoría de los análisis son americanos, tenemos muy pocos latinoamericanos en términos de ciencia de datos con El Quijote.
+
+
 [31:03] Entonces, ¿qué tenemos?
+
+
 [31:05] Tenemos que en las aventuras hay tres salidas, hay una ruta que incluso es hasta comercial de 2,500 km y 1,480 municipios.
+
+
 [31:16] Sabíamos que el autor vendió los derechos, que tristemente solamente recibió el 10% de las ganancias de las primeras ediciones, de acuerdo.
+
+
 [31:24] De hecho, fue publicado la primera parte o bueno, el primer libro en cuatro partes y en cada una de ellas pues iba adquiriendo un poquito más de fama y pues se va a topar con diferentes tecnologías a lo largo.
+
+
 [31:46] Algo de análisis de datos: 26,945 caracteres, 1,694,248 sin espacios, o sea, caracteres sin espacios, tenemos alrededor de 378,396 palabras, 9,466 oraciones, 5,024 párrafos.
+
+
 [32:04] Algo interesante: 954 preguntas, así como hace ratito nos decías "vamos a dejar las preguntas", creo que es algo muy interesante el cómo, al hacer las preguntas, pues va creando todo el mundo, ¿no?
+
+
 [32:16] 693 exclamaciones, 8,166 puntos, 3,989 comas, 4,779 puntos y comas y 2,039 dos puntos.
+
+
 [32:28] Esto, los datos que estoy tomando es de González Andújar, es el único que he visto ahorita hispano que toca un análisis de los datos de El Quijote.
+
+
 [32:41] Lo primero que él dice es: "Tenemos un pequeño problema, El Quijote tiene más o menos como 200 adaptaciones".
+
+
 [32:52] De hecho me di cuenta cuando la obra me invitó hace ya algunos meses, ah, pues voy a ir a biblioteca, tomo El Quijote otra vez y lo vuelvo a releer y pues me voy dando cuenta de que nunca leí El Quijote realmente, porque el que yo había leído era más bien uno más castellanizado.
+
+
 [33:13] La verdadera obra está muy interesante, el lenguaje que utiliza es muy interesante, de hecho todavía no lo termino, pero ahí voy.
+
+
 [33:22] Hace un análisis de los sentimientos, de los sentimientos del Quijote, ¿qué es esto?
+
+
 [33:25] Es una técnica muy interesante donde para cada, vamos a llamarle pedacitos de oraciones —para no llamarle token ni nada por el estilo—, vamos a decir que si tiene ciertas características que pudiéramos decir que son positivas o son negativas o son neutras, para tratar de determinar el personaje si es más positivo, el sentimiento son positivos o negativos.
+
+
 [33:47] Y lo que empezamos a ver aquí es que nos lleva por un vaivén, entonces esto hace una obra muy rica, muy interesante, porque nos sube y nos baja, y nos sube y nos baja.
+
+
 [33:57] Y empezamos a ver un Quijote humano, no es el completamente virtuoso, no sería el paladín, el caballero andante que nunca se equivoca, sino también tiene sus equivocaciones y eso lo hace humano.
+
+
 [34:13] Y eso es muy interesante poderlo ver en gráficas como estas.
+
+
 [34:17] Tenemos las posiciones en el texto, desde pues Quijote prácticamente está en todo, Sancho, Dios, Dulcinea, Benengeli, que igual hace ratito nos comentabas de esta idea de si es real o no es real.
+
+
 [34:31] El mismo Cervantes juega con eso al decir, "oye, hay un autor aquí que se cuestiona si esto es real o no es real".
+
+
 [34:38] Entonces es interesante entenderlo igual como un personaje y qué tanto está en el texto.
+
+
 [34:44] En conteos de palabras hay 267 referencias así de la palabra Quijote, 245 de Sancho, entonces vemos que prácticamente están a la par.
+
+
 [34:57] 573 veces se utiliza la palabra caballero, 4,144 "verdad" y 292 caballeros.
+
+
 [35:05] Curiosidades: el nombre de Alonso Quijano sí está inspirado en una persona real, es el tío abuelo de su mujer.
+
+
 [35:14] La novela ha sido traducida a más de 140 lenguas y la primera traducción al inglés fue en 1608, que fue una traducción casi textual y por lo tanto no fue muy bien recibida.
+
+
 [35:29] En 1989 se vendió una copia en 1.5 millones de dólares.
+
+
 [35:36] Es una obra que tiene más de 14 películas, más de 200 adaptaciones —ya lo había dicho— y al año hay más de 1,000 referencias en publicaciones que citan directamente al Quijote.
+
+
 [35:50] Bueno, ¿cuál es la tecnología que pudiéramos...? O sea, ya destazamos El Quijote, ya lo vimos en términos numéricos, ahora vamos a hablar un poquito de la tecnología.
+
+
 [35:57] Entonces, en El Quijote, sí me gustaría tratar de ponerlos en términos históricos.
+
+
 [36:09] Si bien ya se conocía la Nueva España, pues todavía había algunas cosas que estaban por comentarse, por entenderse.
+
+
 [36:22] De hecho, por ejemplo, ya se había publicado el tratado de Copérnico, sin embargo Cervantes sigue utilizando a Ptolomeo, hace más referencias a Ptolomeo, de acuerdo.
+
+
 [36:34] De hecho tenemos ahí a Cervantes y tenemos a Kepler más o menos por la época.
+
+
 [36:37] De hecho, hasta después del segundo libro es cuando Kepler publica la segunda y tercera ley, y eso pues nos habla de los conocimientos que se tenían en ese momento de la ciencia y por ende de la tecnología.
+
+
 [36:56] En una de los pasajes, creo que lo mencionaste, lo del mono este, el astrólogo dice: "Ni su amo ni el alza ni saben alzar estas figuras que llaman jurídicas, echando a perder con sus mentiras e ignorancia la verdad maravillosa de la ciencia".
+
+
 [37:16] Entonces aquí él se enfrenta con esta idea de que, ojo, con Kepler es cuando se desmitifica la astronomía, o sea, nace la astronomía científica y se queda la astrología por un lado.
+
+
 [37:30] Aquí Cervantes sí lo toma diciendo que este mono que sí podía de alguna manera predecir o analizar las cosas.
+
+
 [37:42] Pero bueno, hasta cierto punto hay algunas otras algunos otros referencias hacia la astronomía, dice: "Dame tus nuevas, oh luminaria de las tres caras", haciendo referencia a la luna.
+
+
 [37:58] Luego, "aguarde hasta el alba que apenas dista 3 horas, porque la boca de la bocina está encima de la cabeza y hace media noche en la línea del brazo izquierdo".
+
+
 [38:07] Esto lo dice Sancho y básicamente está hablando de la Osa, de la Osa Mayor y simplemente si lo vemos a través del cielo, pues es la cola de la Osa la que se va moviendo.
+
+
 [38:23] En la última por ahí habla sobre el sol, "tú que siempre sales y aunque lo pareces nunca te pones a ti digo, oh sol con cuya ayuda el hombre engendra al hombre", entonces habla sobre sobre el sol, habla de que sale, se pone, etcétera.
+
+
 [38:40] Pero igual, o sea, esto no tendría nada que ver si es Copérnico o Ptolomeo, sino es simplemente la manera en que nosotros vemos nuestra realidad de que el sol sale y se oculta o se pone.
+
+
 [38:53] Sin embargo, también por ahí comenta de que este sol ya no se oculta porque sabíamos en ese momento que mientras en Europa era de día, pues del otro lado era de noche, etcétera.
+
+
 [39:07] Bueno, algunas otras curiosidades: por ahí se ha dicho de que las fechas de muerte de estos dos autores fue el 23 de abril, hay aquí algunos elementos interesantes.
+
+
 [39:19] Si lo pensamos en términos de tecnología y de ciencia, dicen que hasta el año 1582 occidente se orientaba con el calendario juliano y después el papa Gregorio XIII propuso este nuevo calendario, por lo tanto debería de ser el 23 de abril.
+
+
 [39:36] Sin embargo, en España la tradición dice que esa es el acta que se pone después de que se sepulta el cuerpo, es decir, que de hecho debió haber muerto Cervantes un 22 de abril, mientras que Shakespeare utilizaban otro calendario que haciendo las conversiones debería de ser el 3 de mayo de 1616.
+
+
 [40:02] Entonces por ahí tenemos algunas cosas curiosas, no por eso le llamamos curiosidades.
+
+
 [40:07] Nos vamos ahora un poquito más a cuestiones más interesantes, a la reconstrucción, al determinar que toda esta obra, toda esta ciencia que por ahí... bueno, de hecho valdría la pena comentar que en el Cervantes que Cervantes en El Quijote también habla de biología, habla de química, habla de ungüentos, habla de pociones, incluso habla de matemáticas, que en un ratito más veremos.
+
+
 [40:32] Y bueno, todos estos elementos pues son traídos por otros artistas como Cézanne, que tiene incluso dos obras, El Quijote de frente y El Quijote de espaldas.
+
+
 [40:46] Tenemos a Jules David, son algunos de los más icónicos, ¿no?
+
+
 [40:52] Pablo Picasso, quizás de los de los más conocidos.
+
+
 [40:57] El maestro Alfonso de Gallardo, 1970 y tantos —no tengo la fecha exacta de de esta obra—, pero bueno, este pintor jalisciense.
+
+
 [41:08] Y bueno, todas estas cosas han ido moviéndose.
+
+
 [41:10] Déjenme ver si lo podemos poner el play, si no si me ayudan por allá a poner play.
+
+
 [41:16] Ha habido cosas espantosas como esta.
+
+
 [41:55] Yo creo que ahí le cortamos.
+
+
 [41:58] Es decir, tenemos hasta un juego de Super Don Quijote, de acuerdo.
+
+
 [42:03] O sea, ha inspirado, a veces inspira para bien, a veces no para tan bien, verdad.
+
+
 [42:11] Este, bueno, les comentaba de la tecnología, incluso en el en el libro este, Don Quijote encuentra una imprenta y ve la tecnología que es y aprovecha para tirarle a Avellaneda como el libro pirata.
+
+
 [42:30] Es decir, no solamente la tecnología para el bien, sino también la tecnología para no tan bien, de acuerdo.
+
+
 [42:38] Quizás de nos faltaba un poquito más de derechos de autor por ahí.
+
+
 [42:44] Lo que sí es cierto es que en El Quijote Cervantes le tira tanto a Lope de Vega como a Pasamonte, y se cree que el autor de El Quijote de Avellaneda es Pasamonte, que era también un militar que también luchó y que también estuvo preso, etcétera.
+
+
 [43:01] Pero bueno, es interesante conocer que la tecnología nos puede ayudar para bien o para mal.
+
+
 [43:12] Bueno, quizás valdría la pena como retomar algunos de los elementos de Cervantes cuando habla, por ejemplo, de la matemática, dice: "Le han de traer ejemplos palpables, fáciles, inteligibles, demostrativos, indubitables" —creo que dice— "con demostraciones, no alcanzo a leer".
+
+
 [43:34] Entonces si si me equivoco por ahí me dicen, "con demostraciones matemáticas que no se puede negar, como cuando se dice, si de dos partes iguales quitamos partes iguales, las que quedan también son iguales", en que hace mención Euclides.
+
+
 [43:47] Entonces desde ahí empezamos a ver que Cervantes va metiendo y va metiendo el quehacer humano.
+
+
 [43:57] O sea, yo por ser matemático pues me fijo en la parte matemática, pero podríamos hablar de lo mismo de biología o podríamos hablar de lo mismo de química —aunque en ese momento era alquimia—, pero podría ser básicamente cualquiera de ellas, ¿no?
+
+
 [44:12] Dice el bachiller: "Licenciado, apearse y usar de vuestro compás de pies".
+
+
 [44:17] Luego en la parte de abajo habla sobre las razones demostrativas y con tantas figuras y demostraciones matemáticas.
+
+
 [44:24] Y de hecho hay una parte muy interesante cuando le están preguntando que qué es la caballería, que qué es todo esto, que dice él, es una ciencia, y dentro de la ciencia dice, "quien practicar la caballería andante ha de saber las matemáticas, porque a cada paso se le ofrecerá tener necesidad de ella".
+
+
 [44:43] Nuevamente, quizás con un poquito vislumbrando el futuro de que en el siglo XXI íbamos a hacer análisis de datos con su obra, ¿no?
+
+
 [44:52] Entonces aquí nos está hablando un poquito de eso.
+
+
 [44:57] Hablando más de tecnología, hay otro pasaje por ahí, el capítulo 62 creo que por ahí viene, sí, verdad, en la segunda parte, donde se topan con una cabeza parlante y pues no es otra cosa más que un pequeño engaño por ahí, pero es interesante el concepto.
+
+
 [45:15] Porque en ese entonces se manejaba mucho la idea de estos autómatas, estos seres que podían tocar piano o que podían contestar o que podían traer la cena de alguna manera, haciendo referencia a Hefesto cuando él decía, "yo tendría por aquí...", bueno, eran esclavos en ese momento.
+
+
 [45:38] Recuerden que robot también proviene de la palabra esclavo, que básicamente le podía hacer el trabajo duro a Hefesto, y básicamente lo que se trataba en ese entonces era tener estas cuestiones automáticas, a lo cual nosotros le llamamos hoy por hoy autómatas, o eso nos empieza a llevar hacia la inteligencia artificial.
+
+
 [45:58] Pienso comentar algunas de las cosas que ya muy bien lo hiciste, pero sí solamente rescatar algunos elementos.
+
+
 [46:06] Por ejemplo, en inteligencia artificial hay un enfoque muy interesante.
+
+
 [46:10] Bueno, de hecho hace ratito platicábamos que en 1956 se reunieron después de la Segunda Guerra Mundial y después de enterarse de que en el eje los nazis tenían ya planes de tener tanques y aviones que se pudieran manejar por por ellos mismos, se asustaron los aliados y se juntaron en 1956 en Dartmouth: Minsky, McCarthy, Shannon, y trataron de analizar lo que podía y no podía ser una máquina —todavía se llamaban computadoras—, pero bueno, una de este tipo de máquinas electromecánicas, ¿no?
+
+
 [46:48] Finalmente se acuña la palabra inteligencia artificial, llegan al acuerdo de que artificial es no humano, sin embargo no llegan a un acuerdo de qué significa inteligencia, y es lo que estábamos platicando hace rato.
+
+
 [46:59] Al menos hay ahorita cuatro posturas de qué significa ser inteligente: uno es pensar como humano, pensar racional, actuar como humano y actuar de manera racional.
+
+
 [47:10] En algunas de mis pláticas he dicho que si actúas racional y actuar como humano no debería ser lo mismo, les digo, pues nada más vean aquí en Monterrey llueve poquito y es un desastre.
+
+
 [47:20] Lo racional a lo mejor sería pasar un carro y un carro, pero sin embargo todos nos aventamos y hacemos un caos vial, entonces no es lo mismo.
+
+
 [47:27] Bueno, dentro de inteligencia artificial hay un enfoque que se llama agentes inteligentes.
+
+
 [47:34] ¿Qué es un agente?
+
+
 [47:35] Es cualquier entidad que percibe cosas de su medio ambiente, como nos lo comentabas hace ratito, los sentidos.
+
+
 [47:41] Entonces nuestros sentidos nos permiten determinar qué está sucediendo con el ambiente.
+
+
 [47:45] Ese ambiente que es externo a la gente empieza a constituir su realidad y entonces empezamos a cuestionarnos varias cosas: "Oye, ¿esa realidad es realmente la puedo conocer o parcialmente la puedo conocer, nunca la voy a conocer?".
+
+
 [48:02] Yo sé que son preguntas, se las vamos a dejar por ahí.
+
+
 [48:05] Incluso la parte de los sentidos, si nosotros podemos imaginarnos o tener una abstracción o una representación de nuestra realidad a partir de nuestros sentidos, pues qué pasaría si tuviéramos otros sentidos.
+
+
 [48:21] De hecho por ahí hay una pregunta muy interesante, al final nosotros vemos y escuchamos simplemente longitudes de onda.
+
+
 [48:29] Si existiera otro ser con órganos especializados, a lo mejor podría ver nuestros sonidos o escuchar nuestros colores, pero bueno, a eso nos iremos un poquito más para allá.
+
+
 [48:40] Bueno, entonces los robots, esta parte de inteligencia artificial nos empieza a llevar hacia la idea de lo que son los autómatas.
+
+
 [48:49] Ahí no me voy a meter mucho, pero por ahí si leen está la máquina de Turing, que es uno de los elementos interesantes ahorita que está de moda ChatGPT y que si cumplió o no cumplió la prueba de Turing, etcétera.
+
+
 [49:01] Eso es una máquina de estado finito desde el punto de vista matemático, pero bueno, básicamente lo que nosotros estamos tratando pensando en la cabeza aquella y pensando en todo eso es tratar de determinar, "oye, si yo tengo una cabeza que puede, vamos a suponer que no fuera trampa, pero que sí puede sentir lo que sucede en el mundo, puede actuar con ella, ¿esa cabeza sería inteligente o no sería inteligente?".
+
+
 [49:24] Y nos lleva, como todo en la inteligencia artificial, a cuestionarnos qué significa ser humano, qué significa realmente, por ejemplo, pensar, qué significa aprender.
+
+
 [49:36] De hecho, tengo, así como como lo decías, tengo una actividad tan sencilla que la podemos hacer ahorita, sobre todo con los jóvenes que nos acompañan aquí: ¿Cuántos años llevan aprendiendo de manera escolarizada?
+
+
 [50:01] Saquemos cuentas, sí, kínder, primaria, secundaria, preparatoria, 16, 17 años más o menos.
+
+
 [50:01] Okay, ¿qué significa aprender?
+
+
 [50:04] Llevamos 17 años, no me voy a meter en cuestiones de que aprendemos desde que estamos en el vientre materno, pero con 17 años escolarizados, ¿me podrían decir qué significa aprender?
+
+
 [50:21] La representación del conocimiento.
+
+
 [50:23] ¿Entonces un diccionario podría ser inteligente?
+
+
 [50:24] No, no es la acumulación de conocimientos, debe ser algo más.
+
+
 [50:28] Igual, dejamos las preguntas, no me voy a meter más.
+
+
 [50:31] Quizás para la otra sección, pero ¿qué significa aprender?, ¿qué significa pensar?, ¿qué significa ser consciente?
+
+
 [50:40] De hecho, también les sorprende mucho a mis alumnos cuando les digo, "ustedes están acostumbrados a ver máquinas que ya saben o que tienen un grado de conciencia", me dice, "no, yo nunca he visto eso", digo, "cómo no, una impresora tiene un grado de conciencia de se atascó en la puerta dos, ya se me acabó la tinta, hay grado de conciencia".
+
+
 [50:59] Oye, ¿eso dista mucho a un ser humano?
+
+
 [51:02] Sí, dista muchísimo, pero podemos empezar a entender lo que significa ser consciente y conciencia.
+
+
 [51:06] La otra conciencia, que no me voy a meter en bien y mal, la dejamos para otra plática.
+
+
 [51:11] Dentro de autómatas, ahora sí me gustaría poner un juego para hablar del poshumanismo y demás, un juego un poquito más moderno, del 2017, Nier: Automata.
+
+
 [51:23] Este es un juego muy interesante donde toca temas filosóficos, digamos.
+
+
 [51:30] Espero no spoilear o si alguien lo va a jugar puede retirarse, no es cierto.
+
+
 [51:35] Déjenme platicarles rápidamente: en algún momento llegan extraterrestres a la tierra, manejan las máquinas y las máquinas empiezan a acabar con la humanidad tipo Terminator, como lo quieran ver.
+
+
 [51:48] La humanidad huye a la luna, pasan algunos algunos cientos de años y la humanidad manda su contraataque con unos unos androides.
+
+
 [51:57] Los androides cuando llegan a la Tierra y empiezan a ver las máquinas, pues traen la idea o el propósito de acabar con estas máquinas para recuperar lo que era de la humanidad.
-[62:06] Sin embargo, cuando llegan se dan cuenta que la especie extraterrestre ya no existe, las máquinas han perdido su propósito y empiezan a ver que esas máquinas se parecen a seres humanos, empiezan a tener cierto, digámosle así de alguna manera, ciertos elementos de conciencia, ciertos elementos de empatía, ciertos elementos con lo cual ellos empiezan a cuestionarse, "bueno, ¿y qué significa ser humanos?".
+
+
+[52:06] Sin embargo, cuando llegan se dan cuenta que la especie extraterrestre ya no existe, las máquinas han perdido su propósito y empiezan a ver que esas máquinas se parecen a seres humanos, empiezan a tener cierto, digámosle así de alguna manera, ciertos elementos de conciencia, ciertos elementos de empatía, ciertos elementos con lo cual ellos empiezan a cuestionarse, "bueno, ¿y qué significa ser humanos?".
+
+
 [52:34] No quiero spoilear, pero voy a platicar nada más una parte, que en la luna tampoco hay humanos.
+
+
 [52:42] Entonces, más allá de los humanos y en un mundo de máquinas, ¿qué significaría entonces ser humano?
+
+
 [52:47] Y eso es básicamente los temas que toca por ahí.
+
+
 [52:51] De hecho hay un hay un robot muy interesante que se llama Pascal.
+
+
 [52:54] Hay algunos otros donde, si nos vamos a la parte del transhumanismo, donde partes mecánicas son cambiadas y de pronto ya no sé si soy o no soy la persona o soy o no soy una máquina, etcétera.
+
+
 [53:10] Son elementos que valdría la pena preguntar.
+
+
 [53:14] Laura me invitó por aquí para... creo que porque le empecé a mandar estas imágenes cuando salió todo lo de chatGPT y demás, le empecé a mandar algunas imágenes por ahí.
+
+
 [53:27] Vamos a ver cosas raras, como por ejemplo un dragón que no tiene cabeza, porque pues estábamos empezando con la inteligencia artificial y poco a poco, cuando uno va refinando los prompts y va tratando de encontrarle un mayor sentido, pues puede ir encontrando mejores representaciones de lo que podría ser la imagen que uno quiere, una imagen que llamara hacia El Quijote y llamara hacia los tiempos modernos y hacia la tecnología.
+
+
 [53:53] De hecho, creo que lo que le gustó fue que no pusiéramos solamente molinos, sino empezamos a utilizar ahí los aerogeneradores hasta obtener más o menos la que al final quedó en nuestra propuesta.
+
+
 [54:03] Sin embargo, les quiero enseñar las otras porque no me detuve ahí, seguí yo por ahí de terco y necio, y entonces empecé a obtener estas cosas, que también esa no me gustó, no se preocupen, pero me empezaron a gustar más estas, de acuerdo.
+
+
 [54:16] Quizás me dicen, "oye, ese no es El Quijote, ese es un Darth Vader o algo por el estilo", es válido, pero a lo mejor esa es la realidad de un nuevo Quijote, de acuerdo.
+
+
 [54:26] Bueno, hablábamos de tecnología, la tecnología puede ser desde la espada, desde la armadura, desde el libro, desde la propia letra.
+
+
 [54:34] Pero al final del día El Quijote trata mucho sobre el concepto de realidad, el concepto de locura, del concepto de los ideales.
+
+
 [54:46] Y aunque es muy debatido y hay gente que se opone a la manera en que los americanos hicieron El hombre de la Mancha y Man of La Mancha y todo lo demás, sí quería ponerles esta última parte, que es el final de esta película, donde quizá lo que muchos rescatamos de ahí es que la parte humana sigue siendo esta parte de tener ideales, esta parte de ser más de lo que soy en este momento y tratar de lograr mi propósito en la vida.
+
+
 [57:10] >> Rodrigo Esparza Parga: Voy a leer mi trabajo.
+
+
 [57:12] Se denomina... este está mejor, ya.
+
+
 [57:23] Mi trabajo se denomina Don Quijote en el antropoceno, ficción climática y metanoia para un mundo más que humano.
+
+
 [57:32] En mayo del año 2000, los científicos Paul Crutzen y Eugene Stoermer advertían en el boletín del Programa Internacional Geosfera-Biosfera que el planeta había dejado el holoceno —los últimos 12,000 años— y entrado en una nueva era geológica, el antropoceno, que quiere decir la era del humano, una denominación obviamente humanista.
+
+
 [57:53] Este término describe los efectos acumulados de las actividades humanas —por ejemplo, el uso de combustibles fósiles, la agricultura intensiva, la urbanización, etcétera— que están transformando el sistema tierra, efectos tales como el cambio climático, la pérdida de biodiversidad, la acidificación oceánica o los megaincendios.
+
+
 [58:16] El peligro principal del antropoceno es que tales impactos se intensifiquen y se interconecten a tal punto de crear una crisis existencial socioplanetaria.
+
+
 [58:27] Por ejemplo, hasta ahora siete de nueve límites planetarios ya han superado el denominado espacio seguro para la humanidad.
+
+
 [58:37] Además, se estima que 12 de 14 trampas evolutivas del antropoceno están en fases avanzadas y difíciles de revertir.
+
+
 [58:45] Y peor aún, la interacción entre límites planetarios o entre trampas evolutivas está generando un panorama inédito, ya que a menudo se refuerzan mutuamente creando ciclos de retroalimentación positiva que son negativos, que podrían estar llevando al planeta a un catastrófico e irreversible cambio de fase.
+
+
 [59:05] El antropoceno nos exige asumir nuestra responsabilidad —que es compartida aunque diferenciada— y actuar tanto individual como colectivamente.
+
+
 [59:13] Esto implica desafiar la narrativa dominante del antropoceno, es decir, el ecomodernismo y el concomitante negacionismo climático; identificar y abordar las causas raíz de este wicked problem o problema retorcido; e imaginar e implementar nuevas formas de organización económica, socioecológica y de gobernanza que promuevan formas de vida más que humanas sostenibles, convivenciales y justas.
+
+
 [59:42] En lo que sigue presentaré una serie de cinco transposiciones del personaje de Don Quijote, en donde la figura de Don Quijote... bueno, ubicándolo en el contexto del antropoceno, en donde la figura de Don Quijote adquiere una nueva relevancia; este inmortal caballero errante, símbolo de la lucha contra la injusticia y la búsqueda utópica, nos brinda un prisma valioso a través del cual podemos interpretar y responder a los desafíos del antropoceno.
+
+
 [1:00:13] Primera transposición: de la vida en el holoceno y el anhelo de una idílica edad de oro a la inmersión en el predicamento del antropoceno.
+
+
 [1:00:22] Las condiciones ambientales y climáticas del holoceno —básicamente estables y ordenadas y propicias para el desarrollo de las civilizaciones— contrastan con la preocupante realidad del antropoceno y la crisis civilizatoria que implica, y cuyos orígenes debemos identificar para enfrentarlo efectivamente.
+
+
 [1:00:41] Contra la narrativa dominante que atribuye la crisis de habitabilidad de la tierra a un antropos abstracto, debemos señalar un tipo específico de antropos como la causa raíz de nuestro predicamento, bajo cuyo ethos —capitalismo, patriarcado y jerarquías binarias— se ha establecido a lo largo de los últimos siglos una relación de dominio sobre la naturaleza y grupos marginalizados humanos y no humanos, mediante la globalización de infraestructuras materiales, institucionales y cognitivas basadas en la externalización de costos sociales y ambientales.
+
+
 [1:01:21] Eso es lo que algunos autores, Brand y Wissen, denominan el modo de vida imperial, un régimen global caracterizado por la acumulación incesante de capital y el crecimiento económico ilimitado a expensas de un otro que es explotado, ya sea la naturaleza o comunidades subordinadas, las mujeres por ejemplo.
+
+
 [1:01:41] Este sistema globalizado, basado en la extracción y consumo intensivo de recursos naturales y energéticos, utiliza la naturaleza como fuente inagotable de materias primas y como vertedero para los residuos.
+
+
 [1:01:56] Asimismo, explota la esfera de la reproducción social, empleando a las personas tanto como fuerza laboral como consumidores en un ciclo perpetuo de extracción y producción.
+
+
 [1:02:07] Además, este modo de vida se apropia de los bienes comunes y bienes públicos, privatizando lo que anteriormente era accesible para las comunidades, desde ecosistemas hasta servicios esenciales como el agua.
+
+
 [1:02:22] El resultado de este sistema es una policrisis que engloba la devastación ambiental, la desigualdad social y las crisis económicas que afectan profundamente tanto a las sociedades como al planeta.
+
+
 [1:02:35] Ahí estamos, o ahí estaría Don Quijote ahorita.
+
+
 [1:02:38] Segunda transposición: de la hipersubjetividad humanista a la hiposubjetividad poshumanista.
+
+
 [1:02:48] En el antropoceno, los humanos nos estamos enfrentando a una proliferación de objetos que son enormemente grandes y duraderos en relación con la escala de una vida humana.
+
+
 [1:03:01] Desde una postura poshumanista, es decir, postanropocentrista, Timothy Morton, un filósofo —el filósofo del antropoceno—, denomina estas nuevas entidades hiperobjetos: objetos masivamente distribuidos en el tiempo y el espacio en relación con los humanos y que desafían nuestra capacidad de enfrentarlos y entenderlos, entenderlos y enfrentarlos.
+
+
 [1:03:22] Ejemplos de hiperobjetos son el plástico, los materiales radiactivos, el poliestireno, los vasitos estos desechables, el sistema capitalista global o el cambio climático.
+
+
 [1:03:37] En esta reconceptualización del antropoceno como una época hiperobjetiva, es decir, caracterizada por la proliferación de hiperobjetos, Morton y otro pensador, Dominic Boyer, proponen el concepto de hiposujetos para describir el modo dominante de la subjetividad de la antropos del antropoceno.
+
+
 [1:03:58] Los hipersujetos son la materialización del humanismo con H mayúscula, el humanismo realmente existente —a lo mejor ya no hay tiempo para especular y seguir imaginándonos humanistas—; es real este humanismo realmente existente, es el colonial y racista en cuanto son individualistas los hipersujetos, posesivos, antropocéntricos, heteropatriarcales, especistas, cientificistas, todo la letanía, que creen en su capacidad para trascender y controlar a la naturaleza.
+
+
 [1:04:33] Además, los hipersujetos promueven valores universales, conceptos abstractos y narrativas hegemónicas, por lo que ignoran y violentan el sentipensamiento y el encuerpamiento situados, es decir, las especificidades de lo local y la pluriversalidad.
+
+
 [1:04:53] De los hiposujetos: si bien la complejidad del personaje de Don Quijote impide verlo reductivamente como un caso de hipersujeto, esta segunda transposición sirve más bien para mostrar un nuevo tipo de subjetividad posholocénica que está emergiendo en el antropoceno y que se opone a la hipersubjetividad.
+
+
 [1:05:12] Los hiposujetos, dicen Morton y Boyer, son aquellos sujetos, cito, "subcendentes más que trascendentes, que no pretenden tener el conocimiento absoluto ni el poder, que juegan, cuidan, ríen, se adaptan".
+
+
 [1:05:28] Las cualidades de los hiposujetos en términos antinómicos respecto al lenguaje de los hipersujetos son la insignificancia, la debilidad, la falta de conocimiento y la falta de agencia.
+
+
 [1:05:42] Émulos de Bartleby, encarnan una política menor y se valen de tácticas deuzusianas para enfrentar los retos del antropoceno, tales como la desterritorialización, las líneas de fuga, la afirmación de la diferencia, la horizontalidad y lo rizomático y la microrresistencia.
+
+
 [1:06:26] Utilizan el repertorio de estas estrategias de la política menor.
+
+
 [1:06:30] Si Don Quijote queda empatado en el número de batallas que pierde y que gana según el conteo de Nabokov, nuestro desafío es obviamente en cambiar ese empate a nuestro favor —nuestro entre comillas— favor.
+
+
 [1:06:40] A diferencia de los tipos de batalla de Don Quijote, geocirconscritos y bajo la ilusión de la recuperación de los ideales caballerescos o humanistas, las batallas por el cambio ecosocial implican —tomando el título de una novela de Houellebecq— una ampliación del campo de batalla.
+
+
 [1:06:59] La lucha es ahora supraterrenal.
+
+
 [1:07:16] Lo no humano en el planeta tierra también es jurídica, la lucha por la justicia ambiental, por los derechos de los pueblos originarios o por los derechos biosféricos, no solo de humanos y demás seres vivos, sino los de un mundo más que humano que incluye entidades tales como los ríos, las montañas o los glaciares.
+
+
 [1:07:37] El ámbito de la lucha es también cognitivo, contra la ideología despolitizadora del realismo capitalista a la Mark Fisher, que afirma que no hay alternativa a la hipersubjetividad y su modo de vida imperial; contra el negacionismo climático y contra la neolengua a la Orwell también climática, con palabras como adaptación, resiliencia, que habría que desterrar de nuestro vocabulario, otro a la Juan Juan cariño, ¿no?
+
+
 [1:08:10] Recuerdos del porvenir.
+
+
 [1:08:12] Cuarta transposición: de personaje literario a sujeto político colectivo.
+
+
 [1:08:18] La figura literaria de Don Quijote es un paradigma de ser humano, soñador, utopista, luchador y justiciero, cuya lucha, es decir, su oficio y ejercicio, es andar por el mundo enderezando tuertos y desfaciendo agravios, una visión que ahora trasciende la especificidad geográfica e histórica de la novela y resuena con plena vigencia en el contexto del antropoceno.
+
+
 [1:08:45] Por supuesto, el individualismo heroico del caballero andante deviene hoy en un esfuerzo colectivo e hiposubjetivo de lucha contra la policrisis del antropoceno.
+
+
 [1:08:57] La figura actualizada de Don Quijote es así la del sujeto político colectivo, definido como un grupo de individuos que se unen para actuar como una fuerza política unificada, sin implicar una esencia identitaria común.
+
+
 [1:09:11] Tal formación política a menudo se basa en intereses, experiencias u objetivos compartidos y proporciona un marco para la acción colectiva y el compromiso político.
+
+
 [1:09:21] Al operar desde una política menor, sus integrantes ejercen y desarrollan su hiposubjetividad.
+
+
 [1:09:29] Existen diversas formas —por si se quieren anotar— del sujeto político colectivo: uno, los grupos de afinidad, individuos que comparten intereses, valores, experiencias comunes, como los activistas climáticos, los defensores de la justicia ambiental, los desplazados ambientales, las comunidades de transición, grupos de votantes o de vecinos, o grupos de lectura y cultura para el antropoceno, ustedes pudieran implementar.
+
+
 [1:09:58] Número dos, los movimientos sociales, como la descolonización, la justicia indígena, el decrecimiento o la colapsología —próximamente vamos a tener un colapsólogo famoso aquí en la cátedra—.
+
+
 [1:10:10] Y número tres, las revoluciones, la culminación de las acciones y batallas del sujeto político colectivo mediante la ruptura radical con el orden establecido, es decir, el modo de vida imperial y su gobernanza biopolítica neoliberal.
+
+
 [1:10:30] Quinta transposición: de la lectura de libros de caballería a la lectura de ficción climática.
+
+
 [1:10:36] En Don Quijote, Cervantes reitera a lo largo de toda la novela la idea de que la lectura de novelas de caballería ha conducido a Alonso Quijano a una santa locura, como dice Sancho, que le transforma la vida a tal punto de cambiarse su nombre por el de Don Quijote de la Mancha y a emprender a curas caballerescas guiado por un idealismo que a veces choca con la realidad.
+
+
 [1:11:02] Como curiosa coincidencia, en el entremés de Los romances, una de las partes de las comedias de Lope de Vega y otros, publicada en 1612 entre las dos partes, se dice que Bartolo, el protagonista, cito, "de leer el romancero ha dado en ser caballero por imitar los romances, y entiendo que a pocos lances será loco verdadero".
+
+
 [1:11:26] Este efecto de profunda transformación personal en griego —en el Nuevo Testamento se tradujo... se pone como metanoia o arrepentimiento, malísima traducción— es cambio de mente generado por la lectura, como la de Don Quijote, la de Bartolo, lo encontramos también en Noches blancas de Dostoievski, en Madame Bovary, en Esteban Hero de Joyce o en el protagonista epónimo de Stoner, la novela perfecta, así le dicen, de John Williams.
+
+
 [1:11:56] El desafío del antropoceno exige un cambio ecosocial profundo, el cual necesita inevitablemente de individuos que estén preparados para participar en las luchas socioecológicas habiendo pasado posiblemente por un proceso de metanoia en sus vidas.
+
+
 [1:12:11] Aunque la metanoia puede tener múltiples causas, en este contexto nos centraremos en el poder de la lectura como un catalizador de procesos metanoicos ecosociales.
+
+
 [1:12:33] En esta quinta transposición, la lectura se desplaza del género de la novela caballeresca al de la ficción climática, que explora los impactos potenciales o reales del cambio climático o de las crisis socioecológicas en general en los individuos, las sociedades y el planeta.
+
+
 [1:12:51] El valor de la ficción climática, al tejer narrativas imaginativas sobre las policrisis del antropoceno, es el de poder ir más allá del pensamiento convencional, expandir horizontes y cultivar la empatía hacia quienes sufren sus consecuencias.
+
+
 [1:13:07] En este contexto, el concepto de imaginarios socioecológicos adquiere una importancia vital.
+
+
 [1:13:14] Los imaginarios abarcan el conjunto de ideas, creencias y valores compartidos que moldean la percepción y comprensión del mundo por parte de un grupo o una sociedad.
+
+
 [1:13:23] Funcionan como marcos interpretativos que permiten a las personas dar sentido a sus experiencias, entender los acontecimientos y orientar sus acciones.
+
+
 [1:13:32] Es decir, los imaginarios socioecológicos juegan un papel crucial al influir en cómo los individuos y las comunidades perciben una situación dada, imaginan futuros posibles —desde apocalípticos hasta florecientes— y definen sus estrategias de acción.
+
+
 [1:13:50] Ahora bien, si cada uno de los conceptos de sujeto político colectivo, ficción climática e imaginarios socioecológicos desempeña un papel importante en sí mismo, es en su interrelación la que potencia su valor intrínseco y los vuelve más productivos para moldear percepciones, influir en comportamientos e impulsar la acción ecosocial colectiva.
+
+
 [1:14:14] La ficción climática puede influir en los imaginarios sociales al generar nuevas ideas y perspectivas, lo que motiva la acción de sujetos políticos colectivos.
+
+
 [1:14:23] Esta interacción crea un ciclo donde la narrativa climática fomenta la conciencia y reflexión crítica, y las acciones colectivas reconfiguran los imaginarios socioecológicos, desafiando narrativas dominantes y proponiendo visiones alternativas del futuro.
+
+
 [1:14:39] Esta sinergia impulsa el empoderamiento, la movilización y eventualmente el cambio ecosocial.
+
+
 [1:14:49] Termino con dos frases que expresan la relación con la lectura y la transformación personal y del mundo, el valioso devenir otros al que nos puede conducir la lectura y llevarnos a responder activamente al predicamento del antropoceno.
+
+
 [1:15:05] Baumgartner, la novela póstuma de Paul Auster del año pasado, el personaje también epónimo dice que si una historia te cambia la vida, importa si es verdad o no.
+
+
 [1:15:19] Y Alejo Carpentier en su prefacio a la edición cubana de 1960 de Don Quijote escribe: "Es posible hacer entrar la ilusión en la realidad, la bondad en la vida, la verdad y la justicia en el mundo".
+
+
 [1:15:44] Muchas gracias... a menos que tuviera 2 minutos, ya no... se acabaron, sí.
+
+
 [1:15:59] >> Rodrigo Esparza Parga: Muy bien, pues muchísimas gracias a ambos Carlos, su participación.
+
+
 [1:16:04] Me gustaría que más bien, prefería que más bien ustedes si tienen alguna pregunta, alguna inquietud, no la compartieron.
+
+
 [1:16:21] Pónganle voz al pensamiento.
+
+
 [1:16:25] Cinco, cuatro, tres, dos... alguien dijo yo por allí atrás.
+
+
 [1:16:29] Alguno del profesor...
+
+
 [1:16:50] >> Participante: Digo, me parece muy interesante la relación entre El Quijote, la novela y el antropoceno.
+
+
 [1:17:03] Y bueno, pues digamos, pudiéramos hablar de, como menciona usted, de una crítica a la modernidad, verdad, en relación con la idea de progreso, que bueno, pues se tiende a pensar que el progreso científico es el progreso, no sé, cultural, humano, ético, cuando pues muchas veces no es así, verdad.
+
+
 [1:17:33] Y como menciona usted, me agradó mucho esta situación de hablar de los otros culturales o las otras culturales y y sobre todo esta mención que hace usted de la naturaleza como un otro, porque me recordó al ecofeminismo, verdad, esta postura filosófica y literaria de muchas escritoras, pensadoras, que encuentran un paralelismo entre la explotación y el maltrato, la violencia de los cuerpos de las mujeres con la explotación, el maltrato de la naturaleza.
+
+
 [1:18:23] Y bueno, este paralelismo pienso yo que se basaría un poco en que tanto el cuerpo de las mujeres como la naturaleza pues son materia, no sé qué nos pueda decir en relación con esto.
+
+
 [1:18:38] >> Rodrigo Esparza Parga: Gracias.
+
+
 [1:18:41] Sí, gracias por la... por un lado, el progreso es la ideología del modo imperial de vida del capital, es el señuelo que nos pone para jugar el juego, aunque cada vez más, por obvias razones, ya esa ideología ha perdido un poquito de fuerza, pero no la venden y la compramos por de muchas de muchas otras maneras.
+
+
 [1:19:11] Respecto al segundo comentario, bueno, hay que reconocer la raíz de esta otra ideología en Roger Bacon... ah, se me fue el nombre de lógica... Francis Bacon, Francis Bacon.
+
+
 [1:19:27] Francis Bacon en una en una parte, una frase muy famosa dice que hacer ciencia —tenía el concepto que tenemos ahora de ciencia—, hacer ciencia es como dice, violentar a la naturaleza, pegarle, golpearle como a una mujer para que diga sus verdades, las verdades científicas.
+
+
 [1:19:53] Ese grado de violencia se transmite hasta ahorita.
+
+
 [1:19:56] Entonces sí, sí, el ecofeminismo, cualquier, bueno, el feminismo en general, muchos movimientos recuperan esta idea, verdad, y nos las hacen ver, es decir, así no, así no se... así no se ve.
-[20:08] Entonces sí implica ver este concepto de otra edad para salirse, hacernos, porque uno de los valores o vaya características de este antropos, de lo que somos casi todos, es el "nosotros", que se utiliza mucho en en el discurso de de la sostenibilidad y del antropoceno.
+
+
+[1:20:08] Entonces sí implica ver este concepto de otra edad para salirse, hacernos, porque uno de los valores o vaya características de este antropos, de lo que somos casi todos, es el "nosotros", que se utiliza mucho en en el discurso de de la sostenibilidad y del antropoceno.
+
+
 [1:20:31] "Nosotros", así se nos llena la boca de agua, "nosotros podemos solucionar el problema, nosotros vamos a hacer esto", y ese "nosotros" es un pronombre en tercera persona personal, en tercera personal, politizado o de despolitización, porque nos hace ver o nos hace quiere hacer creer que nosotros —yo, tú, tú, así— somos responsables del problema y tenemos la solución, y no es tan fácil, no es tan fácil.
+
+
 [1:21:07] Carlos, pregunta: ¿De qué manera, por una parte, qué te llevas de esta conversación, de este pequeño, de esta interacción y cómo sintetizas eso de lo tecnológico, de El Quijote, de lo postumano?
+
+
 [1:21:32] >> Carlos Astengo: Okay, gracias.
+
+
 [1:21:35] Este, ¿qué me llevo de la de de esta interacción?
+
+
 [1:21:39] Creo que muchísimas preguntas, muchísimas preguntas, la verdad.
+
+
 [1:21:44] Muchísimas gracias por sus intervenciones, me gustaron bastante.
+
+
 [1:21:49] Sí me llevo bastantes, bastantes preguntas.
+
+
 [1:21:52] Creo que algo algo interesante aquí que nada más me quedo pensando es que a veces le echamos la culpa a la ciencia o a la tecnología.
+
+
 [1:22:07] Creo que hacías la pregunta, "¿qué nos hace ser humanos?", y quizás una de las respuestas, no la única, pero quizás una de ellas es la capacidad de preguntarnos.
+
+
 [1:22:16] Y esa capacidad de preguntarnos es la ciencia, la ciencia en sí te dice, "me puedo ir acercando a eso que creo que es mi realidad, pero que nunca voy a terminar de conocer".
+
+
 [1:22:30] Sin embargo, esa es la ciencia.
+
+
 [1:22:33] El científico es otra cosa, el científico sí debería de analizar, o sea, es válido hacerse cualquier pregunta en ciencia, pero como científico yo tengo que tener una responsabilidad con mi entorno, con mis otras personas, con mi naturaleza, con mi realidad y determinar si el método que estoy haciendo para contestar esa pregunta perjudica o no a eso que estoy haciendo.
+
+
 [1:23:01] Eso creo que tendríamos que analizarlo.
+
+
 [1:23:04] Y esa tecnología, esa manera de tratar de contestar las cosas es la que de pronto nos mete en todos estos elementos que yo celebro que se estén dialogando.
+
+
 [1:23:18] Creo que es importante tener estos lugares donde podamos cuestionar, porque nuevamente es la parte de hacer ciencia, es la parte de hacer filosofía.
+
+
 [1:23:26] De hecho, en algún momento la filosofía y la ciencia era lo mismo, pero bueno, el podernos preguntar las cosas, ¿qué es eso de tecnología?
+
+
 [1:23:35] Bueno, pues le podemos poner diferentes sinónimos, como bien lo comentabas hace ratito.
+
+
 [1:23:41] Creo que algo interesante es que si lo veo como una herramienta, pues esa herramienta puede ser para bien o para mal, entonces hay que tener cuidado de cómo la utilizamos.
+
+
 [1:23:51] Y en la parte del posthumanismo y del transhumanismo, igual ahí valdría la pena determinar hasta dónde esa tecnología que yo pueda utilizar o que me la pueda poner o que la puedo... que me pueda transformar a mí mismo me quita o no mi esencia de ser humano.
+
+
 [1:24:08] Eso sería.
+
+
 [1:24:10] >> Rodrigo Esparza Parga: Bien, muchísimas gracias.
+
+
 [1:24:13] Pues considero que es fundamental que en un espacio como lo es el Tecnológico se aperturan estas diálogos, se abran estas discusiones y se cuestione el quehacer científico, el quehacer tecnológico, porque es fundamental.
+
+
 [1:24:30] Y yo celebro sobre manera pues que estén aquí estudiantes, que estén profes, que se organicen estas paneles y que podamos desde adentro hacer la reflexión, que es fundamental.
+
+
 [1:24:48] Me parece que como tecnológico tendríamos ya que tener una academia de filosofía de la tecnología, de filosofía de la ciencia ya muy bien consolidada.
+
+
 [1:25:01] Y bueno, espero que estos sean los primeros pasos hacia que esto realmente se conforme y se consolide y sea un Pilar fundamental y sólido dentro del Tec de Monterrey.
+
+
 [1:25:18] Profesor Carlos, ¿alguna conclusión que nos compartas?
+
+
 [1:25:24] >> Carlos García: Pude leer un tiempo, pero no pude mencionar un ejemplo que lo voy a mencionar ahora por cuestiones de tiempo en el texto, que es la película Noche de paz —Silent Night se llama en inglés, está en Netflix, se la recomiendo mucho— porque ejemplifica muchas de las ideas del texto.
-[1:25::50] El protagonista es un niño que se enfrenta a esos problemas del antropoceno, a un desastre y una solución biopolítica muy necrofílica.
+
+
+[1:25:50] El protagonista es un niño que se enfrenta a esos problemas del antropoceno, a un desastre y una solución biopolítica muy necrofílica.
+
+
 [1:26:03] Un niño, un niño como un hiposujeto, como un ejemplo de hiposujeto, quien da la cara, le reclama a los papás, a la Greta Thunberg y decide vivir, vivir y luchar contra el desastre.
+
+
 [1:26:25] Es muy muy rica película para estos temas y bueno, muchas gracias por atender esto.
+
+
 [1:26:33] >> Rodrigo Esparza Parga: Pues muchísimas gracias, Ana Laura.
+
+
 [1:26:34] Muchísimas gracias, profesores Carlos, Carlos.
+
+
 [1:26:37] Y muchísimas gracias a ustedes por acompañarnos en esta ocasión.
+
+
 [1:26:40] Hasta la próxima.
