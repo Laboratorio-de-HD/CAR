@@ -1,0 +1,763 @@
+﻿[00:36] Muy bien, pues en primer lugar agradecer muy sinceramente esta invitación al Tec de Monterrey y a la cátedra Alfonso Reyes para pronunciar esta plática, esta conferencia con todos ustedes y sobre la revolución tecnocientífica, que de alguna manera íntegra en particular a Silvia Garza, que es quien me ha invitado más directamente por todas sus atenciones y amabilidad.
+
+
+[01:05] Esta conferencia íntegra de alguna manera este libro reciente que publiqué el año pasado en el Fondo de Cultura Económica. integra líneas de investigación mías de filosofía de la ciencia, por un lado, y de las nuevas tecnologías de la información y de la comunicación. Entonces, a esto lo llamo.
+
+
+[01:21] La revolución tecnocientífica. Si empezamos ya a proyectar las transparencias, háganse mientras tanto idea de lo que podía ser este terreno hace en 1904 h o sea en 1904 lo que podía lo que podía hacer esta zona donde está ubicado este espléndido campus, lo que lo que era México en aquel momento o cuál era la.
+
+
+[01:49] Relación de fuerzas internacional en 1904, ¿no? O sea, antes de la Primera Guerra Mundial, y antes pues no sé, de que Einstein publicara su artículo, sus artículos sobre la teoría de la relatividad, en 100 años los cambios han sido impresionantes a a nivel local, o sea, es decir, aquí está este.
+
+
+[02:10] Campus y están también todas estas dotaciones, estas conexiones a internet en lo que es el primer entorno, digamos, el suelo y,  y la naturaleza que todavía está presente en este campus, el propio el campus universitario más luego el campus virtual. Estos son los tres entornos, un ejemplo de los tres entornos de los que yo hablo. Y si.
+
+
+[02:29] Pensamos a nivel global, a nivel mundial, los cambios en las relaciones de fuerza son impresionantes, quizá el más significativo es el predominio claro, de los Estados Unidos de América a nivel mundial en múltiples facetas. Entonces, ¿qué ha sucedido? .
+
+
+[02:48] Pues la respuesta es muy sencilla. Ha habido una revolución tecnocientífica. y esto es, esta es la causa que explica y que da razón de este inmenso cambio. Y esta revolución.
+
+
+[03:00] Tecnocientífica también ha llegado a México y en concreto el Tec Monterrey la lidera, es una de las agencias tecnocientíficas más relevantes en este país y por lo tanto sí me pareció oportuno hablar de esta cuestión. Bien, entonces como filósofo, de todos modos, como filósofo de la ciencia, pues cuando hay mucha gente, luego lo.
+
+
+[03:22] Veremos, que habla de tecnociencia, pero yo he intentado clarificar mínimamente el concepto de tecnociencia, o sea, es una propuesta conceptual. la, en primer lugar revolución.
+
+
+[03:36] Revolución alude revoluciones científicas. El libro de Kuhn, la estructura de las revoluciones científicas. La idea es que la revolución tecnocientífica se supone.
+
+
+[03:47] O parte de un cambio en la estructura de la práctica científica, o sea, de la actividad científica, no del conocimiento científico. Las teorías científicas siguen siendo las de principios de, del siglo XX, digamos, bueno, las que emergieron allí, la teoría de la relatividad, la mecánica cuántica, la teoría de conjuntos que.
+
+
+[04:10] Estaba surgiendo. Ha habido novedades también en el ámbito del conocimiento, pero no propiamente revoluciones como fue la revolución científica del siglo X. Mientras que en cambio, si hablamos.
+
+
+[04:20] No de conocimiento científico, no solo de conocimiento científico, sino de actividad científica, ahí es donde se ha producido un cambio radical en la en la propia estructura de lo que hacen los científicos y también de lo que hacen los ingenieros. Entonces, a esto se es a lo que llamó revolución tecnocientífica.
+
+
+[04:37] Y el modo de hablar de ella es hablar de investigación, desarrollo e innovación. o sea, entonces, digamos, el hecho de que ya no solo se trata de investigar, sino que además hay que generar desarrollos tecnológicos y,  y de todo ello se deriva se debe conviene que se deriven innovaciones que se implanten en el mercado, en el.
+
+
+[05:00] Ámbito empresarial, en la sociedad. Este no estaba presente en los científicos de 1904. mientras que cualquier científico ingeniero de del 2004 lo tiene perfectamente presente. .
+
+
+[05:13] Entonces esto resume bien la idea. Bien, una segunda línea de fuerza es que así como la ciencia y la ingeniería del siglo de finales del XVI, que es cuando se constituyen estas profesiones y sobre todo en el 19 estaban profundamente vinculadas a la sociedad industrial, al desarrollo de la de la civilización industrial. es las.
+
+
+[05:34] Tecnociencias están estrechamente vinculadas también, pero no a la industrialización ni a la sociedad industrial, sino a esta nueva modalidad de sociedad que se llama sociedad de la información y del conocimiento. Y ya un poco, digamos, si hacemos una pequeña cronología, luego entraré con más detalle en ella. la idea es que surge.
+
+
+[05:56] Esta la primera fase. Hay dos fases, yo distingo dos fases en la revolución tecnocientífica. La primera es se produce en la época de la Segunda Guerra Mundial y se produce fundamentalmente.
+
+
+[06:08] En los Estados Unidos de América, en la época de la guerra. o sea, es decir, y esto es importante tenerlo presente, son los macroproyectos de los cuales pondré de investigación, de los cuales pondré ejemplos ulteriormente y posteriormente este enorme cambio en tiempos de guerra, pero que luego.
+
+
+[06:27] Tras el informe de Vannevar Bush al presidente Roosevelt permaneció esta nueva estructura de la práctica científica permaneció en tiempos de paz, pues esta forma de organizar la investigación y muchas más cosas, como luego veremos, se ha ido difundiendo a otros países, o sea, la Unión Soviética tuvo también big science, algunos países europeos, el CERN europeo de 1952.
+
+
+[06:54] Esto ha ido avanzando, digamos, no por todo el planeta, pero sí por buena parte de él. Desde luego sí ha llegado a México, como también llegó a España. En España, digamos, este tipo de nueva.
+
+
+[07:05] Estructura se instala a partir de finales de los años 70, principios de los años 80. Antes no. Y y bueno, se trata de ver un poco así como la ciencia moderna, la ciencia newtoniana de.
+
+
+[07:17] Galileo, etcétera, se fue difundiendo por distintos países, ¿no? Y esto es el desarrollo de la revolución científica, pues se trata de comentar en este libro y analizar de qué manera esta revolución tecnocientífica se ha ido expandiendo por diversos países.
+
+
+[07:32] La segunda fase, tras una crisis en la de la Big Science, sobre todo de la de la Big Science militarizada en los años 6575, lo que se llama mayo del 68, la revuelta en los campus universitarios de California y también en campus europeos, precisamente contra la militarización de la de la tecnociencia en aquella fase.
+
+
+[07:55] A partir de los años 80 se produce con la administración Reagan una reestructuración de la Big Science y se da la iniciativa hasta entonces la iniciativa la había tenido el gobierno, el sector público. Entonces, a partir de los años 80, la iniciativa fundamental la tiene el sector privado, siguen los macroproyectos gubernamentales, pero la.
+
+
+[08:17] Tecnociencia crece sobre todo en el sector privado. Y digamos la gran, por resumir la idea, en Estados Unidos en este momento las inversiones en I + D + I son mayores del sector, bastante mayores, un 70% del sector privado y un 30% solo del sector público. Pues bien,.
+
+
+[08:35] En este momento, o sea, digamos como un indicador, como un modo de describir. En ese momento es cuando cabe hablar de tecnociencia propiamente dicha o de la segunda fase de la de la revolución tecnocientífica.
+
+
+[08:49] Otra última idea en este primer panorama es que así como las relaciones entre ciencia y sociedad pues eran buenas, los científicos eran gente singular que estudiaba cosas muy abstractas, un Einstein, nadie tenía nada contra Einstein o contra Mendel, vamos a suponer, ¿no? era eran gente pues que se ocupaba de.
+
+
+[09:09] Problemas ligados al saber, al conocimiento, o sea, que tenían en principio una buena aceptación social, no mucho prestigio, o sea, es decir, ser científico en el siglo XIX o a principio del siglo XX, pues bueno, era una profesión, entre otras, pero desde luego no la más relevante socialmente y lo mismo diría de ser ingeniero, mientras que el prestigio, conforme surge la tecnociencia, el prestigio social de los científicos y de los ingenieros crece. enormemente. Pero.
+
+
+[09:38] La sociedad en cambio comienza a desconfiar de los expertos. Es decir, que la buena relación ciencia sociedad, que en general cabe decir que había durante la época de la ciencia moderna, cambia también radicalmente. Es otro.
+
+
+[09:51] Aspecto de la revolución tecnocientífica. Y bien, y por último, que no es utilizo y luego lo explicaré, el término revolución en un sentido diferente al de Kuhn y es interesante comentar eso también.
+
+
+[10:05] Bien, para seguir entonces con la siguiente transparencia, la cronología, ya lo he dicho, o sea, Segunda Guerra Mundial, big science como primera forma de la tecnociencia, luego la Unión Soviética, pongamos el lanzamiento del Sputnik como lo más ilustrativo de la de la macrociencia o megaciencia soviética algunos países europeos.
+
+
+[10:29] Me interesa mucho el momento en que esto fue teorizado. entonces es muy interesante tener en cuenta que el teórico de la de esta revolución, desde mi punto de vista, no fue un filósofo, sino que fue un científico, o sea, fue Vannevar Bush en su informe al presidente Roosevelt, The Endless Frontier. Y hay.
+
+
+[10:49] Otro libro a destacar, el de Derek de Sola Price, Little Science, Big Science, de 1962. Digamos, estos son las primeras personas que, a mi entender, se dieron cuenta y teorizaron y escribieron y publicaron sobre este cambio del que estoy hablando. desde el punto de.
+
+
+[11:05] Vista del desarrollo de la tecnociencia en la primera fase, en los años 50, 60, y posteriormente también, e, a mi entender es clave para interpretar lo que fue la Guerra Fría. La Guerra Fría desde mi punto de vista la entiendo como una contienda tecnocientífica. en donde la.
+
+
+[11:25] Unión Soviética y los Estados Unidos se enfrentaron finalmente esta batalla tecnocientífica. luego veremos lo que es tecnociencia y se entenderá mejor lo que estoy diciendo ahora. la ganó.
+
+
+[11:38] Estados Unidos y, y pero bueno, es importante, por lo tanto, que esta revolución tecnocientífica incluso desarrolla permite interpretar un acontecimiento tan importante como fue la Guerra Fría en el siglo XX. ya mencionado la crisis de los 6575, su reconfiguración en los años 70 y me interesa subrayar también que entonces.
+
+
+[12:02] Si hablamos de tecnociencia esto afecta a las distintas disciplinas científicas. empezó en física y en matemáticas. o sea, luego veré mostraré ejemplos.
+
+
+[12:13] Al respecto, pero cabe hablar por lo tanto de tecnomatemáticas, tecnofísica, tecnobiología, tecnogeología, tecnoastronomía y también de tecnociencias sociales, o sea, tecnoeconomía, tecnosociología. Es decir, que la propuesta de tecnociencia digamos supone una transformación  que no llega a todas las disciplinas a.
+
+
+[12:34] La vez pero que tarde o temprano afecta ha afectado ya a, a todas las disciplinas científicas y también a las ingenierías. Bien, entonces hoy en día cabe hablar de que la tecnociencia está plenamente consolidada en por ejemplo, bueno, en Estados Unidos. La.
+
+
+[12:50] Unión Europea la impulsa desde hace 10 años activamente y en otros países también hay grados diferentes de implantación y desarrollo de la tecnociencia en los distintos países del mundo, pero como tal está perfectamente consolidada. mencionaré el plan Europe de desarrollo de la sociedad de la información como uno de los grandes.
+
+
+[13:13] Programas tecnocientíficos en la Unión Europea, aprobado en el 2001 en la cumbre de Lisboa y también el plan de la National Science Foundation de Estados estadounidense Converging Technologies, o sea, como otro de los grandes ejemplos de lo que llamó tecnociencia, esta convergencia entre nanotecnologías, biotecnologías, tecnologías de la información y ciencias. cognitivas.
+
+
+[13:36] Bien, pasamos ya de traslad está eh digamos esta breve descripción temporal al propio concepto de tecnociencia, que es un poco la cuestión más filosófica, o sea, la voy a ilustrar muy brevemente. Entonces, el término tecnociencia lo usó Bruno Latour en 1983 exclusivamente por motivos para abreviar, decía él, la interminable.
+
+
+[14:03] Expresión ciencia y tecnología. otro, pero otros muchos autores o sea han utilizado ese mismo término de manera omnicomprensiva, es decir, el uso habitual de ese término, es decir, hoy en día todo es tecnociencia, ¿? O sea,.
+
+
+[14:19] La convergencia entre ciencia e ingeniería es tan profunda que todo es tecnociencia. mi propuesta no es esa, o sea, mi propuesta no es esa. Mi propuesta es hay tecnociencia y es.
+
+
+[14:31] Una nueva modalidad de actividad científica y tecnología que hay que analizar y, y hay que tener claro lo que es, pero sigue habiendo ciencia y sigue habiendo tecnología. O sea,.
+
+
+[14:42] Que por lo tanto el planteamiento es evolutivo. podríamos decir que en tanto tradición cultural la ciencia sigue desarrollándose, la ingeniería también, pero se ha producido una mutación, una hibridación entre ciencia y tecnología y ha surgido una nueva rama evolutiva, la tecnociencia, lo cual no supone la desaparición de.
+
+
+[15:04] Las anteriores especies epistémicas, especies de conocimiento, por así decirlo. Con lo cual, en el ámbito de la filosofía, de la ciencia y de la tecnología, tendríamos por un lado técnicas que también siguen existiendo.
+
+
+[15:17] O sea, por técnicas, la diferencia técnica y tecnología que solemos utilizar allí en España es que las técnicas son artesanales, o sea, las técnicas pues no sé, de del tejido, las técnicas de preparación de un plato de comida, o sea, las técnicas de arar un campo, o sea, técnicas artesanales propias de las culturas agrícolas en particular o ganaderas. Eso.
+
+
+[15:41] Requiere una técnica, pues no sé, para ordeñar una vaca, o sea, o, o para cualquier otro, para muchas actividades. no todo es tecnología, o sea, no es correcto a una persona que teje un jersey llamarlo a eso tecnología. Eso es.
+
+
+[15:55] Técnica. Tenemos la ventaja en la lengua española de tener, la tener la distinción entre técnica y tecnología. Vamos a utilizarla. Mientras que por tecnología se entiende ya técnicas.
+
+
+[16:04] Industriales, o sea, técnicas vinculadas a la sociedad industrial y por tecnociencias, resumiendo, técnicas vinculadas o tecnologías vinculadas a la sociedad de la información. Bien, entonces esta sería digamos una primera e introducción al concepto de tecnociencia. De manera más precisa. Yo.
+
+
+[16:25] Creo que no es posible dar una definición de tecnociencia. Yo por lo menos no soy capaz de hacerlo entonces, pero si es posible caracterizarla, o sea, caracterizar un concepto, una noción, es algo más suave, más light que definirlo y pero funciona desde un punto de vista lógico, ¿no? O sea,.
+
+
+[16:44] Entonces una metodología de rasgos distintivos, de diferencias, enumerar una serie de diferencias entre ciencia y tecnociencia por un lado, entre tecnología y tecnociencia por otro. Y con eso, si no cerramos el campo de análisis lógico, por lo menos avanzamos en ello, clarificamos el concepto de tecnociencia. Bien, entonces.
+
+
+[17:03] En ese sentido, en la siguiente transparencia verán verán ustedes todavía no esa clarificación, sino la distinción con respecto a Kuhn. O sea, el término revolución se utiliza.
+
+
+[17:17] En un sentido kuhniano. Es una paráfrasis, pero con un sentido diferente. Ya he dicho que Kuhn en su libro Laolu estructura de las revoluciones científicas, digamos,.
+
+
+[17:28] Siempre hablaba de paradigmas y de cambios de paradigmas. y un paradigma era básicamente una estructura epistémica de conocimiento, teorías y generalizaciones simbólicas, etcétera, etcétera, ¿no?
+
+
+[17:40] Entonces, no es el caso de la revolución tecnocientífica. Es decir, Kuhn y otros muchos filósofos de la ciencia en el siglo XX no se ocuparon de la actividad científica. Se y exactamente.
+
+
+[17:52] Igual diría de los sociólogos de la ciencia. Los sociólogos de la ciencia han hecho sociología del conocimiento científico. Solo a partir de los años 90 es cuando la filosofía de.
+
+
+[18:00] La ciencia, la sociología de la ciencia, la propia historia de la ciencia ha sido en gran medida historia del conocimiento científico. mientras que hoy en día los estudios de ciencia y tecnología se ocupan comienzan a a ocuparse a fondo de la actividad científica, de la práctica científica. Esto es una.
+
+
+[18:18] Corriente general internacional. Pues bien, entonces en ese sentido, cabe hablar de revolución tecnocientífica como un cambio radical, profundo. digamos, un científico que trabajaba en.
+
+
+[18:30] Investigaba en 1904, hoy en día en el 2004 está en otro mundo, pero no en el sentido de que vea el mundo desde el punto de vista del conocimiento de manera diferente, sino que las cosas que tiene que hacer para investigar, para publicar, para 1000 cosas son con radicalmente diferentes de las que tenía que hacer hace un siglo. Entonces, cabe hablar de.
+
+
+[18:55] Paradigmas de la práctica científica, o sea, la noción de paradigma entonces pasa a ser, digamos, ejemplares canónicos de lo que hacen los científicos y los ingenieros. Y en ese sentido se reformula la noción de paradigma kuhniana. E kun identificó los.
+
+
+[19:11] Paradigmas con las comunidades científicas. En cambio, en la en el caso de la tecnociencia sigue habiendo comunidades científicas y como he dicho, sigue habiendo ciencia, pero no son las comunidades científicas las que hacen tecnociencia, sino otro nuevo tipo de entidad que son las empresas tecnocientíficas. Es decir, que si.
+
+
+[19:33] Las comunidades científicas, digamos, la Royal Society, etcétera, caracterizaron a la ciencia moderna y en general pues todas las sociedades de matemáticos, de estas mismas sociedades en las de las que yo he formado parte de lógica y filosofía de la ciencia, etcétera, entonces hoy en día un tecnocientífico en cambio, seguirá siendo comunidades científicas, por supuesto, pero además se integrará en un nuevo tipo de organización que es una empresa tecnocientífica que puede ser pública o privada. o sea, volveré sobre esta.
+
+
+[20:05] Cuestión. Otra idea importante es que el los objetivos de la ciencia buena parte de las teorías de la racionalidad científica y tecnológica son se basan en los objetivos, o sea, ¿cuáles son los objetivos de la ciencia?
+
+
+[20:24] Pues por ejemplo, no sé, el avance en el conocimiento, la búsqueda de nuevo conocimiento, en la búsqueda de la verdad o la aproximación a la verdad, diría Popper. Es decir, que la racionalidad científica se ha sustentado siempre en función de los objetivos y la racionalidad tecnológica, pues la busca.
+
+
+[20:43] Eficiencia, la competencia, la utilidad, ¿no? Y mejorarla, incluso maximizarla, ¿no? Entonces, siempre las teorías de la racionalidad, la mayoría, no todas, han estado vinculadas a la.
+
+
+[20:53] Noción de objetivo. Pues bien, en el caso de la tecnociencia, la gran novedad desde esta perspectiva es que los objetivos de la ciencia y los objetivos de la ingeniería que siguen existiendo, insisto en ello, están subordinados a otros objetivos, o sea, que ya no son objetivos en sí o objetivos últimos,.
+
+
+[21:13] Sino que el la propia el propio conocimiento científico pasa a ser instrumento, un medio para el logro de otros objetivos que son objetivos, por ejemplo, militares, objetivos empresariales u económicos, objetivos políticos u objetivos sociales, o sea, y cabría hablar de más. Luego iremos precisando todo esto, pero como cambio.
+
+
+[21:36] Radical sigue habiendo objetivos. Un científico sigue teniendo objetivos, un ingeniero también, pero estos objetivos en el caso de las empresas tecnocientíficas públicas o privadas están claramente subordinados a otros a otro tipo de objetivos. Luego volveré.
+
+
+[21:51] También sobre esta cuestión. Bien, otra diferencia relevante en el caso, perdón, de la revolución tecnocientífica es la importancia de las inversiones en en investigación, o sea, es decir, la investigación, esto hoy en día nos parece trivial, pero no estaba tan claro a finales del siglo XIX, en la.
+
+
+[22:15] Tecnociencia no cabe un Méndel, un señor que en su huertecito con guisantes es capaz de concebir una teoría como la genética. Esto es ciencia, o sea, pero esto no es tecnociencia. O sea, es decir, en este.
+
+
+[22:30] Momento en tecnobiología o biotecnologías, como lo quieran ustedes decir, si uno no dispone de grandes equipamientos de investigación, grandes equipamientos informáticos, equipos múltiples, etcétera, es decir, la tecnociencia no la hace una persona, no el sujeto de la tecnociencia no es individual, sino es un equipo, una empresa, una empresa en el sentido fuerte de la palabra, mientras que la ciencia la podía hacer un Einstein, ¿no?
+
+
+[22:56] O un Mendel o un Newton, ¿no? O sea, entonces ahí el cambio es muy radical y y en ese sentido la inversión la inversión para mantener estos tipos de investigación, los recursos humanos, los equipamientos, los gastos, el material fungible, etcétera, se requiere una fuerte inversión para que la actividad tecnocientífica se desarrolle.
+
+
+[23:20] Y entonces la componente económica de la ciencia, o sea, la economía de la ciencia pasa a tener una relevancia enorme. O sea, y esto es muy reciente, estudios de economía de la ciencia ha habido pocos, o sea, en la década de los 90 han avanzado. Tiene que ver,.
+
+
+[23:35] Claro, está con los indicadores de ciencia y tecnología, pero no era una rama así como historia de la ciencia, sociología de la ciencia, filosofía de la ciencia o antropología de la ciencia, incluso son ramas claras en los estudios de ciencia y tecnología. La economía de la ciencia es muy reciente, a mi entender, tiene un futuro.
+
+
+[23:51] Enorme. Bien. el y por último, ya lo he dicho, diferentes tecnociencias, o sea, que pasamos a la siguiente transparencia. ejemplos. ejemplos hay muchísimos,.
+
+
+[24:02] O sea, una vez que uno hace una hipótesis conceptual, entonces surgen múltiples ejemplos, ¿no? O sea, se ve la historia de la ciencia y de la tecnología del siglo XX desde esta hipótesis se ve de manera diferente. .
+
+
+[24:15] Los primeros son el proyecto de ENIAC, el lo que se considera, digamos, el primer ordenador con arquitectura Von Neyan, el propio von Neumann colaboró en él. proyecto militar y secreto que luego en un momento dado, después de la guerra mundial se hizo público y pasó a difundirse el propio von Neumann se.
+
+
+[24:33] Dedicó a dar conferencias por todo el mundo y esto es el origen de lo que llamamos ahora ciencias de la computación. exactamente igual el proyecto Manhattan, del cual no voy a hablar mucho porque su relevancia es obvia, ¿no? O sea, el cálculo de la.
+
+
+[24:48] Masa crítica desde el punto de vista de avance en el conocimiento, el cálculo de la masa crítica, ni más ni menos, del uranio, del plutonio, grandes avances teóricos, etcétera, ¿no? Pero todo ello subordinado a la construcción de las bombas atómicas, o sea, y esto en el marco también de un proyecto.
+
+
+[25:04] Militar es totalmente secreto y con recursos ilimitados, con recursos económicos ilimitados. Bien, tercer gran ejemplo siempre en las en la época de la Segunda Guerra Mundial, los Radiation Laboratories. en varias.
+
+
+[25:18] Universidades norteamericanas esto eran laboratorios militares también a su vez vamos fabrican ni más ni menos que los radares, que fueron absolutamente fundamentales en la Segunda Guerra Mundial. Es decir, y también generaron muchísimo conocimiento sobre electromagnetismo, telecomunicaciones, etcétera, ¿no? Pero.
+
+
+[25:36] Pero eran proyectos militares. El objetivo de estos laboratorios, aparte del conocimiento científico y de los desarrollos tecnológicos que se generaban, pero todo ello estaba subordinado a a la eficacia de estas armas defensivas, ¿no? Los radares, ¿no?
+
+
+[25:52] Y se podrían poner otros muchos ejemplos. Ya posteriormente otro gran ejemplo de tecnociencia es claro está la los programas de conquista del espacio. Estos, como bienen sabido, es parte.
+
+
+[26:05] De la Guerra Fría, o sea, la prueba fue la tremenda confrontación entre la Unión Soviética y la los Estados Unidos de América en el en la conquista del espacio, ¿no? Pero el presidente Kennedy lanzó su programa y se creó la NASA por razones fundamentalmente políticas. o sea, que esto ha.
+
+
+[26:23] Generado enorme conocimiento. Ahora mismo la NASA tiene la opportunity en Marte y esto es fundamental para la investigación científica, ¿no? Pero el origen y el motor de la tecnociencia .
+
+
+[26:34] O sea, el conocimiento científico y los desarrollos tecnológicos son subsidiarios y en este caso son objetivos militares, objetivos políticos, objetivos de otro tipo en los que se generan. No todo así en la tecnociencia, el laboratorio de Brookhaven, que es otro gran ejemplo, o el CERN europeo, están más orientados a la.
+
+
+[26:52] A la física teórica, o sea, es decir, que también hay grandes equipamientos y grandes infraestructuras, pero estas al fin y al cabo, aparte del avance enorme en el conocimiento, generan desarrollos tecnológicos extraordinarios, como por ejemplo la propia World Wide Web, o sea, generada por el CERN, ¿no? Con lo cual, en el.
+
+
+[27:11] Fondo no se sabe esto es tecnociencia en el sentido puro de la palabra también, o sea, digamos los avances en el conocimiento científico y los desarrollos tecnológicos van imbricados tan estrechamente que si la Unión Europea mantiene el CERN y sigue invirtiendo en ella, como si Estados Unidos mantiene la NASA o o la Unión Europea, la European Science Funde en Agency Space Agency, digamos es por porque se por esta mutua imbricación, esta simbiosis entre desarrollo tecnológico y avance en.
+
+
+[27:45] El conocimiento científico. Otro gran ejemplo, en este caso privado, pero es la excepción, es la empresa DuPont en los años 40, principios de los 50, que fabricó el nylon. El nylon se arruinó.
+
+
+[27:58] Todo el mercado de la seda, tuvo un éxito en el mercado enorme, fue una gran innovación en el sentido en que se utiliza el término innovación hoy en día y generó toda una línea que es lo que se llama tecnoquímica desde mi punto de vista, ¿no? Los polímeros, nuevos materiales, eso es tecnociencia también, lo cual no quiere decir que no.
+
+
+[28:15] Siga habiendo química, o sea, digamos, siguen los químicos con sus probetas, y y digamos se hacen análisis químicos en el sentido decimonónico de la palabra. Pero cuando hablamos de polímeros, de plásticos, etcétera, estamos ante otra modalidad, ante nuevos materiales. y.
+
+
+[28:34] Y eso es propiamente tecnociencia. el Hubble, el telescopio espacial, bueno, y toda la saga de sondas espaciales, todo eso es tecnociencia perdón, megaciencia, o sea, digamos son macroproyectos científicos que con la excepción de la empresa DuPont digamos son la primera modalidad de tecnociencia impulsada todo toda ella .
+
+
+[28:58] Por los gobiernos. o sea, digamos, lo y esto es lo que da origen a la a la política científica, mientras que tecnociencia como tal es una segunda fase muy estrechamente vinculada a la megaciencia. Sigue habiendo megaciencia,.
+
+
+[29:13] Pero digamos en esta metáfora evolutiva todavía se ha producido otra mutación ulterior a partir de los 80 que tiene que ver con la el proyecto genoma es canónico, o sea, como ejemplo de tecnociencia propiamente hablando, exactamente igual empresas del sector TIC como Microsoft o o Intel o cualquier otra. Google hoy en día. .
+
+
+[29:35] Google es tecnociencia en la tecnociencia privada, o sea, que la hacen dos personas dos personas y luego un tercero que se les incorpora para gestionar un poquito la empresa, ¿no? En este momento pues ha habido muchos ejemplos de este tipo, esto de, de Silicon Valley y el garaje.
+
+
+[29:52] Es decir, la tecnociencia puede ser generada por una pequeña empresa. o sea, esta es la diferencia. La big science es macrociencia, mientras que la.
+
+
+[30:01] Tecnociencia es fundamentalmente pequeñas empresas altamente innovadoras capaces de generar innovaciones tecnocientíficas relevantes, ¿no? La criptografía es otro gran ejemplo. Los.
+
+
+[30:14] Antivirus, por ejemplo, o sea, digamos en España mismo, en el País Vasco, hay un virus antivirus muy famoso que se llama Panda, Panda Software, que bueno, no es no es de está entre los 10 primeros del mundo, ¿no? Lo cual significa, vamos, una empresa tecnocientífica altamente relevante para lo que es el nivel de la tecnociencia en.
+
+
+[30:33] España y en el País Vasco, que es relativamente bajo, ¿no? Pero es pues es un es un señor, dos hermanos que lo hicieron. O sea, entonces esto es lo.
+
+
+[30:43] Característico de la tecnociencia y y este es un campo abierto, ¿no? A la,  a la innovación. La propia internet en donde en donde este tipo de cultura prolifera.
+
+
+[30:53] Pongamos la comunidad Linux, también es tecnociencia, claramente todo todas las cuestiones de clonación y tecnociencias sociales. ¿Qué son tecnociencias sociales? Pues, por.
+
+
+[31:03] Ejemplo, tecnociencias sociales son digamos estos sistemas de indicadores que utiliza el Banco Mundial o que se utilizan para medir no sé, la inflación. digamos, tecnologías enormemente sofisticadas, exactamente igual todas las tecnologías de encuestas de opinión de la ciudadanía. Es.
+
+
+[31:22] Decir, son técnicas muy sofisticadas que requieren un equipamiento informático enorme para el procesamiento de los datos. o sea que ya no no es sociología en el sentido clásico.
+
+
+[31:33] Cabe hablar de tecnociencias sociales también. Bien, pasamos ahora sí ya creo a la caracterización eso es de la megaciencia. Muy brevemente, primero las grandes inversiones públicas, o sea,.
+
+
+[31:47] Como los macroproyectos de investigación. Segundo, la convergencia, la convergencia en el laboratorio, en el mismo lugar de trabajo de científicos e ingenieros, tecnólogos y técnicos de laboratorio. Es decir, que los unos.
+
+
+[32:00] No pueden avanzar sin los otros y y los dos lo tienen claro. los dos gremios que anteriores anteriormente ya colaboraban siempre científicos e ingenieros, pero en este caso se fusionan, o sea, se fusionan en la actividad, en la práctica, o sea, y por lo tanto un proyecto de investigación de megaciencia, de macrociencia, no puede.
+
+
+[32:20] Avanzar sin esa estrechisima vinculación de científicos y tecnólogos. Todo esto impulsado por una política científica gubernamental. Hoy en día nos puede parecer que forma parte del estado de.
+
+
+[32:31] Naturaleza el que haya política científica, pero la noción de política científica era inexistente en 1904 y Vannevar Bush se lo dijo al presidente Roosevelt. Este país jamás ha.
+
+
+[32:42] Tenido una política científica en el año 45. o sea, que es en el año 1945 cuando se inaugura digamos lo que hoy en día llamamos política científica, ¿no? y en Europa anteriormente.
+
+
+[32:55] Cabría y buscar antecedentes de política científica, pero en cualquier caso ni mucho menos comparables a, a estos grandes, no sé, a los programas marco que utiliza hoy en día la Unión Europea. Otra característica es de la.
+
+
+[33:10] Megaciencia es la militarización de algunos proyectos, no de todos, pero sí de algunos y desde luego de los de proyectos muy relevantes muy relevantes en cuanto a la inversión. Esto Vannevar Bush lo explicaba muy claramente y luego lo comentaré. .
+
+
+[33:27] Entonces otra diferencia es que, digamos, la producción de conocimiento científico se industrializa, o sea, frente al carácter artesanal de la ciencia moderna en cuanto a producción de conocimiento científico, pues no sé, dos cinco personas en el laboratorio, un pastor, un Claud Bernard, ¿no? en fin, o los esposos que.
+
+
+[33:49] O sea, esto era completamente artesanal, o sea, con,  corriendo riesgos personales, etcétera, ¿no? Bien apoyados por una universidad, pero que en realidad la universidad les daba un laboratorio tallercito, ¿no? Mientras.
+
+
+[34:02] Que en el momento de la megaciencia, por el contrario, surgen grandes factorías de producción del conocimiento científico. y, y por lo tanto el modo de generar conocimiento, el modo de investigar cambia radicalmente.
+
+
+[34:16] Comienza a haber gestión del conocimiento, gestión de recursos humanos, gestión de equipamientos, gestión de fondos y, y la investigación científica requiere gestores. O sea, tan importante, sobre todo en el caso de la tecnociencia a partir de 1980, tan importante es un buen gerente, un buen gestor de un proyecto de investigación como un.
+
+
+[34:35] Investigador. Esto es una novedad, o sea, esto no sucedía en el siglo XIX, en la ni mucho menos en el siglo XVII, o sea, no había gerentes de proyectos de investigación ni sentido que tenía, ¿no? Diferencia entre ciencia y.
+
+
+[34:48] Tecnociencia y megaciencia. Bien, de la subordinación de los valores epistémicos y y técnicos, ya he hablado del rechazo social, no voy a insistir en él. Y entonces, digamos, ¿qué es un.
+
+
+[34:59] Megacientífico o tecnocientífico de primera época? ¿No? pues es la simbiosis, la simbiosis en una misma institución de científicos, ingenieros o tecnólogos y técnicos, .
+
+
+[35:13] Empresarios industriales, políticos y militares en la mayor parte de los casos, ¿no? Entonces, esta confluencia entre estas entre estas cinco grandes culturas, la cultura científica, la cultura ingenieril, la cultura empresarial, la cultura política, y la cultura militar, e que también tiene una gran tradición.
+
+
+[35:33] Como cultura, independientemente de cómo lo valoremos. esta simbiosis es el cambio. o sea, entonces, en lugar de hablar, por lo tanto, de un sujeto.
+
+
+[35:43] Individual capaz de investigar y de generar conocimiento, de producir invenciones, tiene que haber estos cinco personajes. estos cinco personajes en realidad cada uno de ellos son equipos, o sea, pero esta este es el cambio de estructura a nivel micro propio de la megaciencia. Sí, por favor.
+
+
+[35:59] Seguimos. Pasamos ahora a los rasgos distintivos de la tecnociencia. Los anteriores más o menos permanecen, pero aparecen otros nuevos que nos permiten caracterizar esta.
+
+
+[36:10] Tecnociencia de segunda fase. En primer lugar, el más característico es el que llega la inversión privada a la investigación científica. Esto no tiene precedentes en la historia de.
+
+
+[36:24] La ciencia. Normalmente un investigador ponía su propio dinero o sea para o o tenía un mecenas o trabajaba en una universidad, pero esto de que en.
+
+
+[36:34] Cambio empresas tecnocientíficas coticen en bolsa y que llegue la inversión a la bolsa y hay muchas o sea, y cada vez más, pues esto es un cambio sin precedentes, ¿no? Entonces, digamos esto rompe con la idea de que por lo tanto de que hay que el científico tiene que o el ingeniero tiene que vivir del padre estado,.
+
+
+[36:52] Y entonces tiene que ser extremadamente competitivo en el mercado, o sea, ya convertirse en empresa, asumirlo y ser captar de atraer inversión. capital, riesgo, inversión en la bolsa. Ahora, claro,.
+
+
+[37:05] Quien invierte pide rentabilidad, o sea, pide dividendos o si no por lo menos capitalización en bolsa. Quiero decir con ello que la búsqueda de conocimiento, el desarrollo tecnológico están muy bien, se siguen buscando, pero subordinado a la capitalización en bolsa, o al crecimiento de los beneficios, al crecimiento del volumen.
+
+
+[37:25] De la empresa, en fin, los objetivos típicos de una de la racionalidad empresarial. La interdependencia, ciencia y tecnología sigue, ya he dicho, lo he hablado de la gestión empresarial, de las políticas de I+D+I, insistiría en lo del marketing, o sea, es decir, a partir de 1980 una empresa tecnocientífica tiene es necesario que.
+
+
+[37:47] Haga marketing de mercadotecnia de sus propios productos. y entonces por eso sucede pues que no sé, hasta los matemáticos o sea, la demostración del teorema de Fermat, hasta los matemáticos digamos publican y hacen público sus hallazgos, sus grandes avances ante los medios de comunicación.
+
+
+[38:05] O sea, ¿por qué? porque esto pues supone impacto, supone financiación, etcétera, etcétera, y no digamos ya pues no sé, Cry Venter, ¿no? Y Genoma Celeris, es decir, las empresas.
+
+
+[38:15] Tecnocientíficas sus avances cuando se prevé que puede haber por ingeniería genética una posible curación de Parkinson, que en realidad será dentro de 10 años cuando esté disponible el posible medicamento, pero ya el marketing se anuncia. ¿Por qué?
+
+
+[38:30] Porque esto tiene impacto directamente en los medios, en la inversión, en la bolsa, etcétera. Es decir, que esto de hacerse el propio marketing, hombre, los científicos siempre se han hecho autopropaganda, pero no es lo mismo, digamos, autopropaganda y es decir, soy más listo que el, ¿no?, que era.
+
+
+[38:47] Lo que decía Newton y lo hago mejor y lo descubrí el primero, que por el contrario decir, bueno, pues ahora voy a dar una rueda de prensa ante los medios de comunicación para mostrar el gran descubrimiento que he hecho, ¿no? Es un cambio relevante. Bien, conflictos.
+
+
+[39:01] Jurídicos. Conflictos jurídicos. Antiguamente las controversias científicas se resolvían en la propia comunidad científica. y ha habido controversias científicas tremendas,.
+
+
+[39:09] ¿no?, en la ciencia moderna. Pero los conflictos tecnocientíficos normalmente se resuelven en tribunales, o sea, se resuelven en tribunales. Microsoft es.
+
+
+[39:17] Un ejemplo excelente, o sea, todavía tiene sus conflictos con Apple. Ahora la Unión Europea le ha puesto una multa absolutamente enorme. y claro, y es.
+
+
+[39:27] Que los resultados de la investigación hay que patentarlos. Entonces está muy bien tener buenos investigadores y un buen gerente y un buen experto en marketing en una empresa tecnocientífica. Pero si además no tiene.
+
+
+[39:38] Un experto jurídico que haga un buen contrato de patentes, pues puede o sea, si no es experto en leyes en leyes internacionales, pues digamos la empresa tecnocientífica esta se va a pique, ¿no? O sea, que ya ven ustedes como en el caso de la tecnociencia aquellos cinco personajes se van incrementando con un gerente, con un.
+
+
+[39:57] Experto en leyes, con un experto en marketing, etcétera. Dejo lo de la utilización diplomática porque me estoy alargando ya demasiado. los la tecnociencia sigue siendo.
+
+
+[40:08] Militar, o sea, es decir, aunque se privatiza en gran medida, pero eso no significa que desaparezca la tecnociencia militar. Esta sigue completamente boyante, con macroproyectos, etcétera, etcétera.
+
+
+[40:20] Surge una novedad que es los impactos medioambientales de la tecnociencia y por lo tanto la emergencia de una forma muy concreta de rechazo de crítica social a la que ya aludí anteriormente, que es el movimiento ecologista. Pongamos Greenpeace, como ejemplo. Greenpeace.
+
+
+[40:36] Es un agente tecnocientífico, o sea, digamos, en la lucha por su los valores ecológicos, utiliza también continuamente los medios de comunicación, o sea, las acciones de Greenpeace son absolutamente tecnocientíficas en su diseño mismo, ¿no? Entonces, es un agente, si se quiere, fuera del sistema, pero con un.
+
+
+[40:55] Grado de aceptabilidad, ¿no? O sea, que está en los márgenes del sistema de ciencia y tecnología internacional, ¿no? valga como ejemplo, la desconfianza social, ya he hablado de.
+
+
+[41:05] Ella, la informatización o o digamos computarización, como lo digan ustedes, es decir, el la implantación en todas las disciplinas científicas de las TIC. H esto es un signo propio de la tecnociencia, precisamente por su vinculación a la sociedad de la información y el conocimiento.
+
+
+[41:22] Paso a la siguiente transparencia. Yo creo que ya más o menos está descrita la tecnociencia. hablaré únicamente de los dos últimos puntos porque lo demás.
+
+
+[41:34] Prácticamente ya lo he mencionado. Es decir, surgen nuevas generalizaciones simbólicas en el sentido de Kuhn. ¿qué son generalizaciones simbólicas de la práctica científica? O sea,.
+
+
+[41:46] Generalizaciones simbólicas del conocimiento científico, pues no sé, son las matemáticas, por ejemplo, el lenguaje matemático o o los, no sé, el hexágono de kekulé, el modo de representar las fórmulas químicas, la tabla de Mendeleyev, etcétera, ¿no? Esos son digamos las generalizaciones simbólicas de las que hablaba Kuhn.
+
+
+[42:05] Características de los paradigmas. Pero aquí estamos hablando de generalizaciones simbólicas de la práctica científica. Pues bueno, una un buen ejemplo son los indicadores de.
+
+
+[42:14] Ciencia y tecnología. esto es una generalización simbólica que mide el nivel de desarrollo de la sociedad de la información, el nivel de desarrollo tecnocientífico de un país, los protocolos de evaluación, todos los protocolos que hay que rellenar para presentar un proyecto científico. Los.
+
+
+[42:32] Protocolos de gestión son protocolos, instrumentos estándares estandarizados de la práctica científica, ¿no? Y entonces hay que prestarles atención. Y luego, y ya.
+
+
+[42:43] Termino con esto, la cuestión de los valores, que al fin y al cabo es mi aproximación a todo ello. La siguiente transparencia, por favor. Es decir, entiendo entonces que en el caso de la.
+
+
+[42:53] Tecnociencia intervienen hasta 12 sistemas de valores diferentes. no estos sistemas de valores intervienen en cada una de las actividades tecnocientíficas, pero en general en los 12 intervienen por valores básicos. por los valores básicos.
+
+
+[43:12] Entiendo digamos los valores la vida humana, la salud, no sé el placer, el gozo y tienen sus disvalores, ¿no? La muerte, el sufrimiento, etcétera. Es decir, valores.
+
+
+[43:26] Que de alguna manera compartimos también con los animales, o sea, por eso básicos, es decir, que también la supervivencia, por ejemplo, la supervivencia. Entonces, digamos, incluso esta tesis es muy heterodoxa por mi parte, pero diría que cabe hablar de valores en el mundo animal, o sea, se habla mucho de derechos de los.
+
+
+[43:44] Animales, pero habría que hacer una fundamentación de esos derechos en valores. y entonces si efectivamente hay valores y en los comportamientos de los animales vemos que expresan valores y a mi entender lo expresan, entonces estos serían los valores básicos. Luego.
+
+
+[44:01] Estarían los valores epistémicos. Los valores epistémicos son los propios de la ciencia, ¿no? Pues, por ejemplo, la precisión, el rigor, la coherencia, la generalidad, la fecundidad de una.
+
+
+[44:12] Teoría científica o de una hipótesis científica o la verosimilitud, la adecuación empírica, la contrastación, son valores canónicos. esto ya lo dijo Kuhn y y lo ha dicho luego Laudan y lo han dicho Patinan. En fin, no me voy a.
+
+
+[44:25] Extender sobre esta cuestión. los valores técnicos o tecnológicos, utilidad, eficiencia, eficacia, facilidad de uso, robustez, hay un gran listado de valores, valores económicos, la riqueza, la riqueza o la pobreza como disvalor, la miseria, ¿no? O sea, la opulencia en.
+
+
+[44:44] Cambio, exactamente igual los beneficios, ¿no? Frente a las pérdidas, ¿no? O a la ruina, ¿no? Et o sea, y entonces valores económicos es un, es un ámbito de valores claros. La teoría de.
+
+
+[44:54] Los valores no surgió de los filósofos, surgió de los economistas, o sea, fue Adam Smith quien empezó a interesarse por las cuestiones de los valores. Lo digo de pasada, valores.
+
+
+[45:03] Militares también los hay, la victoria frente a la derrota, o, digamos la disciplina, la obediencia, la jerarquía, la cadena de mando, hay muchos más, ¿no? Y y valores jurídicos, pues el que se publiquen las leyes, la legalidad, la independencia del poder judicial, 1000 cosas, ¿no? Bien. políticos y sociales.
+
+
+[45:26] Bueno, entonces la idea es valores ecológicos, digamos, la biodiversidad, el equilibrio de un sistema ecológico, en fin, muchos más. valores estéticos, valores religiosos y valores morales.
+
+
+[45:38] Cuando se ha hablado de valores, con la excepción de los valores económicos, siempre se ha hablado sobre todo de valores religiosos, estéticos y morales. es el canon para los filósofos de la ciencia y aún ahora el común de los mortales. Cuando hablan de valores.
+
+
+[45:52] Hablan de esto, o sea, entonces la propuesta es que si queremos hablar de tecnociencia desde una perspectiva axiológica o de valores, hemos de contemplar estos 12 sistemas de valores. Los básicos, ¿por qué? pues porque hay.
+
+
+[46:05] Medicina, ¿? O sea, y por lo tanto hay salud y hay sufrimiento. y en la experimentación con animales, pues menguar el sufrimiento de los animales, pues eso es una un objetivo basado en.
+
+
+[46:15] Valores, o sea, hay valores epistémicos, o sea, entonces la tecnociencia involucra de una manera u otra estas 12 caras. yo lo llamo el poliedro axiológico esto. y entonces.
+
+
+[46:28] Digamos este artefacto conceptual con estos 12 sistemas de valores creo que es una herramienta útil para analizar la actividad tecnocientífica desde una perspectiva axiológica o de valores. la siguiente transparencia, hay conflictos de valores en la tecnociencia. Esto forma parte de la.
+
+
+[46:46] Estructura de la práctica científica. ¿Por qué? Pues porque el científico integrado en una empresa tecnocientífica, él está guiado por sus valores, o sea, por los valores.
+
+
+[46:56] Epistémicos. en lo que busca es incrementar el conocimiento, resolver problemas, ser más preciso, más general, teorías más generales. el y el ingeniero también, o sea, cada uno de.
+
+
+[47:07] Los cinco agentes mantiene su sistema de valores, confluyen en un mismo espacio y necesariamente se producen conflictos de valores y mucho más con la sociedad o con los movimientos ecologistas que están en las afueras del sistema del sistema de ciencia y tecnología. Bien, y la última transparencia, por favor, la tecnociencia y sociedad.
+
+
+[47:29] Termino ya con esta. Entonces, la idea es que la tecnociencia no ha surgido de la sociedad, sino de ámbitos de la sociedad, como los que he mencionado anteriormente, digamos, los políticos y en concreto los gobiernos, los sectores militares, que también son sociedad. no hay que.
+
+
+[47:48] Olvidar que los ejércitos también son sociedad. lo, el sector empresarial y la relevancia también de el sector jurídico, ¿no? Entonces, ya he dicho que las relaciones tecnociencia.
+
+
+[48:00] Sociedad son conflictivas, hay desconfianza, hay crisis de confianza en los expertos o incluso tecnofobia, o sea, digamos, hay rechazo, hay rechazo con respecto, pues, no sé, en México supongo que los transgénicos preocuparán enormemente, preocupará pues la clonación humana, pues como en todo el mundo por otro lado, o sea, o determinadas modalidades de reproducción tecnológicamente asistida. habría.
+
+
+[48:28] Habría muchos más ejemplos a poner, ¿no? Pero esto mismo muestra son debates sociales, o sea, es decir, que la tecnociencia genera grandes profundos debates sociales que en el fondo son conflictos de valores desde mi perspectiva y por lo tanto la tecnociencia cada vez atiende más a las relaciones tecnociencia sociedad, ¿no?
+
+
+[48:49] En este sentido, los estudios de ciencia, tecnología, sociedad surgieron en mayo del 68, o sea, en la primera crisis de la tecnociencia. Y el gran impulso en este momento en distintos países de los programas de ciencia, sociedad, de ciencia, tecnología y sociedad, pues es precisamente para analizar intentar resolver crear.
+
+
+[49:10] Marcos por lo menos de comprensión y de interpretación a estos conflictos que a mi modo de ver son estructurales. Quiero decir con ello que esta evolución, por ejemplo, desde la filosofía de la ciencia hacia los estudios de ciencia, tecnología y sociedad o como se llame, ¿no? estudios de ciencia y tecnología mé.
+
+
+[49:25] Parece que va en el en el o sea que responde a la a la estructura de la cuestión y y ahí hay pues grandes debates e, o sea, lo del control social de la ciencia, la democratización de la ciencia, la célebre declaración de Budapest de 1998, la participación ciudadana en la actividad científica. Es decir, la.
+
+
+[49:44] Sociedad viene reclamando entrar en el núcleo en donde se toman las decisiones sobre tecnociencia, ¿no? Es el un ejemplo de la comunidad Linus, por ejemplo, que es una especie de gran cooperativa tecnocientífica y y bueno, pues este es uno de los grandes problemas que la tecnociencia tiene y que por lo tanto también lo tiene el.
+
+
+[50:05] Tecnológico de Monterrey, claro está. para ello se hacen pues eso moratorias sobre problemas especialmente sensibles. se separan líneas de investigación en un momento.
+
+
+[50:16] Dado. se utiliza el principio de precaución, por ejemplo, ¿no? Eso es muy técnico en el estudio CTS, pero en la Unión Europea es un principio básico. Es.
+
+
+[50:25] Decir, que en una empresa que pudiera generar contaminación o daños, riesgos graves en la cadena alimentaria o en el medio ambiente, es la propia empresa tecnocientífica que entiende demostrar que es inocua su investigación. E o sea, no hay que esperar a los efectos, sino principio de precaución, ¿no? O.
+
+
+[50:42] Sea, digamos de previsión de los efectos dañinos de determinadas líneas de investigación tecnocientífica. Hay otras, por el contrario, que tienen el apoyo total de la sociedad y la telefonía móvil, pues todo lo vamos, se ha difundido enormemente y otras muchas tecnologías, ¿no? Bien. y y consecuencia también que.
+
+
+[51:01] Hay que hacer estudios empíricos de percepción social, cómo percibe la sociedad, cuáles son las actitudes de la sociedad y esto serían ya modalidades de tecnociencias sociales de nuevo, ¿no? O sea, el la tecnociencia es una nueva modalidad de poder. La sociedad ante.
+
+
+[51:18] Este poder, por un lado, lo acepta y lo admira, porque no cabe duda que las innovaciones son espectaculares, pero por otro lado lo rechaza en algunos casos, lo preocupa, desconfía. entonces esto supone un problema estructural que hay que afrontar y y que es quizá una de las cuestiones más interesantes de la revolución.
+
+
+[51:37] Tecnocientífica. Pues muy muchísimas gracias por su atención. Lamento haberme extendido demasiado y que haberles aburrido a ustedes, pero de nuevo.
+
+
+[51:47] Ha sido un placer haber estado aquí con ustedes. Muchas gracias. Muchas gracias al maestro Javier Echeverría. Vamos a pasar a la sesión de preguntas y respuestas. a través de.
+
+
+[52:11] Nuestro sistema de interacción remota, el CR en la universidad virtual y aquí en la sala a través de las tarjetas que van a pasar a empezar a recoger. les recuerdo que vamos a tener una breve sesión de preguntas. De cualquier manera le vamos.
+
+
+[52:30] A dar todas las preguntas al maestro para que las tenga y después puedan comentarlas. la primera pregunta que recibí fue de la persona con la que estaba sentada al lado recibiendo esta conferencia. Dice, "Si la política.
+
+
+[52:43] Científica nació en 1945 en Estados Unidos, quiere decir que en América se conduce la revolución con rezago. ¿Cómo acelerar el proceso en México? ¿Qué condiciones deben seguirse para.
+
+
+[52:56] Lograrlo? bueno, eso lo tienen que estudiar, perdón, los historiadores de la tecnociencia en México, que no es lo mismo hacer la historia de la ciencia o la historia de la ingeniería que la historia de la tecnociencia. La.
+
+
+[53:11] Hipótesis que desde mi desconocimiento de lo que es el sistema de ciencia y tecnología es la creación de CONACIT, el comienzo probablemente de la tecnociencia en México, salvo empresas posibles privadas que pudiera haber anteriores, ¿no? Pemex podría ser también un ejemplo de tenociencia, habría que verlo los laboratorios de.
+
+
+[53:30] Investigación de Pemex, pero digamos como política científica pública conocid probablemente es la creación el momento de emergencia de la tecnociencia en México. La siguiente pregunta dice, "La subordinación de la tecnociencia al interés privado y a la búsqueda del beneficio y la ganancia parece alterar y.
+
+
+[53:51] Transformar la naturaleza tradicional de la ciencia, la búsqueda del conocimiento y la verdad. Y son dos preguntas. ¿La tecnociencia es parte sustancial de la.
+
+
+[54:02] Sociedad de consumo actual? Y la segunda, ¿cuál es el papel de la universidad en el desarrollo de la tecnociencia? Vamos a ver, la tecnociencia no solo es parte, sino que es el motor de del.
+
+
+[54:14] Desarrollo y de y del avance del avance en lo bueno y en lo malo. o sea, digamos, es la tecnociencia, por ejemplo, las tecnologías de la información y la comunicación lo que genera riqueza. o se ha puesto el.
+
+
+[54:26] Ejemplo de Google y podría, vamos, Microsoft, o sea, digamos es impresionante cómo han cambiado, sería otro indicador, cómo han cambiado las empresas más ricas del mundo. antes eran industriales, era del sector automovilístico, etcétera. Hoy en día la.
+
+
+[54:43] La mayor parte de las empresas más ricas del mundo son empresas TIC o empresas tecnocientíficas, ¿no? Es decir, eso mismo muestra la riqueza que se ha generado por parte de la tecnociencia. y.
+
+
+[54:56] Por lo tanto es el motor el motor del avance. Lo que pasa es que digamos siempre que hay avance es como con la sociedad industrial, o sea, la sociedad industrial Monterrey fue un importante capital industrial, ¿no? Entonces se.
+
+
+[55:07] Generó mucha riqueza. pero en un momento dado, cuando esto entra en crisis y se produce la reconversión industrial, que es bastante similar a la del País Vasco, la de Bilbao en concreto, entonces tiene que haber giros, cambios de estrategia por parte de las autoridades y y digamos desarrollar sobre la base industrial,.
+
+
+[55:25] Claro está, pero desarrollar eso como se está haciendo en Monterrey ahora, ¿no?, la ciudad del conocimiento, de la información y del conocimiento. Es decir, eso son estrategias sensatas y estos son los motores de la sociedad.
+
+
+[55:37] Esto genera desigualdades, o sea, las cosas y el papel de las universidades pues bueno, ya se deduce de lo que acabo de decir, ¿no? O sea, la el digamos las universidades han de han de integrar hay muchas opciones. una universidad puede.
+
+
+[55:56] Estar, digamos, vinculada a a defensa a los ejércitos. En Estados Unidos hay muchas universidades que están así, pero otra universidad puede estar vinculada perfectamente a a movimientos ecologistas y otra a cuestiones sociales, ¿no? o o propiamente al.
+
+
+[56:10] Sector productivo. Entonces, digamos una universidad en tanto la el conocimiento es la fuente de la riqueza, que esto es el informe de Banevar Bush, ¿no? El fuente de la fuente de la.
+
+
+[56:21] Riqueza en la sociedad de la información y el conocimiento. Lo importante ya no son los recursos naturales, o sea, uno puede tener tierras maravillosas y minas de plata y de diamante y lo que sea, pero es paupérrimo, ¿no? Uno puede tener grandes.
+
+
+[56:34] Fábricas y grandes hangares y en realidad todo eso es un desastre, es arqueología industrial, ¿no? El la riqueza hoy en día en la en la época tecnocientífica está en el conocimiento en los recursos humanos. Las.
+
+
+[56:47] Universidades, por lo tanto, pasan a a ser a tener una importancia estratégica en la sociedad de la información y del conocimiento y tienen varias opciones, o sea, no están sus opciones son no están determinadas. Y la siguiente pregunta tendría que ver lo con lo mismo que estamos hablando de la universidad y dice, bueno, yo la.
+
+
+[57:04] Orientaría desde el punto de vista de la universidad tradicional, ¿cuáles serían los riesgos que corre? Podríamos acuñar ahora la palabra universidad tecnocientífica. ¿Y cuál es el riesgo de.
+
+
+[57:16] La universidad tradicional? Bueno, la puesto que la ciencia sigue y la ingeniería también y siguen las artesanías, o sea, es decir que no solo la universidad, es decir, que tiene sentido tener escuelas de artes y oficios en el sentido clásico, escuelas de gastronomía, vamos a suponer, ¿no?
+
+
+[57:31] Entonces, es decir, que sigue habiendo técnicas ciencia, tecnología y tecnociencias. Entonces, una universidad tradicional, entendiendo por tal, la que cultiva sobre todo la investigación básica, o sea, digamos los departamentos de física teórica, de matemática pura, etcétera, esto tiene perfecto sentido que permanezca con sus.
+
+
+[57:52] Hábitos, con su propia cultura, ¿no? Es decir, pero quedan un poco y eso es así como no digo marginales, pero sí de una relevancia secundaria. O sea, dentro del.
+
+
+[58:04] Sistema nacional de ciencia y tecnología esto se preserva, o sea, se mantiene porque se sabe, como dice Mario Unge, esto es la gallina de los huevos de oro y no hay que matarla, ¿no? Y eso completamente de acuerdo, pero tanto desde el punto de vista de presupuestario como de recursos humanos, de equipamientos, de contratos,.
+
+
+[58:21] Etcétera, se prima y se incentiva claramente a a estas nuevas universidades, vamos a llamarlas las tecnocientíficas y las otras quedan estancadas, o sea, digamos, en se mantienen pero sin desarrollo, un poco como lo que sucede con la sociedad industrial, ¿no? Y hablando un poco de la sociedad, dice esta pregunta, ¿cuál es el papel de la.
+
+
+[58:43] Sociedad no científica o la sociedad no empresarial? Es decir, ¿qué ocurre con los usuarios, clientes, los pacientes, los consumidores? ¿Son víctimas o cómo se modifican o cambian.
+
+
+[58:56] Con la tecnociencia? Vamos a ver, a esto lo mejor es llamarlo sociedad civil, ¿no? O sea, el que es el término más adecuado. Entonces, pondré un ejemplo, ¿no? En.
+
+
+[59:07] En el sector TIC, o sea, que es una de las modalidades de tecnociencia, las tecnologías de la información y la comunicación, ahí hay un movimiento enorme, ¿no?, en la sociedad civil, en todo el mundo, ¿no?, en todos los países del mundo. Entonces, en la cumbre mundial de la Sociedad de la Información que organizó la ONU en diciembre en.
+
+
+[59:24] Ginebra y que continuará el 2005 en Dakar, estaban por un lado las grandes empresas del sector TIC, como una de las mesas, vamos, de las de los agentes. Estaban, por otro lado los gobiernos, o sea, los estados, estaban por otro lado las organizaciones internacionales y como cuarto actor estaban la sociedad civil,.
+
+
+[59:43] Representantes de la sociedad civil de todo el mundo. Se había organizado pues por continentes prácticamente, ¿no? O sea, digamos, el asiático, el latinoamericano,.
+
+
+[59:52] El del norte de América y el europeo, o sea, por grandes continentes. Entonces, claro, los representantes de la sociedad civil digamos son muy activos, ¿no? O sea, juegan desde fuera.
+
+
+[1:00:04] Del sistema, o sea, pero tienen unas reivindicaciones muy claras. la respuesta sería muy compleja, pero vamos, yo diré que en filosofía de la tecnología el usuario siempre genera conocimiento, o sea, este sería el argumento fuerte, ¿no? Es decir, que.
+
+
+[1:00:20] Quien usa una tecnología o una técnica, quien usa la azada, o sea, o quien usa el ordenador o quien usa la cámara, da igual, conforme más lo usa y vas a ser un usuario experto, entonces el usuario siempre genera conocimiento. y esto es afirmación general de la filosofía de la tecnología. Bien,.
+
+
+[1:00:39] Ergo, por lo tanto, puesto que se trata de innovación y de generar conocimiento, los usuarios son fuente de generación de conocimiento, diría, tan importante o más importante que los laboratorios de diseño, ¿no? Y esto las grandes empresas tecnocientíficas lo tienen clarísimo. O.
+
+
+[1:00:54] Sea, de hecho, lo que hacen es ver qué hacen los usuarios, consultas con los usuarios continuamente, la retroacción con los usuarios. Quiero decir con ello que por esta vía de los usuarios expertos en particular, se van integrando los usuarios expertos en la dirección de las empresas tecnocientíficas. Y esta esto es lo que.
+
+
+[1:01:10] Me parece sensato, ¿no? Es decir, que una empresa tecnocientífica que en su consejo de administración o la modalidad que tuviera de gestión tuviera representantes de sus usuarios, me parecería mucho más racional que una empresa tecnocientífica que considera a sus usuarios como clientes. Solo aquí.
+
+
+[1:01:28] Okay. Y con respecto a las artes, dice, "¿Cree usted que la revolución tecnocientífica ha llegado a afectar al arte como, por ejemplo, las artes visuales o las letras?".
+
+
+[1:01:38] Claro. Dice, "Tal vez un ejemplo de esto sería, por ejemplo, la industria del film. Sí, no es un esplendor para las artes, o sea, eso no cabe la menor duda. Las.
+
+
+[1:01:47] Tecnologías multimedia, o sea, vamos las artes, los artistas en este momento están en una en un auténtico renacimiento, ¿no? O sea, claro, con otros medios, o sea, digamos, usando nuevas tecnologías, ¿no? Yo cuando hablo.
+
+
+[1:02:00] De arte, de todos modos pongo ejemplos muy triviales, ¿no? No, de para mí una gran obra de arte tecnocientífica es Harry Potter, o sea, Harry Potter la película, me refiero en general la empresa tecnocientífica, eso es una empresa tecnocientífica, artística, literaria, ¿no? O sea, una.
+
+
+[1:02:17] Novela a continuación grandes películas, vídeos, lo pegatinas, de todo a nivel mundial, transnacional, ¿no? surge de una obra literaria, pero digamos es un esto como Roblin, ¿no? Se.
+
+
+[1:02:34] Llama, es una tecnoliterata, o sea, y ha generado una gran empresa, igual diría del el señor de los Anillos. En fin, habría 1000 ejemplos de y bueno, y hay claro, el arte red, digamos el arte electrónico, es decir, la efervescencia que en este momento hay en la música electrónica, el fenómeno Napster, en fin.
+
+
+[1:02:58] El MP3, o sea, la efervescencia que hay, la arquitectura, o sea, pongamos, no sé, el Genhe de Bilbao, si ustedes lo tienen en la mente, eso no es eso es tecnociencia, tecnoarquitectura, o sea, eso no se puede hacer sin ordenadores, ¿no? Y exactamente igual Calatrava, ¿no? Un arquitecto español.
+
+
+[1:03:15] Que hace unos puentes bellos en general, él solo trabaja en con tecnociencia, ¿no? Es decir, que la tecnoarquitectura la hay. No hay no hay excepción. Incluso la tecnodanza, o sea,.
+
+
+[1:03:27] La tecnodanza pues en las olimpiadas que vienen ahora lo verán ustedes, todas estas niñitas que son tecnoniñas, ¿no? O sea, vamos digamos educadas, etcétera, etcétera, como auténticos monstruos, ¿no? Pero claro, pero la belleza que.
+
+
+[1:03:40] Producen es espectacular. dice, "Las sociedades actuales son de composición variada y desequilibrada. Al lado de las comunidades tecnocientíficas existen comunidades.
+
+
+[1:03:51] Casi primitivas aún en las sociedades urbanas. ¿Cuál es la dinámica de la manipulación por minorías privilegiadas frente a las comunidades desinformadas en las sociedades urbanas?
+
+
+[1:04:04] Vamos a ver. el poder es tecnocientífico. yo ya he dicho que esta hipótesis explica por qué predomina Estados Unidos en el en el en a principios del siglo XXI y predomina en.
+
+
+[1:04:15] Múltiples ámbitos. ¿Por qué? ¿Por qué ha impulsado la tecnociencia? Así como potencias europeas, Inglaterra, no sé, Francia, Alemania, impulsaron la industrialización y gracias a eso tenían.
+
+
+[1:04:27] Cañones y tenían barcos, etcétera, y hacían guerras coloniales o como en otras épocas, ¿no?, pues el imperio español pues generó, vamos, tenía un desarrollo tecnológico muy considerable, ¿no?, el Imperio Español y el portugués, ¿no? Y entonces, pues claro, se presentaron aquí pues con armas de metal, ¿no? Y con un tipo de armas muy.
+
+
+[1:04:46] Superiores. Hoy en día Estados Unidos sus infoarmas barren, no hay nadie que pueda que pueda afrontarle, ¿no? O sea, entonces digamos la tecnociencia es poder, ¿no? Es una nueva modalidad de.
+
+
+[1:04:56] Poder. Entonces, los pueblos indígenas pues desde ese vamos, si ya lo tenían mal anteriormente en la época digamos de la civilización industrial, ahí no cambia su situación básicamente, salvo en una cuestión y es que ellos se pueden, digamos, todo ser humano y toda cultura es un yacimiento, es una mina de conocimiento, es lo que decía antes del.
+
+
+[1:05:20] Usuario, ¿no? Entonces, digamos, un pueblo indígena, pongamos un pueblo africano, o sea, por ejemplo, en el ámbito de la danza, de los trajes, de la música, o sea, del movimiento, digamos, es una mina, o sea, entonces eso traducido a tecnociencia, o sea, pero si no se traduce a tecnociencia seguirán en la ruina,.
+
+
+[1:05:40] ¿no? Quiero decir que costumbres muy típicas, muy clásicas llevadas al ámbito de la tecnociencia, pues pueden producir despegues enormes de un pueblo indígena como tal, sin ir más lejos en el ámbito musical, o sea, en el ámbito musical en cono Latinoamérica, África, tienen una, vamos, la tecnomúsica, o.
+
+
+[1:06:03] Sea, es un es muy importante, ¿no? Habría muchos ejemplos, uno muy pequeñito que menciono en broma, una de las habilidades del País Vasco es la gastronomía, ¿no? Entonces, los grandes.
+
+
+[1:06:15] Cocineros vascos tienen departamentos de investigación en sus cocinas, departamentos de investigación tecnocientífica, ¿no? Y gracias a eso pues digamos son empresas relativamente transnacionales, pequeñas empresas transnacionales. Entonces, digamos, hay.
+
+
+[1:06:30] Que confiar mucho en el ser humano y en la en la en la cultura, en cualquier modalidad de cultura, pero siempre si se quiere conservar esa modalidad en su en su ámbito natural, en su tradición, en su nicho, ahí permanecerá. entonces la cuestión es transferir el conocimiento a a la sociedad del conocimiento, ¿no? O sea, esos enormes.
+
+
+[1:06:50] Yacimientos. Esto es clarísimo en el caso de las semillas, o sea, digamos, las grandes empresas de semillas e lo que van es comprando semillas y luego las modifican genéticamente. O sea, digamos, eso el.
+
+
+[1:07:02] Conocimiento que hay simplemente en las semillas, en las hierbas, de una cultura indígena es enorme, pero hay que transferirlo a tecnociencia. Entonces, hay que transferirlo, lo están haciendo las empresas tecnocientíficas, hay que defender ese patrimonio cultural, ese patrimonio del conocimiento.
+
+
+[1:07:19] Bien, otra pregunta es, ¿tiene algún límite la tecnociencia o debe tenerlo? Perdón, algún límite la tecnociencia. Bueno, es impredecible, ¿no? Pero por ahora no se.
+
+
+[1:07:29] Ve. o sea, el digamos el en algunas tecnociencias en las que afectan al a digamos a la biosfera, entonces sí o sea, ahí digamos el agua, ¿no? por.
+
+
+[1:07:42] Ejemplo, como se ha mencionado, o sea, hay recursos limitados y por lo tanto la cuando la tecnociencia opera con este tipo de recursos digamos siempre que se aplique valores o sea, siempre que se apliquen valores y que la tecnociencia esté guiada no solo por valores de maximización de beneficios, sino también por valores ecológicos o por valores sociales. Entonces, en la medida en que.
+
+
+[1:08:07] La tecnociencia sea racional, o sea, esté guiada por valores, pues se pondrá sus propios límites, o sea, hará es un término técnico, management by values, o sea, gestión por valores, que esto empresas sofisticadas ya lo hacen, o sea, es decir, ya el empresario esté que quiere maximizar los beneficios por encima de todo, pues es un empresario típico de la revolución industrial. Los.
+
+
+[1:08:28] Empresarios más avanzados hacen gestión por valores, incluyen una prioridad de valores y se ponen ellos sus propios límites. Y luego el otro límite sería el que la propia sociedad le puede poner a la tecnociencia, o sea, digamos, pero esto ya por la vía del conflicto y de la acción, o sea, entonces este sería.
+
+
+[1:08:45] Mi respuesta.
