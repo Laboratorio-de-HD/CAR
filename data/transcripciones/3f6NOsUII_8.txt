@@ -1,4 +1,4 @@
-﻿[00:23]<< Presentador: Muy buenas tardes.
+﻿[00:23] >> Presentador: Muy buenas tardes.
 
 
 [00:26] A nombre del Tecnológico de Monterrey, de la Cátedra Alfonso Reyes y de la carrera de Letras Hispánicas, en su 60 aniversario, les damos la más cordial bienvenida a esta charla titulada “La construcción del poder: memoria y presente en la política”, con el historiador, ensayista y editorialista, el maestro Enrique Krauze.
