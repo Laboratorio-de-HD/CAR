@@ -1,0 +1,643 @@
+﻿[00:29] >> Gloria Bonder: Muchas gracias por acogerme en esta institución que para mí es una institución de referencia, muy prestigiosa en América Latina.
+
+
+[00:43] Si bien he dado cursos en muchas universidades en la región y fuera de la región, realmente poder estar en el Tec de Monterrey es algo importante, significativo. Espero que sea el inicio de algunas actividades conjuntas entre el Tec de Monterrey y FLACSO, que es mi universidad.
+
+
+[01:09] FLACSO es la Facultad Latinoamericana de Ciencias Sociales. Yo estoy basada en la sede de Buenos Aires, pero hay 13 sedes de FLACSO en toda la región.
+
+
+[01:21] Voy a presentarles más detalles institucionales, pero quisiera volver a reiterarles que vengo con mucha expectativa a compartir con ustedes los avances de un campo de conocimiento que no es nuevo. Me refiero al campo de los estudios de género, pero sí es bastante nuevo en cuanto a la relación entre los estudios de género y los estudios de las tecnologías de información y comunicación.
+
+
+[01:51] Y sobre todo de un campo mayor que es la sociedad de la información y la sociedad del conocimiento. Es decir, este entrelazamiento, esta mirada que están haciendo los estudios de género sobre cómo se va constituyendo, cuáles son los impactos y cuáles son los obstáculos.
+
+
+[02:15] Cómo incide en las relaciones de género la expansión de las nuevas tecnologías de información y comunicación. De verdad es un tema que tiene unas décadas, pero no tantas décadas, y sobre todo necesita mucho más trabajo en la región.
+
+
+[02:32] Voy a presentarme yo brevemente y después les voy a pedir que se presenten también brevemente, porque preparé un seminario con ciertos espacios de interacción pequeños. Sé que estamos conectadas con otros campus y por streaming.
+
+
+[02:58] Bueno, saludo a todas las personas que están en este momento con nosotros desde otros campus y además a la gente de FLACSO. Acabo de darme cuenta de que podía pedirle a mi oficina que difundiera que estamos aquí y que también pudieran participar las personas que a último momento se puedan conectar.
+
+
+[03:20] La red FLACSO es una red muy grande y supongo que algunos y algunas van a poder estar. Mi nombre es Gloria Bonder.
+
+
+[03:28] Yo tengo una larga historia en el campo de los estudios de género de varias décadas, desde los 70. De modo que he pasado y he contribuido en lo que he podido al desarrollo de este campo de conocimientos y de políticas sobre todo en América Latina, en momentos políticos, económicos y culturales muy diferentes de la región.
+
+
+[03:59] Desde la Universidad de Buenos Aires en algún momento inicialmente; luego, durante épocas más duras como la época de la dictadura, desde fuera de la universidad a través de ONG que creamos algunas investigadoras para poder continuar trabajando este tema. Y desde hace 13 o 14 años desde FLACSO Argentina, donde yo dirijo el Área de Género, Sociedad y Políticas.
+
+
+[04:28] Hablar de área es como hablar de un instituto; sería equivalente en términos de cómo es la organización de la FLACSO. Desde ese instituto nosotros tenemos dos grandes programas regionales.
+
+
+[04:42] El primer programa es una maestría online sobre Género, Sociedad y Políticas Públicas que lleva todos estos años de trabajo. Ha sido una maestría pionera; imagínense, hace 13 años estar haciendo una maestría en línea.
+
+
+[05:05] Hemos avanzado mucho, hemos aprendido mucho y hemos, sobre todo, llegado a muchos estudiantes de países hispanoparlantes, de prácticamente todos los países de América Latina, europeos, españoles y otros que hablan español, e incluso de africanos que hablan español. Ha sido verdaderamente un entorno que facilita el uso de las tecnologías, con esos entornos de encuentro, de conversación y de miradas de distintas realidades.
+
+
+[05:44] Nos ha enriquecido mucho para ver justamente, en un tema polémico y rico en sus distintas tendencias, cómo va desarrollándose de acuerdo a los contextos. La importancia de los contextos ha servido mucho para no hacer dogma.
+
+
+[06:11] Es decir, para ver que en distintos países y contextos, primero las manifestaciones de las relaciones de género, así como la comprensión e interpretación de las relaciones de género, varían. Esto es una primera cuestión que quiero dejar en claro y que de alguna manera tiene que ver con mi forma de acercarme a este campo.
+
+
+[06:36] El segundo programa es la Cátedra Regional UNESCO Mujer, Ciencia y Tecnología en América Latina, que lleva los mismos años. Desde allí se ha producido mucha investigación y formación.
+
+
+[06:53] Ambos comparten una intencionalidad, una postura que es la creación de conocimiento para el cambio social. Es decir, nosotros no hacemos investigaciones que van a quedar en un armario y que eventualmente leerán algunos de nuestros amigos y amigas.
+
+
+[07:19] Tratamos, a veces con más posibilidades que otras, de hacer investigación que pueda servir, que pueda tener su impacto e incidencia en la formulación de políticas, en el desarrollo de programas y en el desarrollo de campañas que a lo largo de este seminario les iré mostrando. Esto es el espíritu de donde nacen los estudios de género.
+
+
+[07:54] Es un conocimiento comprometido con el cambio; es académico, pero no academicista. Está comprometido con poder transformar las situaciones de desigualdad, discriminación y subordinación que ocurren por motivos de género.
+
+
+[08:17] No les voy a contar más de mí o de dónde vengo, pero ya pueden saber algunos puntos de partida desde donde miro la realidad social, económica, política y cultural de la región con estos lentes de género comprometidos con el cambio. Me gustaría que muy rápidamente puedan presentarse con nombre y apellido y decir qué hacen.
+
+
+[08:50] Eventualmente, si tienen ganas, comentar rápidamente alguna expectativa. Le pido a las personas que están viéndonos por streaming que si quieren pueden usar el Twitter; hay unos hashtags que creo que los conocen.
+
+
+[09:11] Con mi nombre, Gloria Bonder, también pueden mandar decir quiénes son. ¿Por dónde empezamos? ¿Quién quiere empezar?
+
+
+[09:37] >> Liset de la Garza: Bueno, yo soy Liset de la Garza, estudié literatura y aquí soy responsable de un área, un departamento que se llama Tópicos.
+
+
+[09:47] >> Sergio Ugalde: Mi nombre es Sergio Ugalde, soy estudiante de preparatoria en esta institución y pues básicamente es... bueno.
+
+
+[09:56] >> Viviana Antaki: Soy Viviana Antaki, tengo un doctorado en literatura comparada y enseño aquí literatura en el Departamento de Humanidades y Ciencias Sociales.
+
+
+[10:06] >> Gloria Bonder: Si puede hablar más alto, creo que sería mejor.
+
+
+[10:09] >> Miriam Ganti: Hola, ¿qué tal? Miriam Ganti. Estoy estudiando mi doctorado en geografía en cuestiones de género y cambio climático.
+
+
+[10:18] >> Aletia Fernández de la Reguera: Aletia Fernández de la Reguera. Soy estudiante del doctorado en estudios humanísticos de esta institución y mis temas de investigación son mujeres migrantes y procesos de autonomía.
+
+
+[10:29] >> Montserrat González: Soy Montserrat González, también soy estudiante del doctorado aquí en estudios humanísticos. Mi tema es desarrollo y pueblos indígenas, y obviamente me he encontrado con que el género es fundamental y transversal.
+
+
+[10:42] >> Dora Elvira García: Sí, Dora Elvira García, soy profesora de esta institución. Mis temas de trabajo son desde la filosofía, filosofía política y ética, y hoy día estamos trabajando temas de paz y violencia de género.
+
+
+[10:58] Yo he trabajado cuestiones de trata y coordino la Cátedra UNESCO de Ética y Cultura de Paz para el Alcance de los Derechos Humanos.
+
+
+[11:08] >> Javier Camargo: Yo soy Javier Camargo, soy profesor del área de humanidades y también colaboro en el departamento de investigación. Tengo como expectativa escuchar atentamente y aprender todo lo que usted pueda ofrecernos.
+
+
+[11:23] >> Gloria Bonder: Muchas gracias.
+
+
+[11:26] >> Ariela Bella: Soy Ariela Bella y soy estudiante de Comunicación y Medios Digitales.
+
+
+[11:36] >> Roxana Vicente: Hola, soy Roxana Vicente, estudiante también del doctorado de estudios humanísticos. Trabajo en la línea de investigación de proyectos productivos de economía solidaria.
+
+
+[11:45] >> Gloria Bonder: Ah, muy bien.
+
+
+[11:49] >> Gabriel: Yo soy Gabriel. También soy profesor y estudiante del programa de doctorado en estudios humanísticos.
+
+
+[11:59] Mis temas de trabajo son desarrollo y medio ambiente, y el tema de mi tesis es la representación social del cambio climático.
+
+
+[12:06] >> Gloria Bonder: Muy interesante.
+
+
+[12:08] >> Anacelia Flores: Yo soy Anacelia Flores y soy médico especialista en adicciones.
+
+
+[12:15] >> Claudia García Rubio: Mucho gusto. Soy Claudia García Rubio, profesora de esta institución, profesora de Comunicación y Periodismo.
+
+
+[12:24] >> Fernanda Olivares: Hola, ¿qué tal? Yo soy Fernanda Olivares y vengo por parte de la Comisión de Derechos Humanos del Distrito Federal.
+
+
+[12:32] >> Gloria Bonder: Ah, okay.
+
+
+[12:35] >> Margo Echenberg: ¿Qué tal? Soy Margo Echenberg, también soy profesora de esta institución. Trabajo el área de literatura y me interesa mucho la intersección con estudios de género; trabajo mujeres escritoras.
+
+
+[12:48] >> Osmar Sánchez Aguilera: Buenas tardes, yo soy Osmar Sánchez Aguilera. También soy del área de literatura y me interesan mucho estos temas.
+
+
+[12:56] Por ejemplo, ahora mismo estamos ocupándonos de escritoras de inicios del 20. Saber que usted es de Argentina enseguida evoca toda una pléyade de pensadoras y escritoras de esa región que siempre fueron pioneras. Saber que usted viene de allá es un motivo extra para estar muy interesado en lo que pueda traernos.
+
+
+[13:17] >> Claudia Camacho: Hola, mucho gusto. Yo soy Claudia Camacho y trabajo con Inesence en la Escuela de Educación, Humanidades y Ciencias Sociales.
+
+
+[13:24] >> Gloria Bonder: Bueno, muchísimas gracias.
+
+
+[13:33] Cada vez que voy a alguna universidad a hablar de género, siempre surge una señal de alarma, una precaución sobre qué pasa con muchos conceptos. A medida que se difunden, también se pueden llegar a banalizar y puede haber un desguace de su significación o de los distintos significados que tiene el concepto de género.
+
+
+[14:13] Tiene muchos significados de acuerdo a distintas corrientes teóricas. Es un desafío porque uno puede empezar suponiendo que todos vamos a estar de acuerdo en qué es género, pero yo no estoy segura.
+
+
+[14:37] Mi experiencia trabajando con muchos grupos en distintas universidades me confirma que eso no es cierto, que hay muchas maneras de entenderlo. Entonces voy a empezar con un pequeño ejercicio con ustedes.
+
+
+[14:53] No tiene nota ni evaluación; no es para saber si saben o no saben. Es un pequeño estímulo para que cada uno se conecte con lo que sabe y piensa alrededor de este tema.
+
+
+[15:13] Vamos a ver. Espere mis anteojos.
+
+
+[15:32] Voy a empezar con esto. Les voy a pedir que anoten rápido tres palabras que les vienen a la mente cuando piensan en género. Tres palabras, nada más.
+
+
+[16:24] Me avisan cuando estén.
+
+
+[16:29] Estamos todos. Algunos no lo hicieron.
+
+
+[16:34] Consérvenlo, les pido, porque vamos a volver a esas tres palabras. Este ejercicio va a seguir con de qué hablamos cuando hablamos de género.
+
+
+[16:56] Les voy a pedir que me vayan diciendo en estas opciones. Tienen un verdadero y un falso. ¿Hablamos de mujeres?
+
+
+[17:16] Vamos a probar. Nos dio falso.
+
+
+[17:23] Después vamos a hablar un poco.
+
+
+[17:26] >> Participante 1: Es lo mismo que pasa con la dieta: se habla de dieta y siempre se piensa en bajar y no en subir.
+
+
+[17:34] >> Gloria Bonder: Tal cual. Por eso es bueno que vayamos pensando eso, porque la asociación más común es género igual a mujeres.
+
+
+[17:48] Vamos a hablar un poco más de por qué sí y por qué no. Para choquearlos, les digo que en términos de exclusividad el género no es igual únicamente a mujeres.
+
+
+[18:05] ¿Hablamos de un grupo social homogéneo? Evidentemente no.
+
+
+[18:15] ¿Hablamos de una minoría?
+
+
+[18:23] >> Participante 2: Una minorización.
+
+
+[18:25] >> Gloria Bonder: A ver, muchos dicen que no. Tú dices minorización como un proceso de convertirse en minoría.
+
+
+[18:38] Pero si dijéramos minoría, ¿es una minoría? En muchos discursos las mujeres aparecen junto con las personas con capacidades diferentes o discapacitados y los indígenas. Vamos a ver qué nos sale.
+
+
+[18:55] Nos sale falso. Evidentemente no es una minoría. Puede ser que haya un proceso de convertir a ese grupo social en una minoría desde el punto de vista de su poder político o de su autonomía económica, pero no es una minoría.
+
+
+[19:12] En las políticas de género de muchos organismos, como bancos, las mujeres aparecen dentro del grupo de las minorías.
+
+
+[19:30] ¿Hablamos de un grupo con poco poder?
+
+
+[19:37] Me saltó falso. Esto va a depender de qué poder hablemos y cuál sea nuestra caracterización del poder.
+
+
+[19:55] Si hablamos del poder económico en el sentido estricto, del poder político o del poder religioso, sí, pero no es un grupo sin poder.
+
+
+[20:13] Ya dijimos que esto era falso. ¿Hablamos de diferencias naturales y biológicas entre mujeres y varones cuando hablamos de género?
+
+
+[20:25] Rotundo no. Vamos a ver qué nos pasa.
+
+
+[20:33] Obviamente no hablamos de eso. No decimos que género son las diferencias biológicas, naturales o esenciales entre mujeres y varones. Es un pequeñísimo test para ir caldeando el ambiente.
+
+
+[20:53] ¿Qué les sorprendió sobre todo de este ejercicio que hicimos? ¿Les sorprendió o llamó la atención algo en particular?
+
+
+[21:03] >> Participante 3: La primera pregunta.
+
+
+[21:04] >> Participante 4: La primera pregunta, automáticamente hablar de mujeres.
+
+
+[21:08] >> Gloria Bonder: Hablar de mujeres, género igual a mujeres, correcto. Efectivamente, a mí me sorprenden muchas cosas todavía cuando leo sobre cuestiones de género, pero la asociación inmediata con mujeres, y sobre todo con mujeres marginalizadas, pobres, indígenas o en condiciones de vulnerabilidad, es la asociación que se ha ido constituyendo en base a una serie de interpretaciones e intereses en torno a los programas y políticas llamados de género.
+
+
+[22:04] Vamos a ver un poco cómo ha sido trabajado el concepto de género a través de etapas o generaciones en América Latina. Les voy a estar trabajando sobre todo la manera en que la noción de género inicia su delimitación, su caracterización y se va arraigando dentro de la región. No voy a hablar de género sin contexto; nunca hablo de género sin contexto.
+
+
+[22:47] Seguramente ustedes habrán escuchado una definición muy convencional y tradicional sobre género: "Sexo alude a las diferencias biológicas entre el macho y la hembra de la especie humana; son naturales e inmodificables. Género remite a las características psicológicas y los roles socioeconómicos y culturales que las sociedades atribuyen a cada sexo; por tanto, son modificables".
+
+
+[23:20] Esta definición es como una especie de caballito de batalla que viene de los años 70 y 80.
+
+
+[23:38] Les iba a saltar esto para decirles algo que plantea Janine Anderson, una investigadora peruana: "Los fáciles eslóganes de ayer ('el género es una construcción social y cultural a partir de las diferencias sexuales') ya no sirven de mucho".
+
+
+[23:53] Ha estallado ese binarismo y esa polaridad entre sexo y género, donde sexo es lo biológico y natural, y género lo cultural y social.
+
+
+[24:08] Para los que lo conocen y para los que se acercan, este es uno de los campos de conocimiento más vitales que hay en este momento en todas las disciplinas. Si ven la cantidad de publicaciones que hay sobre estudios de género, la cantidad de congresos, encuentros y debates, estamos lejos de haberlo transformado en un dogma o de haberlo disciplinado.
+
+
+[24:51] Es muy indisciplinado y controvertido el campo de género. Aunque se disciplinó un poco al entrar a la academia, todavía no se disciplinó en su totalidad.
+
+
+[25:15] Vamos a ver cómo se fue construyendo en América Latina. Les puse como título "Los estudios de la mujer / de género / feministas en América Latina".
+
+
+[25:49] Son denominaciones que tienen distintas caracterizaciones y visiones tanto de cómo entender las relaciones de género como de cómo cambiarlas. Cuando uno adopta una posición marxista, posmoderna o existencialista, tiene una visión e interpretación determinada de la realidad y de cómo puede desenvolverse o cambiarse.
+
+
+[26:39] Esto pasa muy fuertemente en este campo. Originalmente se llamaban "estudios de la mujer". En Estados Unidos nacen a fines de los 60 y principios de los 70, pero la definición en inglés no es la misma, no se puede traducir literalmente porque es *women's studies*.
+
+
+[27:03] *Women's studies* tiene una doble acepción: son estudios de las mujeres, en plural, y desde las mujeres.
+
+
+[27:15] Cuando se tradujo al español perdió esa riqueza original de la pluralidad y la perspectiva de que las mujeres podían tener una mirada diferente en la interpretación de las distintas realidades. Por eso se llamó "estudios de la mujer".
+
+
+[27:40] Luego, tanto en los países centrales como en América Latina, se fue adoptando la denominación "estudios de género", que hoy es prácticamente universal.
+
+
+[27:58] Desde lo personal les voy a decir que no estoy muy enamorada del uso de esa interpretación, aunque la uso. Mis programas se llaman Estudios de Género. Creo que esto tuvo que ver con la necesidad de legitimar un campo que tenía originalmente una gran impronta política.
+
+
+[28:33] Una de las primeras en definir los estudios de la mujer fue Florence Howe, que fue mi maestra y mentora. Ella dijo: "Los *women's studies* son el brazo académico del movimiento de mujeres".
+
+
+[28:50] Ahí hay una toma de posición. Está muy bien la investigación, la producción de conocimientos y la formación, pero eso guarda relación con lo que fue históricamente el activismo de los grupos de mujeres por la igualdad, la no discriminación y la generación de nuevas categorías de interpretación.
+
+
+[29:24] Esta relación entre el activismo y el mundo académico se fue limando un poco al entrar a la academia, donde era necesario encontrar estrategias de legitimación. No quiero que entiendan que tiro al niño con el agua del baño; creo que hablar de estudios de género sigue teniendo una gran potencia.
+
+
+[30:00] Fíjense que no todas las universidades tienen un área específica de estudios de género. Yo voy a tratar de motivar para que esta institución la tenga.
+
+
+[30:14] La mayoría de las universidades del mundo abren los brazos para que haya programas de estudios de género, aunque todavía despierta muchas resistencias. Imagínense cuántas resistencias más despertaría si habláramos de "estudios feministas".
+
+
+[30:35] Esto no quiere decir que el feminismo y los estudios de género no sean de la misma familia. Cuando uno ve lo que hacen los estudios feministas y los estudios de género hay mucha similitud, pero se hacen ciertas concesiones para legitimar este campo de conocimiento y acción. En algunas universidades, sobre todo europeas, se llaman "estudios feministas" y punto, porque hay un largo camino recorrido y una aceptación establecida.
+
+
+[31:21] ¿Qué pasó en los 60 en América Latina cuando empezaron los antecedentes de los estudios de género? El "tema mujer" era el objeto de estudio y de intervención. Cuando se empezó era muy incipiente.
+
+
+[31:47] Quiero recalcarles que la mujer no es un tema, lo mismo que el género no es un tema. La mujer es un sujeto social y el género es una categoría analítica.
+
+
+[32:08] El tema de la mujer en los 60 fue el objeto de estudio e intervención, especialmente las mujeres pobres. Se las veía como vulnerables y con necesidad de asistencia o promoción.
+
+
+[32:27] Ahí tienen toda la corriente de lo que se llamó "mujer y desarrollo": cómo incorporar a las mujeres pobres en los estudios y políticas de desarrollo para que no sean tan pobres y favorecer el desarrollo de los países.
+
+
+[32:49] En ese momento predominaban estudios descriptivos basados en datos estadísticos pobres. Los datos no se desagregan por género, se interpretan por género; esa es una confusión común.
+
+
+[33:08] Los datos se desagregan por sexo: varón / mujer. Hay tantos varones y tantas mujeres en la escuela primaria; después uno interpreta esos datos con indicadores de género. Si ahora hay que rogar por datos desagregados por sexo, imagínense en los años 60.
+
+
+[33:40] A mediados de los 70, en muchos países del sur había contextos políticos represivos y dictaduras en América Latina: Chile, Argentina, Brasil, Uruguay. Esto tiene que ver con cómo se fue construyendo este campo, por ejemplo en mi país, desde la clandestinidad.
+
+
+[34:13] Salimos de las universidades o fuimos al exilio. Hay una impronta en la construcción de conocimientos que tiene mucho foco puesto en la participación política de las mujeres.
+
+
+[34:45] ¿Cuál era el enfoque? Podemos hacer un ensamble con la corriente liberal de los estudios de género, basada en enfoques filosóficos y políticos liberales. Sus premisas eran la igualdad de oportunidades y de derechos.
+
+
+[35:12] ¿Cómo entendemos las relaciones de género pensando en la igualdad de oportunidades y derechos? Predominaban estudios sobre estrategias de supervivencia de mujeres pobres, participación en la arena pública y política, patrones discriminatorios en la educación, participación en el mercado de trabajo y visibilización de las mujeres en la historia y la cultura.
+
+
+[35:35] Fue un trabajo ímprobo en esas décadas para visibilizar lo invisibilizado: la historia, el arte o la filosofía sin mujeres creadoras de conocimiento. Es un trabajo arqueológico en el que hay que seguir buscando para encontrar a muchas mujeres ignoradas.
+
+
+[36:21] Había que ir más allá de los discursos reivindicativos de que las mujeres están discriminadas y buscar evidencias. Ahí empiezan los estudios sobre matrículas y patrones discriminatorios en el acceso a la educación, al trabajo y en las trayectorias educativas y laborales, un trabajo que todavía está vigente.
+
+
+[37:10] A mediados de los 70, la UNESCO recomienda y santifica la creación de espacios académicos para la problemática de las mujeres en América Latina. Pasamos de "tema" a "problemática".
+
+
+[37:31] Digo que tampoco es una problemática, pero fue muy importante que la UNESCO, en un encuentro en Buenos Aires con representantes de distintas universidades de América Latina, santificara que las universidades debían desarrollar estudios de género.
+
+
+[37:58] En ese momento ya no se trata solo de mirar que el único problema son las mujeres, sino que empieza a haber un trabajo epistemológico de crítica al conocimiento existente, hegemónico y universalizado.
+
+
+[38:52] Tomados de la mano con las nuevas corrientes epistemológicas y la teoría crítica de la ciencia, se inicia una crítica a la supuesta neutralidad, objetividad y universalidad del conocimiento científico, demostrando sus sesgos sexistas y androcéntricos en las disciplinas y teorías hegemónicas.
+
+
+[39:31] Mi primera carrera fue psicología, con formación psicoanalítica. Se hizo un trabajo impresionante de deconstrucción de la teoría psicoanalítica en lo que decía sobre las mujeres, la diferencia entre varones y mujeres, la subjetividad femenina y el superyó. Lo mismo ocurrió en la filosofía y en la historia.
+
+
+[40:19] Se puede pensar mucho antes en Simone de Beauvoir como una de las precursoras. En *El segundo sexo* es la primera que analiza la filosofía, la psicología y el lenguaje para ver cómo el conocimiento considerado universal concibe a la mujer y al varón.
+
+
+[40:51] Sus famosas frases son como un faro. La primera es: "No se nace mujer, se llega a serlo", que abre la puerta al constructivismo.
+
+
+[41:22] La segunda es que el hombre ha devenido en lo humano. Es una crítica muy profunda a la invisibilización de la mujer como parte de lo humano y a la conformación de lo humano con las características atribuidas a lo masculino, algo que se expande al lenguaje.
+
+
+[41:57] Se inicia la creación de programas y centros de estudios de la mujer en universidades y las primeras redes académicas. En la década del 90 toma mucha fuerza el proceso de institucionalización de los estudios de la mujer o del género, creándose centros de investigación, ONG y programas universitarios.
+
+
+[42:26] Hoy día no sé si conozco alguna otra universidad que no tenga un programa, centro o seminario sobre estudios de género. Ni hablar de Europa o Estados Unidos; en universidades como Harvard, Yale o MIT no es posible concebir que no haya estudios de género.
+
+
+[43:07] Hay una mayor difusión de los nuevos conocimientos, toma preeminencia la denominación de "estudios de género" y hay muchos aportes a las agendas de los organismos internacionales.
+
+
+[43:25] Recuerden que en 1975 fue el Año Internacional de la Mujer, que fundó la Década de la Mujer de las Naciones Unidas. La primera reunión se hizo en México en el 75.
+
+
+[43:44] Después se hizo una en Copenhague, en Nairobi, y luego vino la Conferencia Mundial de la Mujer en Beijing hace 20 años. Este año se cumplen 20 años de la cumbre de Beijing.
+
+
+[44:20] Beijing fue en un momento muy interesante, en 1995, cuando ya habíamos ganado la democracia en muchos países. Allí se aprobó la Plataforma de Acción de Beijing.
+
+
+[44:46] Les aconsejo leerla porque tiene muchas implicancias no solo en el activismo, sino en cómo se comprende la situación de mujeres y varones. Creo que nada alcanzó tanto como Beijing en 1995.
+
+
+[45:13] Después hubo muchas otras convenciones, pero Beijing fue un punto cúlmine. Muchas metas no fueron alcanzadas y conquistas logradas han retrocedido. Basta ver la geopolítica del presente para saber que hoy no estamos en una época de grandes avances en la igualdad entre los géneros.
+
+
+[45:45] Hay avances parciales e importantes, pero también frágiles, porque tenemos contextos políticos muy conservadores.
+
+
+[46:18] Este año se cumplen 20 años de Beijing. No se quiso hacer un evento grande por temor a que no están dadas las condiciones geopolíticas y de seguridad para volver a debatir cuestiones como el aborto, la homosexualidad o la sexualidad en un contexto donde participan países fundamentalistas o gobiernos muy conservadores.
+
+
+[47:17] Se van a hacer evaluaciones parciales, por ejemplo una en Nueva York. ¿Cuáles son los desafíos en la academia y en el activismo?
+
+
+[47:30] En la academia ha habido una amplia difusión de centros, programas y proyectos de investigación, pero mantener su sustentabilidad sigue siendo un desafío.
+
+
+[47:44] Un nuevo concepto que va apareciendo y que me parece de mayor interés es el de interseccionalidad. Es un gran desafío para la investigación.
+
+
+[48:03] Aunque las investigaciones puedan tomar como objetos empíricos a las mujeres, el género es una categoría analítica e interpretativa. Lo que interesa es la interseccionalidad entre género, clase, edad, orientación sexual y religión.
+
+
+[48:55] Es decir, cómo se constituye la subjetividad de cada persona en esa intersección de condiciones determinantes de tipo social. No es lo mismo lo que ocurre con las condiciones y expectativas de vida de una mujer en un sector acomodado que en uno en situación de pobreza.
+
+
+[49:27] Aunque parezca obvio, llegar a entender que las investigaciones tienen que tener en cuenta la interseccionalidad sigue siendo una lucha. A mis alumnos les pido que me describan con claridad de qué mujeres estamos hablando y cómo juega su condición socioeconómica o de edad.
+
+
+[50:07] Este desafío enriquece los estudios de género porque ya no se habla de "todas las mujeres". Compartimos características como género en relación a los varones en un sentido general, pero no cuando miramos al interior y a las relaciones en cada género.
+
+
+[50:34] Otro desafío son los debates entre distintas corrientes teóricas. Me parece fascinante: debaten las marxistas con las liberales, las liberales con las posmodernas y las posmodernas entre sí.
+
+
+[51:00] Tener un mapa de todas las corrientes es muy interesante. Invito a mis alumnos a tomar distintas definiciones, por ejemplo de Rosi Braidotti o Nancy Fraser, y analizar cómo está interpretada la categoría de género, la concepción de sujeto, de poder, de sociedad y de masculinidad.
+
+
+[52:03] Es necesaria la deconstrucción de estas corrientes para poder adoptar la que parezca más adecuada o construir una propia, sabiendo que hay diferencias sustanciales en la manera de interpretar estas cuestiones.
+
+
+[52:29] La violencia se convierte en una problemática prioritaria. La violencia de género es un problema importantísimo que amerita un esfuerzo grande de análisis, profundización, recomendaciones e intervenciones.
+
+
+[53:07] Muchas veces tengo la impresión de que ha oscurecido otros problemas. Al ser tan impactante y tener tanta presencia en nuestras vidas y en los medios, otras cuestiones importantes, que incluso pueden ser condicionantes de la violencia de género, reciben menor atención.
+
+
+[53:41] Por ejemplo, las cuestiones relacionadas con la situación de las mujeres en el empleo y el trabajo, o como diría la CEPAL, la autonomía económica, física y política de las mujeres. La autonomía económica no ha merecido todavía la atención que debiera.
+
+
+[54:20] Acabo de terminar una investigación sobre mujeres en posiciones de decisión en la industria del software. En el campo de la investigación hay temas que predominan y otros que quedan relegados, y hay que mirar cómo se relacionan entre sí.
+
+
+[54:54] La transversalización de género en políticas públicas es un tema de debate impresionante. En una definición simple, transversalizar supone integrar el enfoque de género en las instituciones y políticas públicas en todos los campos.
+
+
+[55:37] Es decir, cómo hacemos para que no queden separados los estudios de género del conjunto de los estudios sociales, o lo que pasa en el Instituto de las Mujeres respecto a educación, salud y empleo.
+
+
+[56:10] Eso fue un avance de Beijing, porque se comprendió que una gran amenaza para los estudios de género era el gueto, quedar guetificados.
+
+
+[56:25] La iniciativa de transversalizar es buena, pero tiene sus bemoles. Hoy existe un gran debate entre el gueto y la evaporación.
+
+
+[57:03] Si nos quedamos aislados es un gueto; si transversalizamos, el riesgo es la evaporación, la cooptación de pequeños detalles de lo que plantea el género en términos de cambio.
+
+
+[57:21] Por ejemplo, si transversalizamos en el Ministerio de Educación haciendo que los profesores traten a chicas y chicos igual o cambiando libros de texto, se corre el riesgo de evaporar la transformación educativa profunda que traen los estudios de género, que implica cambiar el currículo y lo que se enseña. Sigue siendo un debate muy rico.
+
+
+[58:05] Aparecen con fuerza las corrientes posmodernas con nuevas interpretaciones sobre las subjetividades y los géneros en plural: investigaciones sobre identidades LGBT, estallando la idea de una categoría rígida de lo masculino y lo femenino.
+
+
+[58:48] En el activismo, aumentar la participación de las mujeres en la vida política y el empoderamiento son temas clave. El empoderamiento es un concepto cuestionable; yo lo uso aclarando a qué me refiero.
+
+
+[59:17] En sus orígenes, el empoderamiento remitía al fortalecimiento de las capacidades que tienen las personas. Es crear un contexto en el cual esas capacidades logren desarrollarse, fortalecerse y expresarse.
+
+
+[59:57] Por eso viene de *empowerment* en inglés: lo que uno puede hacer con lo que tiene. Desde el punto de vista de la educación se emparenta con la educación popular de Paulo Freire, donde las personas reconocen y desarrollan sus capacidades en lugar de ser un vaso vacío que se llena con conocimientos.
+
+
+[1:01:00] En los años 2000 vienen los Objetivos de Desarrollo del Milenio (ODM), la apuesta mundial que firman casi todos los gobiernos sobre qué estándares de dignidad y cumplimiento de derechos deben alcanzar los países.
+
+
+[1:01:29] En relación a las cuestiones de género, los ODM son muy débiles, mucho más débiles que lo planteado en Beijing. Se enfocan en el empoderamiento y la participación de las mujeres, pero cuando se piensa en modificar la desigualdad, la idea general suele ser "vamos a educarlas".
+
+
+[1:02:07] Las mujeres somos las eternas alumnas del cambio social. Siempre se recomienda la capacitación de las mujeres. Sin negar su valor, me pregunto por qué no se capacita también a los varones para el cambio social.
+
+
+[1:02:34] Analizamos las declaraciones de Naciones Unidas y, al llegar al punto de las mujeres, la indicación constante es capacitarlas.
+
+
+[1:02:51] Otros temas candentes en la región son los derechos y la salud sexual y reproductiva en las leyes, políticas y debates, así como una expansión de las TIC en el marco de una crisis multidimensional.
+
+
+[1:03:08] Las TIC se expanden a un vértigo increíble, pero no en un mundo ideal, sino en uno con crisis económica, de valores y de guerras. La idea de que iba a volver el ágora griega no ocurrió ni va a ocurrir a menos que cambien las condiciones del mundo real y digital.
+
+
+[1:03:47] El entorno digital es un espacio de luchas, competencia y violencia, sin idealizarlo como pretende el mercado.
+
+
+[1:04:17] Les traje referencias para que reconocieran nombres de corrientes dentro de los estudios de género. Les dejaré esta presentación y referencias bibliográficas a quienes tengan interés.
+
+
+[1:04:43] Les doy como deber algunas definiciones. Simone de Beauvoir plantea: "Él es el sujeto, él es lo absoluto; ella es el Otro".
+
+
+[1:05:07] Ella debe haber trabajado mucho los temas de alteridad. También están definiciones de Ann Oakley en 1972 o Naila Kabeer.
+
+
+[1:05:28] Me gusta mostrar cómo se define en los países centrales y en los periféricos. Gina Vargas, una extraordinaria investigadora y activista peruana, mira el género en contexto puro.
+
+
+[1:06:09] Dice: "Los cambios que trajo la globalización debilitaron costumbres arcaicas y sentidos comunes tradicionales, entre ellas la relación entre los sexos, una sexualidad más plástica y los valores familiares unívocos. Aunque también alimentó fundamentalismos crecientes, las personas están más expuestas a ideas de autonomía, individuación, libertad e igualdad, modificando su autopercepción y su condición de sujeto de derecho".
+
+
+[1:06:39] El paradigma de género ha cambiado respecto a lo que pensábamos antes sobre la mujer totalmente subordinada. Las mujeres politizaron lo doméstico, el hombre ya no es el único proveedor y las familias son plurales.
+
+
+[1:07:07] Es una manera de entender las construcciones de género masculinas y femeninas marcadas por los procesos de una globalización capitalista.
+
+
+[1:07:32] Ahora les voy a pasar un video de una artista mujer.
+
+
+[1:07:49] >> Gloria Bonder (cita del video): "El hombre se supone es el verdadero representante de la humanidad. Hace años todos éramos hombres de las cavernas. Además tenemos al hombre de Java, el futuro del hombre, los valores del hombre occidental, el hombre existencial, el hombre económico, el hombre freudiano, el hombre en la luna, el hombre moderno, el hombre del siglo XIX y demasiados hombres que considerar, mirar o creer. Ahí está la humanidad".
+
+
+[1:08:21] >> Gloria Bonder (cita del video): "La conclusión es que yo también soy un hombre y en absoluto una mujer. Porque francamente, ¿quién ha oído hablar de la mujer de Java, la mujer existencial, los valores de la mujer occidental, la mujer científica, la mujer alienada del siglo XIX y todas esas monsergas anticuadas y desilusionadas?".
+
+
+[1:08:42] >> Gloria Bonder (cita del video): "Creo que soy un hombre. Creo que más te vale llamarme hombre. Creo que escribirás sobre mí como hombre, me emplearás como hombre y reconocerás que la crianza de los niños es asunto del hombre. Pensarás en mí como hombre y me tratarás como hombre hasta que entre en tu confusa, aterrada, ridícula y estéril cabeza que soy un hombre y tú eres una mujer".
+
+
+[1:09:09] No sé qué les pareció.
+
+
+[1:09:25] Tiene mucha ironía. Hay que mirarlo bien para ver qué está diciendo sobre cómo se constituye una mujer reconocida si no es a través de adoptar las características de un hombre.
+
+
+[1:09:50] También aborda cuánto de masculinos y femeninos tenemos cada sujeto y la multiposicionalidad.
+
+
+[1:10:21] >> Javier Camargo: A mí me gustaría verlo nuevamente para poder apreciar los cambios con la imagen, porque creo que dicen mucho. Este salto de una imagen a otra borra las fronteras; mi mirada se confundía con lo que estaba viendo. El movimiento me hacía salir de la posibilidad de definirlo.
+
+
+[1:10:50] >> Gloria Bonder: Es el propósito: no hay fronteras.
+
+
+[1:10:58] Espero que todos vengan mañana, que hay otros videos maravillosos. Este los va a dejar pensando.
+
+
+[1:11:34] Nos quedan 8 minutos. Necesitamos la interseccionalidad para ver el género en relación a la etnicidad, condiciones socioeconómicas, orientación sexual, edad y ámbito geográfico.
+
+
+[1:12:02] Necesitamos ver el género como un vínculo y una relación social (varón/mujer, masculinidad/feminidad), por eso género no es igual a mujeres.
+
+
+[1:12:28] Aquí hay algunos estereotipos. Cuando hay fronteras rígidas pasa este dualismo donde uno es una cosa y el otro es el opuesto.
+
+
+[1:13:04] Quiero destacar otra idea presente en muchos discursos: la visión de un sujeto pasivo conformado como un robot por los estereotipos de género, bajo un determinismo mecánico. Si fuera así, no hubiéramos cambiado nunca.
+
+
+[1:13:44] Hay que pensar que los sujetos (varones y mujeres) resisten, resignifican y crean frente a las imposiciones de la sociedad. Si no, no habría cambio.
+
+
+[1:14:20] Todos nos encontramos con situaciones que nos marcan cómo debemos ser, pero también nos rebelamos y cuestionamos. Es importante ver a los sujetos como agentes activos con capacidad de transformación.
+
+
+[1:14:51] Para ir concluyendo: género no es sinónimo de mujer. No existe ninguna razón biológica o natural que determine las desigualdades; la diferencia no es desigualdad.
+
+
+[1:15:09] Las relaciones de género se entrelazan con otras relaciones de poder social (interseccionalidad). Sin embargo, en las sociedades los atributos, roles y posiciones asignados a ambos géneros no poseen igual valor.
+
+
+[1:15:26] El género aporta a la teoría del valor social, pues la distribución de este valor es diferente y alude a relaciones de poder socioeconómicas. En el nudo de las relaciones de género está la distribución del poder.
+
+
+[1:15:52] Por su carácter relacional, involucra tanto a las mujeres y lo femenino como a los varones y lo masculino. A veces les digo en broma a mis alumnos que pareciera que los hombres no tienen género; en este dualismo, las mujeres quedan del lado de la cultura y los hombres del lado de la naturaleza, lo cual es una ironía.
+
+
+[1:16:31] Es necesario puntualizar que igualdad no es lo mismo que identidad.
+
+
+[1:16:44] A veces se confunden en debates sociales o filosóficos. Somos iguales en derechos, oportunidades y capacidades, pero no somos idénticos.
+
+
+[1:17:30] La confusión entre igualdad e identidad ha implicado la homologación de las mujeres dentro del modelo masculino, mostrando intolerancia a una diferencia que no sea jerárquica.
+
+
+[1:18:00] El reto en nuestra sociedad es convivir en la diferencia sin jerarquizarla. Existen diferencias jerárquicas tanto intragénero como entre géneros; no todas las mujeres tenemos las mismas oportunidades.
+
+
+[1:18:38] Igualdad tampoco es lo mismo que equidad. La igualdad es condición de derechos, necesaria pero no suficiente para lograr la equidad. La equidad está relacionada con las medidas de acción afirmativa y las políticas de redistribución de Nancy Fraser.
+
+
+[1:19:05] La equidad tiene que ver con la justicia y la igualdad con los derechos. En Argentina tenemos una ley de cuotas desde los años 90 para la participación política, que establece que el 30% de los cargos deben ser asignados a mujeres.
+
+
+[1:19:41] Existe una distorsión en la interpretación: el 30% no es el techo, es el piso. Se implementó porque había un 5% de mujeres y se tardarían 200 años en llegar a la igualdad.
+
+
+[1:20:08] La ley de cuotas es una ley de equidad y de justicia. Si más del 50% de la población son mujeres, no puede ser que estén representadas por un 5% en los lugares de decisión.
+
+
+[1:20:28] Queda claro que igualdad no es lo mismo que equidad, y que la equidad se relaciona con la justicia y la redistribución del poder y de los bienes simbólicos y materiales.
+
+
+[1:20:58] ¿Hay alguna pregunta o comentario? Mañana, como ya nos conocemos, podremos trabajar mejor.
+
+
+[1:21:27] >> Miriam Ganti: Es un comentario sobre la aplicabilidad de este entendimiento de género. En cualquier política pública en México o a nivel internacional, género es mujer. ¿Cómo llevamos este entendimiento de género a la práctica? Siento que está de moda el uso de género pero equivalente a mujer. Siento que falta llevar este entendimiento de la academia al activismo.
+
+
+[1:22:22] >> Gloria Bonder: Son dos preguntas diferentes. ¿Hay alguna otra?
+
+
+[1:22:38] >> Margo Echenberg: Yo me quedé pensando en su comentario sobre la violencia de género. Quería proponer una forma en que estamos trabajando la violencia en la Cátedra: pensar no solo la violencia directa, sino la violencia cultural y estructural, de modo que no haya un eclipse de los otros ámbitos.
+
+
+[1:23:03] >> Gloria Bonder: Muchas gracias por las preguntas. Respecto a cómo llevar a las políticas públicas una visión que tome en cuenta el género como un vínculo entre varones, mujeres, lo masculino y lo femenino, es algo que está construyéndose y es incipiente.
+
+
+[1:23:41] En el campo educativo y de la salud es fundamental trabajar tanto la construcción de la feminidad como de la masculinidad. Se ha trabajado en el empoderamiento de las mujeres, pero no en las vicisitudes que pasan los varones en la construcción de su identidad y subjetividad, lo que implica discriminaciones al interior del grupo genérico.
+
+
+[1:24:23] Existe un modelo masculino hegemónico, y los varones que no se adecúan a él son objeto de burlas y violencia de género. Es una propuesta que requiere ir construyéndose.
+
+
+[1:24:56] He estudiado las imágenes femeninas en los textos, pero también hay que estudiar qué es ser un hombre hoy, qué hombres son valorados y cómo ha afectado al varón los cambios en la posición social de las mujeres. Hay todo un campo de trabajo en ese vínculo.
+
+
+[1:25:31] Sobre la relación entre la academia y el activismo, en Estados Unidos hay menos activismo en comparación con América Latina.
+
+
+[1:25:47] En América Latina se realizan encuentros feministas latinoamericanos a los que asisten miles de mujeres, donde dialogan académicas y activistas. Además, hacer investigación es también una forma de hacer política del conocimiento.
+
+
+[1:26:42] Es un compromiso ético intentar que lo investigado se vuelque en espacios que influyan en el mejoramiento de las condiciones de vida de mujeres y varones.
+
+
+[1:27:12] Respecto a lo planteado sobre la violencia, me parece un camino promisorio plantearla dentro de un marco estructural. En nuestro programa tenemos un seminario sobre el tema y preferimos hablar de "violencia basada en patrones de género" en lugar de "violencia de género".
+
+
+[1:27:54] Es importante entender la violencia basada en patrones de género en un marco estructural relacionado con las violencias en los campos cultural, político y económico, y ver qué interrelaciones existen entre ellas.
+
+
+[1:28:21] Cuando en mi país se debatió la ley de violencia de género, académicas y activistas influimos para lograr una ley avanzada que reconoce la violencia física, psicológica, económica, mediática, obstétrica y simbólica.
+
+
+[1:29:05] Se trata de entender que existe violencia mediática o económica brutal, enmarcando la violencia que se ve en los noticieros dentro de cómo funciona la sociedad contemporánea.
+
+
+[1:29:53] Quedo a disposición de ustedes para mañana, espero que vengan, no se me haga mucha deserción que me deprimo. Y bueno, dispuesta a seguir conversando con ustedes sobre estos temas y a las que después tienen interés en consultar conmigo algunos puntos o temas específicos con mucho gusto.
+
+
+[01:30:18] Nos vemos entonces.
