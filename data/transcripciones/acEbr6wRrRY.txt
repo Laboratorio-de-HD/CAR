@@ -1,0 +1,370 @@
+﻿[00:36] >> Javier Moreno Barber : Antes que nada quería primero agradecer al tec y a la cátedra Alfonso Reyes la amabilidad que han tenido al invitarme a impartir esta conferencia hoy aquí, pero antes de empezar quería pedir una doble disculpa la primera es que yo siempre preparo un texto pero siempre prefiero si el auditorio reducido se siente una en familia como es el caso e improvisar charlar y luego dedicar tiempo al e intercambio de preguntas y respuestas.
+
+
+[01:09] >> Javier Moreno Barber: Porque creo que realmente al final su interés se va a mostrar el que ustedes pregunten y seguramente van a tener más atención y más y más interés en lo que ustedes pregunten que lo que yo les pueda contar es una disculpa es, porque anoche tuve una pequeña intoxicación alimentaria con lo cual como los tenores que piden perdón de antes de empezar el espectáculo pues lo poder rendir a plenitud.
+
+
+[01:39] >> Javier Moreno Barber: Les pido disculpas, porque voy a hacer que leer el texto en vez de improvisar como era mi intención si les prometo en un futuro próximo si la cátedra Alfonso Reyes tiene a bien el año que viene o el otro volver en plenitud de condiciones para tener un encuentro un poco más distendido que éste un viernes de noviembre pasado volé de Londres a Madrid con un cd en el bolsillo interior de mi chaqueta que.
+
+
+[02:09] >> Javier Moreno Barber: Contenía 250.000 documentos del departamento de estado de las reuniones y conversaciones telefónicas que había mantenido los días anteriores con Julian Assange el fundador de WikiLeaks me había hecho ya una idea muy aproximada de su contenido, pero solo después de la primera sesión conjunta de trabajo con los otros cuatro medios internacionales con los que El País compartía los cables secretos fue cuando comencé a calibrar en profundidad las consecuencias que la publicación de.
+
+
+[02:39] >> Javier Moreno Barber: Aquel que de aquel material conllevaba especialmente para el aparato diplomático de EE. UU. para la credibilidad y la buena imagen de su gobierno para la reputación de no pocos gobiernos occidentales entre ellos el de España y los de muchos países a lo largo y ancho de américa latina así como la de algunos regímenes más o menos autocráticos especialmente en oriente medio' tampoco se me escaparon las implicaciones que la futura publicación.
+
+
+[03:08] >> Javier Moreno Barber: De aquel material supondría no solo para el periodismo en sí sino incluso para el debate sobre las libertades en las democracias no fueron los únicos pensamientos que me ocuparon en las escasas dos horas y media que dura el vuelo Londres/Madrid por debajo de todos ellos martillaba otra cuestión debía El País publicar.
+
+
+[03:28] >> Javier Moreno Barber: Aquellos documentos de biaggio como director y responsable en última instancia la decisión atender los argumentos en contra que con toda seguridad se iban a formular para empezar por parte de los gobiernos de EE. UU. y de España principalmente a los que cumpliendo con nuestras propias normas deontológicas me proponía informar con carácter previo corría el riesgo de que el instinto del periodista estimulado por la enormidad de las noticias y la relevancia de lo.
+
+
+[03:57] >> Javier Moreno Barber: Que yo intuía que guardaba que el cde me hiciese desechar con desdén reparos razonables las dudas son frecuentes entre los periodistas razonables y aún más entre los directores de periódicos al final suelen resolverse con fórmulas que si bien resultan efectivas cuando uno se enfrenta a la angustia de la decisión no suelen aportar mucho bagaje teórico las dos que siempre recuerdo consisten en frases de pocas palabras la primera que se la debo augusto delkáder un viejo.
+
+
+[04:28] >> Javier Moreno Barber: Maestro del país sostiene que en caso de duda haz periodismo admitirán ustedes que resulta atractiva, pero que no le dota a uno de mucho argumento o de mucho artefacto argumentativo digamos la segunda de origen anglosajón es más simple y desde luego goza de la ventaja de ser también bastante más resolutiva pavlik ambiant que en inglés en tierras de más tradición católica como España y México supongo que podríamos traducir como.
+
+
+[04:57] >> Javier Moreno Barber: Pública la noticia y que sea lo que dios quiera dejando de lado las bromas no era es el ánimo que me embargaba aquel día en un momento traté de imaginarme las razones que debía sopesar cuidadosamente antes de tomar una decisión y concluir que se podían agrupar en dos apartados toda vez que hubiésemos concluido con certeza que los documentos eran verdaderos lo que no planteó problema alguno un apartado primero versaría sobre la.
+
+
+[05:29] >> Javier Moreno Barber: Seguridad nacional y el riesgo que la publicación de los papeles de WikiLeaks podía suponer para la vida o para la integridad física de determinadas personas entre las que se encontraban los informantes o colaboradores de las embajadas de EE. UU. en aquellos países en los que no rige el estado de derecho o en los que está en vigor la pena de muerte la segunda consideración tenía que ver.
+
+
+[05:52] >> Javier Moreno Barber: Con la relevancia de los documentos en sí puesto que nada justificaría la publicación de cables secretos cuyo origen y procedencia yo ignoraba sin que mediara un claro e innegable interés público por su difusión yo no sabía entonces ni sé con certeza ahora como esos cables habían llegado a manos de assange, pero no se necesita mucha imaginación para entender que no los había encontrado olvidados por alguien en un parque en zúrich desde luego la.
+
+
+[06:23] >> Javier Moreno Barber: Atmósfera de película del agente secreto jason bourne que todos ustedes conocen que impregnaba todo el proyecto excluía esta última posibilidad con total rotundidad vayamos con la primera objeción publicar informaciones confidenciales o reservadas de las que por experiencia sabe uno de antemano que las consecuencias de tipo político económico o social exceden de lo habitual plantea siempre dilemas de todo tipo especialmente si se trata de documentos de los que se pueda aducir con razón o.
+
+
+[06:59] >> Javier Moreno Barber: Sin ella que suponen un riesgo para la seguridad nacional ese es el argumento favorito de todos los gobiernos Max Frankel un antiguo director de new york times' explicó en sus memorias que la mayoría de las veces que alguien del gobierno adujo razones de seguridad nacional para pedirle que no publicas una noticia detrás no había más motivos que tratar de encubrir la incompetencia la negligencia o el dolor de la.
+
+
+[07:29] >> Javier Moreno Barber: Administración tomar la decisión finalmente de publicar este tipo de informaciones pone a prueba más de un límite moral y naturalmente plantea casi siempre los perímetros de determinadas normas legales la mayoría de las veces que he recurrido a los abogados del periódico sobre la conveniencia o no de publicar una información la respuesta ha sido siempre negativa hay ocasiones efectivamente en que la publicación puede ser irresponsable y desde luego siempre.
+
+
+[07:59] >> Javier Moreno Barber: Produce cierta incomodidad en la relación entre los periodistas y el poder o entre el periodista y los poderes los papeles secretos del departamento de estado que obtuvimos de WikiLeaks no supusieron por ello excepción alguna a esta regla y después de la experiencia comparto más que nunca la reflexión de macs frenkel a la que me he referido antes los esfuerzos para que no se publicasen los documentos en cuestión perseguían sobre.
+
+
+[08:26] >> Javier Moreno Barber: Todo mantener ocultos hechos que no ponían en riesgo más que la carrera política o la estatura moral de muchos políticos que sostuvieron en privado ante diplomáticos estadounidenses opiniones contrarias a aquellas que mantenían en público en la creencia de que su doble moral no corría riesgo alguno de acabar en las primeras páginas de cinco periódicos de alcance internacional como escribir un artículo en el que defendía defendí precisamente estos argumentos tras la publicación de.
+
+
+[08:58] >> Javier Moreno Barber: Los papeles de WikiLeaks yo era consciente de que dar a conocer esta información pese a las objeciones que los gobiernos de los gobiernos supuso correr determinados riesgos, pero al mismo tiempo era impensable que hubiésemos escamoteado a los lectores del país en España y en américa el relato detallado de lo que nuestros gobiernos así como el de EE. UU. en nombre suyo en nombre de los ciudadanos en el convencimiento de que.
+
+
+[09:26] >> Javier Moreno Barber: Finalmente la información redundará siempre en un ciudadano más comprometido con la democracia y precisamente una democracia los periódicos debemos permanecer fieles a las muchas obligaciones éticas que nos comprometen un profundo sentido de la responsabilidad de la veracidad del equilibrio y del compromiso honesto con los ciudadanos en esa larga lista de obligaciones no figura tener que proteger a los gobiernos y al poder en general de revelaciones dañinas para ellos y mucho menos de aquellas que.
+
+
+[10:02] >> Javier Moreno Barber: Simplemente les resulten embarazosas naturalmente hacer públicos ciertos detalles concretos instalaciones operaciones aún en marcha nombres o lugares pueden suponer o conllevar un cierto riesgo que resulta imprescindible no minusvalorar y es por ello que el equipo de periodistas del país aplicó toda su capacidad profesional a asegurarnos de que ninguna de las informaciones o cables que finalmente íbamos a publicar pudiese tener la menor consecuencia negativa en este aspecto escuchamos las.
+
+
+[10:34] >> Javier Moreno Barber: Objeciones que el gobierno de EE. UU. formuló al respecto unas veces las atendimos la mayoría de las ocasiones las ignoramos en cuanto a la segunda objeción la necesidad de asegurar nuestra la relevancia de las informaciones para la opinión pública déjenme hacerles la siguiente reflexión quiero empezar por contar que en cuanto pusimos el asunto en conocimiento de las autoridades éstas nos advirtieron de la grave irresponsabilidad en la que incurrí amos todos los directores de los.
+
+
+[11:06] >> Javier Moreno Barber: Periódicos recibimos la advertencia de que nuestro empeño además de poner en peligro la vida de muchas personas acabaría con determinadas operaciones diplomáticas vitales para cimentar la lucha contra el terrorismo mundial y dañarían irreversiblemente la coalición internacional que lidera EE. UU. tras exponer a sus socios a situaciones tan embarazosas que dificultarían o impedirían la colaboración entre ellos y efectivamente una vez que comenzó la.
+
+
+[11:35] >> Javier Moreno Barber: Publicación de los cables secretos el 28 de noviembre pasado el presidente Barack Obama tildó las filtraciones de actos deplorables y la secretaria de estado Hillary Clinton utilizó esos mismos argumentos durante su primera comparecencia ante la prensa en Washington para condenar las acciones de WikiLeaks y lamentar la decisión que sin atender a los ruegos de su administración finalmente habíamos tomado.
+
+
+[12:00] >> Javier Moreno Barber: Responsables de los periódicos no quiero ahora extenderme en la larga lista de extraordinarias noticias que desde aquel momento los papeles de WikiLeaks nos han permitido conocer, pero si quiero hacer una mención expresa a las más destacadas con la intención de fundamentar mi pretensión de que la relevancia de aquella información para la opinión pública y para el debate en una sociedad democrática justificada de sobra su publicación en primer lugar supimos de las.
+
+
+[12:28] >> Javier Moreno Barber: Verdaderas opiniones de los líderes de muchos países árabes con respecto a eran sus dirigentes y sus ambiciones nucleares lo que dejaba al descubierto el doble discurso de estos firmes aliados de Washington con respecto al régimen de los ayatolás al descubierto quedaban también los excesos de muchos dictadores árabes la magnitud de las fortunas que su corrupción les había permitido acumular todos ellos vieron con estupefacción como la publicación de los despachos les dejaba en evidencia.
+
+
+[13:00] >> Javier Moreno Barber: Frente a sus conciudadanos quienes descubrían con comprensible irritación opiniones declaraciones o acciones de sus líderes que les habían sido ocultadas subimos también que pese a que decenas de miles de soldados sostienen con sus esfuerzos al rey al régimen afgano la corrupción de este es conocida y permitido por los gobiernos occidentales las potencias aliadas no creen que El País sea viable a medio plazo ni que vaya a convertirse en una democracia.
+
+
+[13:31] >> Javier Moreno Barber: Tampoco a medio plazo pese a las protestas públicas en contrario el vicepresidente afgano traslada al extranjero millones de dólares en maletines con el consentimiento de sus patrones en occidente pakistán se ahoga en la corrupción su arsenal nuclear se encuentra en tan lamentable estado que cabe razonablemente temer por su seguridad su gobierno ayuda a grupos terroristas que actúan en india y también en países de occidente dinero procedente de arabia.
+
+
+[14:00] >> Javier Moreno Barber: Saudí o de los emiratos árabes unidos financia el terrorismo de grupos suníes EE. UU. se limita a advertir en privado de estas conductas a los gobiernos correspondientes sin recurrir nunca jamás a las denuncias públicas Washington ordenó espiar a varios países en la ONU así como a su secretario general conocimos también la opinión fundamentada o no de la embajada estadounidense en México sobre los esfuerzos del ejército y la policía contra el narcotráfico y el crimen.
+
+
+[14:32] >> Javier Moreno Barber: Organizado así como comentarios descalificativos sobre dirigentes políticos en todo el mundo supimos de lo que pensaban sobre silvio berlusconi la corrupción en rusia o los ataques de la cúpula china contra Google y otras empresas estadounidenses no quiero alargar la numeración me parece que con lo que he mencionado hasta aquí no cabe ya utilizar el argumento de la escasa relevancia pública para negar que la auténticamente responsable lo legal y lo imperativo.
+
+
+[15:05] >> Javier Moreno Barber: Para las sociedades democráticas en las que los periódicos nos insertamos y con cuyo impulso y progreso nos sentimos comprometidos era dar a conocer los papeles de WikiLeaks revelar lo oculto mostrar lo que el poder no quiere que se conozca constituye la esencia del periodismo comprometido y la razón que justifica nuestro trabajo y aún nuestra existencia, pero no quiero quedarme ahí quiero sobre todo hablaros de las enseñanzas y las consecuencias del caso.
+
+
+[15:35] >> Javier Moreno Barber: WikiLeaks de las implicaciones éticas y periodísticas que podemos extraer sobre el funcionamiento de los sistemas democráticos en nuestras sociedades argumentar en contra de la publicación de los cables de WikiLeaks no resulta inocuo conviene que sepamos que forma parte de una estrategia general más antigua que WikiLeaks que busca producir agujeros en el tejido de la democracia aprovechando para ello que los periódicos están también perdiendo el papel central que tuvieron antaño en la.
+
+
+[16:05] >> Javier Moreno Barber: Formación de la opinión pública una estrategia que lleva a ciertos políticos en la medida en la que puede o se les permite a tratar de ignorar a la prensa o para ser más precisos a tratar de ignorar a la prensa escrita a los periodistas que escriben en los periódicos a quienes son no se les contesta o se le responde con explicaciones extemporáneas se ignora si de forma deliberada que es a los.
+
+
+[16:31] >> Javier Moreno Barber: Ciudadanos a los que verdaderamente se dirige este desprecio y se esquiva así también una regla básica que las democracias el poder debe responder cada día ante la opinión pública al menos y esa es su obligación a la parte de la opinión pública que les interroga quiero insistir hoy aquí en que frente a.
+
+
+[16:53] >> Javier Moreno Barber: Esa deriva antidemocrática los periódicos y los periodistas seguimos disponiendo de las mejores armas para librar la batalla contra la marea populista que trata de acallar las voces críticas que se rebelan contra el ejercicio ilegítimo del poder y quiero también recordar aquí que se trata de una batalla que los periodistas estamos obligados a librar para ello disponemos en primer lugar de la capacidad de investigar de recomponer con paciencia unos hechos que alguien.
+
+
+[17:21] >> Javier Moreno Barber: Con poder ya sea en los gobiernos en las empresas o en otras instituciones tratan de mantener ocultos a los votantes a los accionistas de las empresas a los lectores en definitiva a los ciudadanos disponemos también de otro arma fundamental la capacidad de poner en contexto y de explicar con claridad los hechos disponemos de espacio para construir un relato todo lo detallado que resulte necesario para su correcta comprensión Wittgenstein sostenía que lo que se.
+
+
+[17:52] >> Javier Moreno Barber: Puede decir se puede decir claramente y yo añadiría se debe decir claramente mientras existe la democracia y existan ciudadanos comprometidas comprometidos con ella seguirá habiendo demanda de información seria rigurosa y de calidad ciertamente nada de lo anterior resulta fácil los periodistas no tenemos capacidad de exigir documentos como pueden hacerlo los jueces el ministerio público o las instituciones emanadas de la soberanía popular no somos fiscales y no somos policías lo que quiere decir.
+
+
+[18:26] >> Javier Moreno Barber: Que básicamente conseguimos las historias que publicamos a base de convencer a nuestras fuentes de que arriesguen su puesto de trabajo o incluso de que arriesguen algo más de probar la justicia de EE. UU. que el joven soldado bradley manning que permanece detenido en condiciones inaceptables en una base militar en virginia es el responsable de las filtraciones de WikiLeaks las consecuencias para él pueden ser extremadamente graves y finalmente permite permítanme una un apunte sobre.
+
+
+[18:57] >> Javier Moreno Barber: Periodismo y dinero el periodismo de calidad el periodismo de investigación resulta caro, porque es intensivo en mano de obra muy cualificada se necesitan empresas solventes que sepan colocar el proyecto periodístico en el corazón del negocio y se necesitan cuentas de resultados saneadas para pagar todo lo anterior para asegurar la independencia en los periódicos para asegurar la independencia de los periodistas y para poder resistir las presiones de todo tipo que semejante tarea conlleva de.
+
+
+[19:27] >> Javier Moreno Barber: Forma irremediable quiero hacer énfasis en esto último se que cuando uno es joven como estudiantes de periodismo que hoy estáis aquí sentados nos resulta muy popular escuchar un sermón sobre lo que debe ganar un periódico una radio una televisión y que tiende uno a pensar yo creo que un poco ingenuamente que basta con hacer buen periodismo un periodismo valiente, porque el resto vendrá por añadidura como se afirma en los evangelios nada.
+
+
+[19:57] >> Javier Moreno Barber: Más lejos de la realidad y cumpliría y hoy mal mi obligación como periodista si no fuera honesto con ustedes en la exposición de este asunto que es fundamental para el futuro del periodismo la conclusión última de esta reflexión sobre ética y periodismo no puede ser otra resulta imprescindible defender la democracia como dice Norberto Bobbio aun cuando ésta sea corrupta o ineficiente y permítanme citar también a un eminente jurista de origen alemán max rainstein.
+
+
+[20:28] >> Javier Moreno Barber: De todos los controles de la actividad judicial dice rammstein el de la opinión pública se encuentra entre los más efectivos como periodista no puedo estar más de acuerdo, pero yo añadiría de todos los controles de la actividad política el de la opinión pública se encuentra entre los más efectivos esa es la razón por la que los intentos de debilitar el escrutinio de la prensa hasta acabar con él o convertirlo en una parodia.
+
+
+[20:56] >> Javier Moreno Barber: Inservible e ineficaz ante los ciudadanos deben ser denunciados y resistidos con firmeza el periodismo de investigación que los pone al descubierto nos muestra el papel central que los periódicos todavía juegan en la conformación de un sistema democrático avanzado y seguir defendiendo hoy ese papel es un imperativo moral convendrán conmigo en que la fuerza contenida en el concepto de periodismo de investigación sigue movilizando a las sociedades y a los individuos a los.
+
+
+[21:27] >> Javier Moreno Barber: Mejores de ellos en cualquier caso en defensa no solo de los derechos constitucionales las libertades y la independencia de la prensa sino también de una idea que se ha establecido ya con rotundidad los ciudadanos perciben que el periodismo constituye ciertamente un poder en los estados modernos, pero también consideran de forma irreversible en estos inicios del siglo 21 que constituye o debería constituir en igual grado un servicio moral a la sociedad.
+
+
+[21:59] >> Javier Moreno Barber: Para ello deben respetarse unos principios básicos que yo siempre recomiendo seguir fielmente a los jóvenes periodistas o en su caso de ustedes a los estudiantes de periodismo no cejen nunca en la defensa de un periodismo que se base en la verificación de los hechos de todos los hechos si su madre les dice que les quieren compruébenlo yo sé que este es un principio muy conocido del periodismo anglosajón y también sé que nuestras.
+
+
+[22:28] >> Javier Moreno Barber: Madres en España y en México nos quieren mucho a todos nosotros aún así comprueben lo no practiquen un periodismo que retuerce a los datos hasta que se ajusten a las opiniones o a los prejuicios previos los datos son siempre más tozudos que las opiniones mantengan siempre la independencia de los partidos políticos de las instituciones y de las empresas no trabajan ustedes para un partido ni para una industria ni siquiera para un país.
+
+
+[22:59] >> Javier Moreno Barber: Hace tres años El País el diario 'El País' publicó la transcripción de la conversación entre Aznar y Bush poco antes de invadir Irak en ella se demostraba que la decisión de ir a la guerra estaba ya tomada antes de la correspondiente reunión del consejo de seguridad de la ONU algún miembro del gobierno que para entonces cuando publicaban los papeles ya era socialista, es decir tras la derrota de Aznar en las.
+
+
+[23:25] >> Javier Moreno Barber: Elecciones me reprocho que El País le hacía un flaco favor a España pues a partir de entonces sus diplomáticos iban a estar siempre bajo sospecha en todo el mundo de que podían filtrar conversaciones reservadas eso naturalmente fue antes de WikiLeaks ahora cualquier diplomático sabe con certeza que sus confidencias acabarán las primeras páginas de los periódicos cuidar de las relaciones diplomáticas es tarea de los diplomáticos y gobernar de los gobiernos la tarea de los periódicos.
+
+
+[23:59] >> Javier Moreno Barber: Es otra no lo olviden ustedes nunca no cedan a la tentación de tener una agenda oculta su único interés debe ser servir a los lectores apliquen al máximo posible el principio de transparencia esfuércense en explicar lo que saben y cómo lo saben y nunca nunca crean a los gobiernos a ninguno de ellos ni una palabra de lo que digan observen siempre con desconfianza todo lo que hagan son pocos consejos, pero son.
+
+
+[24:34] >> Javier Moreno Barber: Fundamentales y desde luego no soy yo el autor esto es lo que en la profesión durante décadas se ha considerado el credo fundamental del oficio la crisis actual que debilita los periódicos como eje sobre el que se ha articulado durante décadas la opinión pública y la deriva antidemocrática de ciertos políticos están produciendo agujeros en la sociedad no conviene menospreciar la posibilidad de que finalmente los poderes de la propaganda y la anti.
+
+
+[25:04] >> Javier Moreno Barber: Política se cuelen por esos agujeros y logren un enorme triunfo mi intención en esta charla ha sido dejar claro en cualquier caso que la capacidad de combate del periodismo de investigación del buen periodismo del periodismo que mantiene el espíritu de resistencia frente a todos los poderes del periodismo comprometido con la ética sigue siendo de enorme utilidad a los ciudadanos y a la democracia espero que también les pueda resultar de utilidad a.
+
+
+[25:33] >> Javier Moreno Barber: Ustedes muchas gracias bueno he visto que he superado aparentemente el primer tercio de la corrida pues yo creo que podemos empezar con las preguntas hasta dónde aguantemos adelante.
+
+
+[26:03] >> Participante (Rebecca Turiza):  próxima egresada de periodismo mi primera pues no pregunta mi petición sería un consejo o un mensaje de motivación para los próximos egresados o próximos estudiantes de periodismo tomando en cuenta que nuestro país ser periodista podría ser pues un peligro para la integridad física.
+
+
+[26:26] >> Javier Moreno Barber: Naturalmente todo lo que he dicho aquí yo creo que se aplica con mayor grado todavía al periodismo en México algunos directores de periódicos en otras zonas del mundo ahora que han comenzado a recibir los papeles de WikiLeaks me han llamado para recabar mi experiencia para preguntarme cómo habíamos afrontado las cuestiones legales qué tipo de riesgos habíamos asumido cuando yo comenzaba a explicarles todo el proceso interno en el diario 'El.
+
+
+[27:05] >> Javier Moreno Barber: País' me daba cuenta en muchas ocasiones de que vivíamos en galaxias distintas de repente eran directores de periódicos de países en los que uno no está protegido constitucionalmente a la hora de publicar informes secretos o países en los que el director teme tanto a los poderes del estado como las mafias organizados, por tanto sé.
+
+
+[27:38] >> Javier Moreno Barber: Lo difícil que resulta ejercer el periodismo en mexico y déjenme decirles una cosa antes los problemas del periodismo de ejercer el periodismo en México en libertad cabe atribuir los directamente al estado mexicano el estado mexicano es el que tiene la obligación de garantizar el monopolio ilegítimo de la violencia y, por tanto es el responsable último de garantizarles a ustedes la seguridad en su trabajo lo único que puedo decir es.
+
+
+[28:18] >> Javier Moreno Barber: Que deben ustedes no abandonar nunca estos principios y sobre todo tomar conciencia de que unidos sean ustedes capaces de hacer frente a los peligros en mejores condiciones que si lo afrontan en un estado de desunión hay reflexiones interesantes importantes de lo sucedido en colombia y la actitud que los periódicos tomaron en los momentos más complicados de la violencia que seguramente pueden ser aplicados en mexico y el único consejo que puedo.
+
+
+[28:48] >> Javier Moreno Barber: Darles es además de ánimo que huyen siempre la valentía moral de hacer buen periodismo que busquen la unidad para empezar que busquen la unidad entre los periodistas y que busquen la unidad entre los periódicos y que busquen la unidad entre las empresas periodísticas para hacer frente a los retos sé que es poco ayuda, pero en mi mano no hay más y desde luego tenga la confianza que desde el diario 'El País' siempre en.
+
+
+[29:21] >> Javier Moreno Barber: Seguiremos apoyando en eso.
+
+
+[29:24] >> Participante (nombre desconocido): Bueno días señor  como está para preguntarle aquí muchas veces los medios de comunicación sirven como plataforma de difusión para los grupos delictivos en el caso de ustedes del país tal vez no es comparativo, pero en el caso de ETA cuando se vuelven a presentar este casos terroristas que hacen ustedes como medio detienen la información para no darles difusión o qué decisión toman ustedes no.
+
+
+[29:48] >> Javier Moreno Barber: Ese fue un debate que efectivamente la sociedad española afrontó muy temprano yo creo que al principio de los 80 que fue muy agitado y efectivamente la la pregunta siempre es cuando ETA asesina a alguien lo que busca es naturalmente magnificar el ejemplo de su.
+
+
+[30:09] >> Javier Moreno Barber: Acto y aterrorizar a los ciudadanos que naturalmente han de conocer lo que ha sucedido y chantajear así a la sociedad y al gobierno entonces el debate era no estamos ayudando los objetivos de los terroristas si contamos lo que está sucediendo ese es un debate muy bien contado durante muchos años no voy a entrar a las disquisiciones finales, pero el resultado último fue que los periódicos decidimos que había que.
+
+
+[30:35] >> Javier Moreno Barber: Contar aquello que había que denunciar la barbaridad que había que señalar la barbarie había qué detallar el horror y qué la verdad contada enarbolada el horror mostrado al final les iba a debilitar más que si entre todos escondíamos la cabeza debajo del ala y pretendíamos que lo que estaban haciendo no sucedía y creo que la sociedad española ha avanzado en ese sentido nos ha tomado 15-20 años, pero hace ya muchos años.
+
+
+[31:12] >> Javier Moreno Barber: Que la defensa de los violentos es patrimonio sólo de un reducido grupo de exaltados absolutamente al margen de las líneas centrales de la sociedad y creo que los periódicos hemos jugado un papel positivo en eso siempre desde la posición de contar las cosas de explicar el horror de colocar a los bárbaros frente a las consecuencias de su barbarie.
+
+
+[31:39] >> Participante (nombre desconocido): Yo quería preguntarle cuál es la relación que tiene ahorita con el gobierno español muchas veces vemos por ejemplo en películas que hay negociaciones que hay llamadas, pero bueno no lo conocemos realmente supongo que ustedes sabían cuando el gobierno les les pidió que no publicaran los cables que la relación iba a cambiar pero también pues es una relación que tiene que haber el gobierno tiene que convocar a los medios para informarles.
+
+
+[32:06] >> Participante (nombre desconocido): Ciertas cosas como es ahorita de esa relación ríspida es un tanto hipócrita como es bueno es eso.
+
+
+[32:19] >> Javier Moreno Barber: Para empezar, es decir que luego uno descubre que por muchas cosas que publique las relaciones no se rompen nunca y el mero hecho de que sea tiene otra implicación es profesional como he dicho antes un gobierno qué e intenta callar a los periódicos se suma al gobierno es un gobierno que no responde a los legítimos intereses de los ciudadanos y también nos preguntaba es ríspida si.
+
+
+[32:53] >> Javier Moreno Barber: Es ríspida, pero siempre ríspida si los periódicos hacen bien su trabajo la relación con el poder sea un gobierno sea un sindicato sea una empresa sea un obispo sea cualquier cosa la ración siempre ríspida las relaciones entre los periódicos y el poder las relaciones son siempre tensas si uno es muy amigo de los poderes se está haciendo mal periodismo no se rompen se sigue hablando nos seguimos viendo ellos siguen bueno tratando de presentar.
+
+
+[33:29] >> Javier Moreno Barber: Sus puntos de vistas es muy curioso, porque siempre que los periódicos hacemos dicho que estados unidos presionaba EE. UU. hacían lobby para conseguir determinados objetivos yo cuando he hablado en privado con diplomáticos estadounidenses siempre me han dicho es que no es tu dicen ustedes de que EE. UU. presiona nosotros no presionamos y decían en inglés we just dance and interest simplemente presentamos avanzamos nuestros intereses bueno eso es lo que hacen los gobiernos y eso es legítimo.
+
+
+[34:05] >> Javier Moreno Barber: Y es legítimo y es obligado y es necesario por nuestra parte resistir las presiones y ambos sabemos a qué papel jugamos y ambos respetamos los límites y, por tanto en relaciones profesional finalmente es es profesional y por tanto es ríspida se nos han roto nos han roto los cables.
+
+
+[34:27] >> Participante (nombre desconocido): Hola buenos días y yo bueno me llamó la atención el punto que tocó sobre que para un periodismo de calidad se necesita dinero y pues sabemos que aquí en México la mayoría de los medios de comunicación y especialmente los periódicos pues los salarios son muy bajos para los reporteros entonces quiero preguntarle pues en el caso de su diario cómo han manejado esta situación cómo es el pago a los periodistas.
+
+
+[34:59] >> Participante (nombre desconocido): Antes exactamente qué no se quiere agrandarlo no estaría mal pero pero cómo han manejado esa escala salarial bueno.
+
+
+[35:10] >> Javier Moreno Barber: No yo estoy de acuerdo en que con salarios bajos con precariedad en el oficio con escasa formación resulta difícil decir buenos periódicos el periódico los hacen los periodistas no los hacen las empresas las empresas tienen que asegurarse de la viabilidad económica del conjunto, pero son los periodistas los que hacen los periódicos y efectivamente malas condiciones laborales bajos salarios precariedad no hacen más que y complicar la tarea de hacer un buen.
+
+
+[35:44] >> Javier Moreno Barber: Periódico complicar la tarea de mantener y atraer talento yo creo que el periodismo tiene que estar bien retribuido, porque si no uno no atrae talento si uno piensa que por seguir su vocación su legítima vocación profesional se tiene que haber condenado a una vida de precariedad y de bajos salarios al final puedo desde un punto de vista humano comprender que se abandone esa vocación y por tanto nos resultará muy difícil a los periódicos.
+
+
+[36:16] >> Javier Moreno Barber: Atraer el talento que necesitamos para hacer buenos periódicos cómo se compatibiliza eso con la solidez de la empresa y con la viabilidad económica es tarea de los que hacen la empresa de los que hacen los que construyen las empresas periodísticas por eso en él el discurso hecho referencia a que necesitamos empresas solventes que sepan gestionar con profesionalidad la parte de la empresa, pero que coloquen el corazón periodístico o la tarea.
+
+
+[36:49] >> Javier Moreno Barber: Periodística del oficio en el corazón de la empresa y que sepan respetar lo que debe ser campo de decisión sólo en los periodistas y si quieres entrar al detalle como hace El País El País paga salarios muy elevados igual me equivoco, pero el salario medio el coste medio para la empresa porque hay que contar impuestos para la seguridad social sin otros costes salariales pero el coste medio para la empresa de un periodista del.
+
+
+[37:24] >> Javier Moreno Barber: País puede rondar los 78 mil euros no sé cuánto va a ser esto en dólares, pero más de 80 mil dólares más de 80 mil dólares y y el salario de entrada ahora mismo ahora mismo el salario de entrada de un periodista de un sido un periodista o de un becario del segundo año digamos la primera puerta de entrada puede.
+
+
+[37:51] >> Javier Moreno Barber: Rondar los 34 mil 35 mil euros sus salarios elevados y sus salarios que nos está costando mantener en la actual situación de crisis económica y para sostenerlos y para sostener a la plantilla estamos haciendo muchos esfuerzos hemos recortado gastos hemos recortado papel hemos recortado agua mineral hemos recortado todo lo que humanamente y profesionalmente hemos considerado que teníamos que recortar sin afectar al núcleo principal no hemos reducido la plantilla de forma.
+
+
+[38:21] >> Javier Moreno Barber: Traumática han habido despidos no hemos reducido el número de corresponsales ni de corresponsalías y hemos procurado no afectar a la calidad del producto, pero efectivamente esa pregunta es fundamental y va a ser cada vez más crucial en los próximos años porque la crisis nos está llevando a todos a un fin por senderos que bordean el precipicio a los casos El País con su volumen la buena gestión de la parte empresarial.
+
+
+[38:53] >> Javier Moreno Barber: Abaleado bien esos peligros y no hemos entrado en ningún momento en los últimos años en pérdidas, pero pero es un factor que cada vez nos preocupa más y mi preocupación es que si los periódicos entran en crisis económica si tienen pérdidas continuas si tienen cada vez más dificultades financiarse lo que va a sufrir al final va a ser la independencia y lo que la condición sinequanon luego uno puede actuar bien o.
+
+
+[39:24] >> Javier Moreno Barber: Mal según su conciencia, pero la condición sine cuando en la condición imprescindible para poder ser independientes es ser solvente financieramente si un periódico no gana dinero si un periódico no es solvente desde el punto de vista económico si su cuenta de resultados no está saneada es más fácil que caiga presa de los poderes de los gobiernos de las presiones de las empresas de los anunciantes que sí es muy solvente.
+
+
+[39:51] >> Javier Moreno Barber: Económicamente es una ecuación muy difícil de ajustar, porque en medio todo eso también están los salarios de los periodistas pero ese es el arte de hacer un buen periódico ese es el arte de hacer una buena empresa periodística es ser capaz de conjuntar de forma armoniosa todos esos factores yo sé que en México esto es especialmente difícil pero esa es la receta para salir adelante.
+
+
+[40:14] >> Participante (nombre desconocido): 2 cuestiones la primera sería con respecto a WikiLeaks hasta qué punto siendo autocríticos estos periódicos tan tan prestigiosos y con tantos recursos vaya que tanto representa esto que cosas que ustedes pudieron haber hecho con periodismo de investigación antes de que hubiera esta filtración de los cables y por qué hasta que WikiLeaks los los entrega es cuando los periódicos toman esos temas y los investigan y checan si están correctos o no, es decir cuando yo.
+
+
+[40:51] >> Participante (nombre desconocido): Sé que muchas de las cosas eran muy confidenciales y que no había manera de que ningún periodista en el mundo los pudiera encontrar, pero quizás una buena parte de esos temas si eran también susceptibles de haber sido descubiertos por reporteros sin tener que estar esperando que recibiera esta filtración y la segunda cuestión es en relación a que se habla mucho de la prensa como el cuarto poder y ha insistido mucho en.
+
+
+[41:17] >> Participante (nombre desconocido): Esta plática en esa necesidad de mantener una distancia del gobierno y de las empresas incluso y las instituciones lo cual me parece muy adecuado, pero también hoy en día y sobre todo aquí en México nos estamos planteando hasta qué punto se requiere un quinto poder que también sea capaz que en este caso sería ciudadano que también pueda en ocasiones supervisar lo que lo que están haciendo los medios porque llega a ver ciertos.
+
+
+[41:43] >> Participante (nombre desconocido): Excesos de manejo ahorita estamos viendo en México en las elecciones y en en otros temas como los grandes las grandes corporaciones de medios están teniendo el sartén por el mango y no es no tienen ningún lo que en inglés se llama accountability este el gobierno está débil en términos de no aplicar una ley para evitar ciertos excesos que pudieran cometer y por otro lado no hay organismos ciudadanos o consejos.
+
+
+[42:14] >> Participante (nombre desconocido): O algún otro tipo de mecanismo que pueda también poner de pronto en evidencia lo que los medios están haciendo equivocadamente.
+
+
+[42:23] Bueno la primera cuestión efectivamente ellos tuvieron los papeles y nosotros no, pero yo no lo vería tanto en una dicotomía entre lo que los periódicos hemos hecho hemos dejado de hacer sí no digamos en el eje en un eje más antiguo que es quien tiene los papeles si dejamos de lado WikiLeaks en España en cualquier en cualquier país los periodos compiten por las noticias compiten por conseguir el sumario.
+
+
+[42:55] Judicial secreto compiten por conseguir el papel que prueba alguna fechoría en la administración unas veces lo consiguen unas y otras veces lo conseguimos otros y poder, porque yo no tengo el papel que este periódico enfrente si tiene como mucho le puedo echar una bronca el periodista que cubre esa temática pero yo no haría un discurso de tú jamás a éstos les han pasado los papeles porque son buenos porque más que.
+
+
+[43:33] Nosotros estamos en competencia profesional yo creo que aquí WikiLeaks ha logrado un gran escape Julian Assange personalmente me hubiera encantado tenerlo no lo tuve usted puede decir eso es que no se esforzaron suficiente que sí que nos esforzado lo suficiente preguntas veces consigue uno el premio en tres veces no lo consigue, pero esforzarnos nos esforzamos permanentemente y luego eso sí una vez que lo tuvimos ah y si desplegamos toda la capacidad.
+
+
+[44:05] Que un gran periódico puede llegar a movilizar convoque a un grupo de casi 40 personas con traje a los corresponsales de moscú de Washington de mexico de buenos aires- de roma de teherán los traje todos a Madrid convoque a unos cuantos ex corresponsables convoque a periodistas veteranos los reúne a los 40 les explique el proyecto y les entregamos el material y ellos fueron los que empezaron a descubrir los temas y agotar.
+
+
+[44:37] Los de contexto y explicarlos y luego por cierto algunos de esos temas si estaban apuntados yo creo que cualquier el lector atento de periódicos de calidad internacionales sabía que los líderes del mundo árabe preferían que EE. UU. pusiese freno a la carrera nuclear de ahmadineyad que enfrentarse a la posibilidad de que exista una bomba atómica chií en oriente medio, pero y eso estaba apuntado en muchos sitios y si nos hemos esforzado en contar eso.
+
+
+[45:19] Pero una cosa es sugerir lo y otra cosa es encontrarte con un papel con una cita entre comillas en la que el rey de arabia saudí dice que eso era lo que le proporcionaba los documentos de ese inmenso valor, pero prendes cierto que hasta ese momento ninguno de nosotros hubiésemos ni incluido lo que ahí se contaba claro que sabíamos que el régimen chino está detrás de los ataques informáticos.
+
+
+[45:46] A Google lugar otras empresas sobre los robos de propiedad intelectual o del espionaje, pero una cosa es sugerir lo en una crónica entre una frase subordinada porque el mundo no tiene elementos que solo hemos hecho y nuestro corresponsal en pekín ha sufrido a mente las consecuencias y otra cosa es encontrarse con el relato negro sobre blanco de que la cúpula del régimen los 12 miembros de la comisión correspondiente del comité central son.
+
+
+[46:21] O uno de ellos en concreto es el que ha dirigido todos los ataques contra Google esto es material de primera clase, pero si lo habíamos si habíamos hecho aproximaciones hasta donde habíamos podido en ese sentido WikiLeaks nos ganó a la mano si no la ganó no os voy a gustar no sostener los papeles y eso se puede interpretar como un fracaso del periodismo yo creo que no creo que no pero claro es opinión de.
+
+
+[46:45] Parte es opinando interesada en cuanto a lo del cuarto poder yo estoy de acuerdo en que en que la libertad de prensa no garantiza que uno haga buen periodismo se puede utilizar la libertad de prensa para hacer periódicos demagógicos corruptos y para hacer daño a la sociedad sucede en México suceda en España y yo creo que sucede yo siempre decía bueno esto es, porque mejor somos democracias no tan avanzadas.
+
+
+[47:19] Y entonces mis colegas del guardián con los que me traslado mucho últimamente misión cuando fue la última del que leíste tal periódico inglés que no voy a citar ahora conociendo que eso también sucede en inglaterra y es verdad suceden todas partes entonces cuál es el remedio efectivamente los ciudadanos yo no sé si.
+
+
+[47:36] Como quinto poder, porque hay un problema de articulación de ese quinto poder intermediación de ese quinto poder 3 cómo se organiza eso con comités con comités de vigilancia en supervisión también pienso normal con leyes de prensa de prensa las carga el la mejor ley de prensa es la que no existe yo creo que con el código civil y con el código penal es suficiente para regular la opción de los periódicos pero.
+
+
+[48:05] Efectivamente si dejamos de lado la idea de quinto poder, porque siempre sugiere que hay que articular eso alguna manera y eso sí me produce un poco de la idea de fondo es correcta son los ciudadanos los que tienen contra los medios hay un mecanismo habitual las sociedades de mercado que es el mercado los modelos periódicos salen adelante los buenos periódicos que responden a su obligación y responden deontológicamente ante los ciudadanos son los que.
+
+
+[48:32] Progresan, pero el mercado es imperfecto lo sabemos todos y eso puede producir situaciones de desamparo situaciones de demagogia situaciones de corrupción en los periódicos yo prefiero eso qué un comité de salud nacional dirigido por el gobierno o por quién sabe quién que intente imponernos reglas y que en última instancia sirva o pueda servir para censurar dos sé que el traidor es complicado y sé que es un traidor más.
+
+
+[49:07] Complicado cada vez más complicado en función del grado de articulación democrática de cada sociedad y que eso seguramente es más complicado en México que en España y seguramente es más complicado en España que en EE. UU., pero yo honestamente no veo otra alternativa bueno acá.
+
+
+[49:30] Cuál es su opinión sobre las acusaciones de abuso sexual a Julian Assange después de la filtración de los cables son represalias por los mismos y bueno yo la contestación directa yo no lo sé, pero si puedo apuntar un par de cosas la primera cosa que lo apuntara es que assange va a tener que responder mejor dicho quienes le han acusado van a tener que probar ante un tribunal en suecia ante un.
+
+
+[50:03] Tribunal en europa sus acusaciones yo confío en la justicia en suecia y yo confío en la justicia en europa en general, por tanto quienes le han acusado tendrán que probar eso si el juez o los jueces finalmente deciden que es culpable.
+
+
+[50:21] Yo voy a considerar que eso es así visto lo que he visto hasta ahora francamente me aparecen acusaciones un poco endebles, pero es un tema delicado yo creo que el tema de la violencia contra las mujeres y específicamente la violencia sexual contra las mujeres es un tema que no conviene va a analizar por tanto yo no voy a decir aquí que esto es un caso que le ha montado la fiscalía.
+
+
+[50:49] Sueca dos señoras orquestadas o manipuladas por EE. UU. para no sé que no lo voy a hacer por respeto a las mujeres y por el rechazo profundo que cualquier persona debe sentir respecto a la violencia contra las mujeres y específicamente la violencia sexual contra las mujeres lo único que puedo decir es que como confío en la justicia en subvención vamos a ver si los que le han acusado son capaces de probar ante un tribunal.
+
+
+[51:25] Lo que han dicho y por ejemplo usted que fue ya en un segundo plano en el que lo difundió no tengo usted también represalias o los directores de los medios más más importantes que lo hicieron, pero del mismo tipo y yo creo que esa es una de las razones volviendo a la pregunta anterior por la que assange quizá buscó a cinco periódicos como the new york times the guardian El País.
+
+
+[51:52] Spiegel y le monde para publicar estas noticias en parte, porque nosotros éramos capaces a de proporcionarle difusión y relevancia en todo el planeta y en dos tres lenguas distintas cuatro inglés alemán francés español en cuatro pero también porque éramos cinco grandes organizaciones capaces conjuntamente de resistir las presiones supongo que conocer los detalles quién primero tuvo los documentos fue the guardian y the guardian y lo ha contado al ántrax.
+
+
+[52:33] Villers director del garmin ha contado públicamente quiero decir llamó al director del cni ver times y le ofreció compartir los papeles en base a este argumento de juntos vamos a ser capaces de resistir mejor las presiones que segura que con toda seguridad se van a producir y además en el caso específico del reino unido donde hay leyes muy estrictas y donde el guardián tenía una orden judicial que les impidiese publicar lo que tenían.
+
+
+[53:04] Mientras que las vírgenes consideraba que las leyes de EE. UU. protege más a la prensa y a la libertad de prensa y a la libertad de publicar en EE. UU. a los periódicos de EE. UU. que las leyes británicas a los periódicos en gran bretaña y por eso pensó que compartir esa información con el 'new york times' y va a dificultar que una orden judicial en reino unido le impidiese el publicar.
+
+
+[53:31] Los papeles yo creo que fue un gran gesto de honestidad profesional luego volveré sobre una gestión de bestia profesional, porque antepuso el objetivo de dar a conocer los papeles al más mezquino de que alguien de la competencia pues él corría el riesgo de que una vez entre los papeles en 'new york times' una orden judicial le impidiese a él publicarlo en el reino unido- y si embargo prefirió correr ese.
+
+
+[54:01] Riesgo con tal de asegurarse que efectivamente los papeles se publicaban cuando a ese grupo nos sumamos en El País le monde spiegel esa posibilidad de bloquear la publicación se difuminó más todavía yo creo que esa es un poco la razón que explica esto, pero quiero volver porque acabo de darme cuenta cuando digo querrás bayern ofreció un gran ejemplo de honestidad profesional y de valentía compartiendo esos papeles con el 'new york times'.
+
+
+[54:35] Creo que eso es un buen ejemplo también para la prensa en México ante los problemas que supone hacer periodismo en libertad por las condiciones por la violencia por todos los factores que complican hasta lo indecible el ejercicio libre de la profesión en este país creo que ese es un buen ejemplo el de poner por delante los intereses generales antes que los intereses del propio medio o de la propia empresa.
+
+
+[55:05] Periodística creo que eso es una lección que también se puede extraer de ahí un poco volviendo sobre el tema este de la interacción que tuvieron los seis periódicos o 55 periódicos este había habido un antecedente de una articulación de intereses entre ustedes los periódicos para poder publicar algo o es algo sin precedente desde todo punto de vista yo sé que hace un mes se juntaron en Madrid hicieron que ustedes.
+
+
+[55:42] Organizaron un foro entonces que deja esto de acá para adelante en la capacidad de interacción entre estas estas grandes empresas periodísticas lecciones a partir de esto y otra aspecto del país en particular a lo mejor es una percepción individual, pero precisamente el estilo de cobertura que le dieron ustedes a la la cuestión de WikiLeaks siento desde mi percepción que los posicionó en todo el mundo de habla hispana sobre la cobertura de este.
+
+
+[56:14] Tipo de cuestiones les ha dado ventajas comparativas por ejemplo no sé el número de clics sobre otros eventos internacionales que se derivaron desde allí por ejemplo toda la cobertura del movimiento en el mundo árabe y ahora más recientemente el tema del terremoto en japón la primera efectivamente yo creo que es.
+
+
+[56:36] Una colaboración entre cinco grandes organizaciones periodísticas internacionales sin precedentes yo no recuerdo que haya existido nada similar no no no sólo entre nosotros que naturalmente se que no sino ni siquiera comparable con otros periódicos o con otras con otros medios ya que yo creo que si fue un primer precedente mundial y si ha dejado algo ha dejado muchas cosas y yo creo que ha dejado lo explicado también tras brillar en el encuentro.
+
+
+[57:09] Precisamente que tuvimos en Madrid nos hemos conocido más nos hemos apreciado más y hemos descubierto que juntos somos capaces de hacer cosas mejores y más interesantes para nuestros lectores que por separado algunas cosas efectivamente seguimos colaborando ahora mismo e intentamos una y poner en común recursos cuando estalló la crisis árabe era complicado por el tema del idioma, aunque hicimos algo en internet y en twitter y ahora mismo por ejemplo estamos hemos.
+
+
+[57:42] Emprendido una serie que durará varias semanas de radiografías de radiografía de europa de países de europa en los que volvemos a colaborar o sea que se ha dejado un poso el jabón aleja una simiente de colaboración y luego las la segunda pregunta naturalmente.
+
+
+[58:01] La página web del país durante aquellos días se disparó tuvimos muchísimas entradas y eso nos elevó digamos el suelo del número de visitas que se ha mantenido en los picos máximos actualmente, pero si por encima de que estábamos antes y eso naturalmente lo estamos capitalizando.
+
+
+[58:19] Ahora con la cobertura del mundo árabe que creo que es muy amplia y muy sólida y lo que está sucediendo en japón nos ha permitido volver a tener grandes afluencia de tráfico, pero porque ya partíamos también de un suelo que había remontado mucho con WikiLeaks la última pregunta si no les importa buenos días hablando del país como un medio que tiene bastante credibilidad a nivel internacional qué sugerencia podría dar o qué es lo.
+
+
+[58:56] Que usted podría haber para superar el reto que enfrenta los nuevos periodistas en México ante el legado que tienen de pues de medios de comunicación que están prostituidos en sus intereses al estado o ya sea a fines particulares como lo que estamos viendo actualmente el único consejo que puedo daros es que no hacéis nunca en el empeño sois vosotros son ustedes los que los jóvenes los que tienen que cambiar esto desde la base y.
+
+
+[59:32] Eso se puede cambiar desde la base no es comparable y nosotros tenemos nuestra propia historia de una prensa que colaboró con la dictadura y fueron los periodistas jóvenes durante la transición los que cambiaron eso excepto un periódico por otra parte que ya ha superado los los 100 años en Madrid ningún periódico de los que se editaba antes de la muerte de francos sobrevive hoy en día y eso es por qué.
+
+
+[1:00:04] primero los periodistas desde dentro de las organizaciones y luego también en los ciudadanos con sus elecciones hicieron cambiar todo eso para nada es comprar la estación en México hay otra situación que es insatisfactoria por lo que os escucho y que sé que es insatisfactoria, pero sois vosotros los que tenéis que luchar por cambiar eso desde abajo sin desfallecer sois muy jóvenes todavía sin desfallecer las cosas mejoran cuando uno se empeña.
+
+
+[1:00:36] Yo conozco este país desde hace mucho llegué por primera vez en el 94 como periodista y,  y he visto cómo ha evolucionado he visto cómo las instituciones han ido fortaleciendo es verdad que más a nivel federal a nivel estatal a veces, pero he visto nacer instituciones y consolidarse maneras de hacer política incluso manera de hacer periodismo que antes no existían y eso me da optimismo sé que cuando uno está.
+
+
+[1:01:05] En la batalla diaria a veces tiene la tentación de, de rendirse al desánimo no rindas nunca las cosas se pueden cambiar, pero hay que cambiarlas desde abajo las tienes que cambiar nosotros la última persona muchísimas gracias a todos de verdad.
