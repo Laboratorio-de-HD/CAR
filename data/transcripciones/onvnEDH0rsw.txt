@@ -2923,12 +2923,12 @@
 
 
 
-[1:37:04] >> Participante 1?: Sí, entonces seguimos.
+[1:37:04] >> Participante 1: Sí, entonces seguimos.
 
 
 
 
-[1:37:05] >>Ikram Antaki?: Seguimos.
+[1:37:05] >>Ikram Antaki: Seguimos.
 
 
 
@@ -2938,7 +2938,7 @@
 
 
 
-[1:37:10] >> Ikram Antaki ?: ¿Dónde?
+[1:37:10] >> Ikram Antaki : ¿Dónde?
 
 
 
