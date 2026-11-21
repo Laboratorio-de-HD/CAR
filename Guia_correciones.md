@@ -45,7 +45,7 @@ Corrige lo que indica cada fila del Excel y lo que encuentres del mismo tipo. De
 - **Corrige dentro de la línea.** No muevas texto de una línea a otra: cada línea está amarrada a su tiempo en el video. Tampoco unas líneas en párrafos ni partas una línea en varias.
 - **No cambies los tiempos `[mm:ss]`**, salvo que el error sea justamente de tiempos.
 - **Cada línea empieza con su tiempo.** Sin líneas sueltas, sin títulos ni viñetas.
-- **No pegues el texto en un chatbot para "limpiarlo".** Es el origen de las marcas `[cite: N]` y de textos resumidos que ya no dicen lo que se dijo en el video.
+- **No vuelvas a pasar el archivo por un chatbot para corregirlo.** Así se originaron las marcas `[cite: N]` y algunos textos resumidos que ya no dicen lo que se dijo en el video. Corrige a mano.
 
 La sección [Cómo corregir cada tipo de error](#cómo-corregir-cada-tipo-de-error), más abajo, tiene ejemplos de antes y después.
 
@@ -125,7 +125,7 @@ Después: [00:23] >> Nombre Apellido: Les voy a presentar con muchísimo gusto
 
 ### Hablante principal sin nombre real
 
-Cambia "Conferencista", "Presentador", "Ponente" o "Moderador/a" por el nombre real, en **todas** las líneas donde aparece. Usa Ctrl/Cmd + F para encontrarlas. "Participante 1", "Participante 2"… solo se acepta para personas del público que no dicen su nombre.
+Cambia "Conferencista", "Presentador", "Ponente" o "Moderador/a" por el nombre real, en **todas** las líneas donde aparece. Usa Ctrl/Cmd + F para encontrarlas. "Participante 1", "Participante 2"… solo se acepta para personas del público que no dicen su nombre. Las instrucciones originales permitían "Moderador/a (nombre desconocido)"; ahora buscamos el nombre real en el video, su título o su descripción. Si de verdad no aparece, explícalo en la columna Observaciones del Excel.
 
 ```text
 Antes:   [02:10] >> Conferencista: Muchas gracias por la invitación...
@@ -192,8 +192,8 @@ Borra la repetida y conserva la primera.
 | Elegir "Create a new branch" al guardar | Crea un PR nuevo y repetido; tu corrección no llega al PR revisado | Elegir **Commit directly to the `tu-rama` branch** |
 | Subir otra vez los archivos con Upload files estando en `main` | También crea un PR nuevo | Cambiar primero el selector de ramas a **tu rama** |
 | Cambiar el nombre del archivo | El nombre es el código del video; con otro nombre ya no se encuentra | Dejar `CODIGO.txt` tal cual |
-| Editar en Word, Pages o Google Docs | Agregan formato invisible y cambian comillas y guiones | Editor de GitHub, Bloc de notas o VS Code |
-| Pasar el texto por un chatbot | Agrega marcas `[cite]` y resume o reescribe lo que se dijo | Corregir a mano, escuchando |
+| Editar en Word o Pages y guardar como .docx o .pages | Agregan formato invisible | Editor de GitHub, Bloc de notas, VS Code, o Google Docs descargado como .txt |
+| Volver a pasar el texto por un chatbot | Agrega marcas `[cite]` y resume o reescribe lo que se dijo | Corregir a mano, escuchando |
 | Mover texto entre líneas o retocar tiempos "a ojo" | Rompe la sincronización con el video | Corregir dentro de la línea |
 | Cerrar o fusionar tu PR | Lo revisa y fusiona el profesor | Avisar con un comentario (paso 7) |
 
