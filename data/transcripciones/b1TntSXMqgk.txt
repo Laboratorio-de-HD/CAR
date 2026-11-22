@@ -1,0 +1,1055 @@
+[00:23] >> Mediador: It is an honor to introduce Dr. Dr.
+[00:26] Suzanne Flynn brought to us by the
+[00:29] Cathedral Alonso Reyes of Technologico
+[00:32] de Montter.
+[00:34] Dr. Suzanne Flynn has been a professor
+[00:37] of linguistics in language acquisition
+[00:40] at MIT since 1981.
+[00:44] Her research focuses on the acquisition
+[00:48] of various aspects of syntax by both
+[00:52] children and adults in bilingual second
+[00:56] and third language contexts.
+[00:59] More recently, she has expanded her work
+[01:02] to focus on the neural representation
+[01:06] of the multilingual brain and the nature
+[01:09] of language in the individuals with
+[01:12] early onset of Alzheimer's Mur disease.
+[01:16] Dr. Flynn has published extensively in
+[01:20] journals, authored and co-edited several
+[01:23] books and served as the co-founding
+[01:26] editor of syntax, a journal, a journal
+[01:31] of theoretical, experimental, and
+[01:34] interdisiplinary
+[01:36] research. She received her master of
+[01:39] science from the University of Puerto
+[01:42] Rico and the master of arts and PhD from
+[01:47] Carnell University. She has a clinical
+[01:51] certification in speech and language
+[01:55] pathology
+[01:56] and along with her husband and son is
+[02:00] currently a housemaster at MIT.
+[02:05] I leave with you Dr. Suzanne Flynn.
+[02:22] Can everybody hear me? Yes. Okay. BM. Um
+[02:32] Um,
+[02:41] gracias. Um, I'm going to talk about the
+[02:45] more languages, you know, the easier it
+[02:48] gets and it will be a slightly different
+[02:51] talk than the ones that we have been
+[02:53] hearing um during these last three days.
+[02:56] And I'm going to talk about um why it
+[02:59] gets easier using a very very small
+[03:03] piece of language um to um illustrate my
+[03:07] point, but I'll go through it step by
+[03:08] step. So the more languages you know,
+[03:11] the easier it gets. All right? And so we
+[03:14] know that as a fact of life today that
+[03:17] bilingualism and more generally
+[03:19] multilingualism
+[03:21] um is just the world's view. um the most
+[03:25] of the world um twothirds of the
+[03:27] children grow up as being in a
+[03:29] multilingual environment. And even
+[03:31] though this quote is from 2004,
+[03:34] um more recent studies show that this in
+[03:36] fact has increased in terms of the
+[03:38] numbers of children in the world that
+[03:41] grow up in bilingual or multilingual
+[03:43] environments.
+[03:45] And in fact um the evidence relating to
+[03:48] multilingualism in antiquity is immense
+[03:51] and language contact um intruded into
+[03:55] every aspect of life um in ancient life
+[03:59] in high literature, the law, medicine,
+[04:02] magic, religion, provincial
+[04:05] administration, the army and trade. And
+[04:08] examples of this also exist today in
+[04:10] very very ancient ruins where they're
+[04:13] bilingual tombstones. So they tombstones
+[04:17] were written in one or more two or more
+[04:19] languages um from antiquity.
+[04:22] So does monolingualism really exist is a
+[04:26] big question. And so even in the United
+[04:28] States the idea that that there is only
+[04:32] one language spoken is really not true.
+[04:35] Um, and so many times if you speak
+[04:39] dialects of one language, you really are
+[04:43] speaking a different language. And the
+[04:45] degree of difference between dialects
+[04:48] just happens to be smaller than the
+[04:50] degree of difference between languages
+[04:52] such as English and Japanese. So many
+[04:55] people challenge the idea that the
+[04:58] United States for example is monolingual
+[05:01] or that there is only um that everybody
+[05:04] is um so challenge the fact that people
+[05:07] are monilingual and the fact is is that
+[05:09] everybody is multilingual um at best
+[05:12] even if you just know a dialect of the
+[05:14] language that you already speak. So
+[05:17] today I'm going to talk about the fact
+[05:19] that there's really only one human
+[05:21] language because there's only one human
+[05:24] computation for languages and I'm going
+[05:27] to come back to this idea um at the end
+[05:30] of the talk when I talk about my
+[05:31] example. But the idea is is that
+[05:33] languages exist on a continuum and that
+[05:36] you have at one end you have English and
+[05:39] at the other end of the continuum you
+[05:40] have say for example Japanese and
+[05:43] languages differ only in very very small
+[05:46] degrees but the farther out you get the
+[05:49] more differences but there really is
+[05:51] only one human language because there's
+[05:54] only one human computational system that
+[05:57] would allow for the learning of any
+[05:59] language um in the human mind brain
+[06:02] So why do we have to understand the
+[06:04] multilingual brain? So we know for
+[06:07] example that language is a unique human
+[06:10] capacity. We know that we're genetically
+[06:14] um not genetically programmed for um
+[06:17] Japanese or English or Spanish, but that
+[06:20] we're genetically programmed simply to
+[06:23] learn language. um and that learning
+[06:25] must take place in order to discover or
+[06:29] to learn a particular language grammar.
+[06:32] And what's very important is that being
+[06:34] in multiple language states, knowing
+[06:37] Spanish and English, for example, um is
+[06:40] unique to um the human species. No other
+[06:44] species can be said to be bilingual. And
+[06:47] many people talk about the fact that
+[06:49] birds, for example, might be bilingual,
+[06:52] and it's not the case. or that their
+[06:54] dogs, for example, might be bilingual,
+[06:57] that they understand English, they
+[06:59] understand Spanish. But the reality is
+[07:01] is that only humans have this unique
+[07:04] capacity for language and only humans
+[07:08] have the unique capacity to be in
+[07:10] multiple language states um at the same
+[07:13] time. And we already know too that the
+[07:17] learning of a new language um as an
+[07:19] adult or as an older child follows from
+[07:22] the same underlying um domain specific
+[07:26] cognitive process regardless of age. So
+[07:30] the same kinds of of constraints or the
+[07:33] same kinds of processes that constrain
+[07:36] the learning of your first language as a
+[07:38] child are the same processes that also
+[07:41] constrain the learning of a language
+[07:43] even as an older child or as an adult.
+[07:46] Now, this is controversial because
+[07:48] behaviorist approaches to language
+[07:51] learning say that what you do is you
+[07:53] acquire language habits and that to
+[07:56] learn a new language uh means that you
+[07:58] have to replace one habit with another
+[08:00] language habit. And that's what we've
+[08:02] called contrastive analysis. But what I
+[08:05] will argue for today is that really that
+[08:08] it's language is not a habit formation
+[08:11] that it really is a unique process that
+[08:14] follows from a very special domain of
+[08:16] human cognition.
+[08:19] So Plato's problem Plato's problem
+[08:21] people talk about Plato's problem for
+[08:23] first language acquisition. So when
+[08:26] Plato for example was talking to a young
+[08:29] boy um who did not know any um and he
+[08:33] was not formally schooled and didn't
+[08:35] know anything about mathematics or um
+[08:38] science, Plato talked to him and this
+[08:41] young boy understood the basic concepts
+[08:44] that had to do with geometry. And Plato
+[08:48] was struck. He was like, "How does this
+[08:50] boy know so much given that he's never
+[08:54] learned or has never been formally
+[08:55] schooled?" And people have adopted that
+[08:58] sort of same problem called Plato's
+[09:01] problem when talking about language
+[09:03] learning. How is it that we know so much
+[09:06] given that we are really taught very
+[09:09] very little about the language or
+[09:11] languages that we learn? So Plato's
+[09:13] problem also holds for us when we're
+[09:16] learning um a new language as older
+[09:19] learners. How is it that we can learn so
+[09:21] much about a language in such a short
+[09:24] period of time and that we know things
+[09:26] about the language that we're actually
+[09:28] never taught.
+[09:30] So learning new languages um I'm going
+[09:34] to argue is in fact possible throughout
+[09:37] one's lifetime. And as Ellen Balistock
+[09:40] claims, learning one language or
+[09:42] learning languages throughout your
+[09:44] lifetime helps you maintain cognitive
+[09:47] youth. That is that it forstalls the
+[09:49] onset of dementia by at least five
+[09:52] years. And it's true and they've done
+[09:54] all these studies. So you can imagine if
+[09:56] you're multilingual how you can forstall
+[09:59] dementia. Um so thus an understanding of
+[10:03] the multilingual brain is necessary for
+[10:06] the development of unified theories of
+[10:09] language and the mind and it's necessary
+[10:11] for our understanding of related domains
+[10:14] of cognition and understanding
+[10:17] multilingualism
+[10:18] provides a unique window um on what it
+[10:21] means to be human because it's such a
+[10:24] unique human capacity.
+[10:27] Yet our understanding of the
+[10:29] multilingual um acquisition process is
+[10:32] not well understood and there remains um
+[10:35] an over reliance on studies of the
+[10:38] so-called or idealized monolingual
+[10:42] um monolingual brain as the natural
+[10:44] state of the human mind when in fact as
+[10:46] I argued earlier there's really no such
+[10:49] thing as a monolingual brain but yet our
+[10:51] idealized studies our idealized
+[10:54] discussions talk about language anguage
+[10:56] um with this idealized brain that really
+[10:59] does not exist.
+[11:01] All right, there's a continued
+[11:03] multimonilingual research bias and the
+[11:06] fundamental linguistic and cognitive
+[11:08] research is continues to be dominated by
+[11:11] a focus on the monolingual.
+[11:14] All right. So historically in terms of
+[11:16] models um we can talk about learning um
+[11:20] new languages people talked about the
+[11:22] deficit model and they would say that
+[11:24] there was just a finite amount of
+[11:27] cognitive um space that was available
+[11:30] for the learning of a new language. This
+[11:33] is the so-called um dessert model. Um
+[11:36] when I was growing up on Friday
+[11:38] afternoons or Friday evenings my father
+[11:41] would bring home a dessert um at the end
+[11:44] of the week and my mother always used to
+[11:46] say save room for dessert. Don't eat too
+[11:48] much because you won't have room for
+[11:50] dessert. And that's called the deficit
+[11:52] model of language learning. So people
+[11:55] believe that you can learn one language
+[11:57] really well, two languages so so but
+[12:01] three languages forget it. um because
+[12:05] there's a finite capacity. Um there's
+[12:08] also what we call the interference model
+[12:10] that you'll be constantly confused by
+[12:13] the properties of the new language. Um
+[12:16] it's similar to the behaviorist model
+[12:18] that I talked about earlier. Um that
+[12:21] where things don't look exactly like
+[12:23] what you already know in your first
+[12:24] language, you're going to be confused
+[12:27] and that's going to cause problems cause
+[12:29] problems. There's also models that are
+[12:31] the critical period models that say that
+[12:34] learning is possible of new languages up
+[12:37] until about the age 12 and after age 12,
+[12:40] forget it. Um, now we know that that's
+[12:43] not true because we know that there's
+[12:46] nothing that happens in the brain at
+[12:48] around age 12 that would cause us not to
+[12:51] be able to learn a new language. that if
+[12:53] anything there's major reorganization in
+[12:56] the brain that takes place at about the
+[12:59] age of two but nobody talks about a
+[13:02] critical period at around age two. Now
+[13:06] it is true that there might be a
+[13:08] critical period for language learning in
+[13:11] general that the brain needs language by
+[13:14] about the age three or four in order to
+[13:17] continue to learn language. Um, but it
+[13:20] doesn't mean that after age three or
+[13:22] four, you can't learn new languages.
+[13:25] It's just that you have to have had some
+[13:27] exposure to some language by the age of
+[13:30] three in order to be able to have a
+[13:31] lifetime of language learning.
+[13:35] So the question that I ask in my own
+[13:37] research um is it possible then that
+[13:40] language learning is a cumulative
+[13:43] process um that is that all of the
+[13:45] languages that you know um are
+[13:48] potentially um are at play in the
+[13:51] language learning process. So the
+[13:54] properties of such model would be that
+[13:56] it's cumulative that it's non-redundant
+[14:00] um that you get enhancement with the
+[14:02] languages that you know and it functions
+[14:04] throughout one's lifetime. So I'm going
+[14:07] to argue for what I will call the
+[14:09] cumulative enhancement model which
+[14:11] argues that all of the languages that
+[14:13] you know are at play in terms of
+[14:16] learning new subsequent language
+[14:18] learning new languages. So focus of this
+[14:22] presentation then will be that
+[14:24] bilingualism or multilingualism is
+[14:27] nature's standard and importantly I'll
+[14:30] argue that a model of language learning
+[14:33] namely the cumulative enhancement model
+[14:36] provides explanatory insights about
+[14:39] multilingualism itself.
+[14:42] Okay. So the groups of of learners that
+[14:45] I have studied um in terms of developing
+[14:48] this work and these theories about
+[14:51] language learning um I've learn worked
+[14:53] with Japanese Brazilian Portuguese
+[14:56] English speakers Kazak speakers Korean
+[15:00] German Japanese twice Mandarin Polish
+[15:04] Russian Spanish and Hungarian among many
+[15:07] others whose first languages are those
+[15:10] languages for those who second languages
+[15:12] ages. I've worked with individuals who
+[15:14] are learning English as a second
+[15:16] language, Russian, Mandarin, and German.
+[15:19] And then I've worked with Spanish and
+[15:21] Japanese speakers who are learning new
+[15:23] third languages.
+[15:26] So the cumulative enhancement model says
+[15:28] exactly what I just said earlier, that
+[15:31] the more languages you know, the easier
+[15:34] it gets. So people have known that for a
+[15:37] long time. So that those of you who are
+[15:39] multilingual know that it's true that
+[15:41] the more languages you know the easier
+[15:43] it gets. And now we think we know why
+[15:46] this is the case why by learning more
+[15:49] languages it does get easier. Okay. So
+[15:52] the specific question we asked and we
+[15:54] continue to ask in our research is do
+[15:57] the properties of the L1 grammar alone
+[16:00] determine language learning in say the
+[16:02] L3 development or can grammatical
+[16:05] properties of prior language is known
+[16:08] potentially determine um subsequent
+[16:11] language patterns. So, a lot of models,
+[16:14] especially the contrastive analysis
+[16:16] model, argues that all learning takes
+[16:19] place in terms of what you learned as
+[16:21] your first language. And I'm going to
+[16:23] argue that that's not the case. That
+[16:25] language learning can take place or can
+[16:27] be enhanced by what you know as your
+[16:29] second language or what you may even
+[16:31] know as your third language when
+[16:33] learning a fourth language. That all
+[16:35] languages are at play. And that's not
+[16:37] something that people believed in um um
+[16:40] at all times um in human history. So to
+[16:44] review once again, the cumulative
+[16:46] enhancement model argues that language
+[16:49] learning is cumulative.
+[16:51] All languages known can potentially
+[16:54] influence the development of subsequent
+[16:56] learning. the learner's L1 does not play
+[17:00] a privileged role in subsequent
+[17:02] acquisition and that where applicable
+[17:05] other languages known can enhance
+[17:07] subsequent language acquisition and this
+[17:10] claim contrasts with the deficit models
+[17:13] namely negative transfer interference as
+[17:16] the dominant form of language learning.
+[17:18] Now this is not to say that there isn't
+[17:20] some negative role call it negative role
+[17:23] or that other where there is contrast
+[17:25] that it doesn't create some sort of a
+[17:27] learning challenge. I'm not saying that.
+[17:30] But what I'm saying is that
+[17:32] overwhelmingly the language learning and
+[17:35] knowing other languages enhances your
+[17:38] acquisition of subsequent languages. It
+[17:41] doesn't deter or it doesn't interfere
+[17:43] with your learning of new languages.
+[17:46] Okay. So the linguistic focus or how I'm
+[17:49] going to build my case um for you today,
+[17:52] I'm going to look at specifically the
+[17:56] acquisition or the development of
+[17:58] restricted relative clauses. Now all of
+[18:00] you who are English teachers know what
+[18:02] restrictive relative clauses are. So for
+[18:05] example, the man who went home is my
+[18:09] father. What you have there is the man
+[18:11] is the head noun. who went home is the
+[18:14] relative clause. Is my father is the
+[18:17] continuation of the main clause and it's
+[18:19] what we call a subject subject relative
+[18:22] clause because the main NP is a subject
+[18:24] and then the relativized NP in the um
+[18:28] relative clause is also a subject. We
+[18:31] can also have sub um sub object subject
+[18:34] relative clauses like the boy saw the
+[18:37] man who is my father. The man is the
+[18:40] object in the main clause. Um, and it's
+[18:42] the subject in the main clause in the
+[18:45] relative clause. We can have other forms
+[18:47] such as subject object and object object
+[18:50] relative clauses.
+[18:53] Okay. More specifically, what I'm going
+[18:56] to focus on is what are called free
+[18:58] relatives or headless relatives. Those
+[19:01] are things like Jose wants what Maria
+[19:04] has. This is an object object relative
+[19:08] clause, but notice that there's no head.
+[19:11] There's it's does a contrast with the
+[19:13] sentence Jose wants the ball that Maria
+[19:16] has. Okay, the ball is the head noun,
+[19:19] but in the free relative, there's no
+[19:21] head. Maria Jose wants what Maria has.
+[19:24] And that's an object object relative
+[19:27] free relative clause. Okay. So, why do I
+[19:31] focus on relative clauses? Why do I pick
+[19:33] that out of all the language structures
+[19:35] that there are? And one of the reasons
+[19:37] is that all human languages manifest
+[19:41] relative clause constructions in some
+[19:44] form. All human languages. It's an
+[19:47] essential form of subordination um in
+[19:50] languages of the world. However, there's
+[19:52] great variation in the syntactic
+[19:56] structure cross-linguistically.
+[19:58] So, they don't all look the same way. So
+[20:01] how a learner works out the language
+[20:04] specific properties of these structures
+[20:07] provides essential insights about the
+[20:10] language learning process itself. This
+[20:12] is essentially the developmental
+[20:14] process. So all languages have relative
+[20:17] clauses. All el children all adults
+[20:21] learning a new language are prepared to
+[20:23] learn what is the structure of a
+[20:25] relative clause in the specific language
+[20:27] grammar. But one has to work out the
+[20:30] specific properties um of the
+[20:32] manifestation
+[20:34] um of a relative clause in a particular
+[20:36] language. Okay. So the essential claim
+[20:39] in first, second, third, fourth, fifth,
+[20:42] sixth language acquisition, development
+[20:44] of the free relative, I want what mommy
+[20:47] has or its equivalent is primary to the
+[20:51] development of lexically headed relative
+[20:53] clauses. And when I mean primary, it
+[20:56] means that it developmentally proceeds.
+[21:00] Okay. So the claims um I continue were
+[21:03] our free relatives appear to provide a
+[21:06] more direct map to the semantics of a
+[21:09] language and at the same time they offer
+[21:12] syntactic evidence that the learner can
+[21:14] draw upon in constructing lexically
+[21:17] headed forms in the target language. So
+[21:20] recall again what the free relative
+[21:23] looks like. I want what Mary has versus
+[21:26] I want the ball that Mary has.
+[21:29] Now organization of the paper. I'm going
+[21:32] to begin with what happens in first
+[21:34] language acquisition. Talk a little bit
+[21:36] about second language acquisition. Talk
+[21:38] about third language acquisition. Talk
+[21:41] about how these data support the
+[21:43] cumulative enhancement model and
+[21:45] implication for language teaching and
+[21:47] training. Um and then we'll talk about
+[21:49] conclusions.
+[21:51] So it's a puzzle. All right. Um so there
+[21:53] are certain universal principles may
+[21:56] underly the variation that's ex
+[21:59] exemplified with relative clause
+[22:01] structures in all other complex entries
+[22:04] and linguists continue to work to
+[22:07] discover the underlying principle
+[22:09] typologies for such variation. So people
+[22:13] continue to figure out what is universal
+[22:16] about relative clause constructions in
+[22:18] all languages. What are the universal
+[22:21] properties?
+[22:23] Okay. And while these universal
+[22:25] principles may guide the learner's
+[22:27] language acquisition, the particular
+[22:30] assembly of these modular components um
+[22:34] of a relative clause in a particular
+[22:36] language cannot be predetermined for the
+[22:39] child or the language learner because
+[22:41] we're not wired for a particular
+[22:43] language. We're just wired for language
+[22:45] in general. So acquisition focuses on
+[22:48] how the learner assembles these pieces
+[22:52] in the formation of a language specific
+[22:54] grammar or in this case the language
+[22:56] specific relative clauses. So the big
+[22:59] question is how does the learner the
+[23:01] first the second or the third learner
+[23:03] solve this problem? How do they put
+[23:05] together these pieces in trying to
+[23:08] assemble a new language grammar um or
+[23:10] the language grammar of their first
+[23:12] language? and how does an understanding
+[23:15] of this process um inform us about the
+[23:18] human capacity for language in general.
+[23:22] Okay, so English L1 studies these go way
+[23:26] back um as you can see from 1981 these
+[23:29] started. But what people noticed even
+[23:32] prior to 1981 was the fact that young
+[23:35] children learning English as a first
+[23:37] language would say things like I want
+[23:40] what mommy has. I want what daddy has.
+[23:43] Um, and they were these free relative
+[23:46] clauses. Um, and we wanted to test these
+[23:49] in early 1981 to see whether or not
+[23:52] these were really the first kinds of
+[23:54] relative clause constructions that young
+[23:57] children produced. So, we contrasted
+[24:00] things like Fuzzy Bear hugs, what Kermit
+[24:02] the Frog um, kisses. We contrasted those
+[24:06] with lexically headed relative clauses
+[24:08] like Ernie touches the balloon which big
+[24:11] bird um throws. And so we looked at 72
+[24:15] children ages 36 to five 55 and we used
+[24:20] an elicited imitation task in which um
+[24:23] you give a sentence to the child. Fuzzy
+[24:26] bear hugs what Kermit the frog kisses
+[24:28] and you say please repeat what I just
+[24:30] said and then you listen to what the
+[24:33] child gives back to you. um the kinds of
+[24:36] errors that the child makes or the kinds
+[24:38] of transformations of these sentences
+[24:41] give you an indication about the level
+[24:44] of development. All the sentences are
+[24:46] equalized in terms of number of
+[24:48] syllables. They're equalized in terms of
+[24:50] number of words. The children know these
+[24:53] words so that there's no question that
+[24:55] if they have a problem with the
+[24:56] sentence, it has to do with the
+[24:58] structure of the sentence itself. So in
+[25:00] first language acquisition um what we
+[25:03] found um I'll go back here is that the
+[25:06] free relatives were the easiest for the
+[25:09] sent easiest sentences for the children
+[25:12] to imitate and that they converted
+[25:14] sentences like um Ernie touches the
+[25:17] balloon which big bird throws. They
+[25:20] converted those to free relatives things
+[25:22] like Ernie touches what big bird throws.
+[25:25] So there lots and lots of conversion
+[25:27] errors. And again, it wasn't because
+[25:28] they had fewer words. It's because that
+[25:31] was the primary um relative clause
+[25:34] construction um at this young age as
+[25:37] natural speech told us. So then we went
+[25:39] on and we wanted to say well if that
+[25:41] happens in first language acquisition,
+[25:43] what happens when somebody an adult
+[25:45] learns a second language acquisition?
+[25:49] Excuse me. So we looked at the
+[25:50] acquisition of English by Japanese and
+[25:53] Spanish speakers. And again, we use
+[25:55] three types of relative clause
+[25:56] constructions. We used the free relative
+[25:59] with the what or whatever, the lexically
+[26:01] headed things that were unspecified.
+[26:04] Instead of the balloon, we said the
+[26:05] thing. And that we had lexically
+[26:07] specified like the boy.
+[26:10] So, we looked at Japanese speakers.
+[26:13] Japanese speakers is a very interesting
+[26:15] language. They have relative clause
+[26:17] constructions as I have up there showing
+[26:20] you as an example. Um but Japanese is
+[26:23] what we consider to be a head final
+[26:25] language as our most altaic languages
+[26:29] like Turkish. That means that the head
+[26:31] MP follows the um complement phrase. So
+[26:36] that the relative clause structure
+[26:37] precedes the head MP. Um and also it's a
+[26:41] language that is subject object verb.
+[26:43] And we also talk about Japanese as being
+[26:46] a left branching language. So Japanese
+[26:48] branches to the left, English branches
+[26:51] to the right. So in developing the
+[26:53] language specific grammar of English as
+[26:56] a second language, the Japanese speaker
+[27:00] is encountering English a new and
+[27:02] different kind um of integration of
+[27:05] language specific and universal
+[27:08] properties of language. So they have to
+[27:10] learn to use a right branching structure
+[27:13] where Japanese instantiated a left
+[27:16] branching structure.
+[27:17] We looked also as I said the second
+[27:19] language acquisition of English by
+[27:22] Spanish speakers. All of you I hope I
+[27:24] have the sentence correct. Uh Juan Leo
+[27:27] Libro Maria.
+[27:29] Um so Spanish um is a head initial
+[27:33] language. It branches to the right like
+[27:35] English and it has essentially the same
+[27:38] word order. It's a subject verb um
+[27:41] object. So Spanish speakers when
+[27:43] encountering English will be
+[27:46] encountering a language that involves a
+[27:48] similar type of integration of universal
+[27:52] and language specific properties um
+[27:55] especially concerning the complement
+[27:57] phrase the who which what that um and
+[28:00] the directionality either final um or
+[28:03] initial. So Japanese is a head final
+[28:06] language English is a head initial
+[28:09] language.
+[28:11] All right. So, we looked again at um the
+[28:13] same type of task that we used for L1
+[28:16] acquisition. We looked at an elicited
+[28:18] imitation task. We gave sentences to the
+[28:21] Spanish and Japanese adult speakers. We
+[28:24] asked them to repeat what they heard. Um
+[28:27] and we also asked them to act out to
+[28:29] show us what they heard. And the
+[28:31] participants were at one of three levels
+[28:34] of English language abilities as
+[28:36] determined by a standardized test. and
+[28:39] they were controlled. Um, also in our
+[28:42] um, statistical analyses, we used what
+[28:44] we call an ANOVA um, to really control
+[28:47] for the fact um, and make sure that we
+[28:50] were looking at comparable um, beginner
+[28:52] speakers of Japanese versus beginner
+[28:54] speakers um, of beginner Japanese
+[28:57] speakers of English and beginner Spanish
+[28:59] speakers of English. So lots and lots of
+[29:01] controls on the analyses itself so that
+[29:04] we knew that when we got a result, it
+[29:06] was a true result. So the stimulus,
+[29:09] these are the stimulus sentences that we
+[29:11] used. Um the professor introduced
+[29:14] whoever greeted the lawyer, the owner
+[29:16] questioned the businessman who greeted
+[29:18] the worker and the janitor criticized
+[29:20] the person who called the lawyer. So
+[29:23] free relative and two types of lexically
+[29:25] headed relative clauses.
+[29:28] And what did we find out? Well, if we
+[29:30] look at the very very low um amount
+[29:33] correct um in in terms of imitation by
+[29:36] the Japanese, we see that overall it
+[29:39] looks like they didn't differentiate the
+[29:41] three structures. But if we look at the
+[29:44] kinds of errors that the Japanese
+[29:46] speakers, excuse me, the Japanese
+[29:48] speakers made where they converted
+[29:52] headed relative clauses.
+[29:54] um the man talked to the businessman,
+[29:57] they would change the businessman to
+[29:59] whoever. We find that as in first
+[30:01] language acquisition, the primary form
+[30:05] of relative clause construction for the
+[30:07] Japanese speakers was the free relative
+[30:10] that that was the easiest for the
+[30:11] Japanese speakers. However, when we look
+[30:14] at what happens to the Spanish speakers,
+[30:17] we find that they do not significantly
+[30:19] differentiate any of the three types of
+[30:21] relative clauses.
+[30:24] So what do the results show us? The
+[30:26] results show us that the free relatives
+[30:29] for the Japanese speakers were more
+[30:31] productive than the lexically headed
+[30:33] forms analyzed in terms of their
+[30:36] conversion errors. So the owner question
+[30:38] the businessman becomes the owner
+[30:40] question whoever greeted the worker. So
+[30:42] they look like L1 speakers of English
+[30:46] learning English. And in contrast for
+[30:48] the Spanish speakers, all types were
+[30:51] produced with the same high rate of
+[30:53] success. And again, these subjects were
+[30:55] equivalent between Spanish and Japanese.
+[30:58] But there is this huge differentiation
+[31:00] between what the Spanish speakers could
+[31:02] do and what the Japanese speakers could
+[31:04] do in terms of the learning of English.
+[31:06] And there was no differentiation in
+[31:08] terms of the errors. So some preliminary
+[31:12] uh conclusion. So in L1 L2 acquisition
+[31:15] of relative clauses there appears to be
+[31:18] linguistic development a process by
+[31:21] which the learner constructs a specific
+[31:23] language grammar namely a theory of a
+[31:26] specific language and in constructing
+[31:28] the lexically headed relative clause um
+[31:31] in a specific language learners build
+[31:34] upon their knowledge of the free
+[31:35] relative as an L1 acquisition. So here's
+[31:39] a summary of the table. So children um
+[31:42] as L1 speakers the free relative is um
+[31:46] developmentally a precursor to the
+[31:48] lexically headed. If you look at
+[31:50] Japanese speakers, Japanese speakers
+[31:52] look like young children learning
+[31:54] English as a first language. However, if
+[31:57] you look at Spanish speakers, they look
+[31:59] very different from first language
+[32:01] learners of English and from Japanese
+[32:04] second language learners of English. So
+[32:06] what did we conclude? We concluded or
+[32:09] these results suggested that perhaps the
+[32:12] match between English and Spanish in
+[32:15] terms of head direction um provided um
+[32:19] um an enhancement for the Spanish
+[32:21] speakers in a way that it was not
+[32:23] provided for the Japanese. But the
+[32:26] questions are are the results between
+[32:28] the Spanish and Japanese due to
+[32:30] typological variation due to the
+[32:33] complimentizer phrase or the left
+[32:35] branching versus right branching. Um and
+[32:38] it is our conclusion with respect to the
+[32:40] Spanish speakers a viable one. Is it the
+[32:42] fact that because Spanish is right
+[32:44] branching like English um made it easier
+[32:48] for the Spanish speakers to acquire
+[32:50] English. So how does each language known
+[32:54] determine subsequent language
+[32:56] acquisition and is there a privileged
+[32:58] role for the L1? So we had not yet
+[33:00] pulled apart that. So the next study
+[33:03] that we looked at that I'll report on
+[33:04] here today was an investigation of L1
+[33:08] speakers of Kazak who had learned
+[33:10] Russian as a second language and then
+[33:13] learned English as a third language. Now
+[33:15] Kazak is a head final right branching
+[33:18] left branching language like Japanese.
+[33:21] Russian is a head initial language right
+[33:24] branching like English and English as we
+[33:26] said is a head initial right branching
+[33:29] language.
+[33:30] So the syntactic background, I'm just
+[33:32] giving you a sentence. For those of you
+[33:34] that are Kazak speakers, if there are
+[33:36] any speakers in the room, um this is a
+[33:39] relative clause structure in Kazak. It
+[33:41] looks very much like a Turkish relative
+[33:44] clause or a Japanese relative clause. Um
+[33:48] continue. And then here's a um um in
+[33:51] Russian you have a head initial um
+[33:54] relative clause structure. The professor
+[33:56] who invited the speaker introduced the
+[33:58] doctor. And so the stimula that we used
+[34:01] for the L3 study was the same that we
+[34:04] used for L1 acquisition and L2
+[34:07] acquisition.
+[34:09] So we have lexically headed and we have
+[34:11] the free relative of clause
+[34:12] constructions. We used elicited
+[34:14] imitation as we did for the L1 study and
+[34:17] the L2 study. And then we also asked for
+[34:20] grammaticality judgments about what were
+[34:22] grammatical structures and whether they
+[34:24] were unrammatical structures. We had
+[34:27] three levels as we did in the Spanish
+[34:29] and Japanese studies um as established
+[34:32] by the Michigan test. Um you can see
+[34:35] here the results for that.
+[34:38] And what did we find? So we when we
+[34:40] looked at the third language acquisition
+[34:42] of English by Kazak adults, we find that
+[34:46] their patterns of acquisition look very
+[34:49] much like patterns of acquisition for
+[34:52] the Spanish speakers. they did not look
+[34:54] like um patterns of acquisition for the
+[34:57] Japanese speakers that they were able to
+[34:59] do all three forms of relative clauses
+[35:02] um with the same amount of ease.
+[35:05] Um so the results confirm the prediction
+[35:08] for adults that the patterns for the L1
+[35:11] Kazak, L2 Russian, L3 English speakers
+[35:14] match that for L2, L1 Spanish, L2
+[35:18] English rather than the L1 Japanese and
+[35:21] the L2 English. Now what's interesting
+[35:24] is when we looked at the acquisition
+[35:26] patterns of the Kazak speaker
+[35:28] acquisition of Russian it looked like um
+[35:32] Japanese speakers acquisition of English
+[35:35] because Russian is like English and
+[35:38] and Kazak is like Japanese so that their
+[35:40] results for the acquisition of Russian
+[35:43] look like Japanese speakers but their
+[35:45] acquisition of English as a third
+[35:47] language look like Spanish speakers
+[35:50] acquisition of English as a second
+[35:52] language. anguage. So the results are
+[35:54] consistent with the linguistic emphasis
+[35:57] on formal features um of the functional
+[36:00] categories the complimentizer phrase and
+[36:03] it suggested that the language
+[36:05] acquisition is cumulative that the Kazak
+[36:08] speakers were able to rely upon their
+[36:12] knowledge of Russian in the construction
+[36:14] of English as a third language. the
+[36:17] Japanese speakers did not have that type
+[36:19] of knowledge with respect to the
+[36:21] acquisition of the relative clause. So
+[36:23] that they had nothing to draw upon. So
+[36:26] they had to reconstruct the grammar of
+[36:28] English or construct the grammar of
+[36:30] English in much the same way that a
+[36:32] young child learning English as a first
+[36:34] language would do. Now what we're also
+[36:37] arguing is the fact that these
+[36:39] constructions are nonredundant. that if
+[36:42] you have something that's available to
+[36:44] you from a language that you already
+[36:46] know, the mind doesn't redundantly
+[36:49] re-represent that in your mind brain,
+[36:52] but that it's available to you for use
+[36:55] um in the construction of a new language
+[36:57] grammar.
+[36:59] Um so also results suggested that
+[37:02] experience as I argued at the beginning
+[37:04] of the talk in any language um prior
+[37:08] experience can be drawn upon in
+[37:10] subsequent language acquisition and that
+[37:12] there's no privileged role for the
+[37:14] learner's first language um in
+[37:16] subsequent language learning and that's
+[37:19] important. Um so what are the
+[37:22] implications for um language pedagogy
+[37:25] and language teaching? So it suggests at
+[37:28] least that we need to know the languages
+[37:31] um known by our students in our classes
+[37:35] and we need to know the abstract
+[37:37] architectural features of these
+[37:39] languages. Okay, it's not enough that we
+[37:42] that they speak um we know that they
+[37:44] speak um Kazak or that they speak
+[37:47] Russian. We need to understand what the
+[37:49] difference is between Kazak and Russian
+[37:52] visav Spanish or that we need to know
+[37:55] what are the properties of Chinese visav
+[37:58] Spanish if we're teaching Spanish as a
+[38:00] second language to these learners. Okay.
+[38:03] And if the target language to be learned
+[38:05] by the students is a common one. Um we
+[38:09] can not assume that language development
+[38:11] will be equivalent across all the
+[38:13] students. So even though everybody in
+[38:15] your class is learning Spanish, we can't
+[38:17] assume that the patterns of development
+[38:21] are going to be the same for each one of
+[38:23] those students if each one of those
+[38:24] students speaks a different language, a
+[38:26] different first language or a different
+[38:28] second language even. And that
+[38:30] development will be mediated and
+[38:32] determined by um other languages known
+[38:35] prior to um the language development.
+[38:40] Okay. We also need to know the levels of
+[38:42] proficiency um for each of the speakers
+[38:45] or the or each of the uh learners in our
+[38:48] group. Um the level of proficiency is
+[38:50] important because we know that Japanese
+[38:53] speakers eventually do acquire English.
+[38:55] Um they'll acquire it a bit more slowly
+[38:58] than English speakers and English
+[39:00] speakers of course um uh Spanish
+[39:03] speakers will but they will eventually
+[39:05] get to that same point of development.
+[39:08] But we need to know where they are in
+[39:10] terms of their development um in the
+[39:12] learning of a new target language. Um in
+[39:15] this case it might be Spanish. So
+[39:17] another way that we can think about it
+[39:19] is that our work um is important in
+[39:22] terms of the language groupings that we
+[39:24] put together. So it's an interesting
+[39:27] combination to put Spanish, German, and
+[39:29] English speakers together. And we know
+[39:32] that German is interesting because it's
+[39:34] both what we call a left branching and a
+[39:36] right branching language. So that in its
+[39:39] main clause, it has right branching
+[39:41] structures, but in its subordinate
+[39:43] clauses, it has left branching
+[39:44] structures. So we know that because the
+[39:48] German speaker knows Spanish, it's going
+[39:50] to enhance their acquisition of English
+[39:52] to a certain degree. and that their
+[39:54] knowledge of German if they were going
+[39:56] to learn Chinese or Japanese would also
+[39:59] be enhanced over the Spanish speaker
+[40:01] Kazak Russian English we already talked
+[40:04] about um Kazak is a left branching
+[40:06] language Russian is a right branching
+[40:08] language like English so that their
+[40:10] English will be enhanced by their
+[40:12] knowledge um of k of of Russian but if
+[40:16] we put kazak and English speakers
+[40:18] together they're going to look like
+[40:20] Japanese speakers um learning English as
+[40:22] a second language anguage. If we put
+[40:24] Turkish and Korean speakers together, um
+[40:28] we know that their patterns of
+[40:29] acquisition are going to look like
+[40:31] Japanese speakers um learning English as
+[40:34] a second language because Turkish and
+[40:36] Korean are both left branching languages
+[40:39] um and they do not match English, but
+[40:42] that their acquisition of say um uh
+[40:45] Chinese um by or Japanese by Turkish
+[40:48] Korean speakers will be enhanced over
+[40:51] that of an English speaker. Now an
+[40:53] interesting combination is a Japanese
+[40:56] Spanish English um learner. So they know
+[40:59] Japanese which is a left branching
+[41:01] language. You know Spanish which is a
+[41:03] right branching language and then they
+[41:05] go on to learn English which is a right
+[41:07] branching language that their patterns
+[41:09] of acquisition will look like Spanish
+[41:11] speakers learning English um as um a
+[41:15] second language because the Spanish
+[41:17] gives them that advantage in terms of
+[41:19] their patterns of acquisition. Okay. So
+[41:22] another important way that looking at
+[41:24] the cumulative enhancement model is that
+[41:26] we can predict systematic error patterns
+[41:29] that we know beforehand what kinds of
+[41:31] errors students are going to make in
+[41:33] terms of the development of the
+[41:35] language. We also know that we can
+[41:37] target certain syntactic and semantic
+[41:40] areas for intensive language focus in
+[41:43] the language instruction so that we
+[41:45] don't have to teach everything. uh we
+[41:48] know what will be um problematic for
+[41:50] certain language groups and we can zero
+[41:52] in on those structures rather than
+[41:54] having to teach everything all over
+[41:57] again. So what else? Um so we can focus
+[41:59] on some of that during our question
+[42:02] period now um in some of the roundt
+[42:04] discussion if there is any. So to
+[42:06] conclude
+[42:08] I hope that I've shown you that the more
+[42:10] languages you know the easier it gets
+[42:13] throughout one's lifetime. So that if
+[42:15] you know English and you know Japanese
+[42:18] for example, you're set for a lifetime
+[42:20] of learning because all other languages
+[42:22] are variations of the structural
+[42:25] properties of those two languages. Um if
+[42:28] you know English and you know Spanish,
+[42:31] um it's good to learn another language
+[42:33] like Japanese. Um so I have five minutes
+[42:36] and I'm just finishing up. So thank you
+[42:38] and u much gracias.
+[42:42] Sure.
+[42:51] Let's give the floor an interaction
+[42:54] moment with uh Dr. Flynn with some
+[42:57] questions. Would anyone
+[43:00] raise their hand?
+[43:39] If you really are starting a language
+[43:40] from scratch, it's best to have human
+[43:43] interlocators.
+[43:45] Um, and once you've had some basis
+[43:47] established with human interlocators,
+[43:50] um, then you can go on and use the apps
+[43:52] and TV and the radio and CDs and
+[43:55] everything else to enhance the language
+[43:56] learning process. But there's something
+[43:58] very special about the um the human
+[44:02] interaction that's needed to at least to
+[44:05] start the process of language learning
+[44:08] um to begin um and it's something about
+[44:10] the quality of the interaction that's
+[44:13] missed on a lot of those the the apps
+[44:15] but once you're after beginners or you
+[44:18] know little beginners you can use the
+[44:20] apps. Yeah. You're welcome. Yeah. Yes.
+[44:24] Hi.
+[44:27] Thank you very much. That was really
+[44:28] interesting. And um at the end of the uh
+[44:31] presentation, you talked about language
+[44:34] groupings. Yes. And uh uh levels of uh
+[44:37] proficiency, right? And so I was
+[44:39] wondering if you could talk a little bit
+[44:40] about it, what levels of proficiency you
+[44:42] continue to see those effects of the
+[44:45] different languages.
+[44:45] Okay. Um at the beginning levels for
+[44:49] Spanish or say a Spanish speaker
+[44:51] learning English, you don't get those
+[44:53] effects. they've already established
+[44:55] what the properties of the grammar are.
+[44:57] But up until low advanced, you see those
+[45:00] effects for say a Japanese-like language
+[45:03] and a Kazak or an altaic like language.
+[45:05] So they persist for a while.
+[45:07] Yeah. Yeah. They don't go away until
+[45:09] they're beyond advanced advanced and
+[45:13] then they really become very native like
+[45:15] but those persist for a long time.
+[45:17] Yeah. Yeah. Thank you for the question.
+[45:20] Yeah.
+[45:21] Yes. Back here.
+[45:22] Thank you. Uh my question is related to
+[45:25] the possibility of having an a learning
+[45:29] acceleration you know with any language
+[45:31] and more importantly how to keep or
+[45:34] maintain a certain level of proficiency
+[45:36] in a language even though you are not
+[45:39] living in the country of this language
+[45:41] right right um
+[45:42] what's your opinion about that
+[45:44] what's my opinion about it yeah well we
+[45:46] know from even first language
+[45:48] acquisition right you have to have
+[45:50] constant exposure to models of a native
+[45:54] language or native language speakers or
+[45:56] near native speakers. So um we know this
+[46:00] so let me give you the example and then
+[46:01] I maybe it'll be me clear. We know that
+[46:03] people who were going progressively deaf
+[46:08] um that even though they have a model
+[46:10] and they were spoke lang say English or
+[46:13] Spanish fluently, we know that as they
+[46:16] lose their hearing, they're no longer
+[46:18] able to enunciate or pronounce in the
+[46:21] same way that they did when they were
+[46:23] hearing um speakers. So that we know
+[46:26] that there's something about the
+[46:27] feedback loop that's essential in order
+[46:30] to maintain the fluency in a language.
+[46:33] So in order to maintain a fluency in a
+[46:35] second or a third or a fourth language,
+[46:37] it's important to maintain um and this
+[46:40] may be where the apps come in to match
+[46:43] your map, you know, to constantly
+[46:44] calibrate yourself against near-native
+[46:47] or native speakers um to maintain the
+[46:50] fluency. Otherwise, you lose it. not
+[46:52] lose it, but it has to be rebuilt up.
+[46:55] You never lose what you already know.
+[46:57] It's just harder to access it.
+[46:59] Yeah.
+[47:00] Okay. Thank you.
+[47:01] You're welcome.
+[47:07] Other questions?
+[47:12] Okay.
+[47:15] Dr. Dr. Flynn, we highly regard your
+[47:18] participation in this second conference
+[47:20] of international foreign languages 2018
+[47:25] on the topic, the more languages you
+[47:27] know, the easier it gets. I will now ask
+[47:32] Professor Gabriela Yua to come to the
+[47:35] stand and uh deliver a token of
+[47:38] appreciation
+[47:40] from the organizing committee.
+[47:43] [Applause]
