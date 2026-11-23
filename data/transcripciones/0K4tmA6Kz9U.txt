@@ -1,4 +1,4 @@
-[00:24] >> Moderador/a (nombre desconocido): Buenos días. A nombre de Conarte, la Universidad Autónoma de Nuevo León, la Universidad de Monterrey, la Universidad Regiomontana y el Tecnológico de Monterrey, les damos la más cordial bienvenida a este diálogo universitario en compañía de la doctora Margo Glantz.
+[00:24] >> Moderador: Buenos días. A nombre de Conarte, la Universidad Autónoma de Nuevo León, la Universidad de Monterrey, la Universidad Regiomontana y el Tecnológico de Monterrey, les damos la más cordial bienvenida a este diálogo universitario en compañía de la doctora Margo Glantz.
 
 
 [00:40] Margo Glantz es maestra en Letras Inglesas por la Facultad de Filosofía y Letras de la Universidad Nacional Autónoma de México y doctora en Letras Hispánicas por la Sorbona en París. Es profesora desde 1959 en la Facultad de Filosofía y Letras y ha impartido cursos en Yale, Princeton, Harvard, Stanford, entre otras.
@@ -157,7 +157,7 @@
 [11:24] Me acuerdo que he visto cómo se han ido muriendo casi todos los miembros de mi generación. Cada vez que alguien muere, compruebo que soy una sobreviviente. Buenos días.
 
 
-[11:49] >> Moderador/a (nombre desconocido): Agradecemos a la actriz Morena González por su lectura. A continuación cedemos la palabra a la doctora Margo Glantz para dar inicio a este diálogo universitario.
+[11:49] >> Moderador: Agradecemos a la actriz Morena González por su lectura. A continuación cedemos la palabra a la doctora Margo Glantz para dar inicio a este diálogo universitario.
 
 
 [12:01] >> Margo Glantz: Buenos días, muchas gracias por estar aquí oyéndome y muchas gracias a las universidades que me han concedido este premio, del cual estoy muy orgullosa. Y bueno, estoy a su disposición. Como ustedes ven, estoy a punto de morirme y puedo hablar todavía.
@@ -358,7 +358,7 @@
 [43:28] Bueno, los escritores del Siglo de Oro usaban mucho esas frases: Tirso de Molina, Lope de Vega, muchos poetas, Fray Luis de León, etcétera, era una cosa acuñada: "no soy seré". Hay unos versos maravillosos de Tirso de Molina en El vergonzoso en palacio; dice "no soy seré", porque no me acuerdo, tengo mala memoria, pero es maravilloso lo que dice. Esa es una frase que se usaba mucho, pero la cuña de una manera muy perfecta Tirso de Molina en El vergonzoso en palacio con un personaje que no sabe, es como Hamlet, "to be or not to be". "No soy seré" es casi lo mismo que "to be or not to be". Muchas gracias.
 
 
-[44:09] >> Moderador/a (nombre desconocido): Tenemos tiempo para algunas preguntas del público. Si alguien quiere participar, el micrófono está abierto.
+[44:09] >> Moderador: Tenemos tiempo para algunas preguntas del público. Si alguien quiere participar, el micrófono está abierto.
 
 
 [44:26] >> Participante 2: Con permiso. Muchísimas gracias. Yo vengo representando junto con mis compañeros a la Universidad Regiomontana, la cual hace unos cuantos días lanzó la convocatoria de realizar un escrito, ya sea un ensayo, un poema o cualquier tipo de texto basado en su vida, su trayecto literario y principalmente un texto que usted escribió llamado "Mensajes de amor". Para nosotros sería un honor entregarle este folleto que organizamos recopilando todos nuestros textos, y preguntándole, aprovechando: ¿cuál fue su inspiración para todo su trayecto literario? ¿En qué se inspira constantemente? Nosotros en este caso nos inspiramos en usted y sería un honor que lo tuviera.
@@ -373,7 +373,7 @@
 [46:54] Entonces les agradezco mucho que se hayan ocupado de esto. Y no le contesté tampoco qué inspiración... Mi inspiración es una inspiración así medio volátil; en realidad tiene que ver con mis obsesiones. Yo soy una escritora tardía hasta hace... bueno, hace bastantes años, unos 40 años. Ustedes que tienen 20 les parece que es antediluviano, pero yo soy antediluviana de por sí, entonces 40 años no es nada para mí. Pero hace 40 años que empecé a escribir ficción, y esos textos son los que ahora sigo escribiendo; siempre me han interesado las mismas cosas, pero no había encontrado una forma de escritura que conviniera a misiones, al tipo de escritura que yo quería, inspiraciones múltiples.
 
 
-[48:02] >> Moderador/a (nombre desconocido): ¿Alguna otra pregunta?
+[48:02] >> Moderador: ¿Alguna otra pregunta?
 
 
 [48:11] >> Participante 3: Hola. No más quería preguntar: pues todos sabemos que el feminismo viene siendo un tema controversial con mucha gente, especialmente con muchos hombres. Quería preguntarle si usted conoce una manera, una táctica para poder hablar sobre este tema sin que el individuo, si está en modo defensivo, se ponga agresivo con el tema o no más se cierre a tener algún tipo de discusión sobre él. ¿Cómo sería una buena forma de abordar el tema del feminismo con alguien que está en contra de él?
@@ -424,7 +424,7 @@
 [56:04] Pero bueno, ya dije muchas cosas, yo creo que ya escucharon bastante, ya deben estar cansadísimos de mí. Muchas gracias.
 
 
-[56:17] >> Moderador/a (nombre desconocido): Bueno, dos preguntas más para terminar. Gracias.
+[56:17] >> Moderador: Bueno, dos preguntas más para terminar. Gracias.
 
 
 [56:23] >> Participante 6: Bueno, yo quería hablar con usted sobre lo del contexto y de que en el escrito que usted hizo de "Mensajes de amor", usted dijo que lo volvió a reescribir con otro contexto. Y quería preguntarle cómo se diferencia ese contexto al nuevo que hizo y por qué cree que está más amoldado a las generaciones de ahorita o a nuestra sociedad de ahorita que a la de antes cuando lo escribió.
@@ -469,4 +469,4 @@
 [01:05:48] Y sigue siendo normal ahora en África, en Siria, en México la trata de mujeres. Estuve hace poquito en Tlaxcala y hay un pueblo en donde las niñas son vendidas por sus padres y son prostitutas en Nueva York, y desde los 12 años las venden. Lo estamos viviendo en México como un fenómeno. ¿Por qué tienen derecho los padres a vender a niñas de 12 años para que se vuelvan prostitutas? Todo este tipo es alarmante, es terrible y nos habla de la necesidad de una liberación femenina, de que no se normalice esa relación con el cuerpo femenino. Creo que me van a correr de Monterrey.
 
 
-[01:06:47] >> Moderador/a (nombre desconocido): Muchas gracias a la doctora Margo Glantz, así como a los representantes de las universidades: Carlos Rutilio Aguilar de la Universidad Autónoma de Nuevo León, Lucinda Garza Zamarripa de la Universidad de Monterrey, Luisa Fernanda Martínez Lozano de la Universidad Regiomontana y Brenda Berenice Valencia del Tecnológico de Monterrey. Agradecemos a todos su presencia en esta ceremonia. Muchas gracias y que tengan una excelente tarde.
+[01:06:47] >> Moderador: Muchas gracias a la doctora Margo Glantz, así como a los representantes de las universidades: Carlos Rutilio Aguilar de la Universidad Autónoma de Nuevo León, Lucinda Garza Zamarripa de la Universidad de Monterrey, Luisa Fernanda Martínez Lozano de la Universidad Regiomontana y Brenda Berenice Valencia del Tecnológico de Monterrey. Agradecemos a todos su presencia en esta ceremonia. Muchas gracias y que tengan una excelente tarde.
