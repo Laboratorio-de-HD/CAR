@@ -1,6 +1,6 @@
 ﻿
 
-[00:26] >>Juan Goytisolo me excusarán. Voy a hablar sentado. En
+[00:26] >>Juan Goytisolo: me excusarán. Voy a hablar sentado. En
 
 [00:29] mi vida he sido incapaz, yo creo que
 
@@ -16,7 +16,7 @@
 
 [00:44] sentado.
 
-[00:46] Quiero agradecer
+[00:46]  >>Juan Goytisolo: Quiero agradecer
 
 [00:48] ante todo a la cátedra Alfonso Reyes y a
 
@@ -44,7 +44,7 @@
 
 [01:22] se acerca ya casi al medio siglo.
 
-[01:29] En varias ocasiones
+[01:29]  >>Juan Goytisolo: En varias ocasiones
 
 [01:32] con motivo de una conferencia o lectura
 
@@ -310,7 +310,7 @@
 
 [07:44] Nada más lejos de la verdad.
 
-[07:46] El escritor que concibe su obra como una
+[07:46]  >>Juan Goytisolo: El escritor que concibe su obra como una
 
 [07:48] aventura y a la vez como una tarea de
 
@@ -428,7 +428,7 @@
 
 [10:27] Juan Ruiz, de Fernando de Rojas,
 
-[10:30] Francisco Delicado, San Juan de la Cruz,
+[10:30]  >>Juan Goytisolo: Francisco Delicado, San Juan de la Cruz,
 
 [10:34] Cervantes, Quevedo, Góngora y también de
 
@@ -566,7 +566,7 @@
 
 [13:48] juicio.
 
-[13:50] Toda obra nueva debería ser un salto al
+[13:50]  >>Juan Goytisolo: Toda obra nueva debería ser un salto al
 
 [13:53] vacío imprevisible y aleatorio.
 
@@ -784,7 +784,7 @@
 
 [19:02] pesimismo excesivo.
 
-[19:04] Confiemos en que sea así, pues la
+[19:04]  >>Juan Goytisolo: Confiemos en que sea así, pues la
 
 [19:07] cultura sobreviva a menudo a los
 
@@ -1064,7 +1064,7 @@
 
 [25:51] como un biombo.
 
-[25:55] En este intelectual
+[25:55]  >>Juan Goytisolo: En este intelectual
 
 [25:57] pajárico,
 
@@ -1182,7 +1182,7 @@
 
 [28:26] Cervantes.
 
-[28:27] Decir, para mí este es el gran el gran
+[28:27]  >>Juan Goytisolo: Decir, para mí este es el gran el gran
 
 [28:30] el gran poder de la literatura es
 
@@ -1268,9 +1268,9 @@
 
 [30:32] esforzado es en ser una persona.
 
-[30:39] Alguna pregunta más
+[30:39]  >>Juan Goytisolo: Alguna pregunta más
 
-[30:48] Maestro, no tiene pensado usted venir a
+[30:48] >>Entrevistador: Maestro, no tiene pensado usted venir a
 
 [30:51] nidar aquí a México
 
@@ -1294,7 +1294,7 @@
 
 [31:18] casa en el centro de la Medina de
 
-[31:19] Marraque y les llamaba la atención la
+[31:19] >>Juan Goytisolo: Marraque y les llamaba la atención la
 
 [31:22] cantidad de parecidos que hay entre los
 
@@ -1428,7 +1428,7 @@
 
 [34:07] Cairo y otra en Estambul y alguna más.
 
-[34:13] Teníamos una pregunta así,
+[34:13] >>Entrevistador: Teníamos una pregunta así,
 
 [34:16] sí Eh, qué relación hay en su trabajo
 
@@ -1442,7 +1442,7 @@
 
 [34:28] solitario.
 
-[34:31] He tenido siempre una gran admiración
+[34:31] >>Juan Goytisolo: He tenido siempre una gran admiración
 
 [34:33] por Luis Cernuda, que para mí fue el
 
@@ -1624,7 +1624,7 @@
 
 [38:44] buenos días, maestro.
 
-[38:46] Este, me quedó, no me quedó muy claro
+[38:46] >>Entrevistador: Este, me quedó, no me quedó muy claro
 
 [38:49] porque usted está hablando de opuestos
 
@@ -1716,7 +1716,7 @@
 
 [40:31] curiosidad. un en curiosamente en
 
-[40:34] España, bueno, curiosamente no, el
+[40:34] >>Juan Goytisolo: España, bueno, curiosamente no, el
 
 [40:36] reproche que me hacían durante mucho
 
