@@ -1,0 +1,361 @@
+﻿[00:05] >> Ana Laura Santamaría: De esta manera, para la Cátedra Alfonso Reyes es un enorme honor estar cerrando nuestro año de reflexiones sobre El Quijote desde diversas perspectivas con una de las figuras más relevantes que hay en el mundo para hablar de Miguel de Cervantes. Y para presentarnos al maestro Roger Chartier, le cedo la palabra con mucho gusto a Marcela Beltrán. Adelante.
+
+
+[00:30] >> Marcela Beltrán: Encantada de recibir virtualmente al investigador Roger Chartier en el marco de los 70 años de la Biblioteca Cervantina y del Segundo Congreso de la Asociación Mexicana de Cervantistas, algunos de los cuales están aquí siguiendo esta conferencia presencialmente. Roger Chartier nos va a presentar su conferencia magistral "Movilidad y materialidad de los textos: el caso de Don Quijote". Muchas gracias.
+
+
+[01:07] >> Roger Chartier: Bien, muchas gracias. Quisiera en primer lugar agradecer a las profesoras Marcela Beltrán y Ana Laura Santamaría por la invitación y también por la presentación. Es para mí un honor y un placer dictar esta conferencia en el marco de los 70 años de la Biblioteca Cervantina o de la Colección Cervantina Carlos [?] del Instituto Tecnológico de Monterrey.
+
+
+[01:39] Compartir así lo que escribió cuando describía la biblioteca como un viaje cervantino al Parnaso regio montano [?]. Es también un placer para mí presentar esta conferencia y los dos seminarios o ponencias de mañana y del miércoles en la compañía de los colegas y de los estudiantes que participan en el Segundo Congreso de la Asociación Mexicana de Cervantistas.
+
+
+[02:15] Una pregunta para empezar: ¿cómo entender la relación entre las obras y sus textos? Las obras parecen desafiar el tiempo y mantenerse siempre idénticas a sí mismas. Don Quijote es Don Quijote desde 1605 hasta el día de hoy. Las obras así trascienden las formas sucesivas de su publicación para adquirir una existencia inmaterial, transhistórica.
+
+
+[02:48] Esta percepción de las obras se radica en la definición jurídica del copyright, que protege una obra cualquiera sea su modalidad de encarnación. Se encuentra en todas las perspectivas críticas estrictamente estructuralistas, semióticas, y también define finalmente nuestras percepciones inmediatas de las obras. Don Quijote es Don Quijote para cada uno de nosotros.
+
+
+[03:20] Sin embargo, los lectores, oyentes, espectadores de las obras siempre las encuentran en una modalidad particular de su existencia: una lengua, una edición, una representación. En esta relación, la materialidad del texto desempeña un papel fundamental para la construcción del sentido de la obra. Es lo que recuerda Borges cuando trae a su memoria sus lecturas del Quijote.
+
+
+[03:52] Cito: "Todos los libros que acabo de mencionar, incluso El Quijote, los leí en inglés", porque la biblioteca de su padre tenía esencialmente libros en inglés. Borges sigue: "Cuando más tarde leí Don Quijote en versión original, me pareció una mala traducción. Todavía recuerdo aquellos volúmenes rojos con letras estampadas de oro de la edición Garnier. En algún momento la biblioteca de mi padre se fragmentó y, cuando leí El Quijote en otra edición, tuve la sensación que no era el verdadero".
+
+
+[04:37] "Más tarde, hice que un amigo me consiguiera la edición Garnier con los mismos grabados de acero, las mismas notas de pie de página y también las mismas erratas. Para mí", dice Borges, "todas esas cosas forman parte del libro. Considero que ese es el verdadero Quijote".
+
+
+[05:02] David Scott Kastan calificó de platónica la perspectiva que separa radicalmente las obras de sus encarnaciones materiales, y de pragmática la experiencia de la construcción de su sentido por parte de sus lectores. Una reflexión dedicada a la movilidad de los textos nos permite tal vez comprender que esta tensión entre lo platónico y lo pragmático es irreductible.
+
+
+[05:36] Por un lado, siempre una obra se da para leer o para oír en uno de sus estados textuales. Por otro lado, múltiples son los dispositivos filosóficos, estéticos, jurídicos que postulan la existencia de obras siempre idénticas a sí mismas. En Occidente, el neoplatonismo del Renacimiento, más tarde la estética kantiana o, como lo decía, la definición de la propiedad literaria y del copyright a partir del siglo XVIII construyeron esas obras ideales que los lectores reconocen en cada uno de sus estados.
+
+
+[06:26] No podemos desprendernos de esta tensión, ni obviarla o reducirla. Estará presente en esta conferencia, que va a privilegiar las obras literarias y particularmente El Quijote, pero que también podría tener una relevancia para otros géneros discursivos.
+
+
+[06:48] La movilidad de los textos de las obras se remite a cinco propiedades de los discursos: el régimen de su atribución, sus variantes textuales, las diversas formas materiales de su publicación, sus migraciones entre lenguas y géneros y, finalmente, las lecturas. Son estas cinco razones de la pluralidad de los textos para una misma obra que quería examinar hoy en día en relación, evidentemente, con El Quijote.
+
+
+[07:34] Podemos empezar con el régimen de atribución, que puede preferir el nombre de autor o bien el anonimato. Esta diferencia puede definir dos regímenes sucesivos de atribución de las obras literarias, como lo propuso Michel Foucault con la oposición entre el anonimato medieval y la imposición moderna, a partir de los siglos XVII y XVIII, de la función autor y del nombre de autor. Pero puede también esta diferencia hacer hincapié en las variaciones de atribución de una misma obra.
+
+
+[08:17] En el caso de que un nombre propio figure en la portada, puede indicar la identidad de quien escribió la obra, pero también ocultarla bajo otro nombre. Las razones para semejante disociación entre la identidad del escritor y el nombre del autor son múltiples. En la Francia del siglo XVII es una manera de disimular una identidad autoral femenina tras el nombre de un hombre, como en el caso de las novelas de Mademoiselle de Scudéry, siempre publicadas con el nombre de su hermano sobre la portada.
+
+
+[09:13] La disimulación puede también constituir una manera de evitar una forma de censura. Por ejemplo, en la España del siglo XVII todas las obras del jesuita Baltasar Gracián fueron publicadas bajo el nombre de su hermano Lorenzo, que no era jesuita; el autor evitaba así la censura interna de la Compañía de Jesús. Las estrategias editoriales pueden también instaurar esta diferencia entre quién escribió el texto y quién está presentado como su autor.
+
+
+[09:50] Frecuentes son las obras atribuidas a autores famosos que no las escribieron. Es el caso con Shakespeare, a quien los editores de Londres atribuyeron sobre las portadas de sus ediciones obras teatrales escritas por otros dramaturgos, o bien de las antologías poéticas con el nombre de Shakespeare sobre la portada cuando en el libro mismo Shakespeare era solamente autor de algunos poemas y un autor entre otros.
+
+
+[10:29] Podríamos decir que es también el caso de Lope de Vega, que siempre lamenta la circulación de partes de comedias con su solo nombre sobre la portada, mientras que en el libro se encuentran una mayoría de obras que no escribió. En este sentido, en la primera modernidad el robo del nombre era más importante que el plagio de los textos.
+
+
+[10:55] Las manipulaciones del nombre de autor ponen de manifiesto la plasticidad de la palabra autor en la primera modernidad, entre los siglos XVI y XVII. No siempre se refiere al escritor, ni mucho menos. El autor puede ser el librero editor, como en el caso de Antoine Vérard en el París del siglo XVI, que presentaba su retrato en algunas de sus ediciones.
+
+
+[11:29] El autor puede ser el glosador de una obra canónica. Puede ser, como en el caso de la España del Siglo de Oro, los traductores, como lo es el traductor de Bagatelas [?] encontrado durante la visita de la imprenta en Barcelona en el capítulo 62 de la segunda parte del Quijote. O bien puede ser el autor de comedia, que no era el dramaturgo o el poeta, sino el director de la compañía que alquilaba los corrales y que organizaba las representaciones.
+
+
+[12:11] En El Quijote, Cervantes transformó esta serie de oposiciones en motivos de la ficción. Como lo muestra la portada de 1605, el libro tiene un autor que lo escribió: "Compuesto por Miguel de Cervantes Saavedra". Su paternidad literaria está reconocida en el privilegio por diez años concedido el 26 de septiembre de 1604 a, cito, "vos Miguel de Cervantes, que habíades compuesto un libro intitulado El ingenioso hidalgo de la Mancha, el cual os había costado mucho trabajo y era muy útil y provechoso".
+
+
+[13:00] Los dos adjetivos, útil y provechoso, en el privilegio retoman los términos de la aprobación del cronista real Antonio de Herrera del 11 de septiembre de 1604, una aprobación que, como sabemos, no apareció ni fue publicada en la primera edición del libro ni en sus ediciones posteriores. Herrera daba licencia para que se imprima este libro porque, cito el texto de la aprobación, "será de gusto y entretenimiento al pueblo, a lo cual en regla de buen gobierno se debe de tener atención".
+
+
+[13:49] Así, atribuido de manera clara al escritor que lo compuso, el libro, sin embargo, multiplica sus autores en el texto mismo: el narrador de los ocho primeros capítulos, el que no quiere acordarse del nombre del lugar de la Mancha; el lector decepcionado por la interrupción de la narración a finales del capítulo 8. Cito: "Pero está el daño de todo esto que en este punto y término deja pendiente el autor de esta historia esta batalla".
+
+
+[14:34] Este lector se vuelve el segundo autor de esta obra, cito, "que no quiso creer que tan curiosa historia estuviese entregada a las leyes del olvido" y que descubre, cito, "la historia de Don Quijote de la Mancha, escrita por Cide Hamete Benengeli, historiador arábigo", traducida en poco más de mes y medio por algún morisco aljamiado encontrado en la Alcaná de Toledo.
+
+
+[15:10] La función autor en el texto mismo está así dispersada entre varias plumas: la del historiador arábigo, la del traductor morisco que a menudo comenta el texto que traduce, y la del autor lector o del lector autor de la historia, que también comenta el libro que da a leer a los lectores de carne y hueso.
+
+
+[15:42] La pluralidad de las atribuciones del texto incluye también a Don Quijote mismo, que empieza su primera salida en el segundo capítulo, cito, "hablando consigo mismo y diciendo: '¿Quién duda sino que en los venideros tiempos, cuando salga a luz la verdadera historia de mis famosos hechos, que el sabio que los escribiere no ponga, cuando llegue a contar esta mi primera salida tan de mañana, de esta manera: Apenas había el rubicundo Apolo...', etcétera". Así, Don Quijote podría ser el primer autor del Quijote.
+
+
+[16:30] Las variantes contribuyen también a la movilidad de los textos y es una segunda razón. Tienen varias y fuertes razones. Pueden ser el resultado de las reescrituras, correcciones y adiciones decididas por el propio autor, tal como en las ediciones sucesivas de los Ensayos de Montaigne publicados después de la primera edición en 1580: en 1582, 1588 y 1595, en una edición póstuma que incorporaba en las márgenes del ejemplar que poseía Montaigne las correcciones que quería introducir en su libro.
+
+
+[17:32] Pero los autores no eran los únicos responsables de las variantes textuales. Lo fueron también los correctores o editores, en el sentido de copy editor, que establecían el texto para la imprenta. Lo fueron también los componedores o cajistas tipógrafos que componían tipográficamente el texto siguiendo sus preferencias y sus hábitos en cuanto a la puntuación o a las grafías de las palabras.
+
+
+[18:10] Como lo mostró Francisco Rico, a quien quisiera homenajear en este año de su fallecimiento, el texto del Quijote fue sometido, como todos los demás y quizá más que otros dadas las prisas de su editor Francisco de Robles, que quería publicar el libro antes de la Navidad de 1604, a los hábitos de los copistas, las preferencias de los correctores y las equivocaciones de los componedores.
+
+
+[18:49] Para demostrarlo, Francisco Rico se detenía en el famoso episodio del asno de Sancho. En la edición impresa en 1604 y publicada con la fecha de 1605, el asno desaparecía sin explicación alguna en el capítulo 25, cito: "Bien haya quien nos quitó ahora del trabajo de desenalbardar al rucio". El asno reaparecía sin mayores razones en el capítulo 46, cito: "Solo Sancho se desesperaba con la tardanza del recogimiento, y solo él se acomodó mejor que todos, echándose sobre los aparejos de su jumento".
+
+
+[19:39] Criticado por su negligencia, Cervantes redactó dos adiciones para la reedición de 1605: una que describía el robo del asno por Ginés de Pasamonte y la otra que describía su recuperación por parte de Sancho. Estas interpolaciones, cuya autenticidad Rico demuestra de forma convincente mediante comparaciones estilísticas y léxicas, se introdujeron en el capítulo 23 y en el capítulo 30 del texto.
+
+
+[20:22] Por desgracia, varias frases del capítulo 23 posteriores a la interpolación introducida y la primera frase del capítulo 25 no fueron corregidas como habría sido de rigor. En ellas Sancho aparecía todavía montado en el asno que, sin embargo, le había sido robado algunas líneas antes.
+
+
+[20:52] La tercera edición madrileña de 1608, publicada asimismo en el taller de Juan de la Cuesta y revisada por Cervantes, se esfuerza por corregir estas incoherencias mediante el expediente de introducir en el capítulo 23 explicaciones suplementarias que indican que Sancho, una vez le ha sido arrebatado el asno, va a pie cargado con la albarda de su desaparecida montura, cosa que no quedaba clara en la edición de 1605. El relato que se ofrece del hurto en la segunda parte de 1615 confirma el hecho al comparar el engaño de Pasamonte con la astucia de Brunello, quien en el Orlando furioso roba el caballo de Sacripante dejando a este montado en la silla del animal.
+
+
+[21:59] Francisco Rico sacaba varias lecciones de esta historieta asnal. En primer lugar, pone de relieve que si bien Cervantes no corrigió pruebas de las ediciones de su historia, cosa imposible dada la necesidad de deshacer lo más rápidamente que se pudiera las formas tipográficas ya compuestas para reutilizar inmediatamente los caracteres en la composición de nuevas páginas, pudo introducir modificaciones en las reediciones de 1605 y de 1608.
+
+
+[22:42] Las relativas al asno no son las únicas, como indica la transformación del rosario improvisado que confecciona Don Quijote en Sierra Morena, donde quiere imitar tanto la melancolía como la piedad de Amadís de Gaula. En la edición de 1604 fechada en 1605, la primera, lo que sirve de rosario es un pedazo de su camisa. Cito: "Fue que rasgó una gran tira de las faldas de la camisa, que andaban colgando, y diole once nudos, el uno más gordo que los demás, y esto le sirvió de rosario el tiempo que allí estuvo, donde rezó un millón de avemarías".
+
+
+[23:37] La segunda edición de 1605 corrige lo que puede ser comprendido como una impertinencia y fabrica el rosario con una materia más natural y más noble. El texto dice: "Y ensartó unas agallas grandes de un alcornoque que ensartó, de que hizo un diez [?]".
+
+
+[24:06] La historia del asno muestra también que el descuido amenazaba en todo momento el proceso de publicación: con la inserción de las adiciones donde no tocaba, con el olvido de correcciones exigidas por el nuevo estado del texto, con la confusión propia del original del texto preparado para la composición tipográfica, cuyas remisiones y hojas añadidas sin duda no eran fácilmente legibles.
+
+
+[24:48] La falta de atención de los correctores madrileños del taller de Juan de la Cuesta, correctores infinitamente menos rigurosos que el que preparó la copia de la edición publicada por Roger Velpius en Bruselas en 1607 —un libro presente en la colección de la Biblioteca Cervantina de Monterrey—. Este corrector, más atento que los de Madrid, fue calificado por Francisco Rico como maestro en detectar la lección manuscrita que subyacía a una mala interpretación del impresor, por ejemplo la presencia del asno después del momento que describe su robo.
+
+
+[25:38] Y finalmente, los errores mecánicos de los componedores son otras tantas razones que pueden explicar por qué las primeras ediciones del Quijote, las dos de 1605 y la de 1608 en Madrid, son igual de defectuosas, si no más, que los libros del tiempo.
+
+
+[26:03] Atribución, variantes... Las transformaciones de las formas de publicación constituyen una tercera razón de la movilidad de los textos de una misma, entre comillas, "obra". La noción de materialidad del texto, materiality of the text, en el sentido que le atribuían Margaret de Grazia y Peter Stallybrass [?], recuerda que la producción no solo de los libros, sino de los propios textos, es un proceso que, además del gesto de la escritura, implica distintos momentos, técnicas e intervenciones: las que realizan copistas, censores, editores, copy editors, correctores, tipógrafos e impresores.
+
+
+[26:56] La modalidad de inscripción de los textos, el formato del libro, la elección de los caracteres tipográficos, la mise en page o layout, la presencia o no de ilustraciones, las preferencias gráficas, la puntuación, son todos elementos materiales y visuales, no verbales, que contribuyen a los diversos significados de las mismas obras leídas por diferentes lectores apropiándose de diferentes estados del texto. Entonces, el vínculo es fuerte entre materialidad de los textos y movilidad de las obras.
+
+
+[27:45] Son la inmediata conciencia y percepción de la relación entre la materialidad de los libros y su contenido textual la que guía el escrutinio de la biblioteca de Don Quijote por el cura y el barbero en el capítulo sexto [?] de la historia. Cuando entran con la sobrina y el ama en el aposento donde el hidalgo conservaba y leía sus libros algunas veces sin parar dos días con sus noches, dice el texto, hallaron, cito: "Más de cien cuerpos de libros grandes, muy bien encuadernados, y otros pequeños".
+
+
+[28:35] Los libros grandes son libros de caballerías. Después del escrutinio de trece volúmenes, el barbero decretó su condena general, cito: "Y sin querer cansarse más en leer libros de caballerías, mandó al ama que tomase todos los grandes y diese con ellos en el corral", donde todos debían de ser quemados, salvo la historia del famoso caballero Tirante el Blanco, que cayó a los pies del barbero y que fue salvado del fatal destino.
+
+
+[29:16] Una vez decidida la triste suerte de los libros grandes identificados por su tamaño con los libros de caballería, escrutinan otros libros. El barbero pregunta: "¿Qué haremos de estos pequeños libros que quedan?". El cura responde: "Estos no deben de ser de caballerías, sino de poesía". De hecho, casi todos los libros de poesía examinados por el cura y el barbero, tanto los libros pastoriles mezclando versos y prosa como los poemas épicos, habían sido publicados en el pequeño formato in-octavo.
+
+
+[30:11] La Galatea, publicada por Cervantes en 1585, también lo fue en este formato y era uno de los libros pequeños poseídos por Don Quijote. Raros son los libros de poesía in-cuarto en la biblioteca del hidalgo. El Cancionero [?] de varias poesías de Pedro de Padilla publicado en 1580 es una excepción que el barbero designa como "este grande que aquí viene", grande porque es más grande que los en-octavo.
+
+
+[30:52] Dividida entre libros de caballerías y obras poéticas en octavo, la biblioteca de Don Quijote no contenía muchos libros cuyo formato era generalmente el formato en cuarto: comedias sueltas o comedias reunidas en partes, relaciones de sucesos, historias y novelas, tal como por ejemplo las ediciones del Quijote en 1605 y en 1608 en Madrid.
+
+
+[31:35] Plasmado en la forma de un auto de fe de la Inquisición, el escrutinio de la librería y biblioteca de Don Quijote tiene varias consecuencias en la narración. Sin sus libros quemados, sepultados o entregados al barbero, la memoria del hidalgo se vuelve una biblioteca mental en la cual él encuentra los textos que le permiten entender la verdad escondida de los hechos y de los acontecimientos del mundo.
+
+
+[32:13] El capítulo permite también a Cervantes indicar sus preferencias y amistades literarias, criticar las traducciones y presentar la censura y la destrucción de los libros con una ambigüedad que el lector debe resolver. En el capítulo siguiente, el capítulo 7 [?], se menciona la injusticia de la quema de la biblioteca. Cito: "Aquella noche quemó y abrasó el ama cuantos libros había en el corral y en toda la casa, y tales debieron de arder que merecían guardarse en perpetuos archivos; mas no lo permitió su suerte y la pereza del escrutador, y así se cumplió el refrán en ellos de que pagan a las veces justos por pecadores".
+
+
+[33:15] Las tribulaciones del asno plantean otra cuestión fundamental para la materialidad del Quijote: ¿cómo asociar las dos partes del Quijote, 1605 y 1615? ¿Con cuál de las ediciones madrileñas de la primera parte se ajusta mejor, por ejemplo, el relato de Sancho en la segunda, y bajo qué título común deben reunirse la historia de El ingenioso hidalgo, primera parte, y de El ingenioso caballero, segunda parte?
+
+
+[33:56] Si admitimos con Francisco Rico que el título de la segunda parte pudo haber sido una decisión del editor o del impresor y no de Cervantes, que jamás asocia ingenioso con caballero, conocemos las decisiones tomadas por Francisco Rico en sus Quijotes: publicar el texto de 1604, por consiguiente sin las adiciones de 1605 relegadas a un apéndice, y titular las dos partes como Don Quijote de la Mancha, y ello de acuerdo con el privilegio de 1615, que designaba el texto como Segunda parte de Don Quijote de la Mancha.
+
+
+[34:47] La movilidad de las obras también proviene de las migraciones de los textos entre lenguas y géneros. Como lo demuestran numerosos trabajos recientes, la traducción se ha convertido en un tema fundamental de la historia de la filosofía, de la crítica literaria, de la sociología y de la historia cultural. Las razones de este interés son tanto históricas como metodológicas.
+
+
+[35:25] Las traducciones constituyeron una de las primeras modalidades de la profesionalización de la escritura en el siglo XVI y el siglo XVII, como lo demuestra en El Quijote el traductor de Bagatelas encontrado en la imprenta en Barcelona y que afirma en el capítulo 62: "Yo no imprimo mis libros para alcanzar fama en el mundo, que ya en él soy conocido por mis obras; provecho quiero, que sin él no vale un cuatrín la buena fama". Provecho producido por la escritura, en este caso la traducción de este libro italiano, Le Bagatelle [?].
+
+
+[36:20] Hoy en día el estudio de las traducciones se volvió un instrumento esencial en la geografía literaria, así como en las historias conectadas, las connected histories, propuestas como la modalidad más relevante de la historia global. Este estudio permite disipar las ilusiones anacrónicas que olvidan la enorme desigualdad que existía en la primera modernidad, pero hoy en día también, entre las lenguas traducidas y las lenguas que traducen.
+
+
+[37:03] Durante los siglos de la primera modernidad, entre el XVI y el XVIII, existió así un profundo desequilibrio entre las obras italianas y españolas, dentro de ellas Don Quijote, que se difundían rápidamente por toda Europa —Inglaterra en primer lugar gracias a las traducciones—, y las obras inglesas, que eran casi desconocidas en el continente. Si ya en 1612 se contaba con la traducción al inglés de Don Quijote, no fue posible leer Hamlet en español antes de 1798, cuando fue publicada la primera traducción establecida a partir del texto inglés por Moratín.
+
+
+[38:00] Así, los encuentros entre Shakespeare y Cervantes a menudo imaginados y discutidos por la crítica literaria o por los novelistas no tuvieron nada de recíproco. Si bien Inglaterra resultó quijotizada [?], para retomar un neologismo aparecido durante las guerras civiles de mediados del siglo XVII, España nunca fue inglesa, salvo a veces en tiempos de treguas y viajes. En la Europa de la primera modernidad, las transferencias de los modelos estéticos, de las normas culturales, de las obras literarias tomaban los caminos que conducían del sur al norte del continente.
+
+
+[38:50] Cronología y cartografía de las traducciones son esenciales. Tres mapas del Atlas de la novela europea de Franco Moretti muestran las tres oleadas de traducciones que produjeron la globalización y la universalización del Quijote. La primera ubicó la historia en el centro, en el corazón de la Europa occidental, gracias a las traducciones al inglés (1612 y 1620 para cada parte), francés (1614 y 1618), italiano (1622), alemán (1648, aunque se editaron solo los primeros 22 capítulos de la primera parte) y holandés (1657).
+
+
+[39:48] Una segunda oleada de traducciones entre 1769 y 1802 incluyó a una Europa periférica e ilustrada mediante las traducciones al ruso, al danés, al polaco, al portugués y al sueco. Finalmente, en el siglo XIX y los comienzos del XX se multiplicaron las traducciones a las diferentes y numerosas lenguas de los imperios austríaco, ruso, otomano y a las lenguas del Oriente: chino, persa, hindi, japonés.
+
+
+[40:33] Sin embargo, la geografía de las traducciones no debe ser pensada como la cartografía dinámica de una identidad textual estable; debe tomar en cuenta varias transformaciones de la obra traducida. Es lo que sucede con las nuevas traducciones a una misma lengua en la cual ya está traducido Don Quijote.
+
+
+[41:04] Estas nuevas traducciones se justifican, según el caso, sea porque se vuelve a la lengua original de la obra que anteriormente se había traducido a partir de una traducción previa en otra lengua, o bien porque se usa una edición reciente en la lengua original, o bien por una evolución de la lengua de la traducción. En el caso del Don Quijote en inglés, la serie de nuevas traducciones que compiten con las de Shelton de 1612 y 1620 comienza en 1687 con la traducción de John Phillips, que presentaba como english modern language [?].
+
+
+[42:00] Después de la traducción de John Phillips siguieron otras cinco traducciones que pretendían ser revisadas y corregidas: la traducción de Motteux (1700), que se presenta como traducida del original por varias manos; la traducción de Stevens, publicada este mismo año de 1700, que se presenta como una nueva edición de la traducción de Shelton, revisada, corregida y en parte nuevamente traducida del original; la traducción de Ozell en 1719, que se dice cuidadosamente revisada y comparada con la mejor edición del original impresa en Madrid; mientras que las traducciones de Jarvis en 1742 y la de Smollett en 1755, ambas afirmaban ser traducidas del original español de Miguel de Cervantes.
+
+
+[43:02] Entonces, podríamos decir que con estas múltiples traducciones El Quijote se convirtió en la novela inglesa más popular del siglo XVIII y transformó profundamente el horizonte de expectativas de los autores y de los lectores de novelas. Es la recepción del Quijote en traducción inglesa la que hizo posible las novelas escritas por Fielding, por el propio Smollett, traductor de Don Quijote, y por Sterne con Tristram Shandy.
+
+
+[43:43] Las traducciones pueden entenderse como una reformulación. Es lo que muestra El Quijote en Francia: tras las primeras traducciones de César Oudin y François de Rosset (1614 y 1618), que seguían sin añadidos ni cortes las dos partes escritas por Cervantes, la traducción del jansenista Filleau de Saint-Martin en 1777-1778 y la del fabulista Florian publicada póstumamente en 1799 se tomaron grandes libertades con el texto original, continuado por el primero, Filleau de Saint-Martin, y acortado drásticamente por el segundo, Florian.
+
+
+[44:35] Sin embargo, fueron estas traducciones francesas infieles y no el texto español las que utilizaron las tres primeras traducciones rusas del libro de Cervantes. Tanto la primera, publicada en 1769 por Ignátiev [?], que solo contaba con 27 capítulos, como la de Nikolái Ósipov publicada en 1791, eran traducciones del texto de Filleau de Saint-Martin. La tercera traducción, la de Zhukovski [?] que se publicó entre 1804 y 1806, era una traducción del texto de Florian. No fue hasta 1838 que Konstantín Masalski tradujo la historia a partir del texto español.
+
+
+[45:36] El caso de la primera traducción china, recientemente traducida al español por el Instituto Cervantes, es similar e interesante. Fue publicada en Shanghái en 1922 por Lin Shu, que no conocía ni el español ni ninguna otra lengua occidental. Compuso su traducción al mandarín a partir de una traducción oral realizada por su amigo Chen Jialin, que estaba traduciendo para Lin Shu una traducción inglesa del siglo XIX.
+
+
+[46:21] El resultado es una serie de profundas transformaciones: Don Quijote se convierte en un erudito confuciano, Sancho es su discípulo en lugar de su criado y el cura se ha convertido en médico. Pero el título elegido por Lin Shu para esta traducción de traducción, Historia del caballero encantado, muestra una aguda percepción de la obra y aparece como un eco inconsciente de la frase del arbitrista Cellorigo, que se refería a los reinos de España en 1600 como una república de hombres encantados.
+
+
+[47:16] Fue Cellorigo, el arbitrista del siglo XVII, quien dio a Pierre Vilar la clave de su interpretación del Quijote: impotentes o reacios a comprender la realidad en la que vivían, los españoles huían en fábulas. Cito a Cellorigo, citado por Pierre Vilar: "No parece sino que se han querido reducir estos reinos a una república de hombres encantados que vivan fuera del orden natural".
+
+
+[47:57] El arbitrista se refiere así con agudeza tanto al mundo ficticio de la historia escrita por Cervantes cuanto al mundo real de los lectores encantados por un hidalgo él mismo encantado por sus lecturas. Pero ni Cellorigo ni ningún otro arbitrista pudieron dar a sus contemporáneos una obra maestra que expusiera en la parodia y con el pastiche lo trágico de una época herida por el divorcio entre las realidades políticas y sociales y, por otro lado, los sueños nostálgicos de una felicidad perdida.
+
+
+[48:46] Escribe Pierre Vilar: "Desconectada de la realidad, separada de la realidad, la España de 1600 prefiere soñar". Es Cervantes el que ofreció la más poderosa versión de este sueño.
+
+
+[49:07] La movilidad textual se refuerza cuando una obra cambia no solamente de lengua, sino también de género al mismo tiempo. Por ejemplo, cuando Don Quijote se convirtió en el tema de una obra de teatro. La primera parte proporcionó los argumentos y temas para la obra perdida de Fletcher y Shakespeare, The History of Cardenio, representada en la corte inglesa a principios de 1613; la tragicomedia de Pichou, Les Folies de Cardenio, representada en París; y los dos Don Quijote de Guérin de Bouscal.
+
+
+[50:00] La tercera obra cervantina de Guérin de Bouscal, Le Gouvernement de Sancho Pança, representada en 1640, abrió la serie de obras teatrales que llevaron episodios de la segunda parte a las escenas europeas, a los palcos europeos: en forma de obras de teatro de feria, por ejemplo en París (Saint-Germain, Saint-Laurent); comedias en París por Dancourt [?] (1694) o Dufresny [?] (1712); óperas, por ejemplo las dos óperas compuestas por Antonio Caldara para la corte de Viena, Don Chisciotte in corte della Duchessa y Sancio Panza governatore dell'isola Barataria; o bien obras para teatros de marionetas, como La vida del gran Don Quijote de la Mancha, escrita en 1733 por António José da Silva para el teatro de Lisboa, que puede considerarse como la primera traducción, entre comillas, al portugués de una obra que, como decía, se tradujo formalmente a finales del siglo XVIII, en 1794.
+
+
+[51:32] Las adaptaciones teatrales produjeron nuevos textos para la misma, entre comillas, "obra", así como estas otras traducciones que son las apropiaciones y encarnaciones de los personajes de la ficción en fiestas carnavalescas, aristocráticas y religiosas, tanto en España como en América. Así, en 1607 en la fiesta de sortija organizada por el corregidor de Pausa en esta localidad del Perú; en 1608 durante la entrada del duque de Lerma en la ciudad de Tudela de Duero; en 1610 en las festividades que celebraron la beatificación de Ignacio de Loyola con un triunfo de Don Quijote en una mascarada organizada por los estudiantes de la Universidad de Salamanca; o bien en 1621 en México en un cortejo organizado por los obreros de la platería real para la beatificación de San Isidro Labrador.
+
+
+[52:59] Está descrita esta mascarada en la Verdadera relación que fue publicada el mismo año: detrás de una figura de la Fama y detrás de un bizarro labrador seguían, cito, "todos los caballeros andantes autores de los libros de caballerías: Don Florambel [?] de Grecia, Palmerín de Oliva, el Caballero del Febo, etcétera, yendo el último, como más moderno, Don Quijote de la Mancha, todos de justillo colorado, con lanzas, rodelas y cascos en caballos famosos".
+
+
+[53:42] Las ilustraciones pueden ser también interpretadas como traducciones icónicas, en este caso del texto cervantino. La primera edición ilustrada fue publicada en holandés en 1657 en Dordrecht con 24 estampas de Jacob Savery. La primera edición ilustrada del texto español, publicada en Bruselas en 1662, incluía 18 grabados y se encuentra en la colección Carlos [?].
+
+
+[54:25] Esta edición es la primera en la que se cambia el título del libro y podemos volver así a la discusión sobre la materialidad del Quijote, porque el título de las dos partes era Vida y hechos del ingenioso caballero Don Quijote de la Mancha, que sustituía el título de las ediciones anteriores que a partir de 1637 habían reunido las dos partes en un solo libro con el título Primera y segunda parte del ingenioso hidalgo de la Mancha.
+
+
+[55:10] Durante los primeros cincuenta años de su vida, el libro de Cervantes no tenía ilustraciones, salvo la portada de la traducción francesa de la segunda parte en 1618, retomada por la traducción inglesa de la segunda parte en 1620, que mostraba a Don Quijote y Sancho enfrente de un molino de viento. Pero no más que este frontispicio.
+
+
+[55:43] En un tiempo en el cual los textos pintan y las imágenes narran, la equivalencia entre unos, los textos, y otras, las imágenes, podía hacer inútil la presencia onerosa de ilustraciones en las ediciones del Quijote. En el capítulo 71 de la segunda parte, Sancho imagina sus aventuras o desventuras pintadas, cito: "Yo apostaré que antes de mucho tiempo no ha de haber bodegón, venta ni mesón o tienda de barbero donde no ande pintada la historia de nuestras hazañas, al igual del robo de Helena o de la historia de Dido y Eneas pintada sobre unas sargas viejas", presentes en el mesón donde Don Quijote y Sancho se han parado, que es el lugar en el cual Sancho imagina su historia pintada.
+
+
+[56:50] Don Quijote le da la razón, pero añade: "Me parece a mí, Sancho, que pintor o escritor, todo es uno". La escritura o la palabra viva tienen el poder de producir imágenes, imágenes mentales, tal como lo hacen las pinturas o los grabados. De ahí, tal vez, la ausencia de una necesidad para poner ilustraciones en las ediciones del Quijote antes de la mitad del siglo XVII.
+
+
+[57:33] Sería necesaria otra conferencia para analizar una quinta variación: no más atribución, variantes, materialidad o traducciones, sino la variación que introducen las lecturas de las obras, que pueden formar, modificar o invertir el sentido de la obra. En el caso del Quijote, como lo indicaba Nietzsche en una famosa reflexión en La genealogía de la moral, cito a Nietzsche: "Hoy leemos el Don Quijote entero con un amargo sabor de boca, casi con una tortura; pero a su autor y a los contemporáneos del mismo les pareceríamos con ello muy extraños, muy oscuros: con la mejor conciencia ellos lo leían como el más divertido de los libros y reían con él casi hasta morir".
+
+
+[58:48] En su libro Don Quijote: del libro al mito, Jean Canavaggio sigue la trayectoria que transformó el gracioso cómico, burlesco, divertido que hace reír en un héroe romántico, melancólico, desesperado por las crueldades de la sociedad, o bien como la encarnación del destino desgraciado de su nación, España.
+
+
+[59:27] La movilidad de los textos producida por sus lecturas, sus interpretaciones, sus apropiaciones, se sitúa en una paradoja esencial. Reconocer la capacidad creativa e inventiva del lector presupone la identificación de los dispositivos textuales y materiales, discursivos y editoriales, que pretenden guiar la recepción, orientar y fijar la construcción del sentido. Esta paradoja está en el centro de la tensión entre, por un lado, las estrategias de la escritura y de la publicación que quieren imponer la significación y, por otro lado, las tácticas de lectura consideradas no como una recepción pasiva sometida a este sentido impuesto, sino como prácticas productoras de sentido, de significados.
+
+
+[1:00:35] Hay, me parece —y voy a concluir con esto—, dos maneras de articular estas dos realidades contradictorias: el sentido impuesto y la inventiva de la apropiación. La primera manera es teórica, metodológica: las lecturas nunca se pueden deducir de los textos o de los libros, y los lectores no pueden necesariamente identificarse con los lectores implícitos deseados por los autores o los editores. Sin embargo, sus lecturas siempre se sitúan dentro de un conjunto de condiciones de posibilidad históricamente definidas por las estrategias de la escritura, las herencias de los géneros, la propia materialidad de los escritos o los horizontes de expectativa de los lectores, plasmados por las maneras de pensar o de sentir de las comunidades de lectores.
+
+
+[1:01:48] Comprender cómo en distintos momentos y lugares, para distintos géneros y públicos, se entrecruzan libertades constreñidas y coacciones transgredidas permite tal vez seguir las apropiaciones sucesivas y contradictorias de una obra. Don Quijote era inclasificable, era ajena a las definiciones tradicionales de los géneros, parodiaba las convenciones y estaba escrita, como dijo Francisco Rico, en la prosa ordinaria de la vida.
+
+
+[1:02:31] Una otra vía para entender las variaciones textuales de una misma obra es poética. En el cuento de Borges "El espejo y la máscara", el poeta Ollan [?] vuelve tres veces frente a su rey victorioso para presentarle una loa de alabanza. Tres veces al mismo tiempo cambian la composición del público (todo el pueblo, luego solo los eruditos, finalmente el rey solo), la forma de publicación del poema (leído en voz alta, recitado, murmurado), la estética de la composición (imitación, invención, inspiración) y la relación entre las palabras y las cosas, entre el poema y la batalla, inscrita sucesivamente en el régimen de la representación, de la écfrasis, de lo sagrado.
+
+
+[1:03:36] En el tercer poema, que consta de un único verso susurrado y misterioso, el poeta y su rey encuentran la belleza y deben expiar esta gracia prohibida a los humanos. El poeta había recibido un espejo para su primera oda, que reflejaba toda la literatura irlandesa, y luego una máscara para la segunda oda, que tenía la fuerza de la ilusión teatral; con la daga, tercer regalo del rey, se suicida, y el soberano se condena a vagar por las tierras que un día fueron su reino.
+
+
+[1:04:23] Borges, en la fulgurante agudeza poética de la fábula, nos muestra todas las razones inscritas en la escritura, soportadas por las formas de publicación y presentes en las expectativas de los lectores u oyentes que dan a los textos su movilidad, a las obras su pluralidad y al Quijote la historia de sus sucesivas encarnaciones y apropiaciones. Muchas gracias.
+
+
+[1:05:09] >> Ana Laura Santamaría: Muchas gracias, maestro Chartier. Muchas gracias por este delicioso recorrido a través de las ediciones y las traducciones de este texto que nos sigue involucrando como lectores con enorme poder, y creemos que es un gran regalo para estos 70 años de la Biblioteca Cervantina el que usted nos ha obsequiado con este viaje. Vamos a continuación a abrir el espacio para preguntas; ya tenemos aquí una de Arnulfo. Por favor, cuando quieran hacer una pregunta abren su cámara, levantan la mano y de inmediato Javier abrirá el micrófono; y para quienes estén en sala, ahí tenemos preparada una computadora con una silla, si quieren acercarse a esa computadora, por favor, y desde la sala también les daremos la palabra. Vamos a escuchar a Arnulfo. Muchas gracias.
+
+
+[1:06:05] >> Arnulfo: Muchas gracias. Saludando al maestro Chartier desde... [?] conferencia, paso rápido a la pregunta. ¿Podríamos situar las ediciones que en Francia se hicieron en español de Don Quijote hacia 1820-1825, con un librero como Bossange [?] que estuvo en México hacia 1825? La pregunta tiene que ver sobre esa perspectiva de largo plazo que usted ha explicado: ¿qué importancia pueden tener estas ediciones del Quijote dentro de esta librería española para México y para América Latina? Gracias, maestro.
+
+
+[1:07:07] >> Roger Chartier: Bien, muchas gracias. Sería un tema para una conferencia entera por varias razones. La primera es porque, después de las traducciones que he evocado —las de Oudin y Rosset, después las de Filleau de Saint-Martin y Florian—, había una nueva generación de traducciones en los comienzos de la primera mitad del siglo XIX. Entonces habría aquí un primer elemento de análisis: por qué traducir de nuevo un texto tan frecuentemente ya traducido; va a la par con esta historia de las traducciones.
+
+
+[1:07:57] A la vez, la historia de las ediciones en francés que usted conoce perfectamente con dos modalidades: una modalidad que es la de la elección de una traducción y de las ilustraciones que la acompañan para presentar de nuevo Don Quijote. Y en segundo lugar, un análisis que fue hecho por una colega que fue estudiante anteriormente, Ana Utsch [?], brasileña, que ha estudiado cómo cuando se publicaba una traducción con el texto siempre idéntico, sin embargo podía tener una serie de variaciones que se vinculan con la forma de impresión y particularmente la encuadernación.
+
+
+[1:09:03] En los catálogos de los editores franceses del XIX presentaban un Quijote, pero con cinco, seis o siete diferentes presentaciones materiales con encarnaciones diferentes: como libro de premio, como libro para bibliófilo, como libro de regalo para Navidad, como un libro de circulación más amplia. Y entonces, un elemento dentro del capítulo sobre las variaciones del texto puede ser cuando el texto no varía, pero cuando cambian las formas de su publicación y, particularmente en este caso en el siglo XIX con una encuadernación mecánica, la pluralidad de las encuadernaciones y presentaciones del texto.
+
+
+[1:10:08] De esta manera, el ejemplo francés sería interesante, por un lado, para pensar la sucesión de las traducciones y analizar lo que acontece con las traducciones: puede ser en relación con un mejor conocimiento del texto original, o puede ser, como en el caso inglés, por una mejor adecuación al estado de la lengua francesa, de la lengua de la traducción. Durante mucho tiempo, en la colección de La Pléiade la traducción francesa revisada por Jean Cassou [?] fue fundamental, basada en las traducciones de Oudin y de Rosset de 1614 y 1618; es solamente recientemente que una nueva traducción por Jean Canavaggio y otra traducción más en un texto más moderno aparecieron. Es una historia de las traducciones con una dimensión muy rica, porque implica tanto la lengua traducida como la lengua que traduce.
+
+
+[1:11:21] Y en segundo lugar, en el francés, un interés particular para la materialidad del texto. Había recordado que era en la edición francesa de 1618 que aparecía una ilustración, en este caso un frontispicio sobre la portada de Don Quijote y de Sancho; nunca antes habían aparecido, y después se mantuvieron, pero sin una serie de ilustraciones. Entonces sería interesante ver cuándo las ediciones francesas acogen una serie de ilustraciones con los dos modelos que Mejías [?] ha mostrado: el modelo holandés heredado desde 1657 y un modelo que se había utilizado para tapicerías y que entró en los libros como una serie de ilustraciones.
+
+
+[1:12:30] Y también, inclusive cuando hay una estabilidad tanto del texto como de las ilustraciones, variaciones de apropiaciones son permitidas por la forma misma de la edición y particularmente con la preferencia para tal o cual forma de encuadernación. Entonces el caso francés sería también interesante para seguir estos dos caminos. Muchas gracias.
+
+
+[1:13:04] >> Ana Laura Santamaría: Muchas gracias. Vamos a darle la palabra a la maestra Brito, por favor, si podemos abrir su micrófono. Ya está.
+
+
+[1:13:14] >> Maestra Brito: Buenos días. Pues es un verdadero placer estar escuchando a nuestro —ya lo hacemos nuestro— doctor Chartier. Es un verdadero orgullo, es un honor.
+
+
+[1:13:32] Yo he estado trabajando aquí en México acerca de lo que es el libro novohispano que se produce a finales del siglo XVI y siglo XVII, y me he topado con una situación respecto al uso y manejo de "autor" y "escritor". Veo, por ejemplo, en ciertas obras que han aparecido recientemente que hacen uso de esos conceptos con gran libertad y con gran soltura, pero yo todavía sigo con esa duda. Aunque el doctor Chartier menciona que el autor escribe textos y el impresor le da forma a esos textos, da la forma de libro, ya que lo tenemos acá no quisiera perder esa oportunidad de que nos pudiera decir si es que ya se puede usar para el siglo XVI y XVII novohispano con esa libertad los conceptos "escritor" y "autor".
+
+
+[1:14:47] >> Roger Chartier: Pregunta fundamental que, me parece, implica una transformación del orden del discurso en el siglo XVIII. Cuando en el siglo XVIII se establece la idea de una propiedad literaria, se establece al mismo tiempo la vinculación entre autor y escritor: el autor de un libro, apareciendo su nombre sobre la portada, está necesariamente en relación con el individuo escritor que había soportado este autor, y eran una sola y misma persona. Se ve que es el régimen moderno de la autoría.
+
+
+[1:15:30] Cuando en el siglo XIX o XX había una sospecha de que un nombre de autor no era el nombre propio de un individuo, se buscaba quién era el escritor que se había escondido detrás de este nombre de autor, porque la regla es que no se debe esconder: escritor y autor son una misma persona. Una es el individuo de carne y hueso en el mundo social; el otro es una categoría de atribución de los textos, pero son uno.
+
+
+[1:16:09] Anteriormente existía una separación entre ambos. Todo esto que aparece en el siglo XVIII define un nuevo estatuto y definición de la literatura: producto de la imaginación y de la individualidad de un escritor. Se liga con esto las primeras biografías literarias en las cuales se articulan los eventos de la vida del escritor y las obras publicadas por este escritor como autor; también puede ser lo que llamaba Paul Bénichou [?] el reconocimiento del escritor-autor como un guía para la humanidad, la ética, el progreso.
+
+
+[1:17:12] Anteriormente, cuando no existe esta fuerte vinculación, la palabra autor puede ser utilizada para muchas personas que no son el escritor de la obra: puede ser el editor, puede ser el glosador, puede ser el traductor, puede ser el autor de comedias. Hay una separación fundamental entre la palabra autor y el escritor, que es uno de los actores que pueden ser considerados como autor, pero que no es el único.
+
+
+[1:17:56] Y en segundo lugar, no existe esta relación entre la originalidad de la obra y la vida del escritor. En este sentido, Cervantes es casi una excepción porque, como decía Jean Canavaggio, en las obras de Cervantes se pueden encontrar elementos de una biografía disfrazada: por ejemplo, lo que acontece en las novelas con el cautivo que ha huido de los baños de Argel son como elementos desplazados de una referencia posible a episodios de la vida de Cervantes. Pero esto es absolutamente excepcional; no se puede encontrar en cualquier obra de Shakespeare ninguna huella de una trayectoria existencial de Shakespeare. El modelo es que no se escribe la ficción a partir de la vida: se escribe la ficción a partir de los modelos, de las herencias, de la invención dentro de la imitación, etcétera.
+
+
+[1:19:11] Entonces me parece que somos casi prisioneros del léxico. No quiero decir que nunca debemos hablar de literatura antes del siglo XVIII o que no podemos proyectar esta definición del siglo XVIII del autor sobre periodos anteriores, pero, como usted mencionaba, con una clara conciencia de que hay una discontinuidad, de que no podemos aplicar las palabras que designan nuestros conceptos sin esta prudencia, estos matices y estas precisiones que explican que autor tenía una pluralidad de sentidos y que no remitía necesariamente al escritor.
+
+
+[1:20:07] De ahí el juego posible entre utilizar un nombre de autor para textos que este escritor nunca había escrito, disociación que podía ser un argumento para las quejas de Lope, o bien lo que aconteció con las ediciones de Shakespeare: utilizar un nombre de autor que hace vender para editar y diseminar obras que nunca correspondían a una obra escrita por el individuo que está designado por este nombre de autor.
+
+
+[1:20:56] Entonces me parece que debemos pensar en una forma de discontinuidad más fuerte que la que solíamos hacer entre este momento de la invención de la literatura —que es al mismo tiempo la invención de la necesidad de la originalidad, de la propiedad literaria, de la vinculación entre un individuo escritor y un nombre de autor o función autor, como decía Foucault— y una situación anterior en la cual esto no existe de esta manera, en la cual debemos, si no utilizar otras palabras, por lo menos tener conciencia de que el uso retrospectivo de las categorías que se fundamentan en el siglo XVIII debe ser siempre matizado por otras realidades.
+
+
+[1:21:54] Hay un crítico e historiador de la literatura brasileño que se llama João Adolfo Hansen [?] que ha construido su obra con un desfase cronológico, porque lo que está aconteciendo en Europa en el siglo XVIII puede acontecer en el siglo XIX en Brasil, pero con la misma idea de oponer una definición moderna de la literatura con lo que llama el régimen poético-retórico de la producción de las ficciones en los siglos XVI o XVII. Me parece que es un desafío fuerte pensar, tal vez con las mismas palabras, formas de discontinuidad; es lo que me parece que usted sugería para evitar un contrasentido y una imposición retrospectiva ilegítima de categorías anacrónicas para el tiempo que usted estudia y el tiempo del cual he hablado hoy en día. Me parece muy importante esta pregunta sobre la categoría de autor y sus relaciones de identificación o de distancia con la palabra escritor.
+
+
+[1:23:22] >> Ana Laura Santamaría: Muchas gracias, doctor Chartier. Tenemos tiempo para una última pregunta: le vamos a dar la palabra a Luis Carlos Salazar, de la Universidad Autónoma de Ciudad Juárez, que es uno de nuestros participantes en el Congreso de Cervantistas. Adelante, Luis Carlos.
+
+
+[1:23:40] >> Luis Carlos Salazar: Adelante. ¿Sí me escucha? Muy bien, gracias. Doctor Chartier, un gusto saludarlo desde aquí, desde el aula donde nos encontramos los cervantistas mexicanos.
+
+
+[1:23:54] Me ha fascinado su comunicación, me abre muchas preguntas. Una de ellas tiene que ver justamente con la construcción de los sentidos: ha desarrollado usted el concepto de esta construcción de sentido desde la primera modernidad, esta que Bauman llamaría la modernidad sólida [?]. Sin embargo, hemos transitado a la modernidad líquida, a esta modernidad donde se multiplican los sentidos y donde la llamada creatividad se vuelve tan múltiple que pudiera incluso dispersar el sentido de aquella construcción original que nos proponía Cervantes.
+
+
+[1:24:38] ¿Cuál es su mirada frente a este desafío de la dispersión y frente a la idea de la construcción de sentido en una era digital donde la materialidad —volviendo a Gustavo Bueno [?]—, la radiación del sentido se ha diversificado en esto que por un lado es la navegación, pero también la divagación del sentido? Me gustaría saber su opinión al respecto.
+
+
+[1:25:08] >> Roger Chartier: Bien. Evidentemente podemos pensar este proceso de construcción del sentido dentro de una cronología y, como usted sugería, considerar en los tiempos contemporáneos, con la dimensión líquida del sentido, una pluralidad más fuerte que anteriormente; tal vez se podría comprobar esto. Sin embargo, me parece que desde la aparición del Quijote en 1605 puede existir una pluralidad de construcciones del sentido, no necesariamente como lo que describía Nietzsche (lo patético y lo trágico versus lo cómico y lo divertido), sino como una relación con la obra que puede preferir episodios.
+
+
+[1:26:10] Es el caso a menudo de las obras teatrales con las novelas dentro del Quijote: El curioso impertinente, los capítulos del cautivo que ha huido de los baños de Argel o bien —había dedicado un libro a esto— la historia de Cardenio y Luscinda. Una lectura un poco rara para nosotros, pero que privilegiaba los episodios de tipo novelesco en un texto cuya dimensión esencial no es esta.
+
+
+[1:27:03] Detrás hay un elemento metodológico, que es considerar que en cada situación lo que quiere imponer como sentido el texto y su forma de edición se encuentra con más o menos posibilidades apropiado por las comunidades de lectores. Hay una dimensión cronológica con una apertura de los sentidos: en el XVIII, Don Quijote como un discurso sobre la lectura, sus peligros o sus provechos, donde Don Quijote, cuando habla de cualquier otro tipo de texto fuera de los libros de caballerías, tiene un razonamiento ponderado, agudo e inteligente.
+
+
+[1:28:01] En el siglo XIX, lo que era un poco la idea de Nietzsche: una visión trágica de la relación entre un mundo social cruel y un sueño de justicia, que sería el de Don Quijote, lo que puede explicar que a finales del XIX muchas revistas anarquistas o socialistas habían elegido como título Don Quijote. Toda esta tensión entre una cronología de apropiaciones sucesivas y al mismo tiempo, en la sincronía, siempre una posible distancia entre el sentido proyectado o deseado y los sentidos construidos nos puede conducir al punto esencial de su intervención, que era lo que pasa en el mundo digital.
+
+
+[1:29:03] Sería aquí un tema no solamente para una, sino para dos o tres conferencias. Para ir a lo esencial, me parece —y usted lo sugería— que la relación con la materialidad de los textos (salvo los textos que son creados digitalmente, pero en todos los otros, Don Quijote de la Mancha) conlleva la desaparición de la percepción inmediata de la relación entre el libro como discurso u obra y el libro como objeto material, que definía casi automáticamente una relación implícita entre el libro como objeto y el libro como obra.
+
+
+[1:29:59] De ahí una percepción de la obra en su totalidad; de ahí la posibilidad, inclusive para alguien que no leyera todas las páginas de un libro impreso, de ubicar el fragmento en su lugar, en su sentido, en la demostración o en la narración. Estos elementos parecen desaparecer frente al texto digital, que evidentemente no permite inmediatamente una percepción de la totalidad de la cual el texto que aparece sobre la pantalla es un fragmento. De ahí la autonomía conquistada por los fragmentos destacados de la totalidad textual, de la arquitectura textual a la cual pertenecían en cualquier forma impresa previa.
+
+
+[1:31:08] También la dificultad de percibir las obras como tales en un mundo que es un mundo de textos breves impuesto por las redes sociales o la información digital, que es un mundo de fragmentos autonomizados y separados de la totalidad de la arquitectura discursiva a la cual pertenecían. Evidentemente abre posibilidades para una nueva cultura escrita o icónica, y al mismo tiempo produce una pérdida de la comprensión de las obras que fueron concebidas, producidas y leídas con esta relación entre la materialidad del libro y el libro como discurso.
+
+
+[1:32:01] De ahí una razón fundamental de defensa o de acento puesto sobre las instituciones en las cuales se puede percibir inmediatamente esta existencia previa a la forma digital de todas las obras de nuestros repertorios canónicos: pienso en las bibliotecas, evidentemente, y también en la enseñanza, cualquiera sea el nivel; la necesidad de mantener la presencia de los objetos impresos o escritos que fueron los soportes de la cultura escrita. No quiero decir que nunca debemos leer frente a una pantalla, sería un absurdo, mas si queremos que nuestras sociedades mantengan un vínculo con sus pasados, sus herencias y con los muertos, es absolutamente indispensable e imprescindible que en las bibliotecas, en las aulas y en los medios sea mantenida la referencia y la presencia de las formas sucesivas de existencia de textos que tal vez encontramos hoy sobre la pantalla.
+
+
+[1:33:30] A partir del diagnóstico de una discontinuidad fundamental —porque su pregunta era en relación con esta discontinuidad, la más fundamental, esta primera vez en la historia de la cultura escrita que existe una separación entre el objeto que da a leer y lo que está leído—: en un libro hay indisociablemente un contenido textual y una forma material. Era el caso del rollo, de las tabletas, de Sumer o de Grecia; esto es una radical novedad: la pantalla no está vinculada con un contenido textual particular.
+
+
+[1:34:15] Presenta esto extraordinarias posibilidades, por ejemplo dictar hoy en día una conferencia en Monterrey cuando estoy en París, pero al mismo tiempo representa un peligro para la conciencia del pasado, de este pasado textual en el cual forma material y contenido discursivo eran indisociables. De ahí, me parece, una justificación de las bibliotecas como lugares de enseñanza, de reflexión sobre el pasado y de presencia del pasado. Sería tal vez otra razón para celebrar la Biblioteca Cervantina. Muchas gracias.
+
+
+[1:35:12] >> Ana Laura Santamaría: Muchas gracias, muchas gracias, doctor Chartier, por estos regalos para llevárnoslos en la reflexión. La cita es para mañana nuevamente a las 10:00 de la mañana por la misma liga que tienen todos ustedes para seguir con la conversación "Historias textuales conectadas: el Inca Garcilaso, Cervantes y Shakespeare", y el miércoles la charla será sobre los mapas del Quijote exactamente en la misma liga, así es que aquí los esperamos. Seguiremos con nuestros trabajos en el congreso el día de hoy, y mañana a las 10:00 de la mañana, tiempo de la Ciudad de México, nos conectamos de nuevo. Doctor, muchísimas gracias por este regalo.
+
+
+[1:35:57] >> Roger Chartier: Muchas gracias por el placer del encuentro.
