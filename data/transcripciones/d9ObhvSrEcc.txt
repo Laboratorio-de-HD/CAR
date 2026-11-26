@@ -1,4 +1,4 @@
-﻿[00:36] >> Participante 1: Doctor Balaz, bienvenido. Opción múltiple y gracias por aceptar la invitación a charlar.
+[00:36] >> Participante 1: Doctor Balaz, bienvenido. Opción múltiple y gracias por aceptar la invitación a charlar.
 
 
 [00:40] >> François Vallaeys: No, de nada.
@@ -7,13 +7,13 @@
 [00:40] Es un placer para mí esta esta mañana.
 
 
-[00:41] Bueno, el tema el tema que que le ha ocupado usted en su visita a Monterrey y en la la conferencia que tuvo la oportunidad de de de tuvimos la oportunidad de compartir con usted sobre la ética y la sociedad del riesgo.
+[00:41] >> Participante 1: Bueno, el tema el tema que que le ha ocupado usted en su visita a Monterrey y en la la conferencia que tuvo la oportunidad de de de tuvimos la oportunidad de compartir con usted sobre la ética y la sociedad del riesgo.
 
 
 [00:56] Yo quisiera empezar por definir para nuestra audiencia qué es, cómo se entiende esto de la sociedad del riesgo.
 
 
-[01:03] Bueno, es algo que todo el mundo notamos, desgraciadamente.
+[01:03] >> François Vallaeys: Bueno, es algo que todo el mundo notamos, desgraciadamente.
 
 
 [01:09] Ah, nuestra sociedad se hizo mundial.
@@ -28,7 +28,7 @@
 [01:43] Entonces, ¿por qué sociedad de riesgo?
 
 
-[01:45] es porque la sociedad industrial era una sociedad basada finalmente sobre el problema de la producción y distribución de riquezas, ¿no?
+[01:45] Es porque la sociedad industrial era una sociedad basada finalmente sobre el problema de la producción y distribución de riquezas, ¿no?
 
 
 [01:53] Cómo producir más riquezas y cómo hacer para distribuirlos de de buen modo.
@@ -298,10 +298,10 @@
 [13:57] Y hay otro este gran pensador, sociólogo y filósofo que es Edgar Morin.
 
 
-[14:02] Ajá.
+[14:02] >> Participante 1: Ajá.
 
 
-[14:02] No, bien conocido en América Latina, ¿no?
+[14:02] >> François Vallaeys: No, bien conocido en América Latina, ¿no?
 
 
 [14:06] Morín, ¿no?
@@ -367,10 +367,10 @@
 [17:25] Cada vez que tú quieres aislar, ¿no?, un proceso que se da mundialmente, te va a ir mal.
 
 
-[17:34] te va a ir mal y además vas a hacer algo antiético porque el conocimiento en realidad es de todos, ¿no?
+[17:34] Te va a ir mal y además vas a hacer algo antiético porque el conocimiento en realidad es de todos, ¿no?
 
 
-[17:43] Entonces, ¿cómo proceder para este que la ciencia y la tecnología que que son imprescindibles para generar crear valor, no?
+[17:43] Entonces, ¿cómo proceder para este que la ciencia y la tecnología que que son imprescindibles para generar crear valor, ¿no?
 
 
 [17:52] en este en este momento eh eh sea una creación de valor, ¿no?, que sirva el interés del público y no eh se confisque, ¿no?, eh en ámbitos eh para este desde la rareza de la información, ¿no?
@@ -445,7 +445,7 @@
 [20:38] >> François Vallaeys: Pero con un fondo así, ¿qué hacemos?
 
 
-[20:41] hacemos que la la OMS podía decir, "A mí no me interesa un medicamento que va a curar la enfermedad de 20 personas en el en el mundo."
+[20:41] Hacemos que la la OMS podía decir, "A mí no me interesa un medicamento que va a curar la enfermedad de 20 personas en el en el mundo."
 
 
 [20:51] Lo que está pasando, los las compañías curan más las enfermedades de los viejos ricos de los países ricos, ¿no?, que las enfermedades de los pobres en los países pobres, pero que matan mucho más personas, ¿no?
@@ -469,7 +469,7 @@
 [21:58] ¿Te das cuenta?
 
 
-[22:01] ¿no?
+[22:01] ¿No?
 
 
 [22:01] Y obviamente habría medicamentos que entrarían en ese fondo y medicamentos que no y que seguiríamos con el mismo mercado de hoy.
@@ -505,7 +505,7 @@
 [23:30] Y y sacar nuevos medicamentos sabiendo que este fondo, si me traes un medicamento que ya existe en el mercado o que es casi parecido, pues no te lo voy a comprar.
 
 
-[23:39] ponlo en el mercado, tú vas a ver si si lo vendes, ¿entiendes?
+[23:39] Ponlo en el mercado, tú vas a ver si si lo vendes, ¿entiendes?
 
 
 [23:44] No, claro, esa es la bueno, esa es una idea que que surgió en mi pequeña mente, pero yo quisiera que se que se vea esa capacidad de que hoy día tenemos grandes necesidades públicas que son mundiales, no hay capacidades también, ¿no?
@@ -592,7 +592,7 @@
 [26:34] Yo creo que se habla demasiado de este riesgo.
 
 
-[26:37] más bien la yo creo que si llevas bien tu propia particularidad te vuelves universal, entonces reencuentras fácilmente ese cosmopolitismo que debemos instituir.
+[26:37] Más bien la yo creo que si llevas bien tu propia particularidad te vuelves universal, entonces reencuentras fácilmente ese cosmopolitismo que debemos instituir.
 
 
 [26:52] Lo que sí veo como un riesgo real es una separación en dos de la sociedad.
@@ -610,7 +610,7 @@
 [27:53] Todo tiene que cambiar, todo tiene que mejorar.
 
 
-[27:57] lo dado nunca está bien, hay que mejorarlo, ¿no?
+[27:57] Lo dado nunca está bien, hay que mejorarlo, ¿no?
 
 
 [27:59] Bueno, momento hay que hay que saber decirme basta, hay que saber decir, bueno, lo dado no es perfecto, pero fíjate, eh, es lo que tenemos, ¿no?
@@ -637,7 +637,7 @@
 [28:44] Eh, uno de ellos fue o es el de la el de la democracia.
 
 
-[28:47] eh qué está pasando en la sociedad del riesgo en relación con la democracia y una democracia que trata de imponerse eh pero que finalmente no logra o no ha logrado eh los objetivos que se había planteado.
+[28:47] Eh, ¿qué está pasando en la sociedad del riesgo en relación con la democracia y una democracia que trata de imponerse eh pero que finalmente no logra o no ha logrado eh los objetivos que se había planteado?
 
 
 [29:00] ¿Hacia dónde vamos?
@@ -802,7 +802,7 @@
 [35:24] Estamos haciendo al revés hoy día, ¿no?
 
 
-[35:27] Hoy día la para cubrir nuestras necesidades no le quitamos a las generaciones futuras, mientras que todo el tiempo el mundo había sido al revés.
+[35:27] Hoy día la para cubrir nuestras necesidades no le quitamos a las generaciones futuras, mientras que todo el tiempo el mundo había sido al revés:
 
 
 [35:36] las generaciones trabajaban para el futuro, ¿no?
@@ -826,7 +826,7 @@
 [35:59] Eso es inmoral.
 
 
-[36:00] Entonces, la ética que debemos trabajar es una ética compleja de bondad y virtud.
+[36:00] Entonces, la ética que debemos trabajar es una ética compleja de bondad y virtud
 
 
 [36:04] personal, de justicia y derechos humanos a nivel social y de sostenibilidad a nivel global.
@@ -841,7 +841,7 @@
 [36:29] ¿Qué pasa con el futuro?
 
 
-[36:32] eh este futuro que bueno ya está hipotecado, por lo menos en materia medioambiental, por lo menos en materia económica para muchos países y yo no sé si en materia personal también por la por el descrevamos estas preguntas para el drctor Fran Bala que nos acompaña esta mañana en opción múltiple hablando de la sociedad del riesgo y lo que viene.
+[36:32] Eh, este futuro que bueno ya está hipotecado, por lo menos en materia medioambiental, por lo menos en materia económica para muchos países y yo no sé si en materia personal también por la por el descrevamos estas preguntas para el drctor Fran Bala que nos acompaña esta mañana en opción múltiple hablando de la sociedad del riesgo y lo que viene.
 
 
 [36:58] Los medios de comunicación siempre suponen una limitación de tiempo, doctor Bala.
@@ -976,7 +976,7 @@
 [41:10] Y en cuántas generaciones hemos hecho eso?
 
 
-[41:12] En dos siglos.
+[41:12] En dos siglos,
 
 
 [41:14] en tres siglos, ¿no?
@@ -1054,7 +1054,7 @@
 [43:52] Eh, y estoy pensando a propósito de lo que dice en el caso de Wikileaks, ¿sí?
 
 
-[43:57] este y Wikileaks y la el modo en el que ha transformado la el ejercicio del periodismo eh por lo menos en algunas en algunas partes del mundo y vemos los resultados en países como México donde bueno, se nos acaba de ir simplemente el embajador de los Estados Unidos porque se le perdió la confianza o en en fin, o sea, los los eh los casos se multiplican a medida que van saliendo estas estas estos relatos distintos del modo tradicional.
+[43:57] Este y Wikileaks y la el modo en el que ha transformado la el ejercicio del periodismo eh por lo menos en algunas en algunas partes del mundo y vemos los resultados en países como México donde bueno, se nos acaba de ir simplemente el embajador de los Estados Unidos porque se le perdió la confianza o en en fin, o sea, los los eh los casos se multiplican a medida que van saliendo estas estas estos relatos distintos del modo tradicional
 
 
 [44:29] de ser del periodismo y en el contexto de lo global ya no es posible.
@@ -1090,7 +1090,7 @@
 [45:30] Digamos que es demasiado, ¿no?
 
 
-[45:33] y el riesgo este de la opacidad de la opacidad, el totalitarismo, los estados donde se cierra absolutamente toda información, la información cerrada sobre el caso de Fukushima, sobre el nuclear francés para volver al inicio, pues yo prefiero el riesgo de Wikileaks porque no es un riesgo letal, mientras que el riesgo de encerrar una sociedad y hacer que tres o cuatro personas manejen todo un país, eso sí es un riesgo
+[45:33] y el riesgo este de la opacidad de la opacidad, el totalitarismo, los estados donde se cierra absolutamente toda información, la información cerrada sobre el caso de Fukushima, sobre el nuclear francés para volver al inicio, pues yo prefiero el riesgo de Wikileaks porque no es un riesgo letal, mientras que el riesgo de encerrar una sociedad y hacer que tres o cuatro personas manejen todo un país, eso sí es un riesgo.
 
 
 [46:03] >> Participante 1: Y cuando hablamos de la violencia, eh ya para eh enfocarnos hacia el final de nuestro programa, doctor Bala es eh la esta violencia que estamos experimentando en México ahora, pero que ya se experimentó en en Colombia, que se ha experimentado en Perú, eh eh cómo reaccionar, es decir, eh eh obviamente el las personas de bien tendemos a reaccionar con con asco, con con es es repugnante.
@@ -1117,10 +1117,10 @@
 [47:27] No necesitamos enseñar un carro revolcado con un brazo ensangrentado ahí tirado en el piso.
 
 
-[47:34] Así es.
+[47:34] >> Participante 1: Así es.
 
 
-[47:35] cosa que se hace en Perú igual, ¿no?
+[47:35] >> François Vallaeys: Cosa que se hace en Perú igual, ¿no?
 
 
 [47:39] Lo que sí necesitamos son periodistas capaces de hacer un buen reportaje sobre qué pasa con el tránsito, los porcentajes de accidentes, cómo hacer educación ciudadana para que haya menos y las medidas que tomar, ¿no?
