@@ -1,4 +1,4 @@
-﻿[00:25] >> Fernando Savater: Muchas gracias. Buenos días a todas y a todos.
+[00:25] >> Fernando Savater: Muchas gracias. Buenos días a todas y a todos.
 
 
 [00:30] Para mí es una alegría y un honor volver a estar aquí en Monterrey, en el tecnológico, reanudando el diálogo que establecimos hace poco más de dos años en mi anterior visita.
@@ -34,7 +34,7 @@
 [02:35] Pero como soy solamente un profesor de ética, pues les traigo la mala noticia de que la ética sigue siendo igual que era hace dos años, es decir, cambió poco.
 
 
-[02:47] Precisamente la ética es intentar recordar lo que no pasa, lo que não pasa de moda, lo que no cambia, es decir, aquello que permanece.
+[02:47] Precisamente la ética es intentar recordar lo que no pasa, lo que no pasa de moda, lo que no cambia, es decir, aquello que permanece.
 
 
 [03:00] Nosotros vivimos en un mundo que cambia, en un mundo que se transforma, en un mundo en el que todo está en permanente ebullición, pero luego hay cosas que no varían, cosas esenciales que no cambian, y esas son las cosas de las que se ocupa la ética.
@@ -208,7 +208,7 @@
 [10:53] Pues para eso no hay más que pensar: si yo me encontrara en peligro, ¿a quién quisiera de las personas que conozco a mi lado?
 
 
-[11:02] ése es el valiente.
+[11:02] Ése es el valiente.
 
 
 [11:04] El valiente es el que uno quisiera tener al lado cuando está en peligro.
@@ -220,7 +220,7 @@
 [11:13] Si yo estuviera en un problema, en una dificultad, si me encontrara en un aprieto, ¿a quién recurriría?
 
 
-[11:21] ése es el generoso.
+[11:21] Ése es el generoso.
 
 
 [11:22] La persona a la que yo acudiría cuando estoy necesitando de alguien que me apoye, que me ayude, que me aprenda, etcétera, y así todo lo demás.
@@ -490,7 +490,7 @@
 [23:58] Me gustaría escuchar vuestras observaciones y, en el caso de que me sea posible, contestar a vuestras preguntas, sin nada más que agradeceros vuestra atención.
 
 
-[24:29] >> Participante N: En el nombre del tecnológico de Monterrey le doy gracias al maestro Sabater por sus palabras.
+[24:29] >> Participante 1: En el nombre del tecnológico de Monterrey le doy gracias al maestro Savater por sus palabras.
 
 
 [24:35] Abrimos en este momento la sesión de preguntas y respuestas.
@@ -499,7 +499,7 @@
 [25:07] Si lo desean, pueden hacer la pregunta directamente con toda confianza, independientemente de las tarjetas que están.
 
 
-[25:43] Maestro, aquí está la primera de las preguntas, y pregunta: "¿Cómo define ética y moral?"
+[25:43] >> Participante 1: Maestro, aquí está la primera de las preguntas, y pregunta: "¿Cómo define ética y moral?"
 
 
 [25:49] >> Fernando Savater: Bueno, eso es una... digamos, hay varias, a veces se utilizan las dos palabras, sabéis, más o menos indistintamente.
@@ -526,13 +526,13 @@
 [27:17] Entonces la ética sería la reflexión sobre los valores, y la moral el conjunto de valores que efectivamente una persona o una sociedad tiene en un momento.
 
 
-[27:31] En su libro "Sin contemplaciones" habla del concepto transparencia aplicado a la política.
+[27:31] >> Participante 1: En su libro "Sin contemplaciones" habla del concepto transparencia aplicado a la política.
 
 
 [27:37] ¿Qué nos puede decir de este concepto aplicado a lo cotidiano?
 
 
-[27:44] Bueno, la transparencia en el campo de la política por supuesto pues es un requisito de la democracia.
+[27:44] >> Fernando Savater: Bueno, la transparencia en el campo de la política por supuesto pues es un requisito de la democracia.
 
 
 [27:52] Es decir, nosotros para poder decir que se está haciendo la política que los ciudadanos desean, queremos saber qué es la política que verdaderamente se está haciendo, no que nos cuenten que se está haciendo una cosa y la política real que se está haciendo sea diferente.
@@ -556,7 +556,7 @@
 [28:44] Yo creo que el presidente Clinton hubiera hecho muy bien —bueno, hizo muy bien, pero repitiendo mintiendo— cuando le preguntaron cuáles eran sus relaciones ovales y orales con la señorita Lewinsky.
 
 
-[29:01] Es decir, yo creo que no podía mentir porque no tenía nadie obligación de saber cuáles eran... bueno, en todo caso Hilary, pero no creo que los demás tuvieran por qué saber nada.
+[29:01] Es decir, yo creo que no podía mentir porque no tenía nadie obligación de saber cuáles eran... bueno, en todo caso Hillary, pero no creo que los demás tuvieran por qué saber nada.
 
 
 [29:17] Entonces yo no creo que ahí hay ninguna obligación de ser transparente más que con aquellas personas... o sea, decir la verdad es lo que debemos a aquellas personas que tienen derecho a esperar de nosotros la verdad.
@@ -565,10 +565,10 @@
 [29:32] Mientras que una persona que lo único que quiere es cotillear o curiosear o violar nuestra intimidad, no digamos interferir en ella, no hay ninguna obligación de ser transparente, y yo creo que tenemos perfecto derecho a mantener áreas en las que los demás no interfieran, salvo que nosotros queramos relacionarnos con ellos en ese campo.
 
 
-[29:56] ¿Cuál es la importancia de la ética en la educación?
+[29:56] >> Participante 1: ¿Cuál es la importancia de la ética en la educación?
 
 
-[30:01] A mí casi, yo te diría que la pregunta yo la plantearía al revés: "¿Cuál es la importancia de la educación para la ética?".
+[30:01] >> Fernando Savater: A mí casi, yo te diría que la pregunta yo la plantearía al revés: "¿Cuál es la importancia de la educación para la ética?".
 
 
 [30:07] Es decir, la ética en ese sentido de reflexión sobre los valores y las conductas no es una cosa meramente espontánea.
@@ -598,10 +598,10 @@
 [31:27] No se puede educar solo para que la gente aprenda a hacer cosas en el sentido de destrezas laborales o de conocimientos puramente objetivos, sino también para desarrollar sentimientos y argumentaciones morales en ellos.
 
 
-[31:43] ¿Puede la ética tener fundamentos religiosos?
+[31:43] >> Participante 1: ¿Puede la ética tener fundamentos religiosos?
 
 
-[31:48] Una cosa es la ética y otra cosa es la religión.
+[31:48] >> Fernando Savater: Una cosa es la ética y otra cosa es la religión.
 
 
 [31:52] Es decir, la ética debe tener fundamentos racionales y laicos, porque la ética es algo para todos, para los religiosos y para los no religiosos, para los que creen y para los que no creen.
@@ -616,10 +616,10 @@
 [32:33] En líneas generales podemos decir que la ética lo que busca es una vida mejor y la religión lo que busca es algo mejor que la vida; son dos objetivos.
 
 
-[32:45] ¿Podría una persona ser moral y no ética, o viceversa?
+[32:45] >> Participante 1: ¿Podría una persona ser moral y no ética, o viceversa?
 
 
-[32:51] Bueno, poco queda explicado por lo que te he dicho.
+[32:51] >> Fernando Savater: Bueno, poco queda explicado por lo que te he dicho.
 
 
 [32:54] Es decir, la persona... la distinción entre ética y moral es que una persona efectivamente puede tener unos valores morales, puede creer a machamartillo que el ser humano debe llevar toda su epidermis cubierta y que mostrar un tobillo es un crimen contra los cielos, y no haberse preguntado nunca por qué cree semejante sandez.
@@ -628,10 +628,10 @@
 [33:15] Bueno, es decir, el momento en que se empieza a preguntar por qué cree eso, pues pasará de ser simplemente moral a ser ético.
 
 
-[33:25] ¿Qué opinión le merece el programa televisivo "Big Brother" desde el punto de vista moral?
+[33:25] >> Participante 1: ¿Qué opinión le merece el programa televisivo "Big Brother" desde el punto de vista moral?
 
 
-[33:31] Yo primero nunca he visto "Big Brother" y por lo tanto mis opiniones son bastante poco fundadas en este campo, y luego tampoco veo mucho la televisión desde el punto de vista moral, de modo que no sé muy bien, la veo como así de forma bastante distraída.
+[33:31] >> Fernando Savater: Yo primero nunca he visto "Big Brother" y por lo tanto mis opiniones son bastante poco fundadas en este campo, y luego tampoco veo mucho la televisión desde el punto de vista moral, de modo que no sé muy bien, la veo como así de forma bastante distraída.
 
 
 [33:48] En línea general lo que me parece es que a lo que yo he alcanzado a ver de lo que es "Big Brother", a mí lo que me parece es un poco aburrido.
@@ -652,13 +652,13 @@
 [34:49] Pero vamos, la moral no tiene nada que ver, lo que me parece es muy aburrido.
 
 
-[34:54] Ahora, puede que yo sea una persona muy rara, no.
+[34:54] Ahora, puede que yo sea una persona muy rara, ¿no?
 
 
-[35:01] ¿En qué otros autores está inspirada su obra "Ética para Amador"?
+[35:01] >> Participante 1: ¿En qué otros autores está inspirada su obra "Ética para Amador"?
 
 
-[35:06] La lista es inagotable.
+[35:06] >> Fernando Savater: La lista es inagotable.
 
 
 [35:07] Fíjate que solamente después de cada capítulo yo os menciono un montón de lecturas que son ni la mitad de las que he hecho yo mismo para escribir el capítulo.
@@ -673,10 +673,10 @@
 [35:41] No tengo tantas deudas que ni siquiera puedo empezar a mencionarlas.
 
 
-[35:48] ¿El reto de la moralidad se presenta cuando joven, cuando maduro, o es algo que está siempre constante?
+[35:48] >> Participante 1: ¿El reto de la moralidad se presenta cuando joven, cuando maduro, o es algo que está siempre constante?
 
 
-[35:58] Bueno, el método de la moralidad se presenta cuando hay un dilema de alcance.
+[35:58] >> Fernando Savater: Bueno, el método de la moralidad se presenta cuando hay un dilema de alcance.
 
 
 [36:05] Es decir, si yo simplemente estoy solo en mi casa y mi única duda es si me hago una tortilla o abro una lata de atún, pues bueno, ahí no tengo un problema moral.
@@ -694,10 +694,10 @@
 [36:52] Entonces ahí, seas joven, más menos joven, viejo, como sea, ahí es donde hay que tomar la decisión.
 
 
-[37:01] ¿Desde cuándo le nació el interés por la ética y cómo?
+[37:01] >> Participante 1: ¿Desde cuándo le nació el interés por la ética y cómo?
 
 
-[37:06] Bueno, yo creo que a todo el mundo le nace desde pequeñito, cuando alguien te hace algo que no te gusta.
+[37:06] >> Fernando Savater: Bueno, yo creo que a todo el mundo le nace desde pequeñito, cuando alguien te hace algo que no te gusta.
 
 
 [37:14] A todos nos empieza a interesar la moral cuando alguien se porta de manera inmoral con nosotros.
@@ -709,10 +709,10 @@
 [37:33] Y del mismo modo, cuando uno padece una injusticia, un abuso, o ve un comportamiento indigno, o al contrario, cuando ve alguien comportarse maravillosamente, pues entonces esto es interesante: "¿Podría ser siempre así?, ¿podría evitarse este tipo de conducta?".
 
 
-[37:53] Entonces, si las personas son quienes han descubierto o creado la ética y han determinado lo que es bueno o malo, ¿cómo podemos saber realmente lo que es correcto?
+[37:53] >> Participante 1: Entonces, si las personas son quienes han descubierto o creado la ética y han determinado lo que es bueno o malo, ¿cómo podemos saber realmente lo que es correcto?
 
 
-[38:15] Eso me recuerda que cuando yo empecé a venir a México hace 25 años, yo telefoneaba a mi madre a Portugal y le decía: "Mira, tal, estoy aquí, bien llegado, tal", y le decía: "Pues mira, fíjate, aquí ahora son las 3:30 de la mañana".
+[38:15] >> Fernando Savater: Eso me recuerda que cuando yo empecé a venir a México hace 25 años, yo telefoneaba a mi madre a Portugal y le decía: "Mira, tal, estoy aquí, bien llegado, tal", y le decía: "Pues mira, fíjate, aquí ahora son las 3:30 de la mañana".
 
 
 [38:32] Y decía: "Ya, hombre, fíjate, y aquí son las 10:30 de la mañana".
@@ -754,16 +754,16 @@
 [39:59] En el mundo hay que buscar la honradez y no la certeza.
 
 
-[40:04] ¿Cuándo o cuál es la etapa más importante en una persona en que debe comenzar a reflexionar éticamente de su vida, debe ser ayudado o apoyado?
+[40:04] >> Participante 1: ¿Cuándo o cuál es la etapa más importante en una persona en que debe comenzar a reflexionar éticamente de su vida, debe ser ayudado o apoyado?
 
 
-[40:17] Todas las edades, yo creo que las personas somos una biografía, siempre es importante.
+[40:17] >> Fernando Savater: Todas las edades, yo creo que las personas somos una biografía, siempre es importante.
 
 
 [40:22] O sea, desde los niños más pequeños, las personas que tienen responsabilidad con ellos, parte del amor y del cuidado que esas personas deben darle a los niños es intentar apoyarles y ayudarles a desarrollar una sensibilidad moral que les ayude a vivir mejor.
 
 
-[40:41] Entonces, lo mismo que una madre o un padre procuran que su hijo coma lo mejor posible y se vista lo mejor posible y no pase enfermedades, pues también Supongo intentará que tenga una visión de la vida y de la relación con los demás lo más sana y lo más positiva que pueda darse.
+[40:41] Entonces, lo mismo que una madre o un padre procuran que su hijo coma lo mejor posible y se vista lo mejor posible y no pase enfermedades, pues también supongo intentará que tenga una visión de la vida y de la relación con los demás lo más sana y lo más positiva que pueda darse.
 
 
 [40:59] Entonces, desde el principio yo creo que hay que apoyar a las personas, y el resto de la vida naturalmente ya no siempre tiene uno quien le tutele.
@@ -775,10 +775,10 @@
 [41:24] Creo que en el fondo todos un poco estamos educando unos a otros permanentemente.
 
 
-[41:31] ¿Piensa usted que los valores morales se han devaluado en esta época donde los jóvenes tienen más libertad de actuar bajo nuestras propias reglas?
+[41:31] >> Participante 1: ¿Piensa usted que los valores morales se han devaluado en esta época donde los jóvenes tienen más libertad de actuar bajo nuestras propias reglas?
 
 
-[41:43] Me parece que actuar con libertad sea malo en sí mismo ni por qué va a devaluar la libertad.
+[41:43] >> Fernando Savater: Me parece que actuar con libertad sea malo en sí mismo ni por qué va a devaluar la libertad.
 
 
 [41:47] Primero, no sé qué es que los valores se devalúen, es como si alguien me pregunta: "¿Cree usted que el horizonte está cada vez más lejos o se va acercando?", no sé, no lo puedo medir, según donde se ponga.
@@ -799,10 +799,10 @@
 [42:27] Yo fui joven mucho tiempo bajo una dictadura y no es una experiencia que la verdad recomiendo ni deseo para nadie, y me alegro mucho que los jóvenes no crezcan en la misma situación que crecí yo.
 
 
-[42:40] Bueno, tenemos una pregunta de una sala remota que tenemos que dice: "Considerando el debate Kohlberg-Gilligan, ¿usted considera que los hombres y mujeres tienen un razonamiento moral diferente?".
+[42:40] >> Participante 1: Bueno, tenemos una pregunta de una sala remota que tenemos que dice: "Considerando el debate Kohlberg-Gilligan, ¿usted considera que los hombres y mujeres tienen un razonamiento moral diferente?".
 
 
-[42:54] Pues yo creo que no en lo que es moral.
+[42:54] >> Fernando Savater: Pues yo creo que no en lo que es moral.
 
 
 [42:58] Me parece que quizá haya virtudes o cualidades más a las que de alguna forma el género puede influir, es decir, que efectivamente los roles que están a veces puramente basados en la sociedad, pero en otras ocasiones están basados también en funciones o disposiciones fisiológicas en la naturaleza humana, puede haber roles que tengan un apoyo mayor en un género que en otro.
@@ -841,10 +841,10 @@
 [45:10] Incluso yo diría que trasciende la división de géneros, es más, casi llega hasta la individualidad.
 
 
-[45:21] Desde el punto de vista de la ética, ¿qué opina de la libertad de expresión?
+[45:21] >> Participante 1: Desde el punto de vista de la ética, ¿qué opina de la libertad de expresión?
 
 
-[45:26] Bueno, la libertad de expresión es una función política.
+[45:26] >> Fernando Savater: Bueno, la libertad de expresión es una función política.
 
 
 [45:29] Estamos hablando de que hay cosas éticas y cosas políticas.
@@ -868,10 +868,10 @@
 [46:13] La política tiene también sus valores tan respetables como los de la ética.
 
 
-[46:18] ¿Debemos entender por ética el respeto?
+[46:18] >> Participante 1: ¿Debemos entender por ética el respeto?
 
 
-[46:22] Bueno, pues no, porque hay muchas cosas que son respetables.
+[46:22] >> Fernando Savater: Bueno, pues no, porque hay muchas cosas que son respetables.
 
 
 [46:28] Se puede... la relación con otras personas pues puede implicar respeto, por ejemplo respetar su dignidad, pero en otros casos pues no hay por qué respetar ciertas formas de conducta, ciertas ideas, etcétera.
@@ -880,10 +880,10 @@
 [46:43] No, el respeto está muy bien cuando es ante lo respetable, pero hay muchas cosas que no son respetables.
 
 
-[46:53] ¿En base a qué, cómo o quién define que uno vive mejor que otro?
+[46:53] >> Participante 1: ¿En base a qué, cómo o quién define que uno vive mejor que otro?
 
 
-[47:00] No hay... es lo mismo que cuando uno está más sano, está más contento.
+[47:00] >> Fernando Savater: No hay... es lo mismo que cuando uno está más sano, está más contento.
 
 
 [47:05] Primero porque la ética no es un asunto de comparación de unos seres con otros.
@@ -898,7 +898,7 @@
 [47:21] Yo no sé por qué los demás hacen lo que hacen, por lo tanto si pueden estar equivocados, pueden tener magníficas intenciones, pues no lo sé.
 
 
-[47:30] Yo solo sé que hay un ser libre del cual tengo que ocuparme, que es de mí mismo, y por lo tanto yo lo que procuro es: ¿qué es mejor para mí?, ¿cómo vivo yo mejor y cómo me encuentro más armónicamente relacionado con los demás?.
+[47:30] Yo solo sé que hay un ser libre del cual tengo que ocuparme, que es de mí mismo, y por lo tanto yo lo que procuro es: ¿qué es mejor para mí?, ¿cómo vivo yo mejor y cómo me encuentro más armónicamente relacionado con los demás?
 
 
 [47:42] Si otras personas tienen otro tipo de criterio, pues ellos sabrán.
@@ -907,10 +907,10 @@
 [47:48] Yo no conozco más que un ser libre visto desde dentro, soy yo mismo y a cada uno...
 
 
-[47:55] Como última pregunta: filosóficamente, ¿cómo hablaría de la vida?
+[47:55] >> Participante 1: Como última pregunta: filosóficamente, ¿cómo hablaría de la vida?
 
 
-[48:04] Primero hablaría mucho, porque es muy largo el tema.
+[48:04] >> Fernando Savater: Primero hablaría mucho, porque es muy largo el tema.
 
 
 [48:08] Bueno, yo supongo que todas estas cosas que hemos estado diciendo tiene que ver con la vida, no... si no nos interesara la vida no nos interesaría la moral, no nos interesarían las leyes, no nos interesaría ninguna de las otras cosas.
