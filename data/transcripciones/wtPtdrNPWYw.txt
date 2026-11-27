@@ -1,887 +1,1773 @@
-[01:11] >> Emma Freeman: Welcome to this dialogue, Civilization and Crisis: A conversation with Jem Bendell about the uncertain future.
+[01:11] >> Emma Freeman: Bienvenidos a este diálogo, Civilización y Crisis: Una conversación con Jem Bendell sobre el futuro incierto.
 
-[01:19] It is my very great honor to present our participants to you today.
 
-[01:24] I'll begin by presenting our visitor, Jem Bendell.
 
-[01:27] Before the summer of 2023, Jem Bendell had spent 20 years at the forefront of the international conversation about sustainable business and finance, and was a full professor of sustainability leadership and founder of the Institute for Leadership and Sustainability at the University of Cumbria.
+[01:19] Es para mí un gran honor presentarles a nuestros participantes el día de hoy.
 
-[01:45] He was also the founder of the Deep Adaptation Forum and the co-founder of the International Scholars Warning on Societal Disruption and Collapse.
 
-[01:55] A major transformation in his career began in 2017 when he took a year away from his paid employment to study the latest climate science.
 
-[02:04] This led to the release of the Deep Adaptation paper, which went viral.
+[01:24] Comenzaré presentando a nuestro visitante, Jem Bendell.
 
-[02:11] After the release of his book Breaking Together, now translated into Spanish as Cayendo juntos in May 2023, he decided to leave his job as a full professor in the UK at the age of 50.
 
-[02:24] He is entering a new phase in life where the development of a regenerative farm school in Indonesia and playing devotional music for groups will become his main focus.
 
-[02:32] Thank you so much for being here today with us, Professor Bendell.
+[01:27] Antes del verano de 2023, Jem Bendell había pasado 20 años a la vanguardia de la conversación internacional sobre negocios y finanzas sostenibles, y fue profesor titular de liderazgo en sostenibilidad y fundador del Instituto para el Liderazgo y la Sostenibilidad en la Universidad de Cumbria.
 
-[02:43] Jem Bendell is in conversation with Raúl B. Rodríguez and Luis Fernández Carril.
 
-[02:51] Dr. Luis Fernández Carril is a researcher specializing in environmental ethics and climate change policy.
 
-[02:58] Since August 2014, he has been a professor at Tecnológico de Monterrey, where he serves as the academic coordinator of sustainability.
+[01:45] También fue fundador del Foro de Adaptación Profunda y cofundador de la Advertencia Internacional de Académicos sobre la Disrupción y el Colapso Social.
 
-[03:04] He contributed as a lead author to the United Nations' Intergovernmental Panel on Climate Change for the Sixth Assessment Report, Working Group Two, focusing on the chapter Climate Resilient Development Pathways.
 
-[03:17] From 2015 to 2018, he served as legislative advisor and later Chief of Staff of the Special Commission on Climate Change of the Senate of the Republic.
 
-[03:28] Previously, he worked as a researcher and intern liaison for the Climate Change Research Program at the National Autonomous University of Mexico, UNAM.
+[01:55] Una gran transformación en su carrera comenzó en 2017 cuando se tomó un año fuera de su empleo remunerado para estudiar la ciencia climática más reciente.
 
-[03:38] Dr. Fernández Carril's research focuses on environmental governance, international climate negotiations, climate change adaptation and resilience, environmental ethics, climate justice, and education for sustainable development.
 
-[03:54] Welcome.
 
-[03:56] And Raúl Rodríguez is a research scholar at the Baker Institute at Rice University in Houston, ranked worldwide as the best university-affiliated think tank.
+[02:04] Esto llevó a la publicación del artículo Adaptación Profunda, el cual se volvió viral.
 
-[04:06] He has served as associate vice president for international affairs at Tecnológico de Monterrey, CEO of the North American Development Bank, executive director at the Mexican Foreign Trade Bank, Mexico's trade commissioner in Canada, founding chairman of the North American Center at Arizona State University, and chairman of the US-Mexico Foundation in New York.
 
-[04:26] He was the host for six years of the weekly Univision TV interview newscast on business and economic issues in Texas.
 
-[04:35] He has published business essays in the US, Mexico, Canada, the UK, the Netherlands, and has participated as a speaker in over 30 countries.
+[02:11] Tras el lanzamiento de su libro Breaking Together, ahora traducido al español como Cayendo juntos en mayo de 2023, decidió dejar su puesto como profesor titular en el Reino Unido a los 50 años.
 
-[04:45] Raúl has been recognized with Spain's Order of Civil Merit and Mexico's Ohtli Award.
 
-[04:49] He is a graduate of Tec de Monterrey and Harvard University, where he was recognized as a Littauer Fellow.
 
-[04:55] Thank you all so much for accompanying us today in this critical reflection.
+[02:24] Está entrando en una nueva etapa de su vida en la que el desarrollo de una escuela de agricultura regenerativa en Indonesia y tocar música devocional para grupos se convertirán en su enfoque principal.
 
-[05:03] Let's begin.
 
-[05:05] >> Raúl B. Rodríguez: Thank you so much, Emma.
 
-[05:07] Jem, you can't complain, we found the best British accent in campus just to welcome you.
+[02:32] Muchas gracias por estar hoy aquí con nosotros, profesor Bendell.
 
-[05:13] Really appreciate your presence here.
 
-[05:15] We know it's a hurdle to travel all the way from Bali to Monterrey; it's almost the antipode of Monterrey, so again, I really appreciate it.
 
-[05:27] We will understand if your jet lag shows at some time during the presentation.
+[02:43] Jem Bendell está conversando con Raúl B. Rodríguez y Luis Fernández Carril.
 
-[05:35] And again, thank you all for being here.
 
-[05:38] Cayendo juntos, an amazing book, Raúl.
 
-[05:43] Thank you for your leadership and particularly for an extremely successful international book fair, which closed last night with a fantastic presentation between Jem and Luis.
+[02:51] El Dr. Luis Fernández Carril es un investigador especializado en ética ambiental y políticas de cambio climático.
 
-[05:59] Thank you again for your presence, students and faculty and friends.
 
-[06:03] The reasons why we're here mostly have to do with the fact that Monterrey is very proud to be a co-editor of Jem's book as it's been translated and now available in Spanish.
 
-[06:18] It's highly dystopic, if you ask me.
+[02:58] Desde agosto de 2014, es profesor en el Tecnológico de Monterrey, donde se desempeña como coordinador académico de sostenibilidad.
 
-[06:22] And you know, that's not a reason not to read it, quite the contrary, it's fascinating.
 
-[06:30] I think it's very well structured, and it showcases his arguments, Jem's arguments, in terms of why we're facing the kind of crisis, the kind of collapse actually, that the world is witnessing.
 
-[06:49] It's also Vladimir Putin's birthday today, so I guess that would add to dystopia in terms of an excuse to be here.
+[03:04] Contribuyó como autor principal en el Grupo Intergubernamental de Expertos sobre el Cambio Climático de las Naciones Unidas para el Sexto Informe de Evaluación, Grupo de Trabajo II, centrándose en el capítulo Trayectorias de Desarrollo Resilientes al Clima.
 
-[06:57] I don't know about that, but anyway, as a backdrop, which I don't think we need much, all you need to do is check the news over the past few days.
 
-[07:07] Number one, the weather patterns are tragic, are more than unusual, and they're everywhere.
 
-[07:16] So droughts and floods and hurricanes and La Niña and so forth are with us as we speak.
+[03:17] De 2015 a 2018, se desempeñó como asesor legislativo y posteriormente como jefe de gabinete de la Comisión Especial de Cambio Climático del Senado de la República.
 
-[07:22] But also news in terms of recent research that would add to what Jem included in his book are very interesting science.
 
-[07:36] The Science journal less than a month ago came out with the most rigorous reconstruction of surface temperatures in the world for the past, I think it's 485 years, out of geological data.
 
-[07:55] And the conclusion is that even though we faced periods of warming obviously in the past, warming has never been as fast as we are witnessing today.
+[03:28] Anteriormente, trabajó como investigador y enlace de pasantes para el Programa de Investigación en Cambio Climático de la Universidad Nacional Autónoma de México, UNAM.
 
-[08:09] So as they say, bullets kill mostly because of speed more than mass.
 
-[08:16] That's the case of what we're finding today in terms of the surface temperature evolution.
 
-[08:23] But also in other realms, there were news just this morning in terms of how China is reforming its pension system because of the fact that the demographic transition there has been dramatic over recent years and they find no way to reverse that.
+[03:38] La investigación del Dr. Fernández Carril se centra en la gobernanza ambiental, las negociaciones climáticas internacionales, la adaptación y resiliencia al cambio climático, la ética ambiental, la justicia climática y la educación para el desarrollo sostenible.
 
-[08:41] So they're changing their retirement age, they're increasing the age levels for retirement.
 
-[08:48] But also there were news this morning about the fact that two-thirds of the world's population live in countries where the fertility rates have dropped to the extent that the growth rates of these countries are below replacement.
 
-[09:07] You add an interesting paragraph or two regarding sperm count dropping in your book, dropping in the world.
+[03:54] Bienvenido.
 
-[09:12] This is a study done by Oxford University, and it's also fascinating in terms of what is leading to the drop of fertility rates around the world.
 
-[09:23] So again, all you have to do is take a glimpse at the news today, this morning alone, and you'll understand what the backdrop for this conversation is all about.
 
-[09:34] Let me start, if I may, Jem, asking you about your personal evolution.
+[03:56] Y Raúl Rodríguez es investigador asociado en el Instituto Baker de la Universidad Rice en Houston, clasificado a nivel mundial como el mejor centro de estudios afiliado a una universidad.
 
-[09:40] I think again the book is very well structured, and anyone interested in the signs can go by chapters understanding what's happening in energy and food and so forth.
 
-[09:50] But in terms of your evolution from a personal standpoint, in terms of your thinking and your emotions, how you went from Cambridge to Bali, how you went from 30 years of experience in sustainable development to what you are now writing about, which is labeled positive pessimism and ultimately the irreversible collapse of our civilization—what happened in the years in between?
 
-[10:24] >> Jem Bendell: Thank you for such a kind opening question.
+[04:06] Se ha desempeñado como vicerrector asociado de asuntos internacionales en el Tecnológico de Monterrey, director general del Banco de Desarrollo de América del Norte, director ejecutivo en el Banco Nacional de Comercio Exterior de México, comisionado comercial de México en Canadá, presidente fundador del Centro de América del Norte en la Universidad Estatal de Arizona y presidente de la Fundación Estados Unidos-México en Nueva York.
 
-[10:31] Hello everyone.
 
-[10:37] What happened?
 
-[10:40] I guess the most important first thing that happened was why I started working on the environment when I was 15 years old.
+[04:26] Fue conductor durante seis años del noticiero semanal de entrevistas de Univision TV sobre temas económicos y de negocios en Texas.
 
-[10:50] That was at a time when I had been exposed to a Christian group.
 
-[10:58] I went on a Christian summer camp, and I would have considered myself then a born-again Christian at the age of 15.
 
-[11:09] But I didn't feel like I enjoyed going to church; it didn't inspire me.
+[04:35] Ha publicado ensayos empresariales en Estados Unidos, México, Canadá, el Reino Unido y los Países Bajos, y ha participado como conferencista en más de 30 países.
 
-[11:19] And what was happening at the time in the United Kingdom was we had a lot of information about environmental destruction worldwide.
 
-[11:26] And so what happened was that my connection to a higher purpose, my desire to give my life to a purpose of universal love, got channeled immediately into saving the world.
 
-[11:41] Back then I remember thinking that, okay, so the world will be my church and my work will be my worship.
+[04:45] Raúl ha sido reconocido con la Orden del Mérito Civil de España y el Premio Ohtli de México.
 
-[11:49] So that was the way I... and so I was a bit of an ecological fundamentalist from the age of 15.
 
-[11:56] So it meant I was always questioning whatever I was doing: how is it making change to solve the problems as I saw them?
 
-[12:10] So then when I went to work for the Worldwide Fund for Nature, it was in partnership with companies to try and get them to change what they were doing.
+[04:49] Es egresado del Tec de Monterrey y de la Universidad de Harvard, donde fue reconocido como Littauer Fellow.
 
-[12:17] Then I went to work at the United Nations because I thought, well, I need to do something beyond the UK, 1% of the world's population; let's do something more international.
 
-[12:26] So at every stage of the way I was thinking, how can I have more impact?
 
-[12:30] How can we do something which will change what's happening with all the bad indicators for biodiversity, carbon emissions, and toxics?
+[04:55] Muchas gracias a todos por acompañarnos hoy en esta reflexión crítica.
 
-[12:40] And it's meant that every so often in my career I've taken some time out to requestion.
 
-[12:55] So that then meant that when I had to give an inaugural professorial lecture when I became a full professor in 2013—and you have to kind of describe your whole contribution to knowledge in 40 minutes in a lecture, and so I did that—I realized that it was in the context of trying to do something about unsustainability.
 
-[13:29] And because over the years I'd become so involved in what's the business case for incorporating these issues, or how do we persuade people to change their consumption habits, or how do we get progress in intergovernmental agreements on climate, I actually hadn't really paid attention for over 10 years to what exactly is happening in the environment.
+[05:03] Comencemos.
 
-[13:53] And I started to get worried then in 2013 that I wasn't sure whether my tactics were still valid, because I started to see really scary news, such as melting permafrost.
 
-[14:11] And I remember when I was doing climatology in 1993 at Cambridge University, melting permafrost was something which would indicate nasty feedbacks, like, "Oh dear, that's a really bad situation."
 
-[14:27] And we were seeing evidence of it already in 2013.
+[05:05] >> Raúl B. Rodríguez: Muchas gracias, Emma.
 
-[14:31] So it was then when I started to worry, and because I had a super busy job running an institute teaching lots of MBA students, I just put this information aside in a folder to look at one day.
 
-[14:44] And it got to a breaking point when suddenly I remember in March 2017 I wrote to my boss saying, "I need to just take a year out to requestion everything I'm doing, and I'll take a year's unpaid leave."
 
-[14:57] And the university system in the UK has some financial problems, so someone saying, a professor saying, "I'll take a year's unpaid leave," is like, "Immediately, sure, no problem."
+[05:07] Jem, no te puedes quejar, encontramos el mejor acento británico en el campus solo para darte la bienvenida.
 
-[15:10] And so then that's when I decided to look at the climate science.
 
-[15:15] Rather than just previously all I'd done was read newspaper articles about what the Intergovernmental Panel on Climate Change summary for policymakers was saying, so I hadn't been looking at the primary science in the various areas that make up what we call climatology.
 
-[15:36] And so, yeah, I realized I'd been getting a watered-down version of a watered-down version of an effort at consensus.
+[05:13] Realmente apreciamos tu presencia aquí.
 
-[15:47] And you know, when you're in a meeting and you try and get consensus, it might not be the best, most accurate thing; it's just consensus.
 
-[15:55] So, yeah, I ended up realizing things were a lot worse than what I had been assuming.
 
-[16:05] And I felt that was crushing to me, because contributing to social change was big in my identity from the age of 15 as an environmentalist.
+[05:15] Sabemos que es todo un reto viajar desde Bali hasta Monterrey; es casi las antípodas de Monterrey, así que, de nuevo, lo aprecio mucho.
 
-[16:19] And so suddenly it was like, "Oh, I had a crisis, a personal crisis."
 
-[16:25] And the decision I made was I can't work in my field anymore in corporate sustainability, but I don't want to just walk away.
 
-[16:35] I'm going to summarize what I think I've learned and put it out as a paper, and say I think our corporate sustainability work is based on a false premise that we've got time for incremental reform of global capitalism to reach sustainability.
+[05:27] Entenderemos si el desfase horario se nota en algún momento durante la presentación.
 
-[16:51] I think that's wrong now.
 
-[16:53] And so I put that out, but that was more me saying goodbye to my profession.
 
-[16:58] And then what happened was it went way beyond my profession and became a phenomenon in society where people from every walk of life—nurses, everything—ended up reading it, and it became a thing and changed my life as a result.
+[05:35] Y nuevamente, gracias a todos por estar aquí.
 
-[17:19] >> Raúl B. Rodríguez: Let me follow up on the religious component of what you just described, which is fascinating.
 
-[17:27] You allude to Buddhism as part of an important component of a bedrock of part of rethinking.
 
-[17:36] The Church Times essay was a big hit in terms of drawing a lot of attention recently.
+[05:38] Cayendo juntos, un libro increíble, Raúl.
 
-[17:47] You even mention when discussing Latin America the relevance of liberation theology.
 
-[17:53] Can you tell us more about that and how that influenced, further beyond what you described initially, your life and your thinking?
 
-[18:08] >> Jem Bendell: There's no way of talking about environmental problems as they're currently happening around us and as the science is concluding without experiencing fear about our own mortality and that of those we love.
+[05:43] Gracias por tu liderazgo y particularmente por una feria internacional del libro sumamente exitosa, que cerró anoche con una fantástica presentación entre Jem y Luis.
 
-[18:31] And there's no way of paying attention to what's happening in the world with disasters and also the latest science without it making us question the meaning of our lives: the choices we're going to make, how are we going to live, what does success look like, what does my contribution to the world look like, if you're a bit older, what might my legacy be like?
 
-[19:05] You can't look at any of this stuff anymore without those really deep questions.
 
-[19:10] And I know a lot of people don't want to talk like that; they want to keep it technical, scientific—technical, it's a pollution problem, we can fix it, just smile, fix it.
+[05:59] Gracias de nuevo por su presencia, estudiantes, profesores y amigos.
 
-[19:23] But in reality this is very troubling, it's very upsetting.
 
-[19:27] And so I think it's important to allow that shock, pain, grief, fear, worry, anxiety, confusion—just allow it.
 
-[19:40] That's an aspect of being real with what's going on, letting it affect you.
+[06:03] Las razones por las que estamos aquí tienen que ver principalmente con el hecho de que Monterrey está muy orgulloso de ser coeditor del libro de Jem, ya que ha sido traducido y ahora está disponible en español.
 
-[19:50] So how do humans cope in that?
 
-[20:00] Psychotherapy and spirituality.
 
-[20:04] And so, yeah, I think whether it's through the religions that we've grown up with, or whether it's the wisdom traditions we've discovered in other ways—so indigenous wisdoms, or in my case I've been fortunate enough to meet quite a few very wise Buddhist monks who've helped me understand my own emotional reactions to this difficult data, this difficult view...
+[06:18] Es altamente distópico, si me lo preguntan.
 
-[20:35] Yeah, it's all needed.
 
-[20:40] I don't know how well traditional religions are really meeting the need right now.
 
-[20:54] There is a very important Anglican vicar who's a bit of a mystic, who's a friend of mine, and he's very big in the Deep Adaptation Forum.
+[06:22] Y saben, esa no es una razón para no leerlo, todo lo contrario, es fascinante.
 
-[21:01] And he really sees a strong role for the church, the Christian church, in helping people be with this difficulty.
 
-[21:11] But he's also quite upset with where a lot of the mainstream Christian Church in the UK is either ignoring this or just seeing it as a great recruitment opportunity.
 
-[21:29] So, yeah, people will respond well or not from whatever religious tradition or psychotherapeutic tradition they come from.
+[06:30] Creo que está muy bien estructurado y expone sus argumentos, los argumentos de Jem, en términos de por qué nos enfrentamos al tipo de crisis, de hecho al tipo de colapso, que el mundo está presenciando.
 
-[21:42] >> Raúl B. Rodríguez: And sharing your impression that Latin America might be well positioned to cope with the prospects which you mentioned last night at the fair, you underscore three elements to that or three factors to that.
 
-[21:57] One is precisely liberation theology, the second one is a track record of anti-imperialism, and the third one is indigenous cultures.
 
-[22:08] Can you expand on that and give us a better sense, a deeper sense, as to what we should be optimistic about in Latin America?
+[06:49] Hoy también es el cumpleaños de Vladimir Putin, así que supongo que eso añadiría a la distopía en términos de una excusa para estar aquí.
 
-[22:22] >> Jem Bendell: My view is the situation humanity finds itself in with a rapidly heating environment—climate, the last 12 months about 1.64 degrees C over pre-industrial temperatures, which is decades ahead of what estimates were by the IPCC just six years ago...
 
-[23:02] This is not an accident.
 
-[23:04] This is the result of extractivist and expansionist economic systems.
+[06:57] No sé sobre eso, pero de todos modos, como telón de fondo, del cual no creo que necesitemos mucho, todo lo que hay que hacer es revisar las noticias de los últimos días.
 
-[23:12] So I wouldn't say we just blame capitalism; we have an extractivist and expansionist monetary system where the money is created by private banks, issued as debt with interest.
 
-[23:25] And so for the system to keep going so that we've all got money to earn and to spend, we all have to keep borrowing.
 
-[23:33] And banks will only lend more if there's more economic activity to support with those loans.
+[07:07] Número uno, los patrones climáticos son trágicos, son más que inusuales y están en todas partes.
 
-[23:37] And so we have this system which requires constant growth.
 
-[23:43] And so the situation we're in is not an accident.
 
-[23:46] So why is this system maintained in the way it is?
+[07:16] Así que sequías, inundaciones, huracanes, La Niña y demás están con nosotros mientras hablamos.
 
-[23:53] Well, because of who benefits the most.
 
-[23:55] And that's where I talk about the benefits of anti-imperialism, which is to say the system is serving some interests, not others.
 
-[24:07] It's transferring huge amounts of the world's resources from the many to the few globally, so there's incredible global inequality.
+[07:22] Pero también las noticias en términos de investigaciones recientes que se sumarían a lo que Jem incluyó en su libro son ciencia muy interesante.
 
-[24:19] And that has been part—that's part of the reason, a big part of the reason, why we're in this terrible situation.
 
-[24:27] I do not believe, and I haven't seen no evidence, that there will be a significant reduction in the ecological footprint of rich nations voluntarily, with people voting for so-called degrowth, particularly with the cost of living crisis now, with gross inequality in my country, the UK, and elsewhere.
 
-[24:53] So I don't actually see leadership in global social change coming from the global North.
+[07:36] La revista Science hace menos de un mes publicó la reconstrucción más rigurosa de las temperaturas superficiales en el mundo durante los últimos, creo que son 485 millones de años, a partir de datos geológicos.
 
-[25:02] I just don't see it.
 
-[25:04] And therefore I keep telling environmental activists in the global North, "If you really want to be part of something that might have global significance, be in solidarity with those movements in the global South which are trying to retain their resources, trying to protect them from foreign extraction, trying to at least get a better price and better environmental conditions—be in solidarity with those social movements in the global South."
 
-[25:30] So that's the bigger picture when I talk about the global South having a role to play.
+[07:55] Y la conclusión es que, aunque obviamente enfrentamos períodos de calentamiento en el pasado, el calentamiento nunca ha sido tan rápido como el que estamos presenciando hoy.
 
-[25:35] That's why I came here rather than to Spain to launch the book.
 
-[25:39] That's why I'm super excited it being available in Spanish and therefore available to Latin Americans.
 
-[25:45] That's interesting to me for that reason.
+[08:09] Así que, como dicen, las balas matan principalmente por la velocidad más que por la masa.
 
-[25:49] But you asked about indigenous wisdom.
 
-[25:59] I come from a continent where there is still indigenous wisdom and pagans and Druids, but it was so destroyed by the Roman Empire, it's so disconnected, it's so not part of British culture, for example.
 
-[26:21] It's not readily accessible, and it's not readily accessible in many parts of the world, but it seems to be... I mean, I don't know, I haven't traveled around Latin America, I'm not an expert on indigenous cultures worldwide, but it appears to me that there's a lot more today across Latin America of people who are wisdom keepers.
+[08:16] Ese es el caso de lo que estamos encontrando hoy en términos de la evolución de la temperatura superficial.
 
-[26:50] And there's a curiosity about their knowledge, the complexity of their knowledge, their understanding of the rhythms of nature, the circularity of nature, their ability to be okay with the subconscious of the human mind processing complex data and intuiting megatrends, and being open to wisdom and visions in a way that the modernist mind—where we privileged being reductionist and determinist, scientific and technological—we're not into that.
 
-[27:25] So I think there could be a lot to learn from indigenous peoples and their leaders.
 
-[27:36] That's in addition to the fact that so many indigenous peoples are trying to defend some of the last pristine wildernesses in Latin America right now.
+[08:23] Pero también en otros ámbitos, hubo noticias apenas esta mañana sobre cómo China está reformando su sistema de pensiones debido a que la transición demográfica allí ha sido dramática en los últimos años y no encuentran forma de revertirla.
 
-[27:49] And what's the tragedy and the irony is that in the name of environmental protection we're seeing justification for new mining to get lithium and copper and the rest.
 
-[28:06] And you've got this arrogance from people like Elon Musk, who say—when he's challenged, say, "Well, hold on, if everyone's going to drive a Tesla, where's all that lithium going to come from?"
 
-[28:18] And you're going to not be allowed to just trash all these forests and take all these resources?
+[08:41] Así que están cambiando su edad de jubilación, están aumentando los niveles de edad para retirarse.
 
-[28:28] And he just replied, "We'll coup whoever we want to, we'll just take what we want."
 
-[28:31] So this is eco-imperialism like spelled out in a tweet, like it's just there, blatant.
 
-[28:45] So there's things to learn from indigenous peoples, and there's I think an invitation from us to be in solidarity with them.
+[08:48] Pero también hubo noticias esta mañana sobre el hecho de que dos tercios de la población mundial viven en países donde las tasas de fertilidad han caído a tal grado que las tasas de crecimiento de estos países están por debajo del nivel de reemplazo.
 
-[29:01] >> Raúl B. Rodríguez: Interestingly, the session before your presentation last night was about shamanism at the book fair, so again, these are topics that are being discussed a lot more in Latin America than they are elsewhere.
 
-[29:16] >> Jem Bendell: Actually, there is something else I wanted to say on this.
 
-[29:19] In chapter nine in my book, it's called "Freedom from Progress," and I started by talking about Lyla June, who's a Native American young woman, musician, and scholar.
+[09:07] Añades un párrafo o dos muy interesantes sobre la caída en el conteo de espermatozoides en tu libro, cayendo en el mundo.
 
-[29:31] And she says that she finds a lot of people who are aware of the environmental problems end up becoming misanthropic, meaning like, "Isn't the human race horrible?
 
-[29:43] Look what we've done to the planet, aren't we dreadful?
 
-[29:46] I hate being a human," this kind of attitude.
+[09:12] Este es un estudio realizado por la Universidad de Oxford, y también es fascinante en términos de lo que está llevando a la caída de las tasas de fertilidad en todo el mundo.
 
-[29:50] And she says, "Well, this is so shortsighted, this is so lacking in understanding of history and the diversity of culture, that's just reducing humanity to the last couple of hundred years."
 
-[30:04] Humans have lived in harmony with nature at various times for tens of thousands of years.
 
-[30:12] It doesn't mean it was always great; she said that in North America they learned because they did destroy the environment and then they repaired the environment, and so they learned over time.
+[09:23] Así que, de nuevo, todo lo que tienes que hacer es echar un vistazo a las noticias de hoy, solo de esta mañana, y entenderás de qué se trata el telón de fondo de esta conversación.
 
-[30:25] So it's quite funny, she says, "You know, as a Native American, we weren't just born this cool; we learned over millennia by trial and error."
 
-[30:33] So I think that's also good to remember, which is, let's not just condemn the human race because we destroyed so much of the planet so far.
 
-[30:44] There are other ways that we can live.
+[09:34] Permíteme empezar, si me lo permites, Jem, preguntándote sobre tu evolución personal.
 
-[30:47] And so if these ways that we know how to live break apart—that we can't just buy everything at the supermarket, that we can't live the way we do now...
 
-[30:58] I like the way we... I mean, I like my comforts, but if this breaks apart, then it doesn't mean the end of everything, and it doesn't mean we won't work out how to live together in future.
 
-[31:11] >> Raúl B. Rodríguez: Misanthropy at its best happening all over the place when we analyze what's happening on the environmental side of things.
+[09:40] Creo nuevamente que el libro está muy bien estructurado, y cualquiera interesado en las señales puede ir capítulo por capítulo entendiendo lo que está pasando en energía, alimentos y demás.
 
-[31:19] You just mentioned you can't think of any leadership out there that's worthwhile in terms of understanding collapse and somehow reacting to it.
 
-[31:30] No one out there, not a single leader politically, I mean globally, where you could say, you know, this woman or man at least is trying to understand...
 
-[31:45] >> Jem Bendell: You mean a political leader?
+[09:50] Pero en términos de tu evolución desde un punto de vista personal, en términos de tu pensamiento y tus emociones, cómo pasaste de Cambridge a Bali, cómo pasaste de 30 años de experiencia en desarrollo sostenible a lo que ahora escribes, que se etiqueta como pesimismo positivo y, en última instancia, el colapso irreversible de nuestra civilización, ¿qué pasó en los años intermedios?
 
-[31:48] >> Raúl B. Rodríguez: Yes.
 
-[31:50] >> Jem Bendell: Oh, I'm probably not well enough informed about global current affairs.
 
-[32:00] Do you know someone?
+[10:24] >> Jem Bendell: Gracias por una pregunta inicial tan amable.
 
-[32:03] >> Raúl B. Rodríguez: Former Prime Minister of New Zealand perhaps, but former, so not really.
 
-[32:11] >> Jem Bendell: I mean, there are people who inspire me, dead and alive, but I don't know about political leaders.
 
-[32:21] >> Raúl B. Rodríguez: Okay, business.
+[10:31] Hola a todos.
 
-[32:22] I mean, you just discarded Musk and previously discarded Bill Gates several times.
 
-[32:30] So, but in general, leadership...
 
-[32:34] So the question is because the idea is that if we can think of an individual that we admire, that helps bring hope or helps bring...
+[10:37] ¿Qué pasó?
 
-[32:45] Well, I'm interested in the... it helps bring echo to people like you; again, it reverberates, it helps with the awareness at the very least.
 
-[33:03] >> Jem Bendell: Any story I could tell about a famous person is a story it's received through mass media, and so it's not the real person.
 
-[33:18] And the story I would tell is one that would suggest that they are very significant to outcomes.
+[10:40] Supongo que lo primero y más importante que pasó fue por qué empecé a trabajar en el medio ambiente cuando tenía 15 años.
 
-[33:28] So in my work as a critical leadership scholar, I know that they're not.
 
-[33:32] So there's this—it's called the romance of leadership—where even if we don't... psychologists do studies where they give people information and where they say, "Do you think the leader was important or not?"
 
-[33:45] And if the situation was better or worse than average, everyone will say it was the leader's fault or the leader's role.
+[10:50] Eso fue en una época en la que había estado expuesto a un grupo cristiano.
 
-[33:52] So we have this kind of habit of thinking it's the one remarkable individual who is responsible for success or failure.
 
-[34:00] And I would rather say that there's no superhero out there, there's no one coming to save us; it's all up to you and your friends and the people that you love and admire in your own life.
 
-[34:12] >> Raúl B. Rodríguez: Okay, I was thinking more along the lines of having a Schumacher out there.
+[10:58] Fui a un campamento de verano cristiano y entonces me habría considerado un cristiano renacido a los 15 años.
 
-[34:17] Let me turn to... taking advantage of the fact that I have a couple books here—Francisco, my friend from college, and others—we were arriving at Monterrey Tec exactly 50 years ago, a couple of months before you were born.
 
-[34:36] Actually, it gives you a sense in terms of my age.
 
-[34:40] But we were discussing—and this was like, I think, very much pioneering in Latin America—Limits to Growth.
+[11:09] Pero no sentía que disfrutara ir a la iglesia; no me inspiraba.
 
-[34:50] We were actually doing simulation with the assistance of Jay Forrester and so forth, very much concerned not with the methodology itself, but with the fact that again we were starting to be aware of the carrying capacity of Earth.
 
-[35:07] And we were discussing again Limits to Growth, which was published in 1972 when you were born, very much neo-Malthusian.
 
-[35:15] But that was the situation back then: it was population growth.
+[11:19] Y lo que estaba sucediendo en ese momento en el Reino Unido era que teníamos mucha información sobre la destrucción ambiental en todo el mundo.
 
-[35:21] We were also fascinated with the fact that exponential processes and causal feedback loops and so forth were the kind of thing that was not common thinking at the time.
 
-[35:32] So that was important.
 
-[35:34] Small Is Beautiful from Schumacher.
+[11:26] Y entonces lo que pasó fue que mi conexión con un propósito superior, mi deseo de entregar mi vida a un propósito de amor universal, se canalizó inmediatamente hacia salvar el mundo.
 
-[35:37] We had Alvin Toffler here; I was lucky enough to be interviewing him with Future Shock.
 
-[35:44] And we're talking about books from 1970, '72, '73, so around your time.
 
-[35:53] Let me go fast forward to today and discuss universities, and get your idea, your sense of what might be happening as a professor, having studied your PhD, being at Cambridge before that.
+[11:41] En aquel entonces recuerdo haber pensado que, bueno, el mundo será mi iglesia y mi trabajo será mi adoración.
 
-[36:10] I think you're well aware of the fact that we have a perhaps self-imposed sense of responsibility in universities with hope and optimism and enthusiasm.
 
-[36:29] We have a sense of guilt whenever we depart from that, even when discussing science and reality and then the challenges ahead.
 
-[36:36] So it's very hard for a university to deal with doom and gloom; it's almost anathema.
+[11:49] Así era como yo... y así fui un poco fundamentalista ecológico desde los 15 años.
 
-[36:43] And today at Tec itself, you know, even though again this is our background, we're happy to be discussing and to be developing programs on sustainability and conscious capitalism and positive psychology and you name it, and reading Pinker and Rosling and Martin Seligman and so forth.
 
-[37:06] Your perspective would be very important for us, because again, you're coming from the academic world.
 
-[37:15] How should universities transform to deal with what you have been speaking?
+[11:56] Así que significaba que siempre estaba cuestionando lo que sea que estuviera haciendo: ¿cómo está generando un cambio para resolver los problemas tal como los veía?
 
-[37:25] How do we play a better role in terms of coping with whatever comes ahead, you know, which is well considering every single projection, not yours only?
 
-[37:49] >> Jem Bendell: Yeah, it's I don't think it's only universities where professionals and people with also a sense of responsibility and senior position feel that they need to remain optimistic in public and help people feel motivated through hope.
 
-[38:15] It's a bigger cultural phenomenon: the idea that we each will feel motivated by being hopeful of attaining an outcome.
+[12:10] Entonces, cuando fui a trabajar para el Fondo Mundial para la Naturaleza, fue en asociación con empresas para tratar de lograr que cambiaran lo que estaban haciendo.
 
-[38:32] I used to think that hope was imperative, it was necessary for me to act and for others to act.
 
-[38:41] And I then came to realize that that's a story of my culture and that I am more alive, more creative, more courageous because I have given up on hope.
 
-[39:01] I can be happy without hope.
+[12:17] Luego fui a trabajar a las Naciones Unidas porque pensé: bueno, necesito hacer algo más allá del Reino Unido, el 1 % de la población mundial; hagamos algo más internacional.
 
-[39:05] Hope is a story about the future, and therefore as the Buddhists say, hope and fear chase each other's tails, because hope is a story about a desired future, so it can involve a fear that things might not be that way.
 
-[39:24] And I just... you know, we don't know, we might be hit by a meteorite next year and it will be over, we just don't know.
 
-[39:31] So let's just tune in to what it is we value, what we want to try to contribute to.
+[12:26] Así que en cada etapa del camino pensaba: ¿cómo puedo tener más impacto?
 
-[39:37] Obviously that will involve assessments of what may or may not be possible, and we need to keep rethinking that.
 
-[39:45] But, yeah, I know that people don't need hope to be able to do great things now; that's what I've learned.
 
-[39:53] But in the university context, there is a neoliberalism that's entered the university, whereby the university is trying to sell the story of "You pass your degree and then you'll have a successful future, you'll be able to have your house, your parents will be proud of you, positive career, lots of options and choices where to live."
+[12:30] ¿Cómo podemos hacer algo que cambie lo que está sucediendo con todos los malos indicadores de biodiversidad, emisiones de carbono y tóxicos?
 
-[40:21] So this is a ticket to success.
 
-[40:24] That's a dreadful idea, because what you're doing is commodifying the exploration of reality, because that's what the university is about, which is the nature of being alive: the self, the other, the world, the divine, everything.
 
-[40:44] It's an inquiry into that.
+[12:40] Y eso significó que de vez en cuando en mi carrera me tomaba un tiempo para volver a cuestionar.
 
-[40:46] And you can package it up into engineering and whatever, but ultimately an institution like this is about inquiring into the nature of reality and also the nature of who you are and who you wish to be.
 
-[40:58] So it's not about just getting a credential in order to sell yourself in the marketplace of jobs and so on.
 
-[41:07] So there's been that—it's called the neoliberalization of education in general.
+[12:55] Así que eso significó que cuando tuve que dar una conferencia magistral inaugural cuando me convertí en profesor titular en 2013 —y tienes que describir toda tu contribución al conocimiento en 40 minutos en una conferencia, y así lo hice— me di cuenta de que todo estaba en el contexto de tratar de hacer algo sobre la insostenibilidad.
 
-[41:12] So there's that that's going on here as well, because that then means you think you've got to therefore sell a story of success through the degree.
 
-[41:22] So that I think does have to be reworked.
 
-[41:26] Maybe a university will be brave at some point and say, "We know the future is going to be something other than just more of the same.
+[13:29] Y debido a que a lo largo de los años me había involucrado tanto en cuál es el argumento comercial para incorporar estos temas, o cómo persuadimos a la gente para que cambie sus hábitos de consumo, o cómo logramos avances en los acuerdos intergubernamentales sobre el clima, en realidad no había prestado atención durante más de 10 años a lo que exactamente estaba sucediendo en el medio ambiente.
 
-[41:38] We don't know exactly, but things are going to break down, they already are, things are very uncertain, things are unstable.
 
-[41:47] The kind of skills that you're learning now may not be useful, but the kind of person you're being, the kind of critical thinking, the kind of way that you can understand, witness, and navigate your emotions, the way you can make decisions, the way you understand your values and your motivations—all of that can take you through whatever the future will be."
 
-[42:12] So I think more of that kind of stuff, you know, character development, is important.
+[13:53] Y empecé a preocuparme entonces en 2013 porque no estaba seguro de si mis tácticas seguían siendo válidas, ya que empecé a ver noticias realmente aterradoras, como el derretimiento del permafrost.
 
-[42:17] And I don't know how much space there is for that in the contemporary curricula of universities, because I'm not an undergraduate and I haven't been teaching undergraduates for a very long time, so I don't know if there's much space for any of that anymore.
 
-[42:35] But for me that's very important.
 
-[42:39] But it also means that, yeah, maybe there does need to be some more space for people to be able to learn other kinds of skills than those which assume an industrial consumer economy will always be around.
+[14:11] Y recuerdo que cuando estudiaba climatología en 1993 en la Universidad de Cambridge, el derretimiento del permafrost era algo que indicaría retroalimentaciones desagradables, como: «Oh, cielos, esa es una situación realmente mala».
 
-[42:55] What does that mean?
 
-[42:57] How you work together in your community to resolve conflict—that's a skill you could learn.
 
-[43:03] How do you work together to try and promote local food production in your neighborhood?
+[14:27] Y ya estábamos viendo evidencia de ello en 2013.
 
-[43:07] How do you work together to help your neighborhood share products and services so you don't need to buy them from mass-produced sources?
 
-[43:18] You know, various kinds of adaptation things, which would be seen as kind of backward—"Isn't that like how my grandparents lived?"
 
-[43:27] Well, we're going to have to bring some of that back, and it doesn't need to be framed as backwards; it can actually be fun.
+[14:31] Así que fue entonces cuando empecé a preocuparme, y como tenía un trabajo súper ocupado dirigiendo un instituto y enseñando a muchos estudiantes de MBA, simplemente guardé esta información en una carpeta para revisarla algún día.
 
-[43:37] >> Raúl B. Rodríguez: Luis, let me turn to you as a counterpoint of sorts, if I may.
 
-[43:44] Your philosophy, from what I've read and heard from you, might be dubbed "negative optimism" vis-à-vis the "positive pessimism," Jem.
 
-[43:56] But you've alluded, for example, to COVID, the reaction to COVID, the response providing some level of hope.
+[14:44] Y llegó a un punto de quiebre cuando de repente recuerdo que en marzo de 2017 le escribí a mi jefe diciendo: «Necesito tomarme un año fuera para volver a cuestionar todo lo que estoy haciendo, y me tomaré un año de licencia sin goce de sueldo».
 
-[44:04] You've alluded to the fact that at least part of the work at the IPCC, while insufficient, is not exactly totally futile.
 
-[44:12] So tell us where you would provide a different kind of perspective.
 
-[44:17] >> Luis Fernández Carril: Thank you, Raúl, and thank you, Professor Bendel.
+[14:57] Y el sistema universitario en el Reino Unido tiene algunos problemas financieros, así que alguien diciendo, un profesor diciendo: «Me tomaré un año de licencia sin goce de sueldo», es como: «De inmediato, claro, no hay problema».
 
-[44:23] I think the time has come for us to acknowledge where we're at with the science, with the kind of data that we're seeing around the world—not only from the IPCC, but from very different scientific centers—and to acknowledge the true status of the world as it is right now and the kind of world that we will be facing in the near future, in the long term.
 
-[44:56] And we must acknowledge, I think, that we have come to the moment where climate change and the environmental crisis stops being a crisis or a problem, and it starts evolving into a predicament.
 
-[45:13] And the big difference between a problem, a crisis, and a predicament is that a predicament stays with you forever, that there's nothing... that it's a condition that will be there forever.
+[15:10] Y entonces fue cuando decidí analizar la ciencia climática.
 
-[45:27] And it is important that we start to acknowledge that the discourse which we have been using to tackle the environmental crisis—the discourse of sustainable development—is right now not up to the challenge, and it's more importantly, I think, that it's behind the gap where we're at for, let's what can we say, 30 years.
 
-[45:53] I mean, we're still discussing this as if we were still in a time where we can avoid dangerous interference with the climate system, where we can avoid the kind of massive extinction that we're seeing in biodiversity.
 
-[46:09] So there is a time where we must collect all the knowledge that is out there and to start understanding the kind of implications that the world will see with this kind of crisis, that this is not about 50 years, not about 100 years, but it is about right now.
+[15:15] En lugar de simplemente, como había hecho anteriormente, leer artículos periodísticos sobre lo que decía el resumen para responsables de políticas del Grupo Intergubernamental de Expertos sobre el Cambio Climático, no había estado mirando la ciencia primaria en las diversas áreas que componen lo que llamamos climatología.
 
-[46:27] And that just as Professor Bendel said before—before he was mentioning in other books that he thought this breakdown would start later on, and then he turns and says this breakdown is happening right now, it is happening this very moment—and we need to start constructing on not only that today the world is in flames in many different ways, or we're drowning in water or in water scarcity.
 
-[47:01] We're in a terrible situation everywhere in the world.
 
-[47:06] We see it here in Mexico; we see we've seen how close we've come to Day Zero here.
+[15:36] Y así, sí, me di cuenta de que había estado recibiendo una versión diluida de una versión diluida de un esfuerzo por lograr consenso.
 
-[47:13] Monterrey was just like Cape Town, like a pilot project, let's say, of how to deal with Day Zero.
 
-[47:22] And that is not a thing that we had to solve two years ago or a year ago; it is a predicament, it is a condition that we will have to continuously face, it is something that we will have to continuously understand.
 
-[47:41] This is the condition of living, the condition of existence in where we're at at the moment.
+[15:47] Y ya saben, cuando estás en una reunión e intentas llegar a un consenso, puede que no sea lo mejor ni lo más preciso; es simplemente consenso.
 
-[47:47] Now, understanding this, and to say there is a significant amount of the crisis that we cannot avoid, is different from saying that everything is... that there is nothing that we can do.
 
-[48:08] Now, the problem is absolutely very serious from very different reports we see, and they tell us that the window of opportunity to act is closing, and it's closing fast.
 
-[48:21] That is on the most positive side of what we can say about the future, what we can acknowledge whether we are in agreement there is a window of opportunity or not: is that the situation, the moment where we're at, and the future is going to be different.
+[15:55] Así que, sí, terminé dándome cuenta de que las cosas estaban mucho peor de lo que había estado asumiendo.
 
-[48:41] That navigating the Anthropocene will mean having to deal with many different phases, many different dimensions of this environmental crisis and the different conditions, and they will impact our future, your future.
 
-[49:04] The way you deal with your life will be affected by this predicament, by entering, by navigating the Anthropocene.
 
-[50:10] So this is something that we cannot deny anymore.
+[16:05] Y sentí que eso era devastador para mí, porque contribuir al cambio social era algo muy importante en mi identidad desde los 15 años como ambientalista.
 
-[50:12] We cannot simply say that everything is going to be great, just like Professor Bendel was just mentioning, that we can all fix this.
 
-[50:20] This is now a predicament.
 
-[50:24] And then from acknowledging, from understanding the kind of predicament in which we're at, it is from where we can stem, we can do everything we can to try to transform.
+[16:19] Y de repente fue como: «Oh, tuve una crisis, una crisis personal».
 
-[50:36] Because in the end, when we talk about collapse, when we talk about the kind of consequences that we will see, this is not like an immediate event that will happen like a meteorite strike that we will all simply die because everything is wrong and we will die in just a second.
 
-[50:52] This is the process of how life can degrade in the next years, in the next decades, if we do nothing.
 
-[51:04] And what we can see is that governments are not doing at all what they should be doing.
+[16:25] Y la decisión que tomé fue que ya no podía trabajar en mi campo en sostenibilidad corporativa, pero no quería simplemente irme.
 
-[51:13] We're headed towards 3 degrees of increase of temperature according to Climate Action Tracker.
 
-[51:21] But this means that we need to create a transformation, a warlike effort.
 
-[51:26] That is what we've been saying for a long time.
+[16:35] Voy a resumir lo que creo que he aprendido y publicarlo como un artículo, y decir que creo que nuestro trabajo en sostenibilidad corporativa se basa en una premisa falsa de que tenemos tiempo para una reforma incremental del capitalismo global para alcanzar la sostenibilidad.
 
-[51:28] And one of the lessons that we see from the pandemic—many times they say transitions are impossible, only the thing that we can do is to transition to do baby steps towards sustainability, and we know that we cannot afford that—but the pandemic was also an example that extraordinary effort can be done, that it is possible to move the machinery of the world in such a way that can create particular radical efforts in the world.
 
-[52:04] Will it solve everything?
 
-[52:06] Of course not.
+[16:51] Creo que ahora eso es erróneo.
 
-[52:06] Will it change the structural conditions that created the crisis, as Professor Bendel was mentioning?
 
-[52:11] Of course not, of course not.
 
-[52:13] But this doesn't mean that we cannot engage in trying to transform whatever is left, whatever we can, so we can create a transformation.
+[16:53] Y así lo publiqué, pero eso fue más bien mi despedida de mi profesión.
 
-[52:25] Because in the end, the world will not end the moment we overshoot 1.5 degrees, the world will not end when we overshoot 2 degrees.
 
-[52:35] So there's much to do, because in the end we will all have to continue living, or most of us or some of us will continue living on this planet and we'll have to struggle with this situation.
 
-[52:51] So it's time to ring the bell, to temper our hopes, but to understand that also there are examples of significant warlike efforts that we can do to, if not to avoid—of course not to avoid—but indeed to protect the dignity of our people, of human beings, of everyone who's going to suffer with this predicament.
+[16:58] Y luego lo que pasó fue que fue mucho más allá de mi profesión y se convirtió en un fenómeno en la sociedad donde personas de todos los ámbitos de la vida —enfermeras, de todo— terminaron leyéndolo, y se convirtió en todo un movimiento y cambió mi vida como resultado.
 
-[53:23] >> Raúl B. Rodríguez: I had great expectations in terms of you being a modern prophet.
 
-[53:28] You essentially confirmed... no, I'm kidding.
 
-[53:34] You're absolutely right, and that I think to a certain extent is the basis for a new way of teaching subjects such as yours, right?
+[17:19] >> Raúl B. Rodríguez: Permíteme profundizar en el componente religioso de lo que acabas de describir, lo cual es fascinante.
 
-[53:48] Can you elaborate just a bit in terms of how the reality, the transitioning into a new awareness regarding collapse, has modified the way you teach?
 
-[54:01] >> Luis Fernández Carril: Definitely, definitely.
 
-[54:03] And what we're doing at Tecnológico de Monterrey is definitely impacted by what we're mentioning.
+[17:27] Aludes al budismo como parte de un componente importante de una base para repensar las cosas.
 
-[54:11] I think just a couple of days ago our Rector, Juan Pablo Murra, was mentioning the universities are founded on the principle of hope.
 
-[54:21] That is what builds a university: that there must be hope, you know, all faculty must in the end have the absolute understanding that we can change the world, that people can change, that students can change, that transformation is possible.
 
-[54:42] If we do not believe that, then what is the point of our universities?
+[17:36] El ensayo de Church Times fue un gran éxito en términos de atraer mucha atención recientemente.
 
-[54:46] But that we do need to change the way we're teaching, the topics that we are teaching.
 
-[54:57] Kate Raworth was with us some months ago, and she was mentioning that what the university teaches cannot go... the ideologies that are behind what we're teaching cannot go to the extent that they exacerbate the environmental crisis that we're facing.
 
-[55:16] And some topics, some framings of what the way universities are teaching right now are actually, let's say, part of the ideology that are creating the problem.
+[17:47] Incluso mencionas al hablar de América Latina la relevancia de la teología de la liberación.
 
-[55:27] So we need to understand how universities become something other than or do not replicate the ideologies that are exacerbating this crisis.
 
-[55:38] And on the other hand, just to end this comment, also this means that education, the philosophy of education, must change.
 
-[55:49] Now we have new paradigms, for example, education for disaster risk reduction and education for emergencies.
+[17:53] ¿Puedes contarnos más sobre eso y cómo influyó, más allá de lo que describiste inicialmente, en tu vida y en tu pensamiento?
 
-[56:04] And this is something that we really need to understand: how many of us would know how to deal with a Day Zero?
 
-[56:13] How many of us would know how to deal if the critical infrastructure of our cities cannot supply food for us?
 
-[56:20] We're in a university, and how many of us can actually know how to grow our food, know how to collect water, know how to deal with these kinds of things?
+[18:08] >> Jem Bendell: No hay forma de hablar de los problemas ambientales tal como están ocurriendo actualmente a nuestro alrededor y tal como concluye la ciencia sin experimentar miedo por nuestra propia mortalidad y la de aquellos a quienes amamos.
 
-[56:33] So this is the kind of thing that we will be facing in the future, and the kind of revolution that we will need in universities to be up to the challenge of what we're seeing right now.
 
-[56:43] >> Raúl B. Rodríguez: Thank you, Luis.
 
-[56:45] Before I turn it to the audience, Jem, can you give us some closing thoughts?
+[18:31] Y no hay forma de prestar atención a lo que está sucediendo en el mundo con los desastres y también con la ciencia más reciente sin que nos haga cuestionar el sentido de nuestras vidas: las elecciones que vamos a tomar, cómo vamos a vivir, cómo se ve el éxito, cómo se ve mi contribución al mundo, si eres un poco mayor, ¿cómo podría ser mi legado?
 
-[56:50] I was particularly pleased with the way you close the book, which is the way that E.F. Schumacher closes his book.
 
-[56:57] Actually, you quote his last paragraph, which is a beautiful paragraph having to do with the need for us first and foremost to put our inner house in order, and that from every single angle of our house, starting with spiritual...
 
-[57:17] Please.
+[19:05] Ya no puedes mirar nada de esto sin hacerte esas preguntas realmente profundas.
 
-[57:19] >> Jem Bendell: So, on the question of what universities can do, I said some things, but you've just said some more.
 
-[57:28] Four years ago I gave a talk about how could universities reimagine their operations, their research, their curriculum, their community relations, and their potential political influence with the idea of that adapting to climate change will be a central organizing principle.
 
-[57:55] So I did some work on that, and I have a blog on my website, jembendell.com, which came out about a week ago; it's called "Goodbye Academia."
+[19:10] Y sé que mucha gente no quiere hablar así; quieren mantenerlo técnico, científico: «es técnico, es un problema de contaminación, podemos arreglarlo, solo sonríe, arréglalo».
 
-[58:07] So it's just my reflections on having left, but then I link to that hour lecture and where I go through some of the things.
 
-[58:15] So for those of you who are staff here and interested in this, I would point you to that, because of course there's so much to do.
 
-[58:24] And you mentioned some things: in some places it's just how well is this university with all your campuses ready to help if there's an emergency, if there's flooding or if there's an extremely hot period which is going to be dangerous for people?
+[19:23] Pero en realidad esto es muy inquietante, es muy perturbador.
 
-[58:40] Like, how can you provide shelter?
 
-[58:43] How can... yeah, there are so many things that that could be the university playing a role in the resilience of the areas where you live.
 
-[58:53] And then of course new curriculum developments, as you just mentioned: disaster risk reduction and such like.
+[19:27] Y por eso creo que es importante permitir ese impacto, dolor, duelo, miedo, preocupación, ansiedad, confusión... simplemente permitirlo.
 
-[59:00] So, yes, my book, the first half of the book is describing the problem as a predicament, and the second half is my offer of how to make sense of this, why it happened, and what to do about it.
 
-[59:18] And as part of that, I'm inviting us to see that this is not an accident, but an outcome of the systems of what I call imperial modernity.
 
-[59:31] So the reason I've done that is to encourage us not to make things worse in panicked reactions.
+[19:40] Ese es un aspecto de ser honesto con lo que está pasando, dejar que te afecte.
 
-[59:41] And the reason why I chose to do that is because I have met many environmentalists over the last 10 years who publicly maintain the argument that we can fix this, and privately with me in the pub afterwards, the bar, said, "I think we're..." and for 10 years...
 
-[60:03] And when I ask them, "So what to do?"
 
-[60:06] I end up just hearing what I would say is eco-fascism basically.
+[19:50] Entonces, ¿cómo sobrellevan eso los humanos?
 
-[60:12] They think we have to force people to change.
 
-[60:15] And so when I hear the war framing, I'm a bit nervous because it can be that kind of idea: that the smart people in society need to be in charge and force everyone to change.
 
-[60:32] And we see a backlash to that already, like a really strange backlash now where—and it's because billionaires have kind of somehow co-opted the climate agenda—so a lot of ordinary people think that, "Oh, climate change isn't that; Bill Gates wants us to eat insects and not leave our homes and not drive our cars and not have hamburgers."
+[20:00] Psicoterapia y espiritualidad.
 
-[60:55] You know, so we've got to be very careful that the environmental agenda doesn't come to be seen as an authoritarian top-down agenda.
 
-[61:07] And that's why my book advocates for freeing people up to actually look after their environments more and find ways of meeting their needs without using so much of the world's resources.
 
-[61:21] Because I am seeing this kind of idea that there needs to be this top-down enforcement on people, and I think if that's the way environmentalism goes there will be more of a backlash.
+[20:04] Y así, sí, creo que ya sea a través de las religiones con las que hemos crecido, o ya sea a través de las tradiciones de sabiduría que hemos descubierto de otras maneras —como las sabidurías indígenas, o en mi caso he tenido la suerte de conocer a varios monjes budistas muy sabios que me han ayudado a comprender mis propias reacciones emocionales ante estos datos difíciles, esta visión difícil—...
 
-[61:36] And so it's interesting, this how framing it can be framed as a warlike effort, but if that then becomes a sort of an authoritarian attitude, then I'm not supportive of that.
 
-[61:50] Also, we need to recognize if it's a predicament, there's no magic solution, and therefore we've got to be careful that we don't deprioritize things which are equally important to carbon emissions cuts.
 
-[62:08] So we shouldn't trash all the pristine wildernesses in Mexico and beyond because we want the lithium in order to drive electric vehicles.
+[20:35] Sí, todo es necesario.
 
-[62:16] But you do have some environmentalists who think, "I'm sorry, we just have to take that."
 
-[62:20] And so we've got to be very careful again where we might go wrong with the warlike metaphor: is that nothing matters other than winning?
 
-[62:32] No, we've got to try and make sure that we still listen to each other, that we still have social justice, that we still have rights and accountability.
+[20:40] No sé qué tan bien están respondiendo realmente las religiones tradicionales a esta necesidad en este momento.
 
-[62:41] So that's why this book is trying to advocate for a more sort of bottom-up rather than top-down environmentalism, a people's environmentalism that responds to people who want to care for their environments rather than some kind of a technocratic top-down one.
 
-[63:00] So that's why with the COVID experience I think we also need to be critical and not worried about debating about, well, what went right and what went wrong.
 
-[63:10] You know, how much were lockdowns really helpful?
+[20:54] Hay un vicario anglicano muy importante que es un poco místico, que es amigo mío, y tiene un papel muy destacado en el Foro de Adaptación Profunda.
 
-[63:13] Analysis now looks like they weren't; Sweden did really well, they didn't do lockdowns.
 
-[63:21] Masking didn't really make any difference.
 
-[63:26] If you look at mRNA jabs, didn't stop transmission, mis-sold, so people thought it did.
+[21:01] Y él realmente ve un papel fuerte para la iglesia, la iglesia cristiana, en ayudar a la gente a sobrellevar esta dificultad.
 
-[63:35] So if we'd had more accurate communication about what these vaccines do and don't do, then you wouldn't have had people—loads of my friends—who just thought, "Oh, I'm vaccinated now, I can go party."
 
-[63:50] And so why did that happen?
 
-[63:52] So I think we need to have a lot more critical and open thinking.
+[21:11] Pero también está bastante molesto porque gran parte de la Iglesia Cristiana tradicional en el Reino Unido está ignorando esto o simplemente viéndolo como una gran oportunidad de reclutamiento.
 
-[63:56] And unfortunately it's all been polarized, like, "Oh, if you question everything, then you're a crazy COVID idiot or you love Donald Trump."
 
-[64:04] This nonsense that's been put upon us by mass media, it doesn't help us understand challenges like... and we will have more pandemics and we need to learn from what went wrong and what went well.
 
-[64:18] So, yeah, this brings us to the question of the terrible media environment we have, whether it's mainstream media or the alternative media, it's super depressing.
+[21:29] Así que, sí, la gente responderá bien o no desde cualquier tradición religiosa o tradición psicoterapéutica de la que provenga.
 
-[64:28] I think every day I kind of feel a sense of suffering about how bad the communication is.
 
-[64:36] So, yeah, there's... and in chapter seven I talk about this as kind of an aspect and an accelerator of societal collapse, as a sort of a breakdown in the quality of our communication system.
 
-[64:52] So the closing of my book is, yeah, we... because things are so uncertain now, I've given up on my stories of having impact at scale, intentional impact at scale.
+[21:42] >> Raúl B. Rodríguez: Y compartiendo tu impresión de que América Latina podría estar bien posicionada para hacer frente a las perspectivas que mencionaste anoche en la feria, subrayas tres elementos o tres factores para ello.
 
-[65:12] I want to still try and contribute at scale, otherwise I wouldn't be here, I'd just be at home in Indonesia with my kitten and my friends.
 
-[65:19] So this is because I still would like to try to have some impact at scale, but I don't want to do that in a way where it distracts me from being a better kind of person and contributing locally now.
 
-[65:34] So I've come more back to myself and back to my friends and back to my neighbors and trying to make things different where I live, whereas previously I was this high flyer going to Davos and the UN and trying to do all this big stuff and just ignoring how I'm living with people and whether I'm embodying the values that I believe.
+[21:57] Uno es precisamente la teología de la liberación, el segundo es una trayectoria de antiimperialismo y el tercero son las culturas indígenas.
 
-[66:03] >> Raúl B. Rodríguez: Questions from the audience, please.
 
-[66:05] Just give us a quick sense of your name, of course, and where you're coming from.
 
-[66:21] >> Participante (nombre desconocido): Yeah, hi.
+[22:08] ¿Puedes ampliar sobre eso y darnos una mejor idea, un sentido más profundo, sobre de qué deberíamos ser optimistas en América Latina?
 
-[66:25] Thank you.
 
-[66:28] What I've been thinking listening to today's talk and yesterday's is, well, why are we protecting the way that we live right now?
 
-[66:41] Why do we shape this change and this fight in order to protect a capitalistic way of life?
+[22:22] >> Jem Bendell: Mi opinión es que la situación en la que se encuentra la humanidad con un entorno que se calienta rápidamente —el clima, en los últimos 12 meses alrededor de 1.64 grados C por encima de las temperaturas preindustriales, lo cual está décadas por delante de las estimaciones del IPCC de hace apenas seis años—...
 
-[66:55] And what we're doing by doing that is just slowing the process of what could be a way to protect more of what we have been destroying.
 
-[67:10] I mean, if we know that capitalism is eventually going to fail, which is I think a fact, why are we so determined in making this enormous effort to protect it?
 
-[67:27] And why then shouldn't we embrace this fall—not of Earth, but of the way we live in today—and actually try to accelerate it?
+[23:02] Esto no es un accidente.
 
-[67:51] >> Jem Bendell: It's a good question, and it's a question that's now increasingly being asked, particularly by activists who have found that their efforts at peaceful protests to get governments to act have completely failed.
 
-[68:09] So that's why books like the one called How to Blow Up a Pipeline have become popular.
 
-[68:15] So conversations are starting in the environmental movement about what you mentioned, which is, "Well, maybe we should sabotage, maybe we should accelerate the breakdown of industrial consumer societies, maybe that will mean..."
+[23:04] Este es el resultado de sistemas económicos extractivistas y expansionistas.
 
-[68:31] And so there's an actual group called Deep Green Resistance which advocates that, and then maybe that means we might save more of the natural world and we might give future generations a better chance.
 
-[68:42] Now, for me that's scientifically, as in research, baseless.
 
-[68:56] What we have data on is how moments of ideological violence lead to justified authoritarian backlash.
+[23:12] Así que no diría que simplemente culpemos al capitalismo; tenemos un sistema monetario extractivista y expansionista donde el dinero es creado por bancos privados, emitido como deuda con intereses.
 
-[69:11] And it's very rare that moments of ideological violence actually create any change in line with the ideas and solutions and visions associated with the people who took that ideological violence.
 
-[69:31] So Andreas Malm's book is useless at providing evidence.
 
-[69:35] He's saying, "Oh, yeah, all these peaceful protests don't work."
+[23:25] Y así, para que el sistema siga funcionando de modo que todos tengamos dinero para ganar y gastar, todos tenemos que seguir pidiendo prestado.
 
-[69:38] Yeah, but he doesn't make the case for how these other things work.
 
-[69:42] And where we do see industrial sabotage having had a success in the past is where it's done by employees in their own companies as part of industrial relations disputes.
 
-[69:54] It's like suddenly the cars coming off the production line, the wheels fall off, it's like the management saying, "Oh, maybe we should actually reach that deal and that pay rise."
+[23:33] Y los bancos solo prestarán más si hay más actividad económica que respaldar con esos préstamos.
 
-[70:03] But that's all done at that level; it's not like some sort of big grand political statement.
 
-[70:11] So I don't see a turn towards more confrontational and including violence environmental movement as offering us much.
 
-[70:27] I however, those people who are in high-intensity struggles trying to protect their rainforest from the digger, the machinery coming in to cut it down, and who decide to have conflict of that level—I don't condemn them at all.
+[23:37] Y así tenemos este sistema que requiere crecimiento constante.
 
-[70:43] I totally understand, and I understand how that can become violent, and I would hate to be in their situation, and I would never condemn them for looking at ways of trying to destroy the vehicles or the machinery of the destruction.
 
-[70:59] I wouldn't condemn them.
 
-[71:03] Do I support it?
+[23:43] Por lo tanto, la situación en la que estamos no es un accidente.
 
-[71:05] I find it very difficult, because I think it's quite counterproductive for someone in my position to support violence as a story for what we should be doing.
 
-[71:27] So I'm not... it's called accelerationism.
 
-[71:30] There are people in Silicon Valley who want to collapse the world systems in order to usher in some sort of AI-run world.
+[23:46] Entonces, ¿por qué se mantiene este sistema de la manera en que está?
 
-[71:36] So and so I call myself a decelerationist, and it's not because anything other than I'm a bit selfish, and I kind of like... you know, I kind of like what we're doing today, I like the fact I've got my coffee and I've got a microphone in my hand and we can go have a beer later.
 
-[71:55] It's kind of fun.
 
-[71:58] And so selfishly I don't want to make all of this collapse faster.
+[23:53] Bueno, por quiénes son los que más se benefician.
 
-[72:04] I say it's selfish because I am not living at the nasty end of global imperialism, I'm not having my home destroyed by a mining company.
 
-[72:20] So I'm not generalizing from that; it's like I totally understand people who say, "Yeah, bring down the system, yeah, who cares, bring down capitalism, let's speed it up."
 
-[72:30] I respect that; I don't support them and I don't join them in that.
+[23:55] Y ahí es donde hablo de los beneficios del antiimperialismo, es decir, que el sistema está sirviendo a algunos intereses, no a otros.
 
-[72:36] But that's partly because I just enjoy my own life as it is now, and I... so there's nothing majorly ethical about my position.
 
-[72:50] >> Participante (nombre desconocido): Hi.
 
-[72:52] So I am from here, Monterrey, and I have a question about this system, well, this transition of system we're talking about, of a capitalist system to transition to another kind of system.
+[24:07] Está transfiriendo enormes cantidades de los recursos del mundo de los muchos a los pocos a nivel mundial, por lo que hay una desigualdad global increíble.
 
-[73:13] I had a question about this new system we're all talking about, and which are the basis of this, and the main characteristics of how it should be to support the sustainability of the world.
 
-[73:42] >> Jem Bendell: So I'm a big advocate of relocalization of production, trade, and consumption, and of political participation and governance.
 
-[73:51] So that relocalization... can we buy more of our stuff locally?
+[24:19] Y eso ha sido parte —una gran parte de la razón— por la que estamos en esta terrible situación.
 
-[73:54] Can we produce it more locally?
 
-[73:56] Can we fix it and mend it more locally?
 
-[73:59] And as part of that, if we're doing that, but we're relying on means of exchange—so money that's issued by banks that are subsidiaries of international banks that are subsidiaries of BlackRock and Vanguard—then we're not really relocalizing.
+[24:27] No creo, y no he visto ninguna evidencia, de que vaya a haber una reducción significativa en la huella ecológica de las naciones ricas de manera voluntaria, con gente votando por el llamado decrecimiento, particularmente con la crisis del costo de vida actual, con la enorme desigualdad en mi país, el Reino Unido, y en otros lugares.
 
-[74:19] So a coherent relocalizing agenda should also experiment with alternative means of exchange, alternative currencies that are issued and governed locally.
 
-[74:32] Doesn't mean replacing national currencies, but means we need to create complements, and that means we keep more of the value in these localities.
 
-[74:40] So that's a... and I'm with Helena Norberg-Hodge and the Local Futures group, where they talk about that as a global vision of relocalization.
+[24:53] Así que en realidad no veo que el liderazgo en el cambio social global provenga del Norte global.
 
-[74:55] So it doesn't mean you just forget about the rest of the world; you try and relocalize where you live, but you're in solidarity with people trying to help that everywhere, and you use international communication systems to share ideas about how to relocalize production, trade, consumption, exchange, and governance.
 
-[75:16] So that's kind of if you're thinking about new systems, because an aspect of an expansionist monetary system and capitalism is that ultimately it's about how can we extract value and have that value as liquid that can then just go and accumulate somewhere else.
 
-[75:36] And so relocalization is an alternative way of thinking economically.
+[25:02] Simplemente no lo veo.
 
-[75:46] >> Participante (nombre desconocido): So I'm from the Dominican Republic, and I wanted to ask a thing about, well, more the personal aspect of this whole thing.
 
-[75:59] You mentioned about misanthropy and how it can lead to a hatred for humanity, and more importantly like this distaste for progress and for development.
 
-[76:10] And we are... I could say most of us, we are studying to develop in the industrial world and to work in this part and to be part of a cog of a big machine.
+[25:04] Y por lo tanto les sigo diciendo a los activistas ambientales en el Norte global: «Si realmente quieren ser parte de algo que pueda tener trascendencia global, sean solidarios con aquellos movimientos en el Sur global que están tratando de retener sus recursos, tratando de protegerlos de la extracción extranjera, tratando al menos de obtener un mejor precio y mejores condiciones ambientales; sean solidarios con esos movimientos sociales en el Sur global».
 
-[76:26] So if we were, let's say, intended for... we wanted to work for a change of the system and all these things, how would you say would be the right way to deal with these conflicting feelings of working towards a better future, but at the same time working for the same machine that is compromising this future?
 
-[76:59] >> Jem Bendell: I'll say something, but then also I realize I should... no, okay.
 
-[77:03] The first thing I want to say is that the assumption of human dominion—that we are in charge of planet Earth, we are the center of the universe—and the assumption of human progress—that culture and technology and science and our material capabilities will forever be improved...
+[25:30] Así que ese es el panorama general cuando hablo de que el Sur global tiene un papel que desempeñar.
 
-[77:28] Those ideas are not synonymous with, not the same as, love of humanity and belief in humanity.
 
-[77:37] And the fact that they're made the same is modernism; it's a cultural artifact of the society we live in.
 
-[77:46] So some people think that when I am saying progress is over in a material sense—we're in an age of regress, and the data shows that, human development index data since 2019 in 80% of countries going backwards, including OECD countries—some people think I'm sort of being rude about humanity.
+[25:35] Por eso vine aquí en lugar de ir a España para lanzar el libro.
 
-[78:14] I'm not.
 
-[78:14] I think we're great, even if we're not materially progressing, even if we're not going to make the next latest iPhone, it doesn't mean we're not wonderful.
 
-[78:23] I just... so that's the first thing to say.
+[25:39] Por eso estoy súper emocionado de que esté disponible en español y, por lo tanto, disponible para los latinoamericanos.
 
-[78:32] But your question is a question for everyone, not only who was at university.
 
-[78:40] It's like, "Should I continue working in the system, seek career progression in the system—maybe for a Mexican large corporation or an international corporation—while also having the awareness of what's happening in the world and how the system is at fault, and therefore also the corporation you're working with is mostly not helping?"
 
-[79:11] Wow, it's a really important question, and I've written two articles on it.
+[25:45] Eso es interesante para mí por esa razón.
 
-[79:17] It depends on the nature of the company and your own personal commitments.
 
-[79:24] So some people have mortgages to pay, children in school or university and fees to pay; they have more responsibilities, and so therefore they have to be careful about how they change.
 
-[79:37] What I argue is because of your personal circumstances and your personal financial responsibilities, don't put this issue in the cupboard.
+[25:49] Pero preguntaste sobre la sabiduría indígena.
 
-[79:52] It's not going away; it's there for the rest of our lives, it's the predicament.
 
-[79:58] It doesn't mean you have to drop everything and quit your job and quit your career immediately.
 
-[80:04] You can find ways of adjusting and slowly incorporating this awareness and letting it change you.
+[25:59] Vengo de un continente donde todavía hay sabiduría indígena, paganos y druidas, pero fue tan destruida por el Imperio Romano, está tan desconectada, que no forma parte de la cultura británica, por ejemplo.
 
-[80:10] So that's for people who are already in jobs.
 
-[80:12] But at your stage, if you don't have kids, if you don't have mortgages, if you don't have big responsibilities, you have an incredible opportunity now to completely rethink how you want to live your life and the kind of career you want to have.
 
-[80:28] When I meet young people and they think... I mean, you don't have to respect everything that your parents have respected and expected from you.
+[26:21] No es fácilmente accesible, y no es fácilmente accesible en muchas partes del mundo, pero parece ser... es decir, no lo sé, no he viajado por América Latina, no soy un experto en culturas indígenas a nivel mundial, pero me parece que hoy en día hay mucha más gente en toda América Latina que son guardianes de la sabiduría.
 
-[80:38] Just give them my book and say, "So I'm going to go and... I've got a whole group of people, we're going to go and move to that ranch, and we're going to grow our own food, and we're going to make our own music, and we're going to create our own currencies, and we're going to show how we can live differently and have a brilliant time together.
 
-[81:01] We're going to have a lot more fun and maybe more sex."
 
-[81:04] I mean, you know, just lay it out there.
+[26:50] Y hay una curiosidad sobre su conocimiento, la complejidad de su conocimiento, su comprensión de los ritmos de la naturaleza, la circularidad de la naturaleza, su capacidad para sentirse cómodos con el subconsciente de la mente humana procesando datos complejos e intuyendo megatendencias, y estando abiertos a la sabiduría y las visiones de una manera que la mente modernista —donde privilegiamos ser reduccionistas y deterministas, científicos y tecnológicos— no nos interesa.
 
-[81:13] >> Raúl B. Rodríguez: On that note, particularly the last sentence, thank you, Jim, for your time.
 
-[81:20] Thank you for your visit.
 
-[81:23] Carl Sagan used to say that one of the most beautiful words in the English language was understanding, in all of its different meanings.
+[27:25] Así que creo que podría haber mucho que aprender de los pueblos indígenas y sus líderes.
 
-[81:31] Thank you for helping us understand what is happening, even in the context of collapse, or perhaps more importantly in the context of collapse.
 
-[81:43] And thank you for helping us find some level of hope, perhaps some new meaning of hope in the realm of collapse.
 
-[81:56] I hope you have a very happy stay in Mexico.
+[27:36] Eso se suma al hecho de que muchos pueblos indígenas están tratando de defender algunas de las últimas áreas silvestres vírgenes en América Latina en este momento.
 
-[82:00] You're going to Mexico City next, okay?
 
-[82:03] And possibly spending your birthday in Mexico City, so on Saturday...
 
-[82:09] >> Jem Bendell: Not at a temazcal.
+[27:49] Y lo trágico e irónico es que, en nombre de la protección ambiental, estamos viendo la justificación para nueva minería con el fin de obtener litio, cobre y lo demás.
 
-[82:11] >> Raúl B. Rodríguez: Yeah, oh goodness gracious, yeah.
 
-[82:13] >> Jem Bendell: Okay, so... so if I come back here one day, I'll be different, I'll be a new person.
 
-[82:18] >> Raúl B. Rodríguez: Well, we can't offer you temazcal in Monterrey, but we'll do our best in terms of cabrito or something of sorts.
+[28:06] Y tienes esta arrogancia de gente como Elon Musk, quien dice —cuando se le cuestiona, diciendo: «Bueno, espera, si todos van a conducir un Tesla, ¿de dónde va a salir todo ese litio?»
 
-[82:25] So again, thank you so much, have a wonderful stay and a healthy way back.
 
-[82:31] >> Jem Bendell: I felt very, very welcomed and really enjoyed my stay so far.
 
-[82:36] So thank you to everyone who's been involved in making this happen and getting me here and making the book happen in Spanish.
+[28:18] ¿Y no se te va a permitir simplemente destruir todos estos bosques y tomar todos estos recursos?—.
 
-[82:42] Thank you everybody, great team.
 
-[82:44] Thank you so much.
+
+[28:28] Y él simplemente respondió: «Daremos un golpe de Estado a quien queramos, simplemente tomaremos lo que queramos».
+
+
+
+[28:31] Así que esto es ecoimperialismo deletreado en un tuit, está ahí, descarado.
+
+
+
+[28:45] Así que hay cosas que aprender de los pueblos indígenas, y creo que hay una invitación para nosotros a ser solidarios con ellos.
+
+
+
+[29:01] >> Raúl B. Rodríguez: Curiosamente, la sesión anterior a tu presentación anoche en la feria del libro trató sobre el chamanismo, así que, de nuevo, estos son temas que se discuten mucho más en América Latina que en otros lugares.
+
+
+
+[29:16] >> Jem Bendell: De hecho, hay algo más que quería decir sobre esto.
+
+
+
+[29:19] En el capítulo nueve de mi libro, se llama «Libertad del progreso», y empecé hablando de Lyla June, quien es una joven mujer nativa americana, música y académica.
+
+
+
+[29:31] Y ella dice que encuentra que mucha gente que es consciente de los problemas ambientales termina volviéndose misántropa, es decir, como: «¿No es horrible la raza humana?
+
+
+
+[29:43] Miren lo que le hemos hecho al planeta, ¿no somos espantosos?
+
+
+
+[29:46] Odio ser humano», este tipo de actitud.
+
+
+
+[29:50] Y ella dice: «Bueno, esto es muy miope, carece de comprensión de la historia y la diversidad cultural, eso es simplemente reducir a la humanidad a los últimos doscientos años».
+
+
+
+[30:04] Los humanos han vivido en armonía con la naturaleza en varias épocas durante decenas de miles de años.
+
+
+
+[30:12] No significa que siempre haya sido genial; ella dijo que en América del Norte aprendieron porque sí destruyeron el medio ambiente y luego lo repararon, y así aprendieron con el tiempo.
+
+
+
+[30:25] Así que es bastante gracioso, ella dice: «Sabes, como nativa americana, no nacimos así de geniales; aprendimos a lo largo de milenios por ensayo y error».
+
+
+
+[30:33] Así que creo que también es bueno recordar eso, es decir, no condenemos simplemente a la raza humana porque hemos destruido gran parte del planeta hasta ahora.
+
+
+
+[30:44] Hay otras formas en las que podemos vivir.
+
+
+
+[30:47] Y así, si estas formas en las que sabemos vivir se desmoronan —que no podamos simplemente comprar todo en el supermercado, que no podamos vivir como lo hacemos ahora...—.
+
+
+
+[30:58] Me gusta la forma en que... es decir, me gustan mis comodidades, pero si esto se desmorona, entonces no significa el fin de todo, y no significa que no vayamos a descubrir cómo vivir juntos en el futuro.
+
+
+
+[31:11] >> Raúl B. Rodríguez: La misantropía en su máxima expresión ocurriendo por todas partes cuando analizamos lo que sucede en el aspecto ambiental.
+
+
+
+[31:19] Acabas de mencionar que no puedes pensar en ningún liderazgo allá afuera que valga la pena en términos de comprender el colapso y de alguna manera reaccionar ante él.
+
+
+
+[31:30] Nadie allá afuera, ni un solo líder político, me refiero a nivel mundial, del que pudieras decir, ya sabes, esta mujer u hombre al menos está tratando de entender...
+
+
+
+[31:45] >> Jem Bendell: ¿Te refieres a un líder político?
+
+
+
+[31:48] >> Raúl B. Rodríguez: Sí.
+
+
+
+[31:50] >> Jem Bendell: Oh, probablemente no estoy lo suficientemente bien informado sobre los asuntos de actualidad mundial.
+
+
+
+[32:00] ¿Conoces a alguien?
+
+
+
+[32:03] >> Raúl B. Rodríguez: La exprimera ministra de Nueva Zelanda tal vez, pero ex, así que en realidad no.
+
+
+
+[32:11] >> Jem Bendell: Quiero decir, hay personas que me inspiran, muertas y vivas, pero no sé sobre líderes políticos.
+
+
+
+[32:21] >> Raúl B. Rodríguez: Bien, en los negocios.
+
+
+
+[32:22] Es decir, acabas de descartar a Musk y anteriormente descartaste a Bill Gates varias veces.
+
+
+
+[32:30] Entonces, pero en general, liderazgo...
+
+
+
+[32:34] La pregunta surge porque la idea es que si podemos pensar en un individuo al que admiramos, eso ayuda a traer esperanza o ayuda a traer...
+
+
+
+[32:45] Bueno, me interesa el... ayuda a hacer eco a personas como tú; de nuevo, reverbera, ayuda con la concientización por lo menos.
+
+
+
+[33:03] >> Jem Bendell: Cualquier historia que pudiera contar sobre una persona famosa es una historia recibida a través de los medios de comunicación masivos, por lo que no es la persona real.
+
+
+
+[33:18] Y la historia que contaría sería una que sugeriría que son muy significativos para los resultados.
+
+
+
+[33:28] Así que en mi trabajo como académico crítico del liderazgo, sé que no lo son.
+
+
+
+[33:32] Existe esto —se llama el romance del liderazgo— donde incluso si no... los psicólogos hacen estudios donde le dan información a la gente y dicen: «¿Crees que el líder fue importante o no?».
+
+
+
+[33:45] Y si la situación fue mejor o peor que el promedio, todos dirán que fue culpa del líder o mérito del líder.
+
+
+
+[33:52] Así que tenemos esta especie de hábito de pensar que es un individuo extraordinario el responsable del éxito o del fracaso.
+
+
+
+[34:00] Y yo preferiría decir que no hay ningún superhéroe allá afuera, no viene nadie a salvarnos; todo depende de ti, de tus amigos y de las personas que amas y admiras en tu propia vida.
+
+
+
+[34:12] >> Raúl B. Rodríguez: Bien, estaba pensando más en la línea de tener un Schumacher allá afuera.
+
+
+
+[34:17] Permíteme pasar a... aprovechando el hecho de que tengo un par de libros aquí —Francisco, mi amigo de la universidad, y otros—, llegábamos al Tec de Monterrey hace exactamente 50 años, un par de meses antes de que nacieras.
+
+
+
+[34:36] De hecho, te da una idea de mi edad.
+
+
+
+[34:40] Pero estábamos discutiendo —y esto fue, creo, muy pionero en América Latina— Los límites del crecimiento.
+
+
+
+[34:50] De hecho, estábamos haciendo simulaciones con la ayuda de Jay Forrester y demás, muy preocupados no por la metodología en sí, sino por el hecho de que nuevamente estábamos empezando a ser conscientes de la capacidad de carga de la Tierra.
+
+
+
+[35:07] Y estábamos discutiendo nuevamente Los límites del crecimiento, que se publicó en 1972 cuando naciste, muy neomaltusiano.
+
+
+
+[35:15] Pero esa era la situación en aquel entonces: era el crecimiento demográfico.
+
+
+
+[35:21] También estábamos fascinados con el hecho de que los procesos exponenciales y los bucles de retroalimentación causal y demás eran el tipo de cosas que no eran un pensamiento común en ese momento.
+
+
+
+[35:32] Así que eso fue importante.
+
+
+
+[35:34] Lo pequeño es hermoso, de Schumacher.
+
+
+
+[35:37] Tuvimos aquí a Alvin Toffler; tuve la suerte de entrevistarlo con El shock del futuro.
+
+
+
+[35:44] Y estamos hablando de libros de 1970, 72, 73, así que alrededor de tu época.
+
+
+
+[35:53] Permíteme adelantarme rápidamente hasta hoy y hablar de las universidades, y obtener tu idea, tu percepción de lo que podría estar sucediendo como profesor, habiendo estudiado tu doctorado, habiendo estado en Cambridge antes de eso.
+
+
+
+[36:10] Creo que eres muy consciente del hecho de que tenemos un sentido de responsabilidad, tal vez autoimpuesto, en las universidades con la esperanza, el optimismo y el entusiasmo.
+
+
+
+[36:29] Tenemos un sentimiento de culpa cada vez que nos apartamos de eso, incluso cuando discutimos la ciencia, la realidad y luego los desafíos que tenemos por delante.
+
+
+
+[36:36] Así que es muy difícil para una universidad lidiar con el pesimismo y la fatalidad; es casi un anatema.
+
+
+
+[36:43] Y hoy en el propio Tec, sabes, aunque de nuevo este es nuestro trasfondo, nos complace discutir y desarrollar programas sobre sostenibilidad, capitalismo consciente, psicología positiva y lo que sea, y leer a Pinker, Rosling, Martin Seligman y demás.
+
+
+
+[37:06] Tu perspectiva sería muy importante para nosotros, porque nuevamente, vienes del mundo académico.
+
+
+
+[37:15] ¿Cómo deberían transformarse las universidades para lidiar con lo que has estado hablando?
+
+
+
+[37:25] ¿Cómo desempeñamos un mejor papel en términos de hacer frente a lo que sea que venga por delante, ya sabes, considerando cada proyección, no solo la tuya?
+
+
+
+[37:49] >> Jem Bendell: Sí, no creo que sea solo en las universidades donde los profesionales y las personas con sentido de responsabilidad y cargos directivos sienten que necesitan mantenerse optimistas en público y ayudar a la gente a sentirse motivada a través de la esperanza.
+
+
+
+[38:15] Es un fenómeno cultural más amplio: la idea de que cada uno de nosotros se sentirá motivado al tener la esperanza de lograr un resultado.
+
+
+
+[38:32] Yo solía pensar que la esperanza era imperativa, que era necesaria para que yo actuara y para que otros actuaran.
+
+
+
+[38:41] Y luego me di cuenta de que esa es una historia de mi cultura y que estoy más vivo, soy más creativo y más valiente porque he renunciado a la esperanza.
+
+
+
+[39:01] Puedo ser feliz sin esperanza.
+
+
+
+[39:05] La esperanza es una historia sobre el futuro y, por lo tanto, como dicen los budistas, la esperanza y el miedo se persiguen la cola mutuamente, porque la esperanza es una historia sobre un futuro deseado, por lo que puede implicar el miedo de que las cosas no sean así.
+
+
+
+[39:24] Y simplemente... ya sabes, no lo sabemos, podría caernos un meteorito el próximo año y todo se acabaría, simplemente no lo sabemos.
+
+
+
+[39:31] Así que sintonicemos con aquello que valoramos, con aquello a lo que queremos intentar contribuir.
+
+
+
+[39:37] Obviamente eso implicará evaluaciones de lo que puede o no ser posible, y tenemos que seguir repensando eso.
+
+
+
+[39:45] Pero, sí, sé que la gente no necesita esperanza para poder hacer grandes cosas ahora; eso es lo que he aprendido.
+
+
+
+[39:53] Pero en el contexto universitario, hay un neoliberalismo que ha entrado en la universidad, mediante el cual la universidad está tratando de vender la historia de: «Apruebas tu carrera y luego tendrás un futuro exitoso, podrás tener tu casa, tus padres estarán orgullosos de ti, una carrera positiva, muchas opciones y elecciones sobre dónde vivir».
+
+
+
+[40:21] Así que este es un boleto al éxito.
+
+
+
+[40:24] Esa es una idea terrible, porque lo que estás haciendo es mercantilizar la exploración de la realidad, porque de eso se trata la universidad, que es la naturaleza de estar vivo: el yo, el otro, el mundo, lo divino, todo.
+
+
+
+[40:44] Es una indagación sobre eso.
+
+
+
+[40:46] Y puedes empaquetarlo en ingeniería y lo que sea, pero en última instancia una institución como esta trata de indagar en la naturaleza de la realidad y también en la naturaleza de quién eres y quién deseas ser.
+
+
+
+[40:58] Así que no se trata solo de obtener una credencial para venderte en el mercado laboral y demás.
+
+
+
+[41:07] Así que ha existido eso —se llama la neoliberalización de la educación en general—.
+
+
+
+[41:12] Así que también está sucediendo eso aquí, porque eso significa que piensas que, por lo tanto, tienes que vender una historia de éxito a través del título.
+
+
+
+[41:22] Así que creo que eso sí tiene que ser reelaborado.
+
+
+
+[41:26] Tal vez alguna universidad sea valiente en algún momento y diga: «Sabemos que el futuro va a ser algo distinto a simplemente más de lo mismo.
+
+
+
+[41:38] No lo sabemos con exactitud, pero las cosas se van a desmoronar, ya lo están haciendo, las cosas son muy inciertas, son inestables.
+
+
+
+[41:47] El tipo de habilidades que estás aprendiendo ahora puede que no sean útiles, pero el tipo de persona que estás siendo, el tipo de pensamiento crítico, la forma en que puedes comprender, presenciar y navegar tus emociones, la forma en que puedes tomar decisiones, la forma en que comprendes tus valores y tus motivaciones... todo eso puede llevarte a través de lo que sea que el futuro depare».
+
+
+
+[42:12] Así que creo que más de ese tipo de cosas, ya sabes, el desarrollo del carácter, es importante.
+
+
+
+[42:17] Y no sé cuánto espacio haya para eso en los planes de estudio contemporáneos de las universidades, porque no soy estudiante de licenciatura y no he dado clases a estudiantes de licenciatura desde hace mucho tiempo, así que no sé si queda mucho espacio para nada de eso ya.
+
+
+
+[42:35] Pero para mí eso es muy importante.
+
+
+
+[42:39] Pero también significa que, sí, tal vez deba haber un poco más de espacio para que la gente pueda aprender otro tipo de habilidades distintas de aquellas que asumen que una economía de consumo industrial siempre existirá.
+
+
+
+[42:55] ¿Qué significa eso?
+
+
+
+[42:57] Cómo trabajan juntos en su comunidad para resolver conflictos: esa es una habilidad que podrían aprender.
+
+
+
+[43:03] ¿Cómo trabajan juntos para intentar promover la producción local de alimentos en su vecindario?
+
+
+
+[43:07] ¿Cómo trabajan juntos para ayudar a su vecindario a compartir productos y servicios para que no necesiten comprarlos de fuentes producidas en masa?
+
+
+
+[43:18] Ya saben, varios tipos de cosas de adaptación, que serían vistas como algo retrógrado: «¿No es así como vivían mis abuelos?».
+
+
+
+[43:27] Bueno, vamos a tener que traer de vuelta algo de eso, y no necesita ser enmarcado como retrógrado; de hecho, puede ser divertido.
+
+
+
+[43:37] >> Raúl B. Rodríguez: Luis, permíteme dirigirme a ti como una especie de contrapunto, si me lo permites.
+
+
+
+[43:44] Tu filosofía, por lo que he leído y escuchado de ti, podría denominarse «optimismo negativo» frente al «pesimismo positivo» de Jem.
+
+
+
+[43:56] Pero has aludido, por ejemplo, a la COVID, la reacción ante la COVID, la respuesta brindando cierto nivel de esperanza.
+
+
+
+[44:04] Has aludido al hecho de que al menos parte del trabajo en el IPCC, aunque insuficiente, no es exactamente del todo inútil.
+
+
+
+[44:12] Así que dinos dónde aportarías un tipo diferente de perspectiva.
+
+
+
+[44:17] >> Luis Fernández Carril: Gracias, Raúl, y gracias, profesor Bendell.
+
+
+
+[44:23] Creo que ha llegado el momento de que reconozcamos dónde estamos con la ciencia, con el tipo de datos que estamos viendo en todo el mundo —no solo del IPCC, sino de muy diversos centros científicos— y de reconocer el verdadero estado del mundo tal como es ahora mismo y el tipo de mundo al que nos enfrentaremos en el futuro cercano y a largo plazo.
+
+
+
+[44:56] Y debemos reconocer, creo, que hemos llegado al momento en que el cambio climático y la crisis ambiental dejan de ser una crisis o un problema, y empiezan a evolucionar hacia un predicamento.
+
+
+
+[45:13] Y la gran diferencia entre un problema, una crisis y un predicamento es que un predicamento se queda contigo para siempre, que no hay nada... que es una condición que estará ahí para siempre.
+
+
+
+[45:27] Y es importante que empecemos a reconocer que el discurso que hemos estado utilizando para abordar la crisis ambiental —el discurso del desarrollo sostenible— no está ahora mismo a la altura del desafío y, lo que es más importante, creo, está rezagado respecto a la brecha en la que nos encontramos desde hace, qué podemos decir, 30 años.
+
+
+
+[45:53] Es decir, seguimos discutiendo esto como si todavía estuviéramos en una época en la que podemos evitar una interferencia peligrosa con el sistema climático, donde podemos evitar el tipo de extinción masiva que estamos viendo en la biodiversidad.
+
+
+
+[46:09] Así que hay un momento en el que debemos recopilar todo el conocimiento que existe y empezar a comprender el tipo de implicaciones que el mundo verá con este tipo de crisis, que esto no se trata de 50 años, ni de 100 años, sino que se trata de ahora mismo.
+
+
+
+[46:27] Y que tal como dijo antes el profesor Bendell —antes mencionaba en otros libros que pensaba que este desmoronamiento comenzaría más adelante, y luego da un giro y dice que este desmoronamiento está ocurriendo ahora mismo, está ocurriendo en este preciso momento— y tenemos que empezar a construir no solo sobre el hecho de que hoy el mundo está en llamas de muchas maneras diferentes, o nos estamos ahogando en agua o en escasez de agua.
+
+
+
+[47:01] Estamos en una situación terrible en todo el mundo.
+
+
+
+[47:06] Lo vemos aquí en México; hemos visto lo cerca que hemos estado del Día Cero aquí.
+
+
+
+[47:13] Monterrey fue igual que Ciudad del Cabo, como un proyecto piloto, digamos, de cómo lidiar con el Día Cero.
+
+
+
+[47:22] Y eso no es algo que tuvimos que resolver hace dos años o hace un año; es un predicamento, es una condición que tendremos que enfrentar continuamente, es algo que tendremos que comprender continuamente.
+
+
+
+[47:41] Esta es la condición de vida, la condición de existencia en la que nos encontramos en este momento.
+
+
+
+[47:47] Ahora bien, comprender esto y decir que hay una parte significativa de la crisis que no podemos evitar es diferente de decir que todo está... que no hay nada que podamos hacer.
+
+
+
+[48:08] Ahora, el problema es absolutamente muy grave según los muy diversos informes que vemos, y nos dicen que la ventana de oportunidad para actuar se está cerrando, y se está cerrando rápido.
+
+
+
+[48:21] Eso es en el lado más positivo de lo que podemos decir sobre el futuro, lo que podemos reconocer, estemos de acuerdo o no en si existe una ventana de oportunidad: es que la situación, el momento en el que estamos y el futuro van a ser diferentes.
+
+
+
+[48:41] Que navegar el Antropoceno significará tener que lidiar con muchas fases diferentes, muchas dimensiones diferentes de esta crisis ambiental y las distintas condiciones, y estas impactarán nuestro futuro, su futuro.
+
+
+
+[49:04] La forma en que lidian con su vida se verá afectada por este predicamento, por entrar y navegar en el Antropoceno.
+
+
+
+[50:10] Así que esto es algo que ya no podemos negar.
+
+
+
+[50:12] No podemos simplemente decir que todo va a ser genial, tal como acababa de mencionar el profesor Bendell, que todos podemos arreglar esto.
+
+
+
+[50:20] Esto es ahora un predicamento.
+
+
+
+[50:24] Y luego, a partir de reconocer, de comprender el tipo de predicamento en el que nos encontramos, es de donde podemos partir, podemos hacer todo lo que esté a nuestro alcance para intentar transformar.
+
+
+
+[50:36] Porque al final, cuando hablamos de colapso, cuando hablamos del tipo de consecuencias que veremos, esto no es como un evento inmediato que ocurrirá como el impacto de un meteorito en el que todos simplemente moriremos porque todo está mal y moriremos en apenas un segundo.
+
+
+
+[50:52] Este es el proceso de cómo la vida puede degradarse en los próximos años, en las próximas décadas, si no hacemos nada.
+
+
+
+[51:04] Y lo que podemos ver es que los gobiernos no están haciendo en absoluto lo que deberían estar haciendo.
+
+
+
+[51:13] Nos dirigimos hacia un aumento de 3 grados de temperatura según Climate Action Tracker.
+
+
+
+[51:21] Pero esto significa que necesitamos crear una transformación, un esfuerzo de tipo bélico.
+
+
+
+[51:26] Eso es lo que hemos estado diciendo durante mucho tiempo.
+
+
+
+[51:28] Y una de las lecciones que vemos de la pandemia —muchas veces dicen que las transiciones son imposibles, que lo único que podemos hacer es dar pequeños pasos hacia la sostenibilidad, y sabemos que no podemos permitirnos eso— es que la pandemia también fue un ejemplo de que se puede hacer un esfuerzo extraordinario, de que es posible mover la maquinaria del mundo de tal manera que se puedan crear esfuerzos radicales particulares en el mundo.
+
+
+
+[52:04] ¿Lo resolverá todo?
+
+
+
+[52:06] Por supuesto que no.
+
+
+
+[52:06] ¿Cambiará las condiciones estructurales que crearon la crisis, como mencionaba el profesor Bendell?
+
+
+
+[52:11] Por supuesto que no, por supuesto que no.
+
+
+
+[52:13] Pero esto no significa que no podamos comprometernos a intentar transformar lo que queda, lo que podamos, para poder crear una transformación.
+
+
+
+[52:25] Porque al final, el mundo no se acabará en el momento en que sobrepasemos los 1.5 grados, el mundo no se acabará cuando sobrepasemos los 2 grados.
+
+
+
+[52:35] Así que hay mucho por hacer, porque al final todos tendremos que seguir viviendo, o la mayoría de nosotros o algunos de nosotros seguiremos viviendo en este planeta y tendremos que luchar con esta situación.
+
+
+
+[52:51] Así que es hora de tocar la campana, de moderar nuestras esperanzas, pero de comprender que también existen ejemplos de esfuerzos bélicos significativos que podemos realizar para, si no evitar —por supuesto no evitar—, sí proteger la dignidad de nuestra gente, de los seres humanos, de todos los que van a sufrir con este predicamento.
+
+
+
+[53:23] >> Raúl B. Rodríguez: Tenía grandes expectativas en cuanto a que fueras un profeta moderno.
+
+
+
+[53:28] Esencialmente confirmaste... no, es broma.
+
+
+
+[53:34] Tienes toda la razón, y creo que hasta cierto punto esa es la base para una nueva forma de enseñar materias como la tuya, ¿verdad?
+
+
+
+[53:48] ¿Puedes profundizar un poco sobre cómo la realidad, la transición hacia una nueva conciencia respecto al colapso, ha modificado tu forma de enseñar?
+
+
+
+[54:01] >> Luis Fernández Carril: Definitivamente, definitivamente.
+
+
+
+[54:03] Y lo que estamos haciendo en el Tecnológico de Monterrey definitivamente se ve impactado por lo que estamos mencionando.
+
+
+
+[54:11] Creo que hace apenas un par de días nuestro rector, Juan Pablo Murra, mencionaba que las universidades están fundadas sobre el principio de la esperanza.
+
+
+
+[54:21] Eso es lo que construye una universidad: que debe haber esperanza, ya sabes, todo el profesorado debe al final tener la comprensión absoluta de que podemos cambiar el mundo, de que las personas pueden cambiar, de que los estudiantes pueden cambiar, de que la transformación es posible.
+
+
+
+[54:42] Si no creemos eso, ¿entonces cuál es el sentido de nuestras universidades?
+
+
+
+[54:46] Pero sí necesitamos cambiar la forma en que estamos enseñando, los temas que estamos enseñando.
+
+
+
+[54:57] Kate Raworth estuvo con nosotros hace unos meses, y mencionaba que lo que la universidad enseña no puede ir... las ideologías que están detrás de lo que enseñamos no pueden llegar al punto de exacerbar la crisis ambiental que estamos enfrentando.
+
+
+
+[55:16] Y algunos temas, algunos enfoques de la forma en que las universidades están enseñando ahora mismo son en realidad, digamos, parte de la ideología que está creando el problema.
+
+
+
+[55:27] Así que necesitamos entender cómo las universidades se convierten en algo distinto o no replican las ideologías que están exacerbando esta crisis.
+
+
+
+[55:38] Y por otro lado, solo para terminar este comentario, esto también significa que la educación, la filosofía de la educación, debe cambiar.
+
+
+
+[55:49] Ahora tenemos nuevos paradigmas, por ejemplo, la educación para la reducción del riesgo de desastres y la educación para emergencias.
+
+
+
+[56:04] Y esto es algo que realmente necesitamos entender: ¿cuántos de nosotros sabríamos cómo lidiar con un Día Cero?
+
+
+
+[56:13] ¿Cuántos de nosotros sabríamos cómo actuar si la infraestructura crítica de nuestras ciudades no puede suministrarnos alimentos?
+
+
+
+[56:20] Estamos en una universidad, y ¿cuántos de nosotros sabemos realmente cómo cultivar nuestros alimentos, cómo recolectar agua, cómo lidiar con este tipo de cosas?
+
+
+
+[56:33] Así que este es el tipo de cosas que enfrentaremos en el futuro, y el tipo de revolución que necesitaremos en las universidades para estar a la altura del desafío de lo que estamos viendo ahora mismo.
+
+
+
+[56:43] >> Raúl B. Rodríguez: Gracias, Luis.
+
+
+
+[56:45] Antes de pasar la palabra al público, Jem, ¿puedes darnos algunas reflexiones finales?
+
+
+
+[56:50] Me agradó particularmente la forma en que cierras el libro, que es la forma en que E.F. Schumacher cierra su libro.
+
+
+
+[56:57] De hecho, citas su último párrafo, que es un párrafo hermoso que tiene que ver con la necesidad de que primero y ante todo pongamos en orden nuestra casa interior, y eso desde cada ángulo de nuestra casa, empezando por lo espiritual...
+
+
+
+[57:17] Por favor.
+
+
+
+[57:19] >> Jem Bendell: Bueno, sobre la cuestión de qué pueden hacer las universidades, ya dije algunas cosas, pero tú acabas de decir algunas más.
+
+
+
+[57:28] Hace cuatro años di una charla sobre cómo podrían las universidades reimaginar sus operaciones, su investigación, su plan de estudios, sus relaciones comunitarias y su posible influencia política con la idea de que adaptarse al cambio climático sea un principio organizador central.
+
+
+
+[57:55] Así que trabajé un poco en eso, y tengo un blog en mi sitio web, jembendell.com, que salió hace aproximadamente una semana; se llama «Adiós a la academia».
+
+
+
+[58:07] Son solo mis reflexiones tras haberme ido, pero ahí enlazo a esa conferencia de una hora donde repaso algunas de esas cosas.
+
+
+
+[58:15] Así que para aquellos de ustedes que son personal aquí y están interesados en esto, les recomendaría eso, porque por supuesto hay mucho por hacer.
+
+
+
+[58:24] Y mencionaste algunas cosas: en algunos lugares se trata simplemente de qué tan bien preparada está esta universidad con todos sus campus para ayudar si hay una emergencia, si hay inundaciones o si hay un período de calor extremo que vaya a ser peligroso para la gente.
+
+
+
+[58:40] Como, ¿cómo pueden proporcionar refugio?
+
+
+
+[58:43] Cómo pueden... sí, hay tantas cosas en las que la universidad podría desempeñar un papel en la resiliencia de las áreas donde viven.
+
+
+
+[58:53] Y luego, por supuesto, nuevos desarrollos curriculares, como acabas de mencionar: reducción del riesgo de desastres y cosas por el estilo.
+
+
+
+[59:00] Así que, sí, mi libro, la primera mitad del libro describe el problema como un predicamento, y la segunda mitad es mi propuesta sobre cómo darle sentido a esto, por qué sucedió y qué hacer al respecto.
+
+
+
+[59:18] Y como parte de eso, nos invito a ver que esto no es un accidente, sino un resultado de los sistemas de lo que llamo modernidad imperial.
+
+
+
+[59:31] Así que la razón por la que he hecho eso es para animarnos a no empeorar las cosas con reacciones de pánico.
+
+
+
+[59:41] Y la razón por la que elegí hacer eso es porque he conocido a muchos ambientalistas durante los últimos 10 años que públicamente mantienen el argumento de que podemos arreglar esto, y en privado conmigo en el pub después, en el bar, decían: «Creo que estamos...» y durante 10 años...
+
+
+
+[60:03] Y cuando les pregunto: «Entonces, ¿qué hacer?»
+
+
+
+[60:06] Termino escuchando básicamente lo que yo llamaría ecofascismo.
+
+
+
+[60:12] Piensan que tenemos que obligar a la gente a cambiar.
+
+
+
+[60:15] Y entonces, cuando escucho el enfoque bélico, me pongo un poco nervioso porque puede ser ese tipo de idea: que la gente inteligente de la sociedad necesita estar a cargo y obligar a todos a cambiar.
+
+
+
+[60:32] Y ya vemos una reacción violenta contra eso, como una reacción realmente extraña ahora donde —y es porque los multimillonarios de alguna manera han cooptado la agenda climática— mucha gente común piensa que: «Oh, el cambio climático no es eso; Bill Gates quiere que comamos insectos y no salgamos de nuestras casas y no conduzcamos nuestros autos y no comamos hamburguesas».
+
+
+
+[60:55] Ya saben, así que tenemos que tener mucho cuidado de que la agenda ambiental no llegue a ser vista como una agenda autoritaria impuesta desde arriba.
+
+
+
+[61:07] Y por eso mi libro aboga por liberar a las personas para que realmente cuiden más sus entornos y encuentren formas de satisfacer sus necesidades sin utilizar tantos recursos del mundo.
+
+
+
+[61:21] Porque estoy viendo este tipo de idea de que debe haber esta imposición de arriba hacia abajo sobre la gente, y creo que si ese es el camino que toma el ambientalismo habrá una reacción aún mayor en contra.
+
+
+
+[61:36] Y por eso es interesante cómo enmarcarlo puede plantearse como un esfuerzo bélico, pero si eso se convierte luego en una especie de actitud autoritaria, entonces no lo apoyo.
+
+
+
+[61:50] Además, debemos reconocer que si es un predicamento, no hay una solución mágica, y por lo tanto debemos tener cuidado de no quitar prioridad a cosas que son igualmente importantes que los recortes de emisiones de carbono.
+
+
+
+[62:08] Así que no deberíamos destruir todas las áreas silvestres vírgenes en México y más allá porque queramos el litio para conducir vehículos eléctricos.
+
+
+
+[62:16] Pero hay algunos ambientalistas que piensan: «Lo siento, simplemente tenemos que tomarlo».
+
+
+
+[62:20] Y por eso debemos tener mucho cuidado nuevamente en dónde podríamos equivocarnos con la metáfora bélica: ¿es que nada importa aparte de ganar?
+
+
+
+[62:32] No, tenemos que intentar asegurarnos de que todavía nos escuchemos unos a otros, de que todavía tengamos justicia social, de que todavía tengamos derechos y rendición de cuentas.
+
+
+
+[62:41] Por eso este libro intenta abogar por un ambientalismo más bien de abajo hacia arriba en lugar de arriba hacia abajo, un ambientalismo popular que responda a las personas que quieren cuidar sus entornos en lugar de una especie de ambientalismo tecnocrático de arriba hacia abajo.
+
+
+
+[63:00] Por eso, con la experiencia de la COVID, creo que también debemos ser críticos y no tener miedo de debatir sobre qué salió bien y qué salió mal.
+
+
+
+[63:10] Ya saben, ¿qué tanto ayudaron realmente los confinamientos?
+
+
+
+[63:13] Los análisis ahora parecen indicar que no lo hicieron; Suecia lo hizo muy bien y no aplicó confinamientos.
+
+
+
+[63:21] El uso de mascarillas realmente no marcó ninguna diferencia.
+
+
+
+[63:26] Si observan las inyecciones de ARNm, no detuvieron la transmisión, se vendieron de forma engañosa, por lo que la gente pensó que sí lo hacían.
+
+
+
+[63:35] Así que si hubiéramos tenido una comunicación más precisa sobre lo que estas vacunas hacen y no hacen, entonces no habríamos tenido gente —muchos de mis amigos— que simplemente pensaron: «Oh, ya estoy vacunado, puedo ir de fiesta».
+
+
+
+[63:50] Y entonces, ¿por qué pasó eso?
+
+
+
+[63:52] Así que creo que necesitamos tener un pensamiento mucho más crítico y abierto.
+
+
+
+[63:56] Y desafortunadamente todo se ha polarizado, como: «Oh, si lo cuestionas todo, entonces eres un idiota loco del COVID o amas a Donald Trump».
+
+
+
+[64:04] Estas tonterías que nos han impuesto los medios de comunicación masivos no nos ayudan a comprender desafíos como... y tendremos más pandemias y necesitamos aprender de lo que salió mal y lo que salió bien.
+
+
+
+[64:18] Así que, sí, esto nos lleva a la cuestión del terrible entorno mediático que tenemos, ya sean los medios tradicionales o los medios alternativos, es súper deprimente.
+
+
+
+[64:28] Creo que todos los días siento una especie de sufrimiento por lo mala que es la comunicación.
+
+
+
+[64:36] Así que, sí, hay... y en el capítulo siete hablo de esto como una especie de aspecto y acelerador del colapso social, como una especie de ruptura en la calidad de nuestro sistema de comunicación.
+
+
+
+[64:52] Así que el cierre de mi libro es, sí, nosotros... como las cosas son tan inciertas ahora, he renunciado a mis historias de tener impacto a escala, impacto intencional a escala.
+
+
+
+[65:12] Todavía quiero intentar contribuir a escala, de lo contrario no estaría aquí, simplemente estaría en casa en Indonesia con mi gatito y mis amigos.
+
+
+
+[65:19] Así que esto se debe a que todavía me gustaría intentar tener algún impacto a escala, pero no quiero hacerlo de una manera que me distraiga de ser una mejor persona y contribuir localmente ahora.
+
+
+
+[65:34] Así que he vuelto más a mí mismo, a mis amigos y a mis vecinos, tratando de hacer las cosas de manera diferente donde vivo, mientras que antes era este pez gordo que iba a Davos y a la ONU y trataba de hacer todas estas cosas grandes, simplemente ignorando cómo vivo con la gente y si estoy encarnando los valores en los que creo.
+
+
+
+[66:03] >> Raúl B. Rodríguez: Preguntas del público, por favor.
+
+
+
+[66:05] Solo dennos una idea rápida de su nombre, por supuesto, y de dónde vienen.
+
+
+
+[66:21] >> Participante 1: Sí, hola.
+
+
+
+[66:25] Gracias.
+
+
+
+[66:28] Lo que he estado pensando al escuchar la charla de hoy y la de ayer es, bueno, ¿por qué estamos protegiendo la forma en que vivimos ahora mismo?
+
+
+
+[66:41] ¿Por qué moldeamos este cambio y esta lucha para proteger un estilo de vida capitalista?
+
+
+
+[66:55] Y lo que estamos haciendo al hacer eso es simplemente ralentizar el proceso de lo que podría ser una forma de proteger más de lo que hemos estado destruyendo.
+
+
+
+[67:10] Es decir, si sabemos que el capitalismo eventualmente va a fracasar, lo cual creo que es un hecho, ¿por qué estamos tan empeñados en hacer este enorme esfuerzo para protegerlo?
+
+
+
+[67:27] Y entonces, ¿por qué no deberíamos abrazar esta caída —no de la Tierra, sino de la forma en que vivimos hoy— y de hecho intentar acelerarla?
+
+
+
+[67:51] >> Jem Bendell: Es una buena pregunta, y es una pregunta que ahora se hace cada vez más, particularmente por activistas que han descubierto que sus esfuerzos en protestas pacíficas para lograr que los gobiernos actúen han fracasado por completo.
+
+
+
+[68:09] Por eso libros como el llamado Cómo dinamitar un oleoducto se han vuelto populares.
+
+
+
+[68:15] Así que están empezando conversaciones en el movimiento ambientalista sobre lo que mencionaste, que es: «Bueno, tal vez deberíamos sabotear, tal vez deberíamos acelerar el desmoronamiento de las sociedades de consumo industriales, tal vez eso signifique...»
+
+
+
+[68:31] Y de hecho hay un grupo llamado Resistencia Verde Profunda que aboga por eso, y entonces tal vez eso signifique que podríamos salvar más del mundo natural y podríamos darles a las generaciones futuras una mejor oportunidad.
+
+
+
+[68:42] Ahora bien, para mí eso carece de base científica, en cuanto a investigación.
+
+
+
+[68:56] De lo que sí tenemos datos es de cómo los momentos de violencia ideológica conducen a una reacción autoritaria justificada.
+
+
+
+[69:11] Y es muy raro que los momentos de violencia ideológica realmente creen algún cambio en línea con las ideas, soluciones y visiones asociadas con las personas que ejercieron esa violencia ideológica.
+
+
+
+[69:31] Así que el libro de Andreas Malm es inútil para proporcionar evidencia.
+
+
+
+[69:35] Él dice: «Oh, sí, todas estas protestas pacíficas no funcionan».
+
+
+
+[69:38] Sí, pero no argumenta cómo funcionan estas otras cosas.
+
+
+
+[69:42] Y donde sí vemos que el sabotaje industrial ha tenido éxito en el pasado es cuando lo realizan los empleados en sus propias empresas como parte de disputas de relaciones laborales.
+
+
+
+[69:54] Es como si de repente a los autos que salen de la línea de producción se les cayeran las ruedas, y es como si la gerencia dijera: «Oh, tal vez deberíamos llegar a ese acuerdo y dar ese aumento salarial».
+
+
+
+[70:03] Pero todo eso se hace a ese nivel; no es como una especie de gran declaración política grandilocuente.
+
+
+
+[70:11] Así que no veo que un giro hacia un movimiento ambientalista más confrontativo, incluyendo la violencia, nos ofrezca mucho.
+
+
+
+[70:27] Sin embargo, aquellas personas que están en luchas de alta intensidad tratando de proteger su selva tropical de la excavadora, de la maquinaria que entra para talarla, y que deciden tener un conflicto de ese nivel, no las condeno en absoluto.
+
+
+
+[70:43] Lo entiendo perfectamente, y entiendo cómo eso puede volverse violento, y odiaría estar en su situación, y nunca las condenaría por buscar formas de intentar destruir los vehículos o la maquinaria de la destrucción.
+
+
+
+[70:59] No las condenaría.
+
+
+
+[71:03] ¿Lo apoyo?
+
+
+
+[71:05] Me resulta muy difícil, porque creo que es bastante contraproducente para alguien en mi posición apoyar la violencia como una narrativa de lo que deberíamos estar haciendo.
+
+
+
+[71:27] Así que no soy... se llama aceleracionismo.
+
+
+
+[71:30] Hay gente en Silicon Valley que quiere colapsar los sistemas mundiales para dar paso a una especie de mundo dirigido por la IA.
+
+
+
+[71:36] Así que yo me llamo a mí mismo desaceleracionista, y no es por otra cosa que porque soy un poco egoísta y me gusta... ya sabes, me gusta lo que estamos haciendo hoy, me gusta el hecho de tener mi café y tener un micrófono en la mano y que podamos ir a tomar una cerveza más tarde.
+
+
+
+[71:55] Es bastante divertido.
+
+
+
+[71:58] Y así, egoístamente, no quiero hacer que todo esto colapse más rápido.
+
+
+
+[72:04] Digo que es egoísta porque no estoy viviendo en el extremo desagradable del imperialismo global, no están destruyendo mi hogar una empresa minera.
+
+
+
+[72:20] Así que no estoy generalizando a partir de eso; entiendo totalmente a la gente que dice: «Sí, derribemos el sistema, sí, a quién le importa, derribemos el capitalismo, acelerémoslo».
+
+
+
+[72:30] Respeto eso; no los apoyo y no me uno a ellos en eso.
+
+
+
+[72:36] Pero eso es en parte porque simplemente disfruto de mi propia vida tal como es ahora, y yo... así que no hay nada mayormente ético en mi postura.
+
+
+
+[72:50] >> Participante 2: Hola.
+
+
+
+[72:52] Soy de aquí, de Monterrey, y tengo una pregunta sobre este sistema, bueno, esta transición de sistema de la que estamos hablando, de un sistema capitalista para hacer la transición a otro tipo de sistema.
+
+
+
+[73:13] Tenía una pregunta sobre este nuevo sistema del que todos estamos hablando, y cuáles son las bases de este, y las principales características de cómo debería ser para apoyar la sostenibilidad del mundo.
+
+
+
+[73:42] >> Jem Bendell: Bueno, soy un gran defensor de la relocalización de la producción, el comercio y el consumo, y de la participación política y la gobernanza.
+
+
+
+[73:51] Así que esa relocalización... ¿podemos comprar más de nuestras cosas localmente?
+
+
+
+[73:54] ¿Podemos producirlas más localmente?
+
+
+
+[73:56] ¿Podemos arreglarlas y remendarlas más localmente?
+
+
+
+[73:59] Y como parte de eso, si estamos haciendo eso, pero dependemos de medios de intercambio —es decir, dinero emitido por bancos que son subsidiarias de bancos internacionales que son subsidiarias de BlackRock y Vanguard—, entonces realmente no estamos relocalizando.
+
+
+
+[74:19] Así que una agenda coherente de relocalización también debería experimentar con medios de intercambio alternativos, monedas alternativas que se emitan y gobiernen localmente.
+
+
+
+[74:32] No significa reemplazar las monedas nacionales, sino que significa que necesitamos crear complementos, y eso significa que mantenemos más del valor en estas localidades.
+
+
+
+[74:40] Así que eso es un... y estoy de acuerdo con Helena Norberg-Hodge y el grupo Local Futures, donde hablan de eso como una visión global de relocalización.
+
+
+
+[74:55] Así que no significa que simplemente te olvides del resto del mundo; intentas relocalizar donde vives, pero eres solidario con las personas que intentan ayudar con eso en todas partes, y utilizas los sistemas de comunicación internacionales para compartir ideas sobre cómo relocalizar la producción, el comercio, el consumo, el intercambio y la gobernanza.
+
+
+
+[75:16] Así que eso es algo así como si estás pensando en nuevos sistemas, porque un aspecto de un sistema monetario expansionista y del capitalismo es que, en última instancia, se trata de cómo podemos extraer valor y tener ese valor como líquido que luego simplemente puede ir y acumularse en otro lugar.
+
+
+
+[75:36] Y así, la relocalización es una forma alternativa de pensar económicamente.
+
+
+
+[75:46] >> Participante 3: Bueno, soy de la República Dominicana y quería preguntar algo sobre, bueno, más el aspecto personal de todo este asunto.
+
+
+
+[75:59] Mencionaste sobre la misantropía y cómo puede llevar a un odio hacia la humanidad, y más importante aún, como este desagrado por el progreso y por el desarrollo.
+
+
+
+[76:10] Y nosotros... podría decir que la mayoría de nosotros estamos estudiando para desarrollarnos en el mundo industrial y trabajar en esta parte y ser parte de un engranaje de una gran máquina.
+
+
+
+[76:26] Entonces, si estuviéramos, digamos, destinados a... quisiéramos trabajar por un cambio del sistema y todas estas cosas, ¿cuál dirías que sería la forma correcta de lidiar con estos sentimientos contradictorios de trabajar hacia un futuro mejor, pero al mismo tiempo trabajar para la misma máquina que está comprometiendo este futuro?
+
+
+
+[76:59] >> Jem Bendell: Diré algo, pero luego también me doy cuenta de que debería... no, está bien.
+
+
+
+[77:03] Lo primero que quiero decir es que la suposición del dominio humano —que estamos a cargo del planeta Tierra, que somos el centro del universo— y la suposición del progreso humano —que la cultura, la tecnología, la ciencia y nuestras capacidades materiales mejorarán para siempre—...
+
+
+
+[77:28] Esas ideas no son sinónimo de, no son lo mismo que, el amor a la humanidad y la creencia en la humanidad.
+
+
+
+[77:37] Y el hecho de que se hagan pasar por lo mismo es modernismo; es un artefacto cultural de la sociedad en la que vivimos.
+
+
+
+[77:46] Así que algunas personas piensan que cuando digo que el progreso se ha acabado en un sentido material —estamos en una era de retroceso, y los datos lo demuestran, los datos del índice de desarrollo humano desde 2019 en el 80 % de los países van hacia atrás, incluidos los países de la OCDE—, algunas personas piensan que estoy siendo un poco grosero con la humanidad.
+
+
+
+[78:14] No lo soy.
+
+
+
+[78:14] Creo que somos geniales, incluso si no estamos progresando materialmente, incluso si no vamos a fabricar el próximo último iPhone, no significa que no seamos maravillosos.
+
+
+
+[78:23] Simplemente... así que eso es lo primero que hay que decir.
+
+
+
+[78:32] Pero tu pregunta es una pregunta para todos, no solo para quienes están en la universidad.
+
+
+
+[78:40] Es como: «¿Debería seguir trabajando en el sistema, buscar un progreso profesional en el sistema —tal vez para una gran corporación mexicana o una corporación internacional— teniendo al mismo tiempo la conciencia de lo que está sucediendo en el mundo y de cómo el sistema tiene la culpa, y por lo tanto también la corporación con la que trabajas en su mayoría no está ayudando?».
+
+
+
+[79:11] Vaya, es una pregunta realmente importante, y he escrito dos artículos al respecto.
+
+
+
+[79:17] Depende de la naturaleza de la empresa y de tus propios compromisos personales.
+
+
+
+[79:24] Así que algunas personas tienen hipotecas que pagar, hijos en la escuela o en la universidad y colegiaturas que pagar; tienen más responsabilidades y, por lo tanto, tienen que tener cuidado con la forma en que cambian.
+
+
+
+[79:37] Lo que argumento es que, debido a tus circunstancias personales y tus responsabilidades financieras personales, no guardes este tema en el armario.
+
+
+
+[79:52] No va a desaparecer; estará ahí por el resto de nuestras vidas, es el predicamento.
+
+
+
+[79:58] No significa que tengas que dejarlo todo, renunciar a tu trabajo y abandonar tu carrera de inmediato.
+
+
+
+[80:04] Puedes encontrar formas de adaptarte e incorporar lentamente esta conciencia y dejar que te cambie.
+
+
+
+[80:10] Así que eso es para las personas que ya tienen empleo.
+
+
+
+[80:12] Pero en tu etapa, si no tienes hijos, si no tienes hipotecas, si no tienes grandes responsabilidades, tienes una oportunidad increíble ahora para repensar por completo cómo quieres vivir tu vida y el tipo de carrera que quieres tener.
+
+
+
+[80:28] Cuando conozco a jóvenes y piensan... es decir, no tienes que respetar todo lo que tus padres han respetado y esperado de ti.
+
+
+
+[80:38] Simplemente dales mi libro y diles: «Bueno, me voy a ir y... tengo todo un grupo de personas, nos vamos a mudar a ese rancho, y vamos a cultivar nuestros propios alimentos, y vamos a hacer nuestra propia música, y vamos a crear nuestras propias monedas, y vamos a demostrar cómo podemos vivir de manera diferente y pasar un rato brillante juntos.
+
+
+
+[81:01] Vamos a divertirnos mucho más y tal vez a tener más sexo».
+
+
+
+[81:04] Quiero decir, ya sabes, simplemente suéltalo así.
+
+
+
+[81:13] >> Raúl B. Rodríguez: Con esa nota, particularmente la última frase, gracias, Jim, por tu tiempo.
+
+
+
+[81:20] Gracias por tu visita.
+
+
+
+[81:23] Carl Sagan solía decir que una de las palabras más hermosas del idioma inglés era comprensión, en todos sus diferentes significados.
+
+
+
+[81:31] Gracias por ayudarnos a comprender lo que está sucediendo, incluso en el contexto del colapso, o tal vez más importante aún, en el contexto del colapso.
+
+
+
+[81:43] Y gracias por ayudarnos a encontrar algún nivel de esperanza, tal vez algún nuevo significado de esperanza en el ámbito del colapso.
+
+
+
+[81:56] Espero que tengas una estancia muy feliz en México.
+
+
+
+[82:00] Vas a la Ciudad de México a continuación, ¿verdad?
+
+
+
+[82:03] Y posiblemente pases tu cumpleaños en la Ciudad de México, así que el sábado...
+
+
+
+[82:09] >> Jem Bendell: No en un temazcal.
+
+
+
+[82:11] >> Raúl B. Rodríguez: Sí, oh por Dios, sí.
+
+
+
+[82:13] >> Jem Bendell: Bien, así que... así que si vuelvo aquí algún día, seré diferente, seré una persona nueva.
+
+
+
+[82:18] >> Raúl B. Rodríguez: Bueno, no podemos ofrecerte un temazcal en Monterrey, pero haremos nuestro mejor esfuerzo en términos de cabrito o algo por el estilo.
+
+
+
+[82:25] Así que, de nuevo, muchas gracias, ten una estancia maravillosa y un buen regreso a casa.
+
+
+
+[82:31] >> Jem Bendell: Me sentí muy, muy bienvenido y realmente disfruté mi estancia hasta ahora.
+
+
+
+[82:36] Así que gracias a todos los que han participado para hacer esto posible, traerme aquí y hacer realidad el libro en español.
+
+
+
+[82:42] Gracias a todos, gran equipo.
+
+
+
+[82:44] Muchas gracias.
