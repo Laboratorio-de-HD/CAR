@@ -1,0 +1,343 @@
+[02:57] >> Ana Laura Santamaría: ¿Qué tal? Feliz Día del Libro.
+
+[03:00] Bienvenidas y bienvenidos a este evento tan relevante para festejar hoy justamente el Día Mundial del Libro.
+
+[03:10] A nombre del Ágora Gabriel Zaid del Tecnológico de Monterrey, les damos la más cordial bienvenida a esta conversación con el historiador de la cultura, uno de los máximos especialistas en la historia del libro a nivel mundial, Roger Chartier, quien va a estar en esta ocasión conversando con nuestra decana y gran lectora, Inés Sáenz.
+
+[03:36] Como ustedes saben, el Ágora Gabriel Zaid fue fundada el 24 de enero de 2024, fecha de aniversario, de nacimiento de este gran intelectual, gran poeta, editor, ensayista y, sobre todo, pensador de la cultura del libro y también de la cultura del desarrollo en nuestro país, que es Gabriel Zaid, egresado también del Tecnológico de Monterrey y a quien mandamos un caluroso y entrañable saludo de agradecimiento.
+
+[04:08] Celebrando así y honrando su obra y su pensamiento, es que esta Ágora Gabriel Zaid ha convocado en esta ocasión a Roger Chartier para tener esta conversación justamente sobre la historia del libro y de la lectura.
+
+[04:24] Así es que les damos la bienvenida y con mucho gusto le cedo la palabra a Inés Sáenz, vicerrectora de Inclusión del Tecnológico de Monterrey. Adelante, Inés.
+
+[04:35] >> Inés Sáenz: Muchas gracias, Ana Laura. Bueno, primero, profesor Chartier, es un privilegio inmenso estar frente a usted, aunque sea en línea, conectados Monterrey y Filadelfia en esta conversación.
+
+[04:49] Y antes de iniciar esta conversación, yo sí quisiera leer una brevísima semblanza suya. Aunque el público conectado ha leído parte de su obra y lo conoce, es importante que el público en general lo conozca más.
+
+[05:08] Bueno, ustedes saben que Roger Chartier es profesor emérito del Collège de France, el Colegio de Francia; es también profesor visitante de la Universidad de Pensilvania y con frecuencia pues imparte conferencias y clases en el mundo, ¿no?, Estados Unidos, España, en México —bueno, tenemos el privilegio de tenerlo—, Brasil, Argentina.
+
+[05:31] Colabora habitualmente también en "Le Monde des Livres", esta revista del prestigioso periódico "Le Monde" sobre libros y sabemos que su legado es evidente a través de sus múltiples libros, pero también yo quiero mencionar su legado en la difusión del conocimiento a públicos no especializados.
+
+[05:54] Por ejemplo, participó con otros historiadores connotados en la producción del programa de radio "Los lunes de la historia". Un programa semanal en el que uno de los historiadores del programa, junto con otros especialistas del mismo tema, lleva a cabo una entrevista a profundidad para debatir con un autor, presentar su trabajo y el interés historiográfico de su obra.
+
+[06:20] Un programa memorable y que todavía podemos escuchar fueron sus conversaciones con Pierre Bourdieu sobre estas "Meditaciones pascalianas". Creo que fue muy interesante.
+
+[06:30] En fin, estamos frente a un historiador que ha abierto un campo de estudio interdisciplinario y vasto que conecta mundos, épocas, lenguas y además públicos, tanto especializados, evidentemente, como aficionados. Un traductor en múltiples sentidos.
+
+[06:49] Bienvenido, profesor Chartier.
+
+[06:51] >> Roger Chartier: Muchas gracias.
+
+[06:53] >> Inés Sáenz: Bueno, empezamos la conversación y esta es la pregunta más larga, lo advierto al público, pero en realidad las demás van a ser cortas porque lo importante es la voz del profesor Chartier. Pero bueno, mi primera pregunta trata... Abrimos la conversación sobre su aventura intelectual.
+
+[07:13] Empecemos por el abordaje que usted hace a la historia de la lectura, del libro, de la cultura escrita. Sabemos que su cátedra en el Colegio de Francia aborda lo escrito y las culturas en la Europa moderna.
+
+[07:26] Usted desarrolla un campo de estudio interdisciplinario que ha tenido una influencia definitiva y enriquecedora en los estudios literarios, la historiografía, la sociología. En fin, no es la idea que usted dé un resumen de las decenas de libros que ha escrito, pero sí que nos pudiera explicar de qué manera usted fue entendiendo la multiplicidad de interacciones y de capas de sentido que surgen cuando uno habla de la cultura escrita, del libro, de la materialidad de los textos, de la lectura y sus apropiaciones, de sus autores, incluso de la publicación como una suerte de red de muchos autores o actores implicados. Adelante.
+
+[08:07] >> Roger Chartier: Muchas gracias por la invitación. Es un placer volver a Monterrey, inclusive si es a través de una pantalla.
+
+[08:17] Voy a empezar con una cita de Gabriel Zaid, que en su texto, "La imprenta y la vida pública", que pertenece a la recopilación del libro de Zaid "De los libros al poder", citaba a Quevedo: "Retirado en la paz de estos desiertos con pocos pero doctos libros juntos, vivo en conversación con los difuntos y escucho con mis ojos a los muertos".
+
+[08:55] Gabriel Zaid comentaba: "La imprenta, vengadora de injurias de los años, libra a las grandes almas que la muerte ausenta y les da una especie de vida eterna. La lectura nos integra a una comunidad invisible por encima de los límites sociales, históricos, materiales del espacio y del tiempo. Los libros nos permiten ser parte, a pesar del apartamiento, participar en otra vida que rebasa los límites de esta".
+
+[09:31] Y me había llamado la atención porque había dado como título para mi aula inaugural del Collège de France: "Escuchar a los muertos con los ojos". Y es la manera de responder a su pregunta, porque escuchar a los muertos con los ojos implica, en primer lugar, una relación con lo que han escrito los muertos: textos, obras.
+
+[10:04] Entonces, un análisis, una comprensión, un estudio de lo escrito, de la obra escrita; pero con los ojos encontramos más que una obra, encontramos un objeto: un libro, un periódico, un panfleto…
+
+[10:26] Entonces, los ojos implican que también vamos a considerar la materialidad, como usted decía, de la publicación, de la transmisión de los textos, y de ahí se debe vincular esta atención para la materialidad de la publicación con el análisis del contenido textual. Y finalmente, los ojos no son únicamente nuestros ojos; son también los ojos de los lectores que han leído en el pasado las obras que leemos nosotros hoy en día.
+
+[11:06] Y de ahí se ve que, si se piensa de esta manera, debemos necesariamente vincular varias aproximaciones. La primera, en relación con los textos, es la aproximación de la crítica literaria, de la crítica textual, de la filología.
+
+[11:25] Cuando estamos frente a la materialización del texto en una forma u otra de su inscripción, encontramos las disciplinas eruditas de la paleografía, de la codicología, de la bibliografía.
+
+[11:41] Y finalmente, si queremos compartir con los otros muertos su relación con las obras, debemos introducir toda la dimensión de una historia cultural o de una historia social y de las prácticas culturales, empezando, como usted decía, con la lectura. Y pienso que a partir de este triángulo: texto, objetos y apropiaciones; que he construido las investigaciones que usted mencionaba con generosidad.
+
+[12:22] Algunas veces empezando con un texto, siguiendo la historia de este texto a través de sus formas de inscripción, de publicación o de sus recepciones; pueden ser obras canónicas o clásicas como "Don Quijote", pueden ser también textos que tenían una circulación más anónima y popular.
+
+[12:49] Otras perspectivas podrían ser: empezar con la materialidad de una clase de objeto, por ejemplo, los pliegos sueltos de la literatura de cordel; por ejemplo, un artículo que había escrito sobre el formato cuarto y qué eran los textos publicados en el formato in-quarto en la primera Edad Moderna; o, finalmente, empezando con las prácticas mismas de lectura, en este sentido abriendo este campo compartido de la historia de la lectura.
+
+[13:24] Me parece que es a partir de esta relación: texto, objeto material y práctica cultural, es que podemos ubicar la trayectoria que usted recordaba con una excesiva generosidad.
+
+[13:46] >> Inés Sáenz: Bueno, gracias, muy interesante. Y esta cita que usted, también hace en su discurso inaugural y que ahora retoma a través de la obra de Zaid, esto de escuchar con sus ojos a los muertos, pues también tiene que ver con dos grandes autores canónicos que han sido fundamentales para la literatura moderna europea que son Cervantes y Shakespeare. Y usted ha hecho buena parte de su investigación también sobre ellos. ¿Por qué?
+
+[14:27] >> Roger Chartier: Para justificar el 23 de abril, porque es el día que la UNESCO había decidido como Día del Libro y de la Edición, suponiendo que los dos fallecieron el mismo día de 23 de abril de 1616. Y había añadido también, la UNESCO, un tercero muerto del 23 de abril: el Inca Garcilaso de la Vega.
+
+[14:59] Ahora se puede discutir, porque parece que Cervantes falleció el 22 y fue sepultado el 23; Shakespeare vivía en otro calendario, porque Inglaterra no había aceptado la reforma gregoriana. En este sentido, para todo el mundo, salvo Inglaterra, Shakespeare falleció en los primeros días de mayo; y hay una discusión para el Inca Garcilaso de la Vega si falleció el 22, el 23 o el 24, pero no importa. Aquí me encuentro con esta fecha de tres autores fundamentales, y usted mencionaba a los dos que pertenecen a la tradición de la literatura occidental: Shakespeare y Cervantes.
+
+[15:42] La razón del interés puede ser en relación con algo fundamental que sería que la obra de "Don Quijote de la Mancha", pero también las "Novelas ejemplares" o "Los trabajos de Persiles y Sigismunda", y las obras teatrales de Shakespeare tienen esta paradójica naturaleza, que es por un lado, estar realmente ubicadas, arraigadas en su tiempo.
+
+[16:22] Y son obras que están realmente en un tiempo particular, contexto social, teoría política y coyunturas económicas... todo esto está presente en las obras de Shakespeare y Cervantes. En el caso de Shakespeare, las obras históricas basadas sobre la teoría de los dos cuerpos del rey; en el caso de Cervantes, como lo mostró Pierre Vilar en un ensayo magnífico, una profunda reflexión sobre las crisis de su tiempo. Son obras que se deben leer históricamente, si no, no se entiende lo que querían escribir y representar sobre: las tablas, Shakespeare; o lo que quería escribir en una forma nueva y prácticamente original de la ficción, Cervantes. A distancia tanto de la novela caballeresca satirizada, de la novela picaresca o de la novela pastoril.
+
+[17:33] Y al mismo tiempo, evidentemente, son obras que tienen una fuerza, un valor universal. Se ve bien porque hoy en día Shakespeare está representado en todos los teatros del mundo. Y puedo recordar que después de la Segunda Guerra Mundial, cuando fueron abiertos en Francia el Teatro Nacional Popular de Jean Vilar o en Italia el Piccolo Teatro de Giorgio Strehler, la primera obra que han representado era "Ricardo II", que era evidentemente completamente diferente en su teoría política del mundo de la post Segunda Guerra Mundial, pero que al mismo tiempo, con los conflictos entre esos individuos, entre esos rangos, entre las visiones del futuro, tenía una fuerza de la actualidad muy, muy, muy grande.
+
+[18:35] El caso de Cervantes, si está presente. Y si lo han traducido de nuevo y adaptado es porque también este sueño cervantino es un sueño grotesco de un hombre que quiere establecer o pensar que ya existe un mundo ideal, diferente de las tensiones, crueldades del mundo real. Sustituyendo este sueño de un mundo perfecto, el mundo de la caballería, a los defectos o a las crueldades de la experiencia vivida, también es una lección universal.
+
+[19:20] Entonces, me parece que este encuentro es fundamental porque, por un lado, obliga a un análisis, como decía, de crítica textual, de bibliografía material, de historia cultural para los que Shakespeare y Cervantes querían escribir y cómo fueron recibidas sus obras en su tiempo; y al mismo tiempo, las podemos leer sabiendo, o no, todo este saber histórico. Más, haciendo hincapié en lo que nos dicen hoy en día en cuanto al mundo social o en cuanto a las relaciones de poder. Esta es la razón, me parece, de un interés tanto como historiador y como lector o espectador.
+
+[20:10] >> Inés Sáenz: Sí, en efecto, pues son autores que siguen teniendo una fuerza y una elocuencia en la actualidad muy importantes. Bueno, vamos a Shakespeare, y a propósito de Shakespeare, para estudiarlo usted emprende un viaje que va de la representación teatral al texto impreso.
+
+[20:31] ¿Qué formas tomó ese viaje que usted estudia y reconstruye en Shakespeare? Me refiero a la multiplicidad de formas en las que se imprimieron las obras, a la práctica de lectura... ¿Qué hay ahí? Que me parece muy interesante.
+
+[20:47] >> Roger Chartier: Sí, porque aquí hay dos o tres cosas que están involucradas. La primera es que usted hablaba de un viaje entre el escenario y el texto impreso, y es verdad que hay este itinerario que permite a lectores leer textos que no han visto representados o que permite a los que han asistido al espectáculo de tener una memoria, recuerdos de lo que han escuchado o visto.
+
+[21:22] Al mismo tiempo, debemos pensar, y también sería una diferencia entre Cervantes y Shakespeare, que el género teatral no era necesariamente impreso. La mitad de las obras de Shakespeare representadas, antes de su muerte nunca fueron impresas. Es solamente en 1623 que dos ex-colegas de la compañía de Shakespeare, The King's Men. Heminge y Condell, decidieron producir un monumento en honor y en memoria de Shakespeare: el Primer Folio de las 36 obras de Shakespeare.
+
+[22:05] Que la mitad de esta obra, por primera vez, siete años después de la muerte de Shakespeare fueron publicadas. De esta manera, debemos pensar también en el aspecto efímero y frágil de la obra teatral que puede desaparecer sin nunca estar impresa. Y los especialistas del mundo isabelino en Inglaterra muestran que tal vez dos tercios de las obras que conocemos gracias a una mención de su título nunca fueron publicadas. De esta manera, hay un primer aspecto de la fragilidad del género teatral en relación con la forma impresa.
+
+[22:53] La segunda observación sería que, efectivamente, cómo en el texto impreso se puede introducir algo del espectáculo. Para las ediciones del siglo XVI o XVII no había preocupación para esto, más una transcripción memorial del texto; a partir de los comienzos del siglo XVIII, e inclusive para las obras reeditadas de Shakespeare en varias formas, había la idea, la necesidad de introducir algo del espectáculo teatral dentro de la edición impresa: la división entre escenas, el nombre de los personajes que comparten el escenario durante una escena, indicaciones de los movimientos de los protagonistas... todo esto era la presencia de una imagen, que podía representar una ilustración, que podía representar una escena de la obra.
+
+[24:02] La idea de que el texto impreso debía conservar o introducir algo del espectáculo teatral, siempre era un tema fundamental: la distancia entre el espectáculo teatral y la forma impresa de la publicación de la obra. De ahí, las declaraciones, algunas veces sinceras o no, para los dramaturgos, por ejemplo Molière, de que no se debía imprimir algo que está escrito para la representación.
+
+[24:39] Evidentemente podía estar desmentido por el estatus…la condición de autor, que podía solamente existir completamente a través de la forma impresa; pero me parece que es una especificidad del género teatral.
+
+[24:57] La comparación entre Shakespeare y Cervantes que podemos discutir más allá es importante, pero no debemos olvidar que, inclusive si Cervantes ha escrito comedias, algunas que fueron representadas y no publicadas, y otras que fueron publicadas y nunca representadas, no es un autor teatral, cuando Shakespeare ha escrito solamente obras de teatro.
+
+[25:25] Esto crea una dificultad o una diferencia, porque las otras obras de Cervantes pertenecen a géneros que normalmente circulan a través de la publicación impresa, tales como la novela o la historia del “Don Quijote de la Mancha”.
+
+[25:38] >> Inés Sáenz: Claro. Y bueno, sobre el aspecto efímero y frágil de la obra teatral, de eso vamos a hablar después..
+
+[25:54] Antes me gustaría preguntarle... Vamos a Cervantes, a Cervantes y las prácticas de la lectura, porque usted ha estudiado esta dimensión en sus múltiples vertientes en "Don Quijote", por ejemplo, en "Don Quijote de la Mancha". Si quisiera hablar al respecto.
+
+[26:07] >> Roger Chartier: Aquí hay dos aspectos: la lectura o las lecturas de "Don Quijote" y las lecturas del "Quijote" como obra impresa y siempre reeditada en todas las lenguas del mundo y en todos los formatos posibles.
+
+[26:31] La primera perspectiva, las lecturas de Don Quijote y ciertamente a este modelo de lectura en el cual se olvida la dimensión material se proyecta dentro del libro, del texto, y proyecta el texto sobre su propio mundo. Y de ahí, con Don Quijote, las lecturas de todas las noches de las novelas de caballería, un modelo de lectura que es este modelo en que se suprime la distancia entre el mundo del lector y el mundo del texto. Hay un magnífico ensayo de Borges sobre las "Magias parciales del Quijote", haciendo hincapié en esto.
+
+[27:31] La distancia desaparece: el lector vive dentro del texto y el texto es sustituido a la realidad contemporánea del lector, que es evidentemente un modelo de lectura que va a tener un futuro inmenso a través de las formas sucesivas de la novela y de la ficción. Con esta idea, debemos pensar en los dispositivos también, que permiten en la escritura o en la publicación esta identificación entre el mundo del lector y el mundo del texto.
+
+[28:13] Cervantes inventó la forma, tal vez la primera y más fundamental, la más extrema de esta identificación entre texto y mundo. Y el lector vive en el mundo de sus textos más que en el mundo de su realidad histórica. Sería un primer comentario de lo que podría explicar de algunas de las lecturas del "Quijote".
+
+[28:44] Y aquí me parece... Hay un libro magnífico de Jean Canavaggio sobre este tema, porque las lecturas del "Quijote" fueron profundamente transformadas al correr de los siglos. Había una observación de Nietzsche que decía que hoy en día leemos el "Quijote" con una amargura en la boca, cuando en su tiempo era hacer reír a la gente.
+
+[29:17] De esta manera se ve que este modelo que estaba describiendo la lectura de Don Quijote puede ser, en primer lugar, el objeto de la sátira, de la risa, de la parodia, del ridículo. Y claramente con la recepción del personaje en el siglo XVII, lo podemos ver cuando este personaje está transformado en un personaje que participa en fiestas públicas o que es un personaje adaptado para una obra teatral, y lo esencial es el aspecto que hace reír. Esta es la confusión entre el mundo del libro y el mundo del lector.
+
+[30:10] Cuando en el siglo XVIII, las lecturas del libro se focalizaron sobre las dos lecturas de Don Quijote: por un lado, evidentemente, esta lectura que le conduce a la locura de pensar que el mundo, su mundo, puede ser el mundo de la literatura caballeresca, una forma de alienación; y al mismo tiempo, cuando Don Quijote habla de cualquier otro tema, es un hombre cuerdo, un hombre sabio para discutir de la comedia, para discutir de otros géneros.
+
+[30:52] Precisamente, durante la Ilustración, en el “Quijote” hay dos vertientes de la lectura: el riesgo de una alienación, de una pérdida del sentido común, y por otro lado, la lectura como alimento, como una forma de construir un razonamiento claro, agudo, preciso.
+
+[31:21] Y de esta manera, la lectura del XVIII fue considerar el "Quijote" como una novela, en este caso, un modelo de novela. En Inglaterra, en el XVIII, hay cinco traducciones sucesivas del "Quijote". Después de las primeras del XVII, las dos primeras. Lo que una vez se había escrito, que tal vez "Don Quijote" era la novela inglesa más famosa del siglo XVIII; y al mismo tiempo, la lectura como instrumento del conocimiento, de la razón, de la Ilustración.
+
+[31:57] Y ahora se ve que en el siglo XIX, esta idea de un hombre que imagina un mundo mejor en el cual vive a que en el mundo en el cual vive realmente, ha creado el Don Quijote romántico: un personaje que es víctima de su ilusión y también de los otros, de la crueldad del mundo, opuesta a este sueño de un mundo ideal.
+
+[32:28] Ahora hay una figura romántica de esto, y particularmente en las ilustraciones de las ediciones del libro en Francia con Gustave Doré, y hay una versión más política. Ustedes se acuerdan de que a finales del siglo XIX, muchos de las pequeñas revistas o periódicos anarquistas, socialistas tenían como título "Don Quijote de la Mancha".
+
+[33:00] Finalmente, esto nos podrá conducir hasta el siglo XX. Cuando, particularmente en España, el “tiempo del Quijote” y el "Quijote en su tiempo” se volvieron una imagen de la debilidad, de la fragilidad, de la imposibilidad para España de mantenerse como una nación esencial. Es un poco la Generación del 98 que había transformado a Don Quijote en el emblema de un destino desastroso y cruel de la nación.
+
+[33:45] Entonces, para recordar que podemos articular las lecturas del Quijote como personaje y la lectura del "Quijote" como libro.
+
+[33:55] >> Inés Sáenz: Es sorprendente cómo usted pudo de manera elocuente resumir siglos de lecturas y cómo estas han variado con el tiempo.
+
+[34:09] Bueno, y ahora tendamos un puente entre Shakespeare y Cervantes, y me refiero a su investigación sobre “La historia de Cardenio", este texto fantasma o un título sin texto, pensando justamente en este aspecto efímero, frágil de la obra teatral, ¿verdad? ¿Y esto cómo conecta a Shakespeare con Cervantes? ¿Qué nos puede compartir?
+
+[34:34] >> Roger Chartier: El encuentro entre Shakespeare con Cervantes no empezó con la UNESCO el día 23 de abril. Empezó antes, particularmente en la crítica literaria del siglo XIX o XX, que tenía a los dos gigantes de la literatura occidental contemporáneos y fallecieron, si no el mismo día; el mismo año, el mismo mes.
+
+[35:05] Entonces había este sueño, una imaginación de un encuentro entre ambos. Y no tiene ninguna fuente histórica posible, salvo que… había la posibilidad de imaginar que, cuando había una embajada inglesa en 1605 en España, podía también la gente haber encontrado a Cervantes. Era un poco ya este sueño literario de la invención de Anthony Burgess: "Encuentro en 1605", en este cuento traducido por Javier Marías.
+
+[35:57] Había en el suplemento de "El País" esta idea de que los ingleses fueron acompañados con la compañía teatral de Shakespeare y encontraron en Valladolid, que era el lugar de la capital antes de Madrid, a Cervantes. Es una novela fantástica este cuento de Burgess sobre el diálogo imaginario entre Shakespeare y Cervantes.
+
+[36:31] En particular, porque había esta comparación literaria o histórica y el olvido de una realidad fundamental: los ingleses conocían los libros de Cervantes, los españoles nunca habían entendido el nombre de Shakespeare mencionado.
+
+[36:53] "Don Quijote" fue traducido, edición de 1605, en 1612. La primera traducción al español de "Hamlet" es de Moratín en 1798. Es un ejemplo de esta discrepancia que la crítica literaria olvida o borra: eran contemporáneos, pero solamente para el calendario, no para las conexiones, los intercambios, el conocimiento recíproco.
+
+[37:27] Y de esta manera Shakespeare conocía el nombre de Cervantes porque los libros circulaban en las primeras traducciones inglesas. Y también como estaba trabajando a finales de su vida con Fletcher, Fletcher conocía el español, y había utilizado en varias de sus obras referencias, no solamente al "Quijote", sino también a las "Novelas ejemplares".
+
+[37:52] Cuando claramente nadie en España conocía el nombre de Shakespeare, casi nadie, porque la única presencia de Shakespeare eran las ediciones del Folio que estaban presentes en los católicos ingleses que estaban estudiando en España.
+
+[38:17] Entonces era un poco la tela de fondo, y había la posibilidad de un encuentro personal, pero por lo menos entre las obras, con una obra perdida: "Cardenio" fue representada en 1613 por la compañía de los The King's Men en la corte. El primer documento que tenemos es un documento de pago de la compañía para sus representaciones a la corte, y aquí tenemos solamente el nombre: "Cardenio".
+
+[38:57] Claramente, como no hay otra obra que utiliza este nombre, Cardenio es uno de los protagonistas del "Quijote", la historia de los amores y desamores de Cardenio y Luscinda, Fernando y Dorotea. Claro que desde esta primera mención había una referencia a la obra de Cervantes, pero era únicamente el título, nada más.
+
+[39:27] Cuarenta años después, durante el tiempo de la guerra civil, algunos de los editores, cuando estaban cerrados los teatros, querían publicar obras de teatro como una compensación, particularmente si estaban en favor del partido del rey, al cierre de los teatros por la revolución en 1653. Uno de estos libreros y editores, Moseley, estableció una lista de obras de teatro que quería publicar, entre ellos se encuentra "The History of Cardenio", como "Cardenio" de 1613, "by Master Fletcher and Shakespeare".
+
+[40:24] En 1653, había la certidumbre que este "Cardenio" de 1613 era el resultado de una escritura colectiva de Shakespeare y Fletcher, o de Fletcher y Shakespeare, porque claramente Fletcher conocía mucho más la obra de Cervantes que Shakespeare, y fue una de las tres obras de su colaboración; las otras son "The Two Noble Kinsmen" y "Enrique VIII".
+
+[40:52] Entonces, en 1653 tenemos los autores de nuestro "Cardenio", y finalmente lo que aparece... No tenemos el texto. En el siglo XVIII, un dramaturgo y al mismo tiempo editor de Shakespeare, Theobald, había escrito una obra que presentaba como: la obra perdida reescrita por él.
+
+[41:31] Hay muchas dudas a propósito de esto. Tal vez tenía manuscritos, un poco tardíos, de la obra de la primera parte del siglo XVII, pero había dado un texto a este título, en primer lugar sin autor y después atribuido a Fletcher y Shakespeare.
+
+[41:56] Era un poco el tema de este libro que había sido dedicado a esta obra perdida, porque finalmente era la manera de ver un Shakespeare que sabía algo del "Quijote", tal vez leyendo la traducción de 1612, tal vez a través de lo que decía Fletcher, y de tener una de las muy raras ocurrencias en que los dos se encuentran.
+
+[42:27] Y aquí, en la obra de "Cardenio", escrita por Fletcher y Shakespeare, pero sin certidumbre en cuanto a la realidad de la obra tal como la presentaba en su "Double Falsehood", que era el título que había elegido para su obra del siglo XVIII... Pero, para terminar, este encuentro había fascinado a las compañías de teatro que querían representar esta obra perdida.
+
+[43:05] Algunas veces lo hacían representando la obra de Theobald como si fuese la obra de Shakespeare y Fletcher; otras veces había una equivocación de identificación de una obra de Middleton como si fuese esta obra perdida.
+
+[43:22] En el libro estoy analizando todas las estrategias teatrales para representar un texto que no existe, pero que puede estar supuestamente existiendo en varias otras obras que podemos leer y representar.
+
+[43:42] >> Inés Sáenz: Claro. A mí me parece su libro, su investigación, un eco de una novela policiaca de Borges, ¿no?, una investigación detectivesca definitivamente.
+
+[43:54] Y algo que aprendí mucho en esa investigación es de qué manera las traducciones en esa época circulaban más de sur a norte que de norte a sur, y a veces es difícil hoy en el siglo XXI, porque es muy diferente, entender esto.
+
+[44:11] Y otro... Algo que me interesa y que también nos muestra usted es esta aproximación a la noción de autor en las obras de los siglos XVI y XVII, que es muy diferente a la noción post romántica de este genio individual, espíritu de la nación, ¿no?, que tenemos hoy en día. Y creo que es muy interesante que nos comparta algo también.
+
+[44:33] >> Roger Chartier: Sí, usted tiene razón, porque me parecía que una diferencia entre la obra de los comienzos del XVII y la obra de Theobald de la mitad del siglo XVIII era el momento en que, como usted dice, ya se ha transformado la noción de autor, porque un autor a partir del XVIII y hasta ahora es, en primer lugar, un individuo singular, y si hay una asociación, dos individuos singulares; en segundo lugar, alguien que produce una obra original, que es la condición para su propiedad literaria.
+
+[45:14] Los tres conceptos del derecho: propiedad literaria y de la estética, originalidad y la identidad entre el nombre de autor y la identidad del escritor. Fueron una construcción del siglo XVIII, a partir particularmente de todas las discusiones sobre la propiedad literaria, el copyright, el derecho de autor. Cuando en los siglos XVI y XVII podemos ver que estas tres categorías no son necesariamente dominantes.
+
+[45:52] En primer lugar, no hay propiedad literaria, hay propiedad editorial: un librero, un impresor o editor es propietario del texto que publica, cualquiera que fuese la forma a través de la cual había recibido este texto. Entonces, no había concepto de propiedad literaria, de derecho de autor; es una invención del siglo XVIII. Aquí hay solamente, dentro de las corporaciones de libreros e impresores, la cuestión de la propiedad del editor sobre el texto que publica.
+
+[46:37] En segundo lugar, no hay una estética de la originalidad, hay una estética de una posible invención dentro de la imitación, y es la razón por la cual los temas pueden ser los mismos, los lugares comunes pueden ser reutilizados, las obras pueden tener una continuación independientemente de quién ha escrito el primer texto.
+
+[47:07] Esta realidad es prácticamente fuerte en el Siglo de Oro español, en la cual todas las grandes obras tienen una continuación por un autor que no es el escritor de la primera obra.
+
+[47:22] Lo que demuestra que se pueden reutilizar tópicos, motivos e historias que ya existían; entonces estamos frente a una estética de la invención dentro de la reproducción o de la imitación, que no es la estética que se va a transformar en una estética romántica de la originalidad.
+
+[47:50] Y finalmente, frente al escritor como individuo singular que puede aparecer a través del nombre de autor, tenemos otra realidad: una forma de escritura colectiva. He mencionado a Fletcher y Shakespeare, pero muchos de los dramaturgos del siglo XVI y XVII en Inglaterra colaboraron. Hay obras que fueron escritas por dos, tres, cuatro coautores, inclusive si no aparece en la portada porque o bien es anónima o bien es solamente un nombre o dos nombres.
+
+[48:32] Hay una distancia entre escritor y autor: el nombre de autor no corresponde necesariamente a la identidad del escritor. Hoy en día, cuando hay una sospecha y hay una distancia, la gente busca quién era el escritor detrás del nombre de autor para restablecer la idea de que hay una identidad autorial. Aquí no, por varias razones. Algunas veces por razón de una escritura femenina que debe aparecer, particularmente si es aristocrática, detrás de un nombre de hombre. Ls novelas de la préciosité en Francia fueron escritas, por ejemplo, por escritoras femeninas y aparecieron con un nombre de hombre que puede ser el marido o el hermano, que es el caso, por ejemplo, Madeleine de Scudéry.
+
+[49:29] En segundo lugar, porque algunas veces los libreros o editores utilizaban un nombre que hacía vender para obras que nunca fueron escritas por el escritor que corresponde a este nombre; de esta manera había una proliferación de obras de Shakespeare nunca reconocidas a partir del XVIII como shakesperianas, pero vendidas con el nombre de Shakespeare, que era más famoso que el nombre del escritor que había escrito estas obras.
+
+[50:03] Y la idea de la posibilidad de la continuación es un elemento esencial en "Don Quijote", porque recuerda que en 1614 había una segunda parte del "Quijote" publicada sin ninguna intervención de Cervantes, con el nombre de Avellaneda; y el genio de Cervantes puede introducir en su propia segunda parte de 1615 múltiples referencias a partir del capítulo 59 a esta continuación burlada, despreciada, satirizada.
+
+[50:43] Pero es un ejemplo: no había posibilidad para Cervantes de hacer un pleito contra el supuesto Avellaneda, nunca identificado hasta ahora, hay muchos candidatos para ser Avellaneda, inclusive Lope de Vega, pero hay una certidumbre en cuanto a quién era Avellaneda. Pero no era una cuestión como hoy en día de ir al tribunal, era más una respuesta literaria de burla de Avellaneda dentro de la segunda parte del "Quijote", cuando Cervantes se dio cuenta de la existencia de esta continuación apócrifa.
+
+[51:25] Es la razón por la cual Avellaneda o su propio Don Quijote aparece solamente en el capítulo 59 de la segunda parte hasta la muerte, inclusive en el testamento de Don Quijote, que perdona a Avellaneda o a este falso Don Quijote... pero es extraordinario y fascinante dentro de la escritura de Cervantes.
+
+[51:56] Entonces usted tenía razón: hay una discontinuidad muy fuerte detrás de la palabra "autor". Y podría añadir, detrás de la palabra "literatura" porque la literatura en su definición moderna de relato de ficción aparece como palabra en los diccionarios, particularmente, en el de francés en el XVIII, en relación con la originalidad, la individualidad y la propiedad literaria.
+
+[52:30] Anteriormente, "literatura" es la erudición, es la filología, la numismática, la arqueología; y se ha quedado —no sé en español, pero en francés— cuando se habla de la "literatura secundaria", la literatura sobre un tema. En una tesis se puede indicar "literatura secundaria" los libros que fueron leídos, como si fuera algo que persistía de la idea de la literatura como un corpus de erudición. Pero el sentido moderno está absolutamente vinculado cronológicamente con las tres categorías de propiedad, originalidad, individualización.
+
+[53:13] >> Inés Sáenz: Bueno, qué interesante. ¿Qué nos dice también en este caso? Lo que usted nos comenta nos revela cómo leer "Don Quijote" es tan pertinente hoy con todos estos derechos de autor, etcétera, de qué manera él se apropia, satiriza y regresa con una creatividad impresionante en este Quijote de Avellaneda, este Quijote apócrifo, como le llama.
+
+[53:42] Y bueno, tanto Shakespeare como Cervantes vivieron la revolución de la imprenta, y usted analiza esto desde una perspectiva que destaca la transformación de la cultura escrita y la lectura. ¿Cuál es esa transformación?
+
+[53:56] >> Roger Chartier: Pienso que lo vivieron de manera muy diferente. En el caso de Shakespeare, la imprenta fue, por un lado, la posibilidad de consultar, apropiarse de textos impresos; y como se sabe, casi todas las obras de Shakespeare tienen una referencia a una obra anterior o a textos anteriores que tienen una existencia impresa. Las "histories", las piezas históricas, están fundadas sobre las crónicas, Holinshed, entre otros. Muchas de las obras italianas son fundadas sobre la, tal vez, lectura en italiano o traducciones de textos de ficción del XVI.
+
+[54:48] Entonces, tal vez tenía una biblioteca, lo que no sabemos porque no había inventario de la biblioteca después de su muerte; de todas maneras, la compañía podía comprar estos libros y es la primera relación: la relación con una cultura impresa que le daba las fuentes de sus obras.
+
+[55:12] La segunda relación, más problemática, es que tal vez no se preocupaba tanto de la edición impresa de sus obras; es un debate entre los shakespearianos. Tradicionalmente, la idea es que finalmente escribía para la compañía y para el escenario, y Shakespeare tenía la característica de que siempre había escrito para la misma compañía: Lord Chamberlain's Men, transformada en The King's Men en 1604.
+
+[55:42] Ahora, el matiz de esto es que hay algunos críticos que han mostrado que la dimensión de algunas obras, por ejemplo, el "Hamlet" de 1604-1605 no puede ser representada, porque sabemos que la representación debería durar dos horas, y el "Hamlet" en su versión del segundo cuarto son cuatro o cinco horas. Fue el objeto de una película de Branagh que parece interminable.
+
+[56:17] Entonces, ¿por qué Shakespeare escribía más de lo que se podía representar? Y fue el matiz con la visión clásica de un Shakespeare que escribía solamente para la compañía teatral y el espectáculo: que tal vez consideraba el género teatral dramático como un poema y no solamente como un espectáculo, y de esta manera escribía obras irrepresentables que podían ser adaptadas, ajustadas a la duración de la representación.
+
+[56:57] Pero de todas maneras, Shakespeare no fue involucrado en el proceso de impresión de sus obras.
+
+[57:04] Cervantes es muy diferente, porque ya había dedicado un capítulo en una obra: Don Quijote es el primer personaje de ficción que visita una imprenta. En el capítulo 62 de la segunda parte, entra en la imprenta, encuentra a la gente que está componiendo, imprimiendo los textos, encuentra a un autor en la imprenta de Barcelona que ha traducido un texto italiano, "Le bagatelle", y hay toda una discusión entre Don Quijote, que le pide si este autor ha cedido ha vendido su libro al editor, o bien si ha conservado por su cuenta el texto.
+
+[57:59] Es una discusión importante en relación con la imprenta: si el autor está cediendo contra dinero o contra ejemplares su obra al librero o editor, abandonando todo control o derecho sobre la obra y recibiendo como pago algunas veces solamente ejemplares de la edición que puede utilizar en relación con sus protectores, o bien recibiendo una suma de dinero una vez por todas; o bien el otro sistema era que el escritor pagaba la impresión, recibía los ejemplares y los vendía directamente en su casa o bien con la mediación de un librero.
+
+[58:51] Y eso es lo que ha hecho este traductor de "Le bagatelle" en el "Quijote", porque dice que no está interesado por la gloria, y de hecho quiere tener dinero, ingresos con la venta de su obra. Y Don Quijote muy escéptico, pensando que es una ilusión hacer esto porque tiene una mala confianza en los impresores de su tiempo, particularmente porque lo que está implícitamente presente en esta actitud de Don Quijote era el hecho de que si un impresor pensaba que un libro podía tener un éxito, imprimía ejemplares sin decirlo al autor y vendiendo estos ejemplares; y cuando el autor recibía sus propios ejemplares, el mercado estaba ya agotado.
+
+[59:58] De esta manera, había toda una visión negra, una visión crítica de la leyenda negra de la impresión, de la edición, de la imprenta en el “Quijote”, en esta manera de criticar las ilusiones de este traductor de "Le bagatelle", pero se ve que en este capítulo tiene todo el mundo de la imprenta.
+
+[1:00:22] Tiene la visita de Don Quijote que va de un obrero a otro, de un tipógrafo a otro en el taller, todo la mecánica de transformar un manuscrito en un texto impreso a través de la composición tipográfica y de la impresión gracias a la prensa de imprimir.
+
+[1:00:51] Tenemos, también, las apuestas que se vinculan con el libro impreso como objeto que puede enriquecer eventualmente a su autor, o bien que ya está entre las manos de los libreros o impresores editores, y que pueden evidentemente olvidar la presencia del autor.
+
+[1:01:17] Entonces, en el caso de Cervantes hay una conciencia aguda de una transformación de la circulación de los textos gracias a la nueva técnica, y era la primera vez realmente que una imprenta se transformaba en una ficción como un lugar de la ficción, al mismo tiempo que era el lugar donde fue impresa la ficción misma.
+
+[1:01:47] Y ahí hay un juego vertiginoso de Cervantes entre representar en su obra el lugar en el cual su propia obra está impresa y es difundida.
+
+[1:02:01] Ahora, entonces, son dos relaciones muy diferentes que existen entre los autores, pero tal vez se podía vincular con una característica de la literatura del Siglo de Oro: una atención a, como decía Auerbach, a lo material, a la realidad, a las cosas de la proximidad. No para copiar, no es una estética realista, pero es una estética que se apodera de las prácticas, los objetos, los lugares de la experiencia común para transformarlos en lugares o figuras de ficción.
+
+[1:02:42] Introducir una imprenta en un libro impreso era una manera, me parece, para Cervantes de ilustrar esta observación tan aguda de Auerbach.
+
+[1:02:53] >> Inés Sáenz: Pues sumamente interesante. Y bueno, si ahora damos un salto a América Latina, a la presencia de Cervantes en América Latina que usted ha estudiado, también lo que usted ha estudiado nos ayuda a expandir nuestro entendimiento de la circulación transatlántica legal y clandestina de libros, particularmente "Don Quijote de la Mancha" de Cervantes... ¿Qué nos puede decir al respecto? ¿Y pasó lo mismo con Shakespeare?
+
+[1:03:28] >> Roger Chartier: Conozco un poco sobre los comienzos de este proceso, porque otra dimensión de Cervantes... En primer lugar, él mismo, había pedido un oficio al rey en América Latina,. Hay un texto que es una petición de Cervantes en que está candidato para una función, tanto en la administración de las finanzas como en la administración de la justicia, para recibir esto, no lo había recibido.
+
+[1:04:16] Tal vez es la razón por la cual podemos leer "Don Quijote", porque si en 1590 hubiera recibido esto, tal vez nunca habría escrito todas las obras que, desde el "Quijote" hasta el "Persiles", son la obra cervantina.
+
+[1:04:31] Pero hay otro elemento: lo que había estudiado, en este caso, del libro sobre "Cardenio" es que muy temprano el "Quijote" apareció en América Latina, sea porque algunos de los viajeros habían traído durante el viaje el "Quijote", o bien porque había contactos entre libreros en España, por ejemplo, en Alcalá de Henares y sus corresponsales establecidas particularmente en Cartagena de Indias o en Perú.
+
+[1:05:17] Y entonces tenemos esta realidad fuerte: que muy temprano, en 1607, una pequeña fiesta, un encuentro como una fiesta de sortija, una forma de torneo, aconteció en una pequeña localidad de Perú, Pausa, entre Lima y Cuzco, y era un torneo en el cual los que combatían debían estar disfrazados, y todos se habían disfrazado de personajes de los libros de caballería: Amadís de Gaula, el Caballero de la Ardiente Espada, el Caballero de la Selva... y uno apareció como Don Quijote de la Mancha en 1607 en Pausa, y ganó el premio por la invención más original del disfraz.
+
+[1:06:38] Y de esta manera se ve que en 1607, dos años después de la publicación de la primera parte del "Quijote", en una localidad de Perú que no era Lima, había la posibilidad, para la gente, de disfrazarse y apreciar esta manera de aparecer como si finalmente hubiera ya un conocimiento de la obra.
+
+[1:07:11] Fue un objeto de análisis este texto en el libro famoso de Irving Leonard, que decía que tal vez la casi totalidad de la edición de 1605 había sido mandada a América Latina. Hoy en día, trabajos más recientes de Víctor Infantes o de Pedro Rueda Ramírez matizan esta afirmación; sin embargo, había envíos regulares en los años 1605, 1606 y 1607 de ejemplares del "Quijote" a América Latina, particularmente al Perú.
+
+[1:08:00] Ahora, fueron los comienzos, me parece, de la historia del "Quijote" en América Latina, empezando con Perú. Había otra manera de vincular los muertos de 1616, Inca Garcilaso de la Vega, que ya en este momento estaba allá en España, y Cervantes. Pero la idea de esta tensión, finalmente, entre el deseo de Cervantes como individuo de tener una trayectoria de vida en América Latina, hay como un eco de esto en algunas de las "Novelas ejemplares", por ejemplo los peruleros de "El celoso extremeño", la idea de que se podía enriquecerse en las Indias, y finalmente, había como una relación tal vez entre el documento de 1590, que era un memorial en el cual Cervantes pedía oficios para el Nuevo Reino de Granada, la provincia de Soconusco en México, la contabilidad de las galeras en Cartagena de Indias o el corregimiento de La Paz.
+
+[1:09:40] Todo fue rechazado, pero había un sueño de América en Cervantes en 1590, y finalmente, como no fue cumplido, había como una presencia de América en varias de las "Novelas ejemplares", la más fuerte siendo evidentemente "El celoso extremeño".
+
+[1:10:04] Por otro lado, la presencia del libro en América Latina casi antes de su presencia en muchas partes de Europa, a través de estas relaciones entre libreros instalados en Lima y en Alcalá de Henares; pero esta fiesta de Pausa de 1607 evidentemente nos refiere a dos realidades: una que sería una historia del "Quijote" en las Américas, y la otra dimensión, que es que el "Quijote" es sin duda el primer libro del cual salieron los protagonistas en las fiestas.
+
+[1:11:05] Porque antes, en 1605 lo había estudiado Pedro Cátedra, había torneos en España con gente disfrazada de Don Quijote, o bien procesiones para la beatificación de Teresa de Ávila en Salamanca: los estudiantes se disfrazaron de personajes del "Quijote".
+
+[1:11:26] Entonces, es una realidad moderna que los personajes de la ficción salen de los libros y se transforman en estatuas, en figurillas, en disfraces. Y el "Quijote" es el primero, me parece, que ha creado esta realidad que va, en el siglo XVIII, a adquirir una fuerza considerable, cuando la gente va en Alemania a vestirse como Werther, o cuando en Inglaterra los personajes de las novelas de Richardson van a ser objetos de teatro, de figurillas, de pinturas, o bien sobre los abanicos de las mujeres.
+
+[1:12:16] El "Quijote" es el primer libro que produce este efecto, que finalmente va a tener como conclusión que mucha gente conoce a Don Quijote sin haber leído una sola línea del texto de Cervantes. Pero la presentación física de los personajes no solamente puede ser un juego para los que han leído, también puede ser una forma de circulación del texto sin el texto, fuera del texto; y Pausa, en Perú, es una de las primeras encarnaciones de estas personificaciones materiales de los personajes de la historia.
+
+[1:13:01] >> Inés Sáenz: Pues sumamente interesante. Y de hecho quiero ir ahora a una pregunta del público, porque está relacionada con lo que usted ha comentado. Es de un profesor del Tec, Armín Gómez, dice: "Este fenómeno de que la obra la continúa alguien que no es el autor original, ¿es como fanfiction de esa época?"
+
+[1:13:29] >> Roger Chartier: No lo sé, pero la pregunta es interesante en el sentido de que la definición que hemos dado del autor (propiedad, individualización, originalidad) en el mundo contemporáneo de los mass media, de la comunicación digital, ahora de la inteligencia artificial, va a ser finalmente transformada, y que estas nociones esenciales que han definido desde el XVIII hasta los comienzos del siglo XXI la literatura o la ficción están efectivamente con nuevos géneros, nuevos soportes, nuevas maneras de pensar la apropiación pública, una transformación fundamental.
+
+[1:14:24] No soy experto en este campo, pero claramente hay formas contemporáneas de circulación, apropiación de los textos, de las obras, que se remiten más a la situación del XVI y XVII que a la época abierta en el siglo XVIII.
+
+[1:14:46] Es un desafío fundamental si pensamos que estas categorías son esenciales para definir la propiedad de los autores, evitar el plagio, mantener la correspondencia entre nombre de autor e identidad del escritor. Si pensamos esto, efectivamente podemos tener un poco de miedo frente a algunas evoluciones contemporáneas.
+
+[1:15:13] Si pensamos que estas nociones son históricas y finalmente pueden ser criticadas, transformadas, trastornadas, podemos entrar en un nuevo mundo de la comunicación escrita. En este caso, la continuación puede ser en sí misma una actividad que no es un daño hecho a la propiedad literaria.
+
+[1:15:41] >> Inés Sáenz: Claro, pues muy interesante. Bueno, a ver, tenemos ya pocos minutos y mucho... ¡y mucho! Es interesantísimo.
+
+[1:15:50] Entonces, voy a saltar a la época actual, a la revolución digital, así como usted ha investigado sobre la revolución de la imprenta, pues puede ser interesante que nos comparta su visión sobre la cultura digital, estas materialidades inmaterialidades, y cómo éstas modifican las prácticas de lectura hoy.
+
+[1:16:13] Y lo quiero enlazar con otra... con una última pregunta que yo le quería hacer, que nos parece muy importante al día de hoy: está la cultura digital, ¿cómo modifica estas prácticas de lectura, pero también las bibliotecas y los libros? ¿Cuál es la función que usted cree que deban tener en la actualidad?
+
+[1:16:33] Entonces le dejo la palabra.
+
+[1:16:36] >> Roger Chartier: Podemos volver a la primera pregunta, porque efectivamente la revolución digital crea profundas transformaciones en relación con este triángulo que mencionaba entre texto, materialidad y apropiación.
+
+[1:16:56] Modifica eso, en primer lugar, porque ya la materialidad del soporte de lo escrito no está más, la materialidad del objeto impreso o manuscrito en el cual una obra se ubica, sino que es la materialidad de la pantalla, como esta tarde que tenemos de esta manera.
+
+[1:17:20] Es una pantalla, es un soporte que es independiente del contenido textual. Cuando en el libro, tengo libros aquí detrás, hay una relación absolutamente fundamental, indisociable entre un contenido textual y una forma material. En el mundo digital, la materialidad es una materialidad sin contenido o de todos los contenidos: hoy la utilizamos para la conversación, después la vamos a utilizar para leer un texto impreso o para escribir un mensaje electrónico.
+
+[1:18:07] Es una primera diferencia absolutamente esencial, y que tiene como consecuencia que cuando leemos un texto en forma digital, y un texto que no fue concebido como digital, sino que es un artículo de un periódico o que es un libro del siglo XVII, no tenemos más contacto con la materialidad en la cual los lectores del pasado lo han encontrado.
+
+[1:18:37] Esto me parece... No es un proceso de desmaterialización, porque no hay nada más material que la pantalla de un computador, y cuando se debe comparar se ve que hay una materialidad bien real; pero es una desmaterialización en relación con la vinculación que existía entre una forma material de edición —un in-folio, un in-cuarto, un panfleto, un libro— y un contenido textual.
+
+[1:19:04] Para nosotros todos aparecen en una materialidad que es la materialidad del soporte de su transmisión, pero de una transmisión digital que está destacada de las formas materiales del pasado. Me parece que es una primera diferencia fundamental.
+
+[1:19:22] La segunda diferencia fundamental es que la relación entre el fragmento y la totalidad es profundamente transformada. En un objeto impreso, evidentemente no estoy obligado a leer todas las páginas, sino que cada fragmento está ubicado en un lugar físico, en un momento textual. De esta manera, existía una relación entre el fragmento y la totalidad que también era indisociable. Lo que permitía, o debía permitir, ubicar el fragmento en su momento, en su papel dentro de una narración, de una demostración, de una argumentación.
+
+[1:20:13] La técnica digital permite extraer el fragmento sin preocuparse de la totalidad de la cual está extraído, de lo que podía tal vez conducir a suprimir la palabra "fragmento", que siempre se refiere implícitamente a una totalidad de la cual el fragmento es fragmento. Si es un fragmento autónomo, es otra realidad.
+
+[1:20:39] Lo que puede explicar también el uso de fragmentos textuales sin referencia a la totalidad a la cual pertenecían, y que puede ser un uso provechoso, estético, y también un uso peligroso cuando se puede producir una lectura no justificada del fragmento porque se ha transformado en una unidad autónoma.
+
+[1:21:07] La tercera transformación es que, evidentemente, en el mundo digital existe una continuidad de la forma a través de la cual los textos aparecen entre libros digitalizados, correo electrónico, redes sociales. Hay como una homogeneización en general decidida por el lector de los textos, cuando en la cultura impresa y/o manuscrita cada género textual podía encontrar una forma material de inscripción que indicaba inmediatamente al lector un registro de apropiación.
+
+[1:22:02] Un libro académico sobre una realidad histórica no es la misma cosa que un artículo en una revista que se vende en los kioscos o que aparece en periódicos, y esto puede tener consecuencias fundamentales sobre la credibilidad o la autoridad acordada a un texto.
+
+[1:22:26] Lo hemos visto en este terrible momento de la propaganda negacionista: afirmaba que nunca habían existido las cámaras de gas, de manera de producir una negación de la Shoah. Y cuando estamos en el mundo impreso, este tipo de propaganda se encuentra en revistas especializadas que se venden en librerías especializadas y que también pueden ser prohibidas. Hay una ley en Francia que prohíbe la circulación de esta propaganda negacionista, cuando se podía leer en los libros que tienen un sello académico, una editorial de reputación, textos que tienen un saber histórico sobre esta realidad, y se veía que había una oposición material entre los lugares de inscripción de los discursos verdaderos, científicos, históricos, a de esos propagandistas, negacionistas, conspiracionistas.
+
+[1:23:41] En el mundo digital es una misma forma de apariencia que puede existir entre el texto histórico controlado —controlado en el sentido de un control científico— y textos de la propaganda negacionista, como si finalmente una homogeneización de la forma de aparición y publicación pudiera hacer más difícil la distinción entre el saber verdadero y las varias formas de manipulación, falsificaciones o propagandas.
+
+[1:24:20] Y de ahí se ve que esta realidad de la continuidad morfológica entre géneros y textos de naturaleza muy diferente puede tener consecuencias, como lo vemos en cada país del mundo, en cuanto a la circulación de las falsificaciones, las manipulaciones a partir de información que son desinformaciones. Todo este mundo finalmente que también es el mundo de las redes sociales.
+
+[1:24:54] Ahora me parece que estas tres características definen una discrepancia que debe conducir —voy a concluir con esto— hasta dos observaciones: la primera, que tal vez se debe enseñar los milagros y peligros del mundo digital y no utilizarlo como se hace de una inmediata posibilidad de comunicación, sino en las clases, en la enseñanza, en la universidad, mostrar los peligros y los provechos, y mostrar que hay un uso crítico que se debe hacer de la textualidad digital por razones de su discontinuidad en relación con las formas previas de circulación de los textos.
+
+[1:25:55] Y la segunda conclusión o consecuencia, que es una respuesta a su pregunta para las bibliotecas, es la idea de que debemos conservar las instituciones. Estos lugares que nos permiten encontrar los textos en las formas sucesivas de su materialidad.
+
+[1:26:13] Y evidentemente cada uno —yo también— podemos aprovechar la posibilidad de utilizar la forma digitalizada de los textos, que evidentemente puede evitar una visita a una biblioteca difícil de acceder, etcétera. Entonces, sería una reivindicación de una exclusividad de la lectura, de los textos en sus formas históricas, pero que se mantengan en lugares en los cuales la cultura escrita se encuentra en las formas en las cuales la encontraron los hombres y mujeres del pasado es absolutamente esencial.
+
+[1:27:03] Es el caso con tal vez las librerías versus Amazon, de las bibliotecas versus Google o, finalmente, del periódico impreso versus la forma digital. Lo que tiene como consecuencia fundamental demostrar que no existe equivalencia.
+
+[1:27:28] La tentación de los productores, de los poderes públicos, tal vez, de nuestro inmediato acceso a los textos, es pensar que hay una equivalencia: no se pierde nada si el libro, el texto, está en una forma impresa o en una forma digital.
+
+[1:27:52] Y esto, me parece, lo que se debe criticar o demostrar que no es verdadero, si se acepta la idea de que los elementos materiales no discursivos de publicación de un texto tienen un efecto sobre su recepción por parte de sus lectores. De esta manera, si se afirma que no existe equivalencia, no es una razón para pensar que debemos cerrar las computadoras. No. Es una razón para afirmar que, al mismo tiempo que utilizamos cada día, tal vez cada hora, el recurso digital, debemos pensar que no es equivalente a la posibilidad que tenemos de comprar en una librería, la posibilidad que debemos tener de ir a una biblioteca donde vamos en cierto sentido a leer a los muertos con los ojos como los leían los ojos de los lectores del pasado, y finalmente de enriquecer, por este rechazo de la idea de equivalencia, nuestra concepción de la cultura escrita: manuscrita, impresa y digital, pero sin equivalencia entre las tres, con la especificidad de cada forma de inscripción.
+
+[1:29:22] Y esto me parece el desafío fundamental del porvenir o del presente, porque es tanto un desafío para las instituciones: las clases, las escuelas, las universidades, las bibliotecas. Todas tienen la tentación de aprovechar el recurso digital sin pensar en mantener el contacto, el conocimiento, la comprensión de las otras formas anteriores o simultáneas de inscripción de los textos. También es un desafío para nuestra práctica más inmediata, que fue reforzada por el tiempo del COVID, la peste del siglo XXI, cuando el único recurso para todas las actividades intelectuales era la pantalla de las computadoras.
+
+[1:30:24] Saliendo de este tiempo de crisis, debemos reconstruir la idea de no equivalencia con todas sus consecuencias pedagógicas, institucionales y cívicas.
+
+[1:30:41] >> Inés Sáenz: Increíble, sí. Y yo creo que, bueno, este diálogo está enmarcado en un programa universitario; estamos en una universidad, usted nos está hablando desde otra universidad, y creo que es una tarea de la universidad tener conciencia de estas diferentes formas de la cultura escrita y de qué manera hacer un uso crítico y enseñarlo.
+
+[1:31:08] Tenemos una tarea pendiente y creo que es momento de llevarla a cabo. Yo quiero agradecerle y cerrar con un comentario que nos hace Hortensia del público digital.
+
+[1:31:20] Dice: "En relación a lo que Gabriel Zaid escribió en ‘Los Demasiados libros’, el problema del libro no está en los millones de pobres que apenas saben leer y escribir, sino en los millones de universitarios que no quieren leer, sino escribir. ¿Acaso las políticas educativas de los gobiernos deberán rediseñarse? ¿Acaso el mejor escritor será aquel con un caudal lectivo vasto?"
+
+[1:31:51] ¿Tiene algo usted que comentar para que cerremos con usted y no conmigo?
+
+[1:31:58] >> Roger Chartier: Había citado este texto en un ensayo hace mucho tiempo y me había llamado la atención esta idea de: el problema del libro no está en los que no leen porque no saben leer, sino en los que no leen porque no quieren leer. Era una irónica fórmula que había ya citado y me parece absolutamente esencial.
+
+[1:32:21] Pero lo hemos visto en esta conversación. La relación que existe, pensando en Shakespeare y en Cervantes, entre el lector que se puede transformar en escritor porque ha leído, porque de una manera u otra incorpora en su forma original las lecturas de su propio pasado.
+
+[1:32:50] "El Quijote" es impensable sin Cervantes lector de las caballerías, de las novelas pastoriles o inclusive de la novela picaresca de su tiempo. Las obras de Shakespeare son impensables sin un Shakespeare lector de Holinshed, de las crónicas o de los textos italianos.
+
+[1:33:12] Me parece que es una reflexión en contra de la idea de una inspiración sin raíces, una imagen del siglo XVIII que no corresponde a la realidad, pero que tenía una fuerza en literatura o en filosofía para justificar el trabajo de las ciencias, los saberes de los textos y de los libros, desde la crítica literaria hasta la sociología de los textos y la historia cultural.
+
+[1:33:45] Y, finalmente, una forma humilde de pensar que se puede crear algo solamente en relación con el conocimiento de lo que fue creado.
+
+[1:34:05] >> Inés Sáenz: Increíbles frases de cierre. Ha sido muy enriquecedora esta conversación. A nombre de la Cátedra Alfonso Reyes y del Ágora Gabriel Zaid, muchísimas gracias y que tenga una linda tarde.
+
+[1:34:17] >> Roger Chartier: Muchas gracias. Un placer.

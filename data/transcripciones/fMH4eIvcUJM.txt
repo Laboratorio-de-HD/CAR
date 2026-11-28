@@ -1,0 +1,465 @@
+[00:24] >> Pablo Sol: Bien, buenos días. A nombre del Tecnológico de Monterrey, de la Cátedra Alfonso Reyes y del programa Pasión por la Lectura, les damos la bienvenida a esta charla con el escritor argentino Ricardo Piglia, que hablará sobre literatura y tecnología. "¿Qué será la literatura?".
+
+[00:43] Antes de cederle la palabra al maestro Piglia, voy a leer una muy breve semblanza.
+
+[00:48] Ricardo Piglia nació en Adrogué, Buenos Aires, en 1940. Narrador, crítico literario y profesor de literatura, es uno de los escritores más importantes en lengua española de la actualidad.
+
+[01:02] Es autor, entre otros títulos, de las novelas "Respiración artificial" (1980), "Plata quemada" (1997), "Blanco nocturno" (2010) y de este 2013, "El camino de Ida"; además de los ensayos "Crítica y ficción" y "El último lector".
+
+[01:23] Su obra ha recibido numerosos premios, entre ellos el Premio de la Crítica en España (2010), el Rómulo Gallegos en Venezuela en el 2011 y recientemente el Iberoamericano de Narrativa Manuel Rojas en Chile. Es profesor emérito de la Universidad de Princeton en Estados Unidos.
+
+[01:44] Ricardo Piglia es el heredero de las mejores tradiciones de la literatura argentina. En su obra se dan cita y se concilian las obras de autores tan disímiles como Jorge Luis Borges y Roberto Arlt; el mundo geométrico de "Ficciones" y el alucinado de "Los siete locos".
+
+[02:03] Por esto no creo exagerado afirmar que la obra de Piglia representa la síntesis de la mejor literatura argentina del siglo XX.
+
+[02:11] Y si esto ha sido posible es porque Ricardo Piglia es, desde luego, un gran escritor, pero ha sido ante todo un gran lector de la literatura argentina e hispanoamericana naturalmente, pero también de Kafka, de Faulkner, de Joyce, de Fitzgerald, del género policíaco y un largo etcétera.
+
+[02:31] No por nada Borges sostenía que los buenos lectores eran cisnes más tenebrosos y singulares, más difíciles de encontrar aún que los buenos autores.
+
+[02:41] Y precisamente formar lectores, buenos lectores, fue siempre una de las grandes aspiraciones pedagógicas de Alfonso Reyes, acaso nuestro mejor lector, y es también el objetivo de un programa como Pasión por la Lectura.
+
+[02:56] Es por esto que para el Tecnológico de Monterrey, para la Cátedra Alfonso Reyes y para Pasión por la Lectura es un honor recibir al escritor, pero no menos al lector, al maestro de lectura, Ricardo Piglia.
+
+[03:18] >> Ricardo Piglia: Desde luego agradezco la generosísima presentación, agradezco la invitación a participar en la Cátedra Alfonso Reyes.
+
+[03:28] Había estado ya aquí hace unos años en un diálogo con Juan Goytisolo.
+
+[03:34] Fue muy divertido porque enseguida nos peleamos, ¿no es cierto? Él me dejaba cada tanto intercalar algunos silencios, ¿no?
+
+[03:42] Y también insistía mucho en la gran tradición española: La Celestina, el Arcipreste de Hita... Que me parecía extraordinario, pero yo trataba de decir: "Bueno, también tenemos a Borges y a Marechal, no sé".
+
+[03:58] Así que tengo un gran recuerdo de ese momento porque admiro muchísimo a Goytisolo.
+
+[04:06] Y entonces, como recordaba el ámbito, tomé unas notas sobre la cuestión de la tecnología: cómo afecta a la literatura la problemática contemporánea de los cambios técnicos y tecnológicos que todos estamos discutiendo.
+
+[04:23] Por eso el título, "¿Qué será la literatura?", tiende a plantear dos cuestiones. Una es no preguntarnos qué es la literatura, que es una pregunta sobre su esencia y que no ha sido una pregunta fructífera, la pregunta sobre la esencia de la literatura, ¿no es cierto?
+
+[04:43] Las respuestas, ya sea la del formalismo ruso o la de Sartre, que se formularon en cierto sentido de la cuestión, por momentos perdían de vista el carácter histórico de esa práctica y la dificultad de fijarla en un momento determinado.
+
+[05:01] Y sería bueno alguna vez hacer una historia de cómo fue definida a lo largo del tiempo por la crítica y los escritores. En cambio, pensar qué será la literatura tiende a ver esta práctica como un punto de fuga, digamos así, del que podemos prever algunas metamorfosis.
+
+[05:19] Y también tiene algo de la mirada infantil, de la mirada del chico que se pregunta por un objeto: distanciar un poco de lo que ya sabemos sobre la literatura y pensarla con una mirada un poco más distanciada, que intente pensarla como si por primera vez se estuviera frente a esta práctica, ¿no?
+
+[05:38] Yo he dicho a veces en broma que si nuestra sociedad no hubiera encontrado a la literatura ya hecha, no la hubiera inventado.
+
+[05:46] No creo que hubiera inventado una práctica tan solitaria, tan contraria a la lógica rápida de la sociedad: de un individuo que en su casa escribe unos textos que nadie le pide y que nunca se sabe qué valor tienen o, en todo caso, qué precio tienen, ¿no?
+
+[06:01] Así que tenemos la suerte de que la literatura ya había sido inventada, digamos, y por lo tanto lo que hacemos ahora es reformularla y volver a pensarla.
+
+[06:11] En relación con la literatura, la novela especialmente tiene con la técnica una relación que me parece distinta al tipo de relación que tienen las artes plásticas, digamos, o la música.
+
+[06:23] Y sobre eso quisiera reflexionar brevemente y quizá luego conversar con ustedes.
+
+[06:30] Uno de los elementos que podemos encontrar en la literatura es que cierto mal uso del instrumento técnico ha producido ciertos efectos, ¿no? Por ejemplo, la máquina de escribir mecánica, que fue inventada para copiar, para que los manuscritos llegaran limpios a la imprenta y que en cierto sentido continuaba la tradición de los copistas, ¿no?, la gran tradición de los copistas medievales y esas figuras siempre un poco enigmáticas de los copistas como Bartleby, el personaje de Melville, o Nemo, los personajes de Dickens, que cristalizaban una práctica que tuvo durante mucho tiempo un elemento importante en la técnica que hacía posible la distribución de la literatura. Alguien copiaba los manuscritos, ¿no es cierto?
+
+[07:19] La máquina de escribir, que fue, como digo, inventada para ese trabajo, cambió de función y los escritores rápidamente empezamos a usarla para escribir directamente esos textos en la máquina.
+
+[07:33] El primer escritor que usó la máquina con este criterio creativo, digamos, y no de mera copia, fue Tolstói, que estaba siempre muy atento a las renovaciones técnicas. Por ejemplo, fue el primero que usó bicicleta: fue uno de los primeros que usó la bicicleta en Europa y estuvo siempre muy atento a la fotografía.
+
+[07:57] Entonces, hay una fotografía muy cómica de Tolstói, que parecía siempre un sacerdote —recordarán su figura: un hombre muy alto, con barbas y vestido como un campesino— andando en su bicicleta para que vieran cómo él estaba muy atento a las transformaciones.
+
+[08:12] Y fue de hecho entonces... la máquina de escribir fue inventada en 1885, y algunos de los textos finales de Tolstói, como "La muerte de Iván Ilich" y demás, fueron escritos en la máquina, porque sus novelas habían sido copiadas por su mujer, Sofía Tolstói.
+
+[08:30] Por ejemplo, "Guerra y paz" la copió siete veces ella, y al final pensaba que la novela era de ella, ¿no es cierto?, porque la había copiado tantas veces. Y empezaron unos conflictos con Tolstói que terminaron muy mal, porque desde luego si uno copia siete veces esa novela algo comparte con el que la ha escrito, ¿no es cierto?, porque cada corrección de Tolstói suponía una nueva versión que había que volver a copiar, ¿no? Era un trabajo muy increíble.
+
+[08:54] Entonces Tolstói empezó a usarla para escribir y luego eso se desarrolló como una técnica que produjo en algunos casos ciertos efectos en la escritura de novelas.
+
+[09:05] Por ejemplo, Henry Miller, el escritor norteamericano, hace del canto de la máquina de escribir en los hoteles de París donde escribía su trilogía un elemento que casi forma parte de la mística de la escritura: "Todos los vecinos de mi hotel", dice, "oían el sonido musical de mi máquina, que no paraba nunca", ¿no? La idea de que la máquina permitía escribir más rápido, ¿no?
+
+[09:30] El otro ejemplo que podemos poner es el de Kerouac, ¿no?, también el novelista Beat Generation que escribió "On the Road" ("En el camino"), una novela que todos hemos por lo menos oído hablar de ella, ¿no?
+
+[09:41] Y para eso inventó un rollo para no tener que... porque la máquina de escribir, que quizás ustedes nunca usaron o muchos de ustedes nunca usaron, tenía la imperfección de que uno ponía una página, terminaba de escribirla, tenía que sacarla por el rollo y poner otra página, y esto era una pausa en la escritura.
+
+[09:59] Entonces Kerouac se compró un rollo y escribía sin parar porque el rollo le iba dando siempre la página que necesitaba. Y ahora se ha editado la edición de "On the Road" siguiendo ese ritmo que para él tenía la escritura continua, digamos, una escritura de grandes "rush" de escritura, buscando entonces cambiar la prosa y la narración a partir de la utilización técnica de la máquina y de la velocidad que se le podía imprimir a la escritura.
+
+[10:37] De modo que ahí podríamos ver alguna pequeña percepción de lo que serían cierto tipo de modificaciones ligadas a la técnica, ¿no?
+
+[10:47] Yo recuerdo, desde luego, todos mis primeros libros fueron escritos así, y había una condición: uno escribía el primer borrador, sacaba la hoja y corregía luego a mano, y luego tenía que volver a copiarla, ¿no?
+
+[11:03] Yo me acuerdo que en aquel tiempo pensaba que hacía cinco páginas por cada una que publicaba, o sea, escribía 500 páginas para un texto de 100 páginas porque lo corregía cinco veces, y por lo tanto había un trabajo físico importante de reescritura de los textos. Había que volver a pasarlo, y entonces luego viene la computadora, ¿no es cierto?
+
+[11:27] Entonces la computadora interrumpe esa... digamos, interrumpe ese movimiento de reescritura, de volver a pasar la página, de volver a escribirla, que tenía cierta ventaja respecto a cómo uno podía ajustar el estilo, ¿no?
+
+[11:46] La otra cuestión que tiene la computadora, que quizá explique cierta tendencia al desorden formal de ciertas novelas actuales, es que uno mientras está escribiendo puede corregir lo que está escribiendo.
+
+[11:59] Se parece mucho a escribir a mano en ese sentido, porque uno va escribiendo y va mejorando lo que está escribiendo en el momento mismo de escribir, sin necesidad de hacer otra copia. Y por otro lado, la página está muy bien diagramada y por lo tanto siempre parece mejor de lo que es, porque está todo tan prolijito ahí, ¿no?, que hay que tener cuidado con eso.
+
+[12:20] Los escritores, todos nosotros, leemos la novela en la pantalla, la vemos muy bien diagramada, ¿no es cierto?, y tendemos a no imprimir. Tendemos a no imprimir y por lo tanto tendemos a avanzar un poco en el sentido del internet, que uno nunca sabe dónde está el límite del otro lado, ¿no?
+
+[12:40] Por lo tanto, esa idea de tener una versión orgánica de lo que se está escribiendo muchas veces con la computadora se pierde, se diluye, y se trabaja casi página por página sin tener en cuenta lo que sigue a esto, ¿no? Y yo creo que por ahí pasan ciertas novelas que de pronto los finales uno no sabe si él se acordaba de lo que había escrito al comienzo y siguió avanzando con la novela, produciendo ciertos efectos particulares.
+
+[13:08] La otra cualidad que debe ser pensada en términos de técnica y escritura es, bueno, la rapidez para copiar y pegar textos diversos que uno puede incorporar a lo que está escribiendo sin tener que copiarlos realmente, como se hacía en otra época, donde uno tenía que copiar esos textos para insertarlos, ¿no es verdad?
+
+[13:26] Me parece que ahí se produce algo en torno a la cuestión de la propiedad, ¿no?, que está en discusión. Es muy fácil tomar textos e incluirlos, y hay un juego ahí entre el plagio y la cita en el que los textos nunca se sabe hasta dónde han sido copiados y pegados o no.
+
+[13:46] Recordemos que en el lenguaje no hay propiedad privada, ¿no es cierto? En el lenguaje no hay propiedad privada y entonces la literatura tiene algo que ver... la literatura sería una apropiación privada del lenguaje. En un punto todos los escritores tendemos a marcar el lenguaje como si fuera propio, ¿no?
+
+[14:02] La ilusión de todo escritor es que su estilo termine por darle al lenguaje una marca personal. Para poner el ejemplo de Borges, ¿no?, hay ciertas palabras que parecen ser ya de él, ¿no? Uno no puede poner "conjeturó" en un texto sin que se imaginen de inmediato que lo ha tomado de Borges, o "fatigó", ¿no?
+
+[14:21] "El conferencista fatigó a sus oyentes", sería, ¿no? O "el eremita fatigó los desiertos", como dice; por supuesto que el que se fatiga es el eremita, no el desierto, ¿no? Ese desplazamiento que Borges usa con mucha eficacia se ha convertido casi ya en una formulación que hace de la literatura algo personal en Borges, ¿no?
+
+[14:48] Entonces hay un movimiento ahí en relación con la propiedad a la cual la computadora y el internet están generando una serie de cuestiones, no solo en la literatura, en la música también, ¿no?
+
+[15:04] Roland Barthes decía que la literatura moderna había comenzado cuando se separó el escritor, el crítico y el editor, ¿no?, que esa escisión entre figuras que antes estaban unidas —en la literatura medieval sobre todo estaban unidas— caracterizó a la literatura moderna. Me parece que estamos en el final de esa etapa, ¿no?
+
+[15:26] Hoy cualquier escritor joven puede ser al mismo tiempo su editor, ¿no es cierto?, y habitualmente los escritores practican la crítica en los blogs y practican la crítica en el Facebook. Es decir, que las funciones... Y estamos viendo la declinación de los suplementos literarios.
+
+[15:45] Me han dicho que ahora va a ser "El Ángel", ¿no? Me dijeron: "Murió "El Ángel"". Y yo dije: "Bueno, murió "El Ángel". ¿Qué ángel será?", pensé yo. No, pero parece que es un suplemento cultural que tenía... un suplemento de "Reforma" que tenía una gran tradición, así que era "El Ángel".
+
+[16:01] No voy a decir que sea mejor que se muera ese ángel, pero era más interesante que la muerte de un ángel, ¿no?
+
+[16:06] Lo cierto es que los suplementos literarios, que fueron el espacio de los críticos, digamos, están siendo superados por las intervenciones en la web, donde los juicios —más allá de que estemos a favor o no— los juicios sobre literatura y las intervenciones están circulando de una manera mucho más personalizada, sin necesidad del espacio profesional de la crítica de los suplementos.
+
+[16:32] Entonces esta idea de Barthes de que esas funciones, cuando se independizaron, crearon la literatura moderna tendría que hacernos pensar que estamos en un límite respecto a la transformación de la literatura en la medida en que esos movimientos han comenzado a unificarse.
+
+[16:52] Por otro lado, yo diría que podríamos ver también otra pequeña... esta sería entonces una breve posibilidad de una historia de la relación entre la técnica y la literatura. Es decir, la novela y la literatura no han sido tan afectadas o no han estado tan atentas ni han necesitado tanto de la técnica en el sentido de la tecnología como ha sucedido con las artes plásticas, donde el invento de la fotografía produjo una serie de efectos, donde ciertas invenciones tienen que ver con determinado tipo de material que se usa en la pintura.
+
+[17:26] Lo mismo pasa en la música con la música electrónica: ciertas artes están más ligadas a las transformaciones tecnológicas y responden más rápidamente a las transformaciones tecnológicas en su modo de encarar la construcción artística. Lo mismo con el cine, ¿no es cierto?, o con la fotografía: hoy cualquiera puede filmar o puede tomar fotos mientras alguien habla, mientras que antes era un trabajo distinto. Hoy se ha democratizado muchísimo ese acceso a la técnica.
+
+[17:57] En el caso de la literatura las cosas no son tan visibles. Yo creo que el instrumento que produjo la transformación más nítida fue el grabador, ¿no?, que hoy también es un objeto absolutamente cotidiano, pero no lo fue siempre, ¿no?
+
+[18:15] Yo traje aquí una cita del escritor argentino Eduardo Wilde en su libro "Viajes y observaciones en Estados Unidos". Él asiste a una exposición de inventos de Edison en 1888
+
+[18:34] y entre las cosas que ve están los primeros grabadores, ¿no?, el primer grabador, diríamos. Y fíjense la reacción de Wilde, ¿no? Dice:
+
+[18:48] "Conozco un caballero que habla sus cartas delante de un aparato y se lleva impresiones fonográficas a su casa para hacerlas copiar. Tanto adelanto sorprende y entristece en previsión de su muerte. Si yo tuviera un hijo, recogería sus primeras palabras y sus frases maldichas en el fonógrafo para oír su voz en cualquier momento. Muchos de los muertos enterrados en el cementerio de Brooklyn continuarían hablando por los aparatos de Edison".
+
+[19:15] Tiene como una visión espiritista del aparato, del grabador; tanto que Madame Blavatsky, que era una de las grandes figuras del espiritismo en el siglo XIX... El espiritismo tenía una gran aceptación entre los escritores, ¿no?: Joyce, Lugones, el escritor argentino, en fin; había una relación ahí porque sería interesante hablar con los muertos, ¿no? A mí me encantaría hablar, no sé, con Faulkner, ¿no?, preguntarle a Faulkner cómo están las cosas.
+
+[19:46] Entonces parecía que el grabador iba a permitir ese movimiento rarísimo y un poco extraño de Wilde, que dice: "Bueno, voy a grabar a mi hijo y cuando mi hijo muera" —no veo por qué tiene que morir el hijo— "pero voy a escuchar su voz".
+
+[20:00] Esto nos hace ver cómo en el presente la reacción frente a la nueva tecnología es siempre extraña, ¿no? O sea, que nosotros tenemos que desconfiar del modo en que nosotros hablamos de las nuevas tecnologías a medida que aparecen, porque los contemporáneos miran a la nueva tecnología siempre con una mirada que tiene que ver con su cultura del momento, la leen desde la cultura en la que están.
+
+[20:20] Entonces él vio la grabadora como algo que estaba ligado a esa especie de movimiento de las ciencias ocultas, el espiritismo, en fin.
+
+[20:33] Y lo mismo ha sucedido con distintos momentos de las invenciones técnicas, ¿no?, donde en realidad la cultura del presente mira ese objeto nuevo con una mirada que no es la mirada que luego logra ese mismo objeto, ¿no? Nosotros podríamos empezar a revisar lo que se ha dicho desde la aparición del internet y encontraríamos elementos que seguramente nos ayudarían a entender nuestro presente más que el posible futuro de esa tecnología, ¿no?
+
+[21:00] De todas maneras el grabador siguió su desarrollo: luego se comenzó a comercializar en 1950, ¿no?, aparecieron los grabadores de cinta. Oscar Lewis, el antropólogo norteamericano, fue el primero que utilizó el grabador para hacer historias de vida.
+
+[21:19] Como ustedes recordarán, "Los hijos de Sánchez" hizo una historia de una familia mexicana de Baja California y construyó casi una novela con las distintas voces de los miembros de esa familia; es un libro extraordinario. Igualmente un libro, "La vida", que es una narración coral de las prostitutas puertorriqueñas de Nueva York.
+
+[21:44] Y me parece que ahí sí podemos encontrar un elemento técnico que produjo modificaciones en la narración, ¿no? Por un lado, el nuevo periodismo está muy conectado con la aparición del grabador, que permite las historias de vida y permite reportear.
+
+[22:00] Hoy parece tan sencilla la operación por la cual cualquiera viene y graba una conversación o graba una entrevista, mientras que en otra época las cosas eran muy distintas. Entonces el grabador está muy ligado a la aparición del nuevo periodismo, está muy ligado a la aparición de la no ficción, ¿no es cierto?
+
+[22:19] Está, quiero decir, muy ligado también a la capacidad de resolver la tensión entre oralidad y escritura, porque no solamente el grabador capta la historia, sino también graba los modos de decir. De modo que hoy es mucho más sencillo, no es como Rulfo, digamos, que tenía que construir esas lenguas.
+
+[22:37] Uno puede ir a cualquier pueblo en México y buscar algún campesino y grabar, y va a escuchar esa sintaxis y ese léxico, y el grabador le va a permitir reproducir la voz; y la vieja tradición de la relación entre la oralidad y la escritura encuentra con la máquina, digamos, un tipo no sé si de resolución, pero por lo menos de apertura, ¿no es cierto?
+
+[23:04] Escuchamos mucho más las voces de las clases populares a partir de la aparición del grabador que lo que antes los escritores mismos tenían que reproducir esas voces. Y lo mismo sucede con las vidas de los otros, digamos, con las vidas de aquellos que están fuera del mundo letrado: del mismo modo que lo que hizo Oscar Lewis, hoy es muy común que alguien pueda hacer la vida de un boxeador o pueda hacer la vida de un desocupado de cualquier lugar, grabando el contenido de su vida y toda su historia personal, ¿no es cierto?, y luego reescribiendo quizás esa historia.
+
+[23:38] De modo que el grabador sí me parece que es esa posibilidad de copiar la voz y de copiar la historia de aquellos que están fuera del mundo letrado. Me parece que sí, quizá podemos decir que produjo una transformación en la escritura y generó un campo nuevo como es la cuestión básicamente de la no ficción: esos libros que son, digamos, libros donde el narrador va al lugar casi como si fuera un antropólogo, ¿no?, que decía Monsiváis en muchos casos, o lo que en la Argentina hacía Rodolfo Walsh, ¿no? Alguien va a un lugar, vive ahí y graba las distintas versiones, y con eso construye una narración que podríamos considerar una forma narrativa no sé si desconocida, pero bastante nueva, ¿no es cierto?
+
+[24:29] Por otro lado, también el grabador ha influido en la escritura de novelas. El escritor argentino Manuel Puig, luego de "La traición de Rita Hayworth" y "Boquitas pintadas", en sus novelas siguientes —"El beso de la mujer araña", "Pubis angelical" y "Maldición eterna a quien lea estas páginas"— hacía lo siguiente: yo lo veía mucho en esa época, él grababa... Supongamos en "Maldición eterna", ustedes recuerdan, es un homosexual y un guerrillero marxista que conviven en una celda.
+
+[25:00] Entonces él grabó la historia real de un militante marxista donde habla Arregui... O sea, Puig era tan realista que no quería imaginar cómo era la vida de un guerrillero, sino que grabó la vida real de un guerrillero exiliado y luego la contrapuso con esa voz débil del chico gay que cuenta las películas.
+
+[25:26] En "Pubis angelical", que es una novela que sucede en México, la historia del exiliado político —que creo que se llama... bueno, me acordaba el nombre, ahora no me acuerdo— hizo lo mismo: un militante argentino del peronismo que estaba exiliado en México, Manuel grabó su vida e incorporó ese relato como una voz más en una novela contrapuesta a la voz de la mujer que se está muriendo de cáncer.
+
+[25:56] O sea que en Puig era siempre una voz fuerte de una historia real que él trabajaba como una grabación con ese narrador débil, frágil, que es característico de Puig, ¿no?
+
+[26:09] En "Maldición eterna" él hace lo mismo con el sociólogo marxista que se gana la vida llevando por la ciudad a un viejo paralítico, un anciano que está muy enfermo, y este joven sociólogo que no tiene trabajo se gana la vida como acompañante. Y por supuesto, Manuel había grabado a un estudiante de sociología muy avanzado de Columbia para tener todo ese universo y poder contraponerlo al mundo del hombre anciano, digamos, otra vez un narrador frágil.
+
+[26:41] Y por fin, en "Sangre de amor correspondido", él graba directamente la historia: la historia que se lee en "Sangre de amor correspondido", que es una historia de amor de un chico brasilero, es absolutamente una grabación. Incluso Puig hace un contrato con el sujeto que le cuenta, y luego tiene un conflicto porque cuando la novela tiene éxito hay un conflicto con eso, ¿no?, porque la otra pregunta es: ¿de quién es esa vida, no?
+
+[27:11] Esa es la otra pregunta que aparece muchas veces en la línea de lo que podríamos llamar el nuevo periodismo o la no ficción, ¿no es verdad? Alguien copia la vida de otro, digamos, y firma. En fin, lo que pasó con Rigoberta Menchú, ¿no?, y esta mujer que se llamaba Burgos, creo, Elizabeth Burgos.
+
+[27:34] Elizabeth Burgos había grabado la vida de Rigoberta Menchú, y el libro de Rigoberta Menchú era también de Rigoberta Menchú porque se había grabado su vida.
+
+[27:43] Entonces, lo que quiero decir es que el grabador sí podríamos decir que ha producido algunos cambios en la escritura narrativa en relación a la captación de la voz y en relación a la captación de vidas ajenas a la experiencia del letrado, lo que llamamos nosotros o lo que se suele llamar la voz del otro, ¿no?, la voz de aquel que está afuera de la cuestión, ¿no?
+
+[28:05] Entonces me parece que ahí podríamos encontrar algunos pequeños indicios para hacer ver que la relación de la narrativa con la técnica, de la literatura con la técnica, tiene particularidades en el caso de la novela.
+
+[28:24] Y yo quisiera también retomar esta mirada histórica tentativa: bueno, tenemos la máquina de escribir, tenemos el grabador, etcétera, ¿y qué modificaciones vemos ahora que tenemos la computadora? Yo en el caso... disculpen, hace mucho frío por acá ahora, así que estoy con un poco de catarro.
+
+[28:48] Por ejemplo, en relación a las nuevas tecnologías, yo lo que veo es la aparición argumental del asunto: es decir, ahora las personas, en vez de mandarse cartas en las novelas, se mandan "emails", del mismo modo que antes andaban en carroza y luego andaban en automóvil. Es decir, son maneras de incorporar en el argumento, en el tema, la presencia de las nuevas tecnologías en la vida; pero no veo que haya habido modificaciones en la manera de narrar por la aparición de estas nuevas tecnologías, ¿no es verdad?
+
+[29:17] Dos minutos sobre esta cuestión, pero antes quisiera retomar la cuestión de la historia y de la historicidad, y referirme también a otro movimiento de la técnica que tiene más que ver con la circulación del arte. Es decir, cuando aparece el cine y sobre todo el cine sonoro, la novela pierde su público, ¿no?, y esto muchos escritores lo han percibido: público de la novela se va hacia el cine, busca la ficción imaginaria en el cine.
+
+[29:47] Y la novela, que había sido el gran género popular con Dickens y con Balzac, queda como escindida respecto a la potencia que tiene el nuevo medio, que es el cine, para captar el imaginario colectivo, y la novela queda suelta, digamos.
+
+[30:05] Entonces ahí muchos dicen: "La novela ha perdido público por culpa de Joyce o por culpa de Kafka, por esas experimentaciones que han alejado al público tradicional". Es al revés: porque el cine sacó al público masivo de la lectura de novelas fueron posibles Kafka, Joyce, Proust; es decir que... Y lo mismo le pasa al cine cuando aparece la televisión: cuando el cine pierde su público porque la televisión se convierte en el nuevo medio tecnológico que capta el imaginario colectivo, el cine, que había sido hasta ese momento un arte menor, a partir de "Cahiers du Cinéma" se convierte en una especie de alternativa al mundo ya considerado de cultura de masas de la televisión, y aparece la reconsideración de los grandes artesanos del cine de Hollywood como grandes artistas: Hitchcock o John Ford.
+
+[31:00] Es decir que otra vez el género que queda fuera de la modernidad o fuera del desarrollo tecnológico se estetiza, diríamos nosotros, ¿no?: toma una carga artística que no tenía antes. El cine no tenía esa carga artística que tiene cuando aparece la idea del director como el creador, y las novelas no estaban vistas con esa categoría de experimentación que le dan Joyce o Kafka.
+
+[31:23] Y luego, cuando aparece internet, es la televisión la que se estetiza: hoy miramos las series de televisión como grandes acontecimientos artísticos o como un elemento que puede ser discutido en la academia —la serie "Los Soprano" o la serie "The Wire" o "Lost"—, pero justamente porque la televisión está perdiendo totalmente su lugar sustituida por internet.
+
+[31:49] Y estoy seguro de que en el futuro, en un futuro que quizás no sea muy lejano, el "email", el blog y el Facebook van a estar en los museos como formas artísticas que fueron superadas por otras que no podemos imaginar todavía, ¿no?
+
+[32:04] Lo que quiero marcar con esto es que cuando una tecnología sustituye a otra, la anterior toma características artísticas, estéticas; se estetiza, consigue... su público se concentra, se achica, digamos así, pero al mismo tiempo logra un reconocimiento que en el momento en que era un arte muy popular no había alcanzado, ¿no es cierto?
+
+[32:31] De modo que por ahí me parece que habría también otra forma de pensar esta cuestión: es ver cómo los elementos técnicos influyen sobre la creatividad, no solo sobre los contenidos. La otra es cómo el desarrollo de la tecnología va produciendo modificaciones en la recepción del arte y cómo las formas nuevas que abren nuevos públicos hacen que las formas anteriores encuentren su lugar en los museos, podríamos decir, empiezan a encontrar su lugar fuera de allí.
+
+[33:09] Y antes de terminar, dos palabras más sobre de qué manera todo este movimiento ha influido sobre la lectura, ¿no?: qué es lo que persiste en los modos de leer y qué es lo que ha cambiado a partir de la existencia de las nuevas tecnologías.
+
+[33:35] Lo que podemos decir es que los soportes que sostienen la lectura han ido cambiando, ¿no?: empezamos con los papiros, los rollos, los códices, los libros y la pantalla hoy, ¿no? Ahora, ¿qué pasa con el modo de leer, con la actitud de la lectura, ¿no?
+
+[33:52] Yo tiendo a pensar que la lectura como tal no ha cambiado; lo que ha cambiado es la circulación de los textos a los cuales tenemos acceso. Digamos, lo que ha cambiado es la posibilidad que tenemos hoy de acceder de una manera instantánea a un conjunto amplísimo de textos.
+
+[34:15] Pero nuestra capacidad de lectura está circunscrita a unos ritmos que no han variado: siempre estamos descifrando un signo, después otro signo. Lo hacemos con mucha rapidez y calidad, ¿no es cierto?, pero siempre será la operación de un signo y otro signo que nos permite construir una palabra, y luego la palabra, la frase, ¿no es cierto? Yo digo en broma: leemos a la misma velocidad que en los tiempos de Aristóteles, ¿no?
+
+[34:41] Entonces no han conseguido todavía inventar un chip para que podamos leer más rápido y podamos tener acceso a toda esa circulación. Nos abruma la cantidad de posibilidades de lectura que tenemos, pero el tiempo de lectura es el problema, ¿no es verdad?
+
+[34:54] Entonces, cuando se dice "una imagen vale más que mil palabras", lo que se quiere decir es que una imagen se descifra instantáneamente y que mil palabras llevan un tiempo para leer. Es un tiempo distinto el que está en juego, ¿no?: un valor superior en una sociedad donde la velocidad es una virtud, por supuesto, la imagen transmite inmediatamente una significación, ¿no?, aunque muchas veces la imagen necesita un texto abajo, ¿no?
+
+[35:25] A mí siempre me ha interesado la relación entre el título de los cuadros y los cuadros: ¿qué relación podemos establecer entre lo que vemos y lo que leemos sobre lo que vemos, ¿no es cierto? Entonces muchas veces la imagen viene acompañada por los textos, y los textos tienen un tiempo.
+
+[35:42] En la Argentina, por lo menos en una época, circuló la idea de la lectura... una especie de chiste un poco idiota que se llamaba la lectura veloz. Había unos institutos de lectura veloz, ¿no?, que no sirvieron para nada, ¿no? No sirvieron para nada.
+
+[35:55] Incluso los modos que tienen hoy los chicos de abreviar las palabras en los textos breves o en los "emails" mismos, ¿no?, pero esa es una operación para acelerar la escritura, pero la lectura hay que descifrarla igual: uno tiene que reponer lo que falta, uno tiene que reponer la palabra que ha sido abreviada por la necesidad de escribir más rápido, ¿no es cierto?
+
+[36:20] Pero hay que tener en cuenta que en el momento de la lectura el tiempo necesario para leer ese texto es el mismo aunque todo esté abreviado, ¿no es cierto?
+
+[36:31] La ilusión sería o conseguir un chip que nos haga leer a una velocidad supersónica o convertir el lenguaje en un lenguaje matemático, que sí es un lenguaje donde la velocidad está ligada a que los signos son muy abstractos; pero el lenguaje está ligado a nuestra concepción del tiempo.
+
+[36:49] El lenguaje es el que nos enseña con la conjugación de los verbos a distinguir entre el pasado, el presente y el futuro, ¿no es verdad? Y nuestra experiencia del tiempo es una experiencia con el lenguaje, ¿no es verdad? El tiempo que tarda... lo que estamos hablando aquí es el tiempo que tarda, ¿no es cierto? No podemos abreviar eso si es que queremos comunicarnos.
+
+[37:12] Entonces hay una relación muy íntima entre el lenguaje y el tiempo y la temporalidad, ¿no es verdad? Y me parece que la cultura contemporánea, que es una cultura de la circulación muy rápida de muchísima cantidad de textos y de información, se encuentra con el obstáculo, dicho entre comillas, del hecho de que la lectura tiene un tiempo lento, ¿no?
+
+[37:35] El novelista Saul Bellow, el novelista norteamericano, decía: "El arte es como la oración: es una pausa". Es una pausa.
+
+[37:47] El arte cambia el ritmo de la vida, ¿no es cierto?: obliga a un tiempo que es un tiempo mucho más arcaico y mucho más personal en el mejor sentido, ¿no?
+
+[37:57] Entonces debemos estar abiertos a las nuevas tecnologías, debemos mirar eso como una manera de resolver muchísimas cuestiones, de democratizar el acceso a la cultura; pero debemos rescatar a la lectura como una experiencia de una temporalidad muy personalizada, ¿no es cierto?, que nos salva del vértigo: nos salva del vértigo y nos pone en un tiempo que es el tiempo del cuerpo, es el tiempo de la posición del cuerpo al leer.
+
+[38:35] Y entonces esta idea de que debemos recomendar la pausa y no pedirle a lo que se lee la misma instantaneidad que tienen las imágenes es, me parece, un elemento importante en la discusión sobre la cuestión de qué significa leer.
+
+[38:52] Y para terminar, la otra cuestión es que cuando uno escribe cambia el modo de leer, ¿no?: empieza a leer de otra manera. A mí me parece que una de las maneras de afrontar esta cuestión de la posible declinación de la lectura es volver... En la escuela primaria, por lo menos yo recuerdo en Argentina, teníamos que hacer "composición tema la vaca", ¿no? Teníamos que escribir sobre algo que no era el resumen de un libro que habíamos leído, sino algo que tenía que ver con nuestra experiencia personal: "un día en la vida de mi hermana".
+
+[39:28] Me parece que si volvemos a insistir con las autoridades que corresponda el hecho de que los chicos y los jóvenes en el colegio secundario tienen que escribir —no porque se vayan a convertir en escritores, sino que tienen que aprender a expresarse con el lenguaje, expresar sus emociones, sus percepciones—, porque eso los va a ayudar a leer mejor, ¿no?
+
+[39:52] Yo creo que el camino para hacer de la lectura un espacio placentero es tener la experiencia de la escritura: de una escritura que no sea solamente la escritura que desde luego también es necesario aprender ("bueno, ¿cómo escribimos un "paper"?, ¿cómo hacemos para resolver el problema de la síntesis de un ensayo que queremos escribir?"). Me estoy refiriendo a esa tradición bastante antigua que por lo menos en Argentina se llamaba composición, ¿no? "Ahora es la hora de la composición", decía la maestra.
+
+[40:22] Y habitualmente o nos decía que trajéramos de la casa una composición sobre el tema "cómo es el jardín de mi casa", o a veces teníamos que escribirla ahí mismo en la escuela, ¿no?
+
+[40:34] Entonces creo que una cosa que por momentos se pierde en la discusión sobre la cuestión de la lectura es que hay una relación muy íntima entre escribir y leer, ¿no?, y que no es necesario que alguien sea un escritor profesional ni que sea alguien que va a dedicar su vida a la escritura como para hacer del aprendizaje de la escritura un acceso a una mayor comprensión de la cultura, ¿no?, que está para nosotros basada en el lenguaje.
+
+[41:02] Los que estudiamos literatura y los que hacemos literatura estamos tratando de que la relación con el lenguaje sea lo más compleja posible para que luego las otras relaciones con el lenguaje sean comprensibles de una manera mucho más eficaz e inmediata, ¿no es cierto? La literatura no es otra cosa que un uso complejo del lenguaje que intenta transmitir emociones y no solo conceptos, ¿no?
+
+[41:30] Cuando se dice: "No entiendo este relato", yo digo: "Bueno, ¿qué quieres entender?". ¿Un relato o qué quiere entender: el amor, ¿no? Uno entiende el 20% del otro más o menos, digamos, ¿no?
+
+[41:47] Si la idea de la comprensión toma como modelo un teorema o toma como objeto de comprensión una cuestión cuya resolución es pura, es racional, no se condice con el arte, cuya comprensión es mucho más emocional y es mucho más particular, y no responde a la lógica de una comprensión total, ¿no?
+
+[42:12] De modo que también lo digo de esta conferencia, ¿no?: espero que hayan entendido un 5%, digamos, de lo que traté de decirles, y con eso ya estaría yo satisfecho. Muchas gracias.
+
+[42:32] >> Pablo Sol: Bien, ha sido sin duda muy interesante escuchar esta charla sobre literatura y tecnología. Y bueno, para comenzar el diálogo me gustaría preguntarle... Bueno, usted se refirió sobre todo a cómo la tecnología ha afectado la escritura, pero en el último trecho de la conferencia habló justamente de cómo la tecnología ha afectado la lectura, ¿no? Bueno, cómo han ido cambiando los soportes, y usted ha dicho que no ha cambiado tanto el acto de la lectura en sí, ¿no?
+
+[43:01] Y yo me preguntaba un poco sobre esto porque, bueno, hay críticos literarios muy preocupados por esto, porque a veces incluso toman un tono muy apocalíptico cuando hablan de esto, ¿no? Y me preguntaba si realmente estas nuevas tecnologías no han afectado sustancialmente la forma de leer, ¿no?
+
+[43:19] Es decir, pensemos sin irnos muy lejos en un lector de novelas del siglo XIX, ¿no?: la concentración, el silencio, el aislamiento, la atención que requiere ese acto de lectura. Si yo en lugar de leer de esa forma intento leer frente a una computadora y tengo el chat por un lado, y recibo un mensaje, y estoy actualizando mi estatus en Facebook, y suena la música, ¿eso no afecta la forma en que estoy realmente leyendo?, ¿no afecta mi comprensión del libro?
+
+[43:48] >> Ricardo Piglia: Totalmente. Sí, totalmente. Yo creo que debemos insistir en esta cuestión. Es decir, desde luego que uno podría imaginar figuras de escritor, ¿no? Podríamos imaginar la figura kafkaiana, que sabemos el modelo de Kafka: "Quiero estar en un sótano", decía él, "y que la comida me la dejen en el borde del sótano para que no me interrumpan y entonces yo pueda leer tranquilo", que sería la idea del lector tradicional que lee intensamente y evita en todo lo posible la interrupción como gran amenaza.
+
+[44:24] Hay un cuento de Cortázar que se llama "Continuidad de los parques", ¿no?, que es extraordinario porque es cómo la lectura de pronto es afectada por la irrupción de la vida.
+
+[44:34] Y entonces estaría... Y yo digo siempre en broma que cuando los medios le dicen a uno, a los escritores, a las personas: "¿Qué libro se llevaría a una isla desierta?", no están pensando solo que en la isla desierta uno estaría aislado para leer, sino que solo en la isla desierta, luego de un naufragio, uno leería un libro, ¿no?
+
+[44:55] Así que eso es un poco la metáfora de la cultura: "¿Qué libro se llevaría usted?". Yo le digo: "Bueno, un manual para hacer botes me llevaría a una isla desierta", ¿no? Pero quiero decir que por un lado estaría la idea de leemos en la isla desierta, que es una gran posición de lectura: leemos en la isla desierta, no tenemos ninguna interrupción.
+
+[45:17] Luego está lo que Macedonio Fernández llamaba el lector distraído, ¿no? Él decía: "Yo le escribo... yo escribo para el lector distraído". Ya había percibido que el lector... Y también Gombrowicz, una cosa muy buena: hay que tener cuidado los novelistas con esmerarse tanto en hacer una frase, porque en ese momento al lector le viene una mosca y se golpea para matar a la mosca, y se saltea el párrafo bellísimo que uno ha escrito.
+
+[45:40] Es decir que hay una cuestión con la continuidad de la lectura que acompaña la historia de la lectura en cierto sentido, ¿no es verdad? Estamos muy acostumbrados.
+
+[45:50] Yo, para poner el caso de Puig, un día lo fui a ver a Puig a su casa y él estaba en la cocina con su madre conversando, mirando televisión y leyendo no sé qué cosa. Miraba televisión, conversaba, estaba en la cocina... Quiero decir, una escena de lectura que era completamente contraria a la tradicional, ¿no? Puig, un hombre interesado por el cine que tenía con la literatura una relación... Es decir, es cierto que se ha construido un lector que trabaja con la interrupción.
+
+[46:19] Yo lo único que decía es que en los momentos que lee tiene que usar un tiempo determinado —a eso me refería básicamente—, que no es posible acelerarlo, ¿no?
+
+[46:31] Luego está el problema de esa heterogeneidad de interrupciones. Borges podría ser otro ejemplo, ¿no?: Borges lee aislado en la biblioteca, pero lee muchos libros, y por lo tanto siempre le falta un libro, y por lo tanto su lectura también está en cierto sentido interrumpida por la sensación de que de todos los libros que tiene ahí, entre todos los libros que hay en la biblioteca, hay uno que no está.
+
+[46:53] Entonces no es el lector aislado que lee un solo libro, Borges, sino es el lector aislado en la biblioteca que lee a la vez varios libros, y también él se mueve con un criterio casi de lo que llamamos aquí el lector disperso, el lector distraído, ¿no? Borges es un lector fragmentario: gran lector, es un extraordinario lector, pero también es un lector salteado.
+
+[47:16] Habría que preguntarse cuántos libros leyó completos Borges; lo digo con toda franqueza, ¿no? Ahora se ha publicado en la Biblioteca Nacional de Buenos Aires un libro maravilloso, porque han encontrado todos los libros personales que Borges donó a la biblioteca y están todas sus pequeñas anotaciones de lectura, y son en general pequeñas frases que él aisla y que luego usa en sus propios textos, ¿no?
+
+[47:39] Entonces para mí el problema no es la relación entre atención, interrupción, lectura en silencio, lectura en voz alta... ¿Qué calidad de textos están leyendo? Lo que yo sencillamente señalo es que la nueva tecnología no puede modificar la temporalidad de la lectura.
+
+[47:56] Luego tenemos todo el trabajo de qué quiere decir leer bien, que ya sería como otra etapa, ¿no?: ¿qué quiere decir leer bien?, ¿qué quiere decir leer mal, que es una lectura equivocada, ¿no? Pero en relación a las tecnologías y a la potencia de la presión que la tecnología y las imágenes tienen en el mundo contemporáneo, hay que decir que no podemos vivir en un mundo donde no haya textos para leer, ¿no?, aunque sean avisos del fin del mundo, qué sé yo; algunas cosas se van a tener que escribir siempre, ¿no es verdad?, y se van a leer con un tiempo. A eso sencillamente me refería, ¿no?
+
+[48:31] Pero desde luego se abre todo ese tema, ¿no? Sin salir del propio Borges, que es como el modelo de lector clásico, ¿no?: bueno, Borges se adaptó a muchas circunstancias modernas, como por ejemplo leer en el tranvía, ¿no?, una cosa que uno tiene que hacer ahora; bueno, leer en los aviones, leer en los autobuses, leer en los trenes, ¿no?
+
+[48:48] Porque exactamente, él contaba cómo atravesaba la ciudad en un tranvía para ir a su trabajo en la biblioteca, y ahí iba leyendo "La divina comedia", ¿no?, ni más ni menos, ¿no?, no una lectura ligera, además.
+
+[49:01] Pero yo pienso también que la lectura en los viajes, que es un clásico —la lectura en los trenes en el siglo XIX, las lecturas en tranvía—, es más difícil leer en los autos.
+
+[49:16] Laurence Sterne, el novelista inglés, hablaba del traqueteo de los carruajes y las malas calles de Londres que le impedían leer lo que quería leer y que iba saltando. O sea que siempre podríamos hacer una historia de la lectura en los viajes, pero ahí se ven los dos tiempos: mientras el viaje sucede, la lectura siempre es lenta, ¿no?
+
+[49:36] Nosotros podemos leer en el viaje en el tranvía 26 que va de Palermo a Almagro, que el viaje duraba como 4 horas; o podemos tomar un avión acá en Monterrey y en unas... qué sé yo, y en esas horas vamos a leer una novela.
+
+[49:52] Entonces la sensación... Y también pasaba mucho en el viaje en tren: uno iba leyendo y miraba el paisaje que pasaba ahí.
+
+[50:00] Entonces el tiempo de la lectura es algo que tiene un movimiento propio, y a veces el viaje nos da más la sensación de la doble temporalidad que a menudo no percibimos, ¿no?
+
+[50:09] >> Pablo Sol: Bien. Y siguiendo con el tema de la lectura, ¿no?, en una de sus novelas, justamente en "Blanco nocturno", hay un personaje, la madre de los protagonistas, que es una gran lectora, a la que de hecho en algún momento se dice: "Bueno, ella es la lectora", y se la pasa leyendo novelas, consagra todo su tiempo a la lectura de novelas, ¿no? Y me gustaría leer brevemente este párrafo y hacerle una pregunta al respecto.
+
+[50:33] Dice: "Mi madre dice que leer es pensar. No es que leemos y luego pensamos, sino que pensamos algo y lo leemos en un libro que parece escrito por nosotros, pero que no ha sido escrito por nosotros, sino que alguien en otro país, en otro lugar, en el pasado, lo ha escrito como un pensamiento todavía no pensado; hasta que por azar, siempre por azar, descubrimos el libro donde está claramente expresado lo que había estado confusamente no pensado aún por nosotros. No todos los libros, desde luego, sino ciertos libros que parecen objetos de nuestro pensamiento y nos están destinados".
+
+[51:08] Bueno, esta me parece una de las frases clave de toda su obra, ¿no? Generalmente los protagonistas de sus libros, su momento definitivo es cuando llevan a cabo una lectura, ¿no?, como cuando Luca Belladona lee el libro de Jung o como el protagonista de la nueva novela cuando lee "El agente secreto", ¿no? Pero lo que le quería preguntar era acerca de esta idea del libro destinado: ¿cuáles son uno o dos ejemplos de los libros destinados de Ricardo Piglia?
+
+[51:35] >> Ricardo Piglia: Sí. Por un lado, yo la verdad francamente no había asociado la lectura de Jung como una lectura constructora de su experiencia real con la lectura. O sea, uno escribe los libros y luego alguien le hace ver cosas que uno no había visto, ¿no? Es cierto que por un momento los libros parecen ser el modo en que ciertos personajes encuentran un sentido, podría decirse, ¿no?, y luego tratan de vivir ese sentido, ¿no?
+
+[52:04] Bueno, he hablado de "Ana Karenina", creo, ¿no? "Ana Karenina" de Tolstói es una novela que me produjo una serie de efectos múltiples, ¿no?, porque yo creo que las novelas tienen algo que no tiene ningún otro medio artístico, que no tiene el cine.
+
+[52:27] Nosotros de nuestros amigos y nuestros conocidos solo conocemos lo que nos dicen de sí mismos, ¿no es verdad? Es decir, siempre hay un secreto en el otro: por más que sea la persona a la que más amamos, tenemos que creer lo que nos dice, ¿no?, porque no sabemos si realmente sus pensamientos secretos y sus deseos secretos están ligados a lo que nos está diciendo. Creo que eso hace la vida un poco más riesgosa y también la hace más interesante.
+
+[52:57] Estamos siempre cerca de desconocidos en un sentido, en el sentido más profundo, ¿no? Solo la novela nos dice todo sobre lo que piensa, siente, imagina y calcula alguien, ¿no? Yo digo: yo conozco más a Ana Karenina que a todas mis amigas, ¿no?, porque de Ana Karenina sé todo, ¿no?
+
+[53:19] Es decir, en las novelas uno hace la experiencia de conocer el funcionamiento de las personas, y se da cuenta de que el funcionamiento de las personas que está en las novelas se parece bastante al de uno, ¿no?, porque uno también piensa que solamente uno tiene malas ideas, pensamientos que trata de borrar, ¿no? Entonces me parece que una característica de las novelas es esta posibilidad de conocer lo más posible a alguien, ¿no?
+
+[53:52] Entonces ahí encontraríamos esas ideas que parecen destinadas, ¿no? Ese sería... yo diría: ese sería un libro que yo consideraría que me ha acompañado muchas veces y que he encontrado ahí experiencias y cuestiones que han estado siempre muy ligadas a mi propia vida.
+
+[54:13] El otro libro, para elegir uno, podría ser quizá los cuentos de Borges, ¿no?
+
+[54:23] Los cuentos de Borges tienen un nivel de concentración y de alusión que desde luego son un ejercicio de relectura continua, ¿no? En ese sentido son libros que lo acompañan a uno porque uno siempre los está leyendo de nuevo, ¿no? Borges no quiero decir inventó, pero construyó una prosa en castellano que le permite decir muchas cosas al mismo tiempo de un modo absolutamente nuevo, ¿no?, nuevo por lo menos desde Quevedo, digamos.
+
+[54:56] Creo que nadie había escrito en español como él con ese grado de concentración y con ese laconismo poético, ¿no?
+
+[55:05] Borges nunca escribió un texto que tuviera más de 10 páginas, ¿no? Digamos, si ustedes miran la obra de él van a ver que nunca pasó esa distancia, porque era imposible pasar esa distancia con ese estilo, ¿no?
+
+[55:20] Y ahora están apareciendo los manuscritos originales, y uno ve cómo él avanzaba en un texto y al lado hacía un árbol con los posibles adjetivos, con las alternativas de los adjetivos, casi como si estuviera trabajando en alguna de las máquinas nuestras actuales, ¿no? Seguía con el relato, pero tenía ahí una lista de adjetivos que, después de que el relato había avanzado lo suficiente, elegía uno de los que había puesto ahí, ¿no?, que a veces eran contradictorios.
+
+[55:48] Ponía, por ejemplo, "oscuro" y "obsceno", me acuerdo, y elegía "obsceno", ¿no? La obscena no me acuerdo qué...
+
+[55:57] "Le cruzaba la cara una cicatriz rencorosa". Otra vez: lo rencoroso... el rencoroso es el sujeto, no la cicatriz, ¿no?
+
+[56:07] O te acuerdas en "La muerte y la brújula" dice Scharlach... que es el malvado Scharlach, ¿no?, que es una especie... es como el Joker, el Guasón de Tim Burton, de Jack Nicholson, ¿no?: es un malvado que al mismo tiempo es como un payaso maldito, ¿no?
+
+[56:24] Entonces, cuando termina el relato, dice: "El imperioso cigarro de Scharlach", que sintetiza, porque si no tendría que haber dicho: "El señor Scharlach, siempre imperioso con su cigarro", tendría que haber dicho una frase muy extraña para sintetizar lo que está diciendo con "el imperioso cigarro", ¿no?
+
+[56:47] Ese mecanismo que Borges repite mucho es el hipálage, ¿no?, donde uno toma el adjetivo y lo desplaza: el imperioso era Scharlach, no el cigarro, ¿no?
+
+[56:59] "Las estudiosas lámparas", ¿no?: entró en la biblioteca y vio las estudiosas lámparas. Las estudiosas no son las lámparas, sino los sujetos que están ahí, ¿no? Entonces él tiene una capacidad con muchísimos elementos parecidos para abreviar, ¿no?
+
+[57:17] En "El jardín de senderos que se bifurcan", cuando dice "renunció a los placeres de la opresión del numeroso lecho", ¿no es exactamente el mismo recurso también?
+
+[57:26] >> Pablo Sol: Perfecto. Claro. Bien. Bueno, ahora nos gustaría por supuesto ceder la palabra al público y que pregunten a Ricardo Piglia sobre su obra, sobre la charla que acaba de impartir, sobre lo que quieran. Digamos, no necesariamente sobre lo que hemos dicho acá: cualquier cosa pueden preguntarle a Ricardo Piglia.
+
+[57:43] >> Ricardo Piglia: Preguntas peligrosas. [Risas].
+
+[57:46] >> Pablo Sol: Cualquiera. Por aquí hay... Sí, por favor.
+
+[57:50] >> Participante 1: Buenas tardes.
+
+[57:51] >> Ricardo Piglia: Buenas tardes.
+
+[57:52] >> Participante 1: ¿Se escucha? Sí. Bueno, maestro, en su charla comentó una de las técnicas del autor de "En el camino", Jack Kerouac: esta técnica del rollo mecanografiado. Y bueno, pues para mí yo lo considero literatura, pero también un comentario que hizo otro autor, el de "A sangre fría", Truman Capote, comentaba que la obra de Jack Kerouac no era literatura, sino mecanografía. A mí me gustaría saber cuál sería su opinión respecto a estos dos autores.
+
+[58:28] >> Ricardo Piglia: Sí. Bueno, desde luego los escritores nos decimos cosas horribles unos a otros, ¿no? Y cuando decimos esas cosas quiere decir que estamos heridos en algún lugar y estamos contestando, ¿no?
+
+[58:41] Son dos autores que admiro mucho. Admiro mucho los primeros cuentos y novelas de Truman Capote, ¿no?, "Otras voces, otros ámbitos", ¿no? Se nota ahí la incidencia de Faulkner, ¿no?: hace una especie de gótico muy extraordinario; también los cuentos, ¿no?
+
+[59:02] Pero luego él va hacia "A sangre fría", ¿no?: va hacia ese género de no ficción; va a un pueblo y reconstruye un crimen, ¿no? Y a mí me llamó la atención que él insiste mucho en que no usó el grabador, ¿no?, como si él dijera: "Yo soy un escritor y no dependo del instrumento técnico".
+
+[59:24] Porque si miras las entrevistas verás que varias veces él dice: "Yo tengo un método de recuerdo", una cosa un poco tipo Funes, ¿no?, como que uno no le cree mucho eso de que va ahí y está tres horas hablando con alguien y después se acuerda de todo cuando vuelve, ¿no?, porque él iba además ahí con una ayudante que era una escritora bastante buena, que quizás era ella la que llevaba el grabador. Entonces él tiene razón cuando dice: "Yo no lo uso", pero quizás lo usaba.
+
+[59:50] Pero ahí me pareció que está esta cuestión entre escritura y mecanografía, ¿no? Él dice: "No, yo soy un artista tradicional, no uso instrumentos técnicos".
+
+[59:59] Mientras Kerouac es un hombre que está junto con William Burroughs, junto con Ginsberg... Y William Burroughs, que es una de las grandes inteligencias del siglo XX, yo diría —algunos son más inteligentes, ¿no?—, tiene la teoría de que el lenguaje es un virus, ¿no?, que todos estaban ahí sin poder hablar y de pronto de la estratosfera llegó un virus y nos inventó el lenguaje, que es una teoría buenísima,
+
+[1:00:26] y que los hombres empezaron a alucinar porque no sabían lo que estaba pasando y crearon religiones. Lindísima la hipótesis de que fue algo que venía de la estratosfera lo que nos permitió hablar.
+
+[1:00:36] Burroughs se pregunta: "¿Cuándo la literatura saldrá de la página?". Se pregunta eso al comienzo de los años 60, ¿no? Es decir: "¿Cuándo la literatura hará lo que están haciendo las artes plásticas?", ¿no?, que no solo produjeron el arte abstracto, sino que en un momento con Duchamp... ¿no?, las "performances", las instalaciones, que podemos estar o no de acuerdo, pero es evidente que el arte contemporáneo está más cerca de Duchamp que de Picasso hoy, ¿no?
+
+[1:01:06] Me parece que Kerouac y Burroughs buscaban una literatura que renovara, no se sabía de qué manera, esa relación con la página.
+
+[1:01:19] Y entonces el modo que encontró es un poco ingenuo: eso de "si escribo rápido voy a lograr la intensidad de la velocidad de lo que estoy escribiendo". Había mucha droga también ahí, ¿no?, porque también es cierto que tomaba anfetaminas, y las anfetaminas le daban un "rush" de 12 horas, y él no quería desperdiciar la droga que había tomado para poder escribir, ¿no?
+
+[1:01:41] Pero a mí me hace acordar a algo de lo cual ellos vienen, que es el surrealismo, ¿no?: la escritura automática del surrealismo, que es un poco ingenuo pensar que si uno se pone a escribir sin pensar el inconsciente va a aflorar. Sería facilísimo si fuera así. Pero bueno, eran intentos de ver si el lenguaje podía estar capturado por una lógica menos racional, ¿no? Y una de las maneras que inventaron fue "escribo rápido y entonces no pienso lo que estoy escribiendo".
+
+[1:02:07] Así que bueno, Capote y Kerouac a su manera, los dos están en un momento de transformación importante, ¿no?
+
+[1:02:17] >> Pablo Sol: Bien. ¿Alguna otra pregunta por acá, por favor? Quien sea. Sí, ¿quién?
+
+[1:02:27] >> Participante 2: Gracias. ¿Se escucha? Ah, bueno. Bueno, estaba hablando usted sobre la lectura, y algo que me llamó la atención... bueno, y que me gustaría que hablara un poco cuál es su opinión, es sobre el fenómeno de la serialización, o sea, lo que ahora llaman las series, ¿no?, de varias novelas con el mismo personaje y todo, y pues que ha recuperado mucho a los lectores y lo tratan como algo nuevo cuando en realidad siempre ha habido, por ejemplo, novelas por entregas como, no sé, "Los bandidos de Río Frío" o, por ejemplo, la lectura que se hacía antes del "Quijote", como en diferentes partes. Pero eso también es como una nueva forma de... bueno, es una lectura que está en boga y ha recuperado a los lectores.
+
+[1:03:18] >> Ricardo Piglia: Sí, sí, sí. Digamos, por un lado lo que has dicho es más o menos lo que podríamos decir, ¿no?, que ha existido. Pero yo quisiera agregar un elemento que quizás nos ayude a entender algo en torno a lo que se llama la tensión entre la cultura de masas y la alta cultura, ¿no?, que es uno de los temas en los cuales la literatura parece estar atrapada: esa tensión entre alta cultura y cultura de masas.
+
+[1:03:46] Yo diría que lo que identifica a la cultura de masas es justamente la serie, ¿no?: es el hecho de repetir una fórmula. Eso está en los géneros: en el policial, para poner el ejemplo del policial.
+
+[1:03:59] Entonces, cuando decimos que hay una tensión entre alta cultura y cultura de masas estamos diciendo que por un lado la narración se construye sobre la base de ciertos esquemas que luego se varían, ¿no es verdad?, ciertos esquemas o ciertas fórmulas que pueden ir desde el cuento de hadas hasta la novela policial, ¿no es verdad? Es decir que uno, cuando escribe una novela policial, ya tiene más o menos los esquemas narrativos a partir de los cuales va a improvisar su modificación.
+
+[1:04:29] Mientras la alta cultura se autodefine como la originalidad absoluta, ¿no?: el escritor no depende de nada anterior ni de ninguna fórmula previa a su escritura, y su escritura solo depende de su capacidad verbal en relación con el lenguaje, ¿no?
+
+[1:04:49] De modo que, en última instancia, esta popularidad de estas nuevas series de novelas me parece que no hace sino reforzar el hecho de que es hacia la cultura de masas hacia donde está yendo también una parte de los lectores. Y me parece que ahí es donde se abre... Entonces es importante mantener esta distinción, ¿no?: cómo funcionan ciertos estereotipos narrativos —ya sean personajes, formas de comenzar un relato— y cómo la cultura de masas prefiere reconocer la forma a enfrentar una forma nueva, ¿no? Y por ahí me parece que viene la cuestión, ¿no?
+
+[1:05:35] >> Pablo Sol: Bien. Por aquí Erika, en el frente.
+
+[1:05:44] >> Erika: Bueno, ahorita usted estaba mencionando sobre cómo recientemente ahora las funciones del escritor pueden ser también su propio editor, crítico, etcétera, ¿no?
+
+[1:05:55] Quisiera preguntarle: ¿qué es lo que usted cree que hace posible que ahora el escritor literario pueda también ser crítico a la vez, ¿no?, digamos, en que estas dos funciones puedan convergir en una obra literaria, novela, ensayos, etcétera?
+
+[1:06:11] >> Ricardo Piglia: Bueno, eso es algo que a mí me interesa especialmente, ¿no? En general he escrito siempre novelas donde cierta reflexión no solo sobre la literatura, pero a veces sobre la literatura, está presente como un elemento más de la trama, ¿no?
+
+[1:06:30] En el caso de "El camino de Ida" hay una serie de... Bueno, es la historia de un profesor que está en una universidad dando un seminario sobre Hudson, el escritor inglés que nació en Argentina, y por lo tanto hay algunas reflexiones sobre la obra de Hudson.
+
+[1:06:46] Pero yo veo en las novelas que me gustan y las que yo intento escribir que tiene que tener una función en la trama, ¿no?
+
+[1:06:55] El modo en que entran estos... Por ejemplo, uno podría poner muchos ejemplos, ¿no?: por ejemplo, en el "Ulises" de Joyce hay un capítulo que sucede en la biblioteca donde Stephen Dedalus acepta una teoría sobre Hamlet y sobre la paternidad, pero claro, eso tiene que ver con la relación que el texto está planteando en torno a la paternidad y Bloom y Stephen Dedalus, ¿no? Uno podría tomar ese capítulo y leerlo como una hipótesis sobre Shakespeare, ¿no?, pero sin embargo tiene una cierta función.
+
+[1:07:25] En el caso de esta novela yo me apoyé en Hudson porque Hudson fue uno de los primeros que, al ver los efectos de la Revolución Industrial, empezó a defender el retorno a la naturaleza, ¿no?, que es lo que hace el protagonista de la novela, que se va a vivir a los bosques, etcétera. Entonces yo también incluía lo de Hudson para hacer ver que el personaje no estaba tomando una decisión que él mismo solo había tomado, sino que otros antes habían pensado lo mismo; pero sin embargo eso se puede leer casi como un fragmento de un ensayo sobre Hudson, ¿no?
+
+[1:07:54] En relación a la primera cuestión, quiero decir que la función del crítico periodístico profesional está cambiando porque tiene mucha competencia en los propios escritores que están escribiendo sus crónicas literarias por la suya en la web, ¿no?
+
+[1:08:14] >> Pablo Sol: Bien. ¿Alguna otra pregunta? En la segunda fila, por favor, atrás.
+
+[1:08:26] >> Participante 4: Se escucha. En "El último lector" habla mucho sobre los paralelismos que hay entre la figura del lector y la figura del detective. Me gustaría que pudiera hablar un poco más sobre eso.
+
+[1:08:38] >> Ricardo Piglia: Eso tiene, me parece, dos cuestiones ahí, ¿no? Una es que me he sorprendido al ver cuánto leen los detectives en las novelas policiales, cuántas novelas leen y cómo leen, ¿no? Y desde luego el primer detective, Dupin... que el género empieza en una librería, ¿no?, porque Dupin y el narrador anónimo —que podría ser como el Watson de Sherlock Holmes, ¿no?— se encuentran en una librería porque Dupin es un hombre de letras muy interesado en los libros.
+
+[1:09:09] Eso me intrigó un poco: quiere decir entonces que uno podría imaginar que el detective sería como una de las mutaciones de la figura del lector, ¿no?, en el sentido de que sabe descifrar los signos,
+
+[1:09:24] sabe reconstruir los contextos perdidos, que es una cosa que hacemos cuando leemos, ¿no?, perdidos que no están explícitos. Yo digo: "En una calle de Buenos Aires hubo un accidente". No pongo todo el contexto, no digo: "Buenos Aires es la capital de la Argentina; las calles de Buenos Aires son calles donde hay automóviles". Es decir, doy por sentado que el contexto va a ser reconstruido por el lector, y entonces la literatura funciona aludiendo al contexto, ¿no?, no explicitándolo.
+
+[1:09:55] A diferencia de lo que se cree, la literatura borra el contexto más que hacerlo visible: pone nada más que algunos indicios. Lo mismo le pasa al detective, ¿no?, porque llega, encuentra un cuerpo y luego encuentra una corbata, y entonces la corbata lo lleva al contexto: lo lleva a un lugar donde se venden corbatas y a una calle de la ciudad donde se venden corbatas; pero también se da cuenta de que ahí donde se venden corbatas tenía una amante el muerto. Es decir, está saliendo de la escena del texto, para llamarlo así nosotros, hacia el contexto que en realidad le permite después identificar al asesino, ¿no?
+
+[1:10:30] Entonces es un proceso de desciframiento que se podría asimilar a la lectura de signos, ¿no? Hay un ensayo muy bueno de Carlo Ginzburg, el historiador y crítico italiano, que se llama "Un nuevo paradigma indiciario", porque él trabaja la noción de índice, ¿no? Y él dice: "Hay una tradición cultural que busca ver el sentido tal cual está dicho, y hay otro que busca encontrar el sentido a través de indicios menores, de cuestiones menores".
+
+[1:11:03] Pone el ejemplo de Morelli, que era un crítico de arte que se dedicaba a identificar falsificaciones y que no identificaba las falsificaciones viendo el tema de los autores que se repetía, sino cómo pintaban la oreja, por ejemplo, o cómo pintaban una cosa totalmente secundaria, indiciaria, porque ahí yo descubro la identidad del pintor: tiene una manera de pintar la uña y no cómo arma la luz del cuadro, cuestiones que son más visibles.
+
+[1:11:38] Y entonces Carlo Ginzburg asocia eso con Freud, que en lugar de preguntarle al sujeto: "¿Y usted qué piensa de su padre?", lo deja hablar, y cuando él tiene un lapsus y en vez de decir "es una situación padre" dice "es una situación par", ve que en ese lapsus hay algo, ¿no es cierto?, algo que es completamente ajeno a la gran tradición del pensamiento. Y asocia eso con Sherlock Holmes también, ¿no? Entonces sería como... la lectura estaría ligada a indicios que no son los más visibles, ¿no?
+
+[1:12:13] >> Pablo Sol: Bien. Sí, sí. Adelante, por favor.
+
+[1:12:15] >> Participante 5: De lo mismo que hablamos, su mismo crítico y su mismo editor: ¿qué opina de lo que decía Borges de que la facilidad para publicar está arruinando la literatura?
+
+[1:12:29] >> Ricardo Piglia: A ver, ¿cómo podemos responder a las provocaciones de Borges, no?
+
+[1:12:35] No, yo creo que la literatura se arruina sola, no es que se arruine porque haya muchos libros disponibles, ¿no?, no es cierto.
+
+[1:12:45] De hecho, la literatura declina o surge con más fuerza. Yo, la verdad que si tuviera que contestar eso diría: ¿sería bueno que se publicaran todos los textos?, ¿sabríamos qué cosa es la literatura mexicana si pudiéramos leer todos los textos que no alcanzaron a publicarse, todo ese mar de textos inéditos que están ahí? Si pudiéramos leer todos esos textos junto con los textos publicados, en un año sabríamos mucho más de la literatura mexicana que lo que sabemos viendo solo lo que se publica, que no leemos todo lo que se publica, por otro lado, ¿no?
+
+[1:13:16] Entonces, una cosa es el valor de un escritor y otra cosa es el valor de una literatura, ¿no?, no es cierto. Aparece Rulfo, aparece Borges: esas son ciertos milagros que se dan. Pero si uno quiere hablar de literatura mexicana quizá tiene que buscar tener una visión un poco más general de lo que está pasando, ¿no?, para saber cuáles son las tendencias y por dónde van las cosas, ¿no?
+
+[1:13:41] Entonces a mí me parece bien que la gente publique; después se ve.
+
+[1:13:47] >> Pablo Sol: Bien. Por acá tenemos otra pregunta.
+
+[1:13:49] >> Participante 6: Hola. Este... bueno, yo le quería preguntar: en su libro de "Respiración artificial" hay un momento en que Emilio Renzi está hablando con este exiliado polaco
+
+[1:14:02] y le está comentando sobre la literatura argentina y cómo hay un momento, cómo Borges cierra la escritura del siglo XX escribiendo sobre el europeísmo en América Latina, sobre todo en Argentina, un europeísmo paródico, donde pues... y también cerrando las tradiciones en Argentina con la cultura gauchesca, etcétera, etcétera.
+
+[1:14:30] O sea, ¿qué es lo que quiere decir o en qué se está convirtiendo ahorita la literatura contemporánea? Tomándolo ahorita en términos muy personales, los mexicanos nos enorgullecemos mucho a veces de la variedad, de la diversidad de culturas prehispánicas, indígenas que hay en nuestro país, de la diversidad de lenguas, pero lo seguimos viendo como algo exótico, como un tema de conversación, como: "Me fui el fin de semana a la Huasteca Potosina".
+
+[1:15:05] Y lo vemos como algo alejado; incluso criticamos más... Muchos latinoamericanos —yo he tenido contacto con personas de diferentes países de Latinoamérica— critican mucho a Europa, se sienten totalmente diferentes de Europa y usan prendas fabricadas por un indígena, un arete o lo que sea, pero lo que nos determina y en lo que radica en nosotros muchas veces es Europa: la criticamos, pero no podemos vivir sin ella, sin sus vestimentas, sin nada.
+
+[1:15:35] >> Ricardo Piglia: Sí. Bueno, por un lado, cada vez que vengo a México me sorprendo de la riqueza de la tradición, ¿no?: la tradición prehispánica y la tradición colonial, que son poderosísimas. Digo eso porque si uno viene de la Argentina lo que encuentra es que no hubo tradición colonial —una tradición colonial muy invisible, yo diría, porque era un país que estaba muy afuera del interés de la colonia española, del Imperio español, ¿no?, muy alejado de todo—. Entonces no hay cultura colonial, y la cultura prehispánica es una cultura nómada que tenía sus formas culturales, pero como era una cultura nómada no ha dejado muchos rastros y fue, desde luego, arrasada por la Conquista primero y luego por lo que se llamó la Campaña del Desierto, ¿no?, que fue la recuperación de la Pampa de las tribus originarias por el ejército argentino cuando fundó el Estado, ¿no?
+
+[1:16:34] De modo que cuando uno llega a México se da cuenta de lo que es una tradición, ¿no? Estábamos aquí en el encuentro de escritores en el museo —creo que es un museo histórico— y cada pueblo de... no digo que no tengan otros pueblos, pero en cada pueblo de México al que voy me encuentro con un museo donde se reconstruye esa tradición, ¿no?
+
+[1:16:54] Es decir, en la Argentina, para entender a Borges, hay que pensar que la Argentina es un país muy vacío, ¿no?, muy vacío. Entonces Borges inventa una tradición —no inventa, sino que constituye junto con otros una tradición que yo no llegaría a llamar prehispánica, ¿no?, pero que sería una tradición propia, que sería la gauchesca— en la que Borges lee ahí sobre todo ciertos gestos estilísticos, ¿no?
+
+[1:17:18] Y luego ve cómo puede bregar con la presencia de la cultura europea, que es muy determinante, ¿no?: mucho más determinante que en México es la cultura europea. Yo mismo, mi padre es italiano, ¿no? Saben que hay un chiste... bueno, Carlos Fuentes lo contaba, ¿no?, así que ustedes quizás lo recuerdan: "Los mexicanos descienden de los aztecas, los peruanos descienden de los incas y los argentinos descienden de los barcos", ¿no?
+
+[1:17:46] Es decir, descendemos de los barcos, ¿no?, no tenemos esa grande... Entonces Borges, que se inventa un linaje, también se inventa un linaje como si fuera un hijo verdadero de la colonia argentina: es un extraordinario heredero de tradiciones que él identifica con su madre, que sería la tradición argentina,
+
+[1:18:13] y con su padre, que sería lo que llama "la biblioteca inglesa de mi padre", ¿no?, como si ahí estuvieran los dos. Y en ese sentido ha hecho una lectura muy sintética o sintetizada de la cultura argentina. Ahí está el valor de su obra, no es que Borges sea importante porque hizo eso, ¿no? De modo que Rulfo no es importante solamente porque supo captar la lengua de los campesinos de Jalisco: es un escritor extraordinario. Después acá en México pueden discutir de qué manera trabajó sobre la tradición campesina.
+
+[1:18:47] Pero entonces es un chiste, porque en realidad era un chiste de Renzi, ¿no?: es un chiste de Renzi en una polémica allí que se pone a provocar en una noche y cuenta esas cuestiones, ¿no? Yo digo siempre que nosotros —el "nosotros" incluye a mis amigos argentinos y a muchos amigos mexicanos— somos capaces de ir presos por hacer un chiste, ¿no? Con tal de hacer un chiste somos capaces de correr cualquier riesgo. Entonces Renzi, con tal de hacer el chiste de decir "en realidad Borges es un escritor del siglo XIX" —que es una buena manera de despertar el interés en lo que está diciendo, ¿no?: "¿Cómo Borges del siglo XIX, si es el más moderno?", para abrir una discusión—.
+
+[1:19:27] Respecto a la segunda cuestión, me parece que las culturas se integran. No me gustan los europeizantes que creen que lo bueno solo sucede en Europa, y tampoco me gustan los que creen que solamente las tradiciones prehispánicas nos van a definir, ¿no? Me parece que muchos de los herederos de las poblaciones nativas en la Argentina son antropólogos: estudiaron algunos instrumentos de reflexión europea para ir a entender mejor quizá ciertas tradiciones culturales, ¿no?
+
+[1:20:07] Igual yo creo que en México y en Perú la tradición colonial y la tradición prehispánica es tan fuerte que la elaboración de esa tradición es muy distinta a la que sucede en cualquier otro país de América Latina, ¿no? Yo creo que lo único que se puede comparar con la complejidad de la tradición nacional en México y en Perú es el Caribe, ¿no?: es el Caribe, que también es una región, como las regiones mesoamericanas, de gran densidad cultural, ¿no?: el Caribe inglés, el Caribe francés, ¿no es cierto? Y han producido gran literatura, ¿no?: han producido a Arguedas y a Rulfo, y también a García Márquez, digamos, o a Carpentier, ¿no?, en esas regiones.
+
+[1:20:52] Y Arguedas y Rulfo han tratado de escuchar las voces prehispánicas, ¿no? La oralidad es el camino que han buscado para establecer esa relación, ¿no?: Arguedas y Rulfo, y Roa Bastos también, ¿no?, que eran bilingües muchos de ellos, ¿no? Mientras en el Caribe sale ese barroco que se parece al de Faulkner, ¿no?, que también Faulkner está ligado a las plantaciones, al mundo esclavista. O sea que me parece que tenemos que empezar a manejar el mundo de la cultura latinoamericana más por áreas que por naciones, ¿no?, tal vez.
+
+[1:21:30] >> Pablo Sol: Bien, me avisan que tenemos que dar por terminada la transmisión, así que les agradecemos a ustedes su presencia, y a nombre del Tecnológico de Monterrey, de la Cátedra Alfonso Reyes y del programa Pasión por la Lectura, agradecemos sobre todo a Ricardo Piglia haber estado hoy con nosotros.
+
+[1:21:46] >> Ricardo Piglia: Yo agradezco muchísimo la invitación. Muchas gracias, y me he sentido muy cómodo en la conversación, ¿no?, así que eso siempre es algo que uno se lleva como un buen recuerdo, ¿no? Muchas gracias. Gracias.
